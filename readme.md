@@ -1,6 +1,6 @@
-# TechiDaily
+# Audio Editing Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://audio-editing.techidaily.com](https://audio-editing.techidaily.com)
 
 ## Publish
 
