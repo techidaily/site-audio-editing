@@ -2235,3 +2235,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://animation-videos.techidaily.com/new-how-to-animate-graphics-in-canva/"><u>New How To Animate Graphics in Canva</u></a></li>
 </ul></div>
 
+

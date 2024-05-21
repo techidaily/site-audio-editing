@@ -1181,3 +1181,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-creation-software.techidaily.com/updated-mastering-image-dimensions-how-to-calculate-the-perfect-ratio-for-2024/"><u>Updated Mastering Image Dimensions How to Calculate the Perfect Ratio for 2024</u></a></li>
 </ul></div>
 
+

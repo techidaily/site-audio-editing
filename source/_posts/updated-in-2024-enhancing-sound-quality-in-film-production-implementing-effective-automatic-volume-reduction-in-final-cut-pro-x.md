@@ -1584,3 +1584,4 @@ Follow @Shanoon Cox
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-itel-a05s-by-fonelab-android-recover-data/"><u>The way to get back lost data from Itel A05s</u></a></li>
 </ul></div>
 
+

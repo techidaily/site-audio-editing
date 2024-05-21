@@ -1,7 +1,7 @@
 ---
 title: New The AutoTune Plugin Companion for Advanced Sound Editing on Audacity
-date: 2024-05-05T07:35:26.957Z
-updated: 2024-05-06T07:35:26.957Z
+date: 2024-05-20T02:42:56.891Z
+updated: 2024-05-21T02:42:56.891Z
 tags: 
   - audio editing software
   - audio editing
@@ -1813,4 +1813,5 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/in-2024-trim-and-edit-videos-for-free-on-windows-10-top-options/"><u>In 2024, Trim and Edit Videos for Free on Windows 10 Top Options</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-narzo-60-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme Narzo 60 Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

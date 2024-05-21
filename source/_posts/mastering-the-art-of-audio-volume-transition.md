@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Audio Volume Transition
-date: 2024-05-05T07:12:18.113Z
-updated: 2024-05-06T07:12:18.113Z
+date: 2024-05-20T02:42:10.768Z
+updated: 2024-05-21T02:42:10.768Z
 tags: 
   - audio editing software
   - audio editing
@@ -1240,4 +1240,5 @@ For macOS 10.12 or later
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia C22 | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-avoid-common-mistakes-my-5-point-checklist-for-choosing-a-video-to-audio-converter/"><u>2024 Approved Avoid Common Mistakes My 5-Point Checklist for Choosing a Video to Audio Converter</u></a></li>
 </ul></div>
+
 

@@ -1641,3 +1641,4 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/in-2024-mastering-aspect-ratio-in-final-cut-pro-a-beginners-guide/"><u>In 2024, Mastering Aspect Ratio in Final Cut Pro A Beginners Guide</u></a></li>
 </ul></div>
 
+

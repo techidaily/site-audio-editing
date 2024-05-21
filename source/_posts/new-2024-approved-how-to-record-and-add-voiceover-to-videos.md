@@ -1165,3 +1165,4 @@ Follow @Shanoon Cox
 <li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y27s-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y27s Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Updated Navigating the Increase/Decrease Functionality in Audacity for Clearer Sounds
-date: 2024-05-05T07:30:08.193Z
-updated: 2024-05-06T07:30:08.193Z
+date: 2024-05-20T02:42:46.880Z
+updated: 2024-05-21T02:42:46.880Z
 tags: 
   - audio editing software
   - audio editing
@@ -1861,4 +1861,5 @@ For macOS 10.12 or later
 <li><a href="https://video-ai-editor.techidaily.com/new-in-2024-loop-your-videos-for-free-top-picks/"><u>New In 2024, Loop Your Videos for Free Top Picks</u></a></li>
 <li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On OnePlus 11 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

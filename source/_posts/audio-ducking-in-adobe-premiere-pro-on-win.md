@@ -1,7 +1,7 @@
 ---
 title: Audio Ducking in Adobe Premiere Pro on Win
-date: 2024-05-05T07:09:54.182Z
-updated: 2024-05-06T07:09:54.182Z
+date: 2024-05-20T02:42:06.504Z
+updated: 2024-05-21T02:42:06.504Z
 tags: 
   - audio editing software
   - audio editing
@@ -1195,4 +1195,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-content-creator.techidaily.com/new-record-like-a-pro-10-best-free-music-production-software-for-2024/"><u>New Record Like a Pro 10 Best Free Music Production Software for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Google Pixel 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

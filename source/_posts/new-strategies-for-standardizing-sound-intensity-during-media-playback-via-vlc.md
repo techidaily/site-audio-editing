@@ -1,7 +1,7 @@
 ---
 title: New Strategies for Standardizing Sound Intensity During Media Playback via VLC
-date: 2024-05-05T07:34:19.939Z
-updated: 2024-05-06T07:34:19.939Z
+date: 2024-05-20T02:42:54.761Z
+updated: 2024-05-21T02:42:54.761Z
 tags: 
   - audio editing software
   - audio editing
@@ -846,4 +846,5 @@ You may want to extract drums from your favorite songs for various reasons. Mayb
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-motorola-razr-40-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Motorola Razr 40 to iPad | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/in-2024-the-best-of-the-best-top-animation-software-for-all-users/"><u>In 2024, The Best of the Best Top Animation Software for All Users</u></a></li>
 </ul></div>
+
 

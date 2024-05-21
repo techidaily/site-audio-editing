@@ -1,7 +1,7 @@
 ---
 title: Silent Interludes, Harmonious Sounds Expert Techniques for Audio Ducking in Adobe Premiere Pro on a Mac Computer
-date: 2024-05-05T07:13:05.938Z
-updated: 2024-05-06T07:13:05.938Z
+date: 2024-05-20T02:42:12.320Z
+updated: 2024-05-21T02:42:12.320Z
 tags: 
   - audio editing software
   - audio editing
@@ -1193,4 +1193,5 @@ For macOS 10.12 or later
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How To Activate and Use Life360 Ghost Mode On Apple iPhone 7 Plus | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unlock-pro-level-text-animation-on-your-phone-with-these-apps/"><u>New 2024 Approved Unlock Pro-Level Text Animation on Your Phone with These Apps</u></a></li>
 </ul></div>
+
 

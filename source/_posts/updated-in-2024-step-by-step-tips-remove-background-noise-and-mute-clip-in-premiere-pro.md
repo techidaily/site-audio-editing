@@ -942,3 +942,4 @@ For macOS 10.12 or later
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-nokia-g42-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Nokia G42 5G using Video Repair Utility on Windows?</u></a></li>
 </ul></div>
 
+

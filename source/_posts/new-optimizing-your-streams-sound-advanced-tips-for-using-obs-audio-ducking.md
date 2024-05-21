@@ -1,7 +1,7 @@
 ---
 title: New Optimizing Your Streams Sound Advanced Tips for Using OBS Audio Ducking
-date: 2024-05-05T07:30:36.643Z
-updated: 2024-05-06T07:30:36.643Z
+date: 2024-05-20T02:42:47.540Z
+updated: 2024-05-21T02:42:47.540Z
 tags: 
   - audio editing software
   - audio editing
@@ -1053,4 +1053,5 @@ Follow @Benjamin Arango
 <li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo A78 5G | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-from-video-to-audio-a-guide-to-downloading-youtube-soundtracks/"><u>New In 2024, From Video to Audio A Guide to Downloading YouTube Soundtracks</u></a></li>
 </ul></div>
+
 

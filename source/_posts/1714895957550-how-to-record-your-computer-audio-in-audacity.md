@@ -1,7 +1,7 @@
 ---
 title: How to Record Your Computer Audio in Audacity
-date: 2024-05-05T07:11:44.904Z
-updated: 2024-05-06T07:11:44.904Z
+date: 2024-05-20T02:42:09.690Z
+updated: 2024-05-21T02:42:09.690Z
 tags: 
   - audio editing software
   - audio editing
@@ -1302,4 +1302,5 @@ This article is a hub to learn about various Skype Voice Changer. We have shared
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-x50i-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Honor X50i to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-x-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and iPhone X The Right Way</u></a></li>
 </ul></div>
+
 

@@ -1557,3 +1557,4 @@ Follow @Benjamin Arango
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-a-smooth-cut-transition-effect-for-2024/"><u>Updated How to Create a Smooth Cut Transition Effect for 2024</u></a></li>
 </ul></div>
 
+

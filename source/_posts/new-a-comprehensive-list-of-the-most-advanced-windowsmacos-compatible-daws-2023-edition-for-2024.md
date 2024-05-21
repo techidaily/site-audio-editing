@@ -1811,3 +1811,4 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone 6s Plus? | Dr.fone</u></a></li>
 </ul></div>
 
+

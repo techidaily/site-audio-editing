@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Setting Up and Disabling Audacity for Enhanced Sound Editing on Your Chromebook
-date: 2024-05-05T07:33:04.048Z
-updated: 2024-05-06T07:33:04.048Z
+date: 2024-05-20T02:42:52.265Z
+updated: 2024-05-21T02:42:52.265Z
 tags: 
   - audio editing software
   - audio editing
@@ -933,4 +933,5 @@ For macOS 10.12 or later
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-11-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 11 For Mobile Legends? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Realme GT 5 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1140,3 +1140,4 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-blur-the-lines-mastering-motion-blur-effects-in-fcp/"><u>New 2024 Approved Blur the Lines Mastering Motion Blur Effects in FCP</u></a></li>
 </ul></div>
 
+

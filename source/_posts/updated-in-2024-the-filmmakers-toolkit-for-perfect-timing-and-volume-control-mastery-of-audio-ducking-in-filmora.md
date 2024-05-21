@@ -2003,3 +2003,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-creator.techidaily.com/updated-final-cut-pro-x-how-to-crop-an-image-for-2024/"><u>Updated Final Cut Pro X How to Crop an Image for 2024</u></a></li>
 </ul></div>
 
+

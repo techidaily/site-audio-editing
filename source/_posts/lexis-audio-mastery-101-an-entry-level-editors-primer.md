@@ -1,7 +1,7 @@
 ---
 title: Lexis Audio Mastery 101 An Entry-Level Editors Primer
-date: 2024-05-05T07:12:06.494Z
-updated: 2024-05-06T07:12:06.494Z
+date: 2024-05-20T02:42:10.387Z
+updated: 2024-05-21T02:42:10.387Z
 tags: 
   - audio editing software
   - audio editing
@@ -1761,4 +1761,5 @@ Follow @Benjamin Arango
 <li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-11-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 11 Pro Max without Passcode or Face ID</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oneplus-11r-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from OnePlus 11R Devices</u></a></li>
 </ul></div>
+
 

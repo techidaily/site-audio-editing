@@ -1,7 +1,7 @@
 ---
 title: Unveiling Dynamic Volume Control Mastering Audio Ducking Techniques
-date: 2024-05-05T07:14:44.160Z
-updated: 2024-05-06T07:14:44.160Z
+date: 2024-05-20T02:42:15.355Z
+updated: 2024-05-21T02:42:15.355Z
 tags: 
   - audio editing software
   - audio editing
@@ -1566,4 +1566,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-final-cut-pro-color-matching-secrets-expert-tips-for-a-cohesive-look/"><u>Updated In 2024, Final Cut Pro Color Matching Secrets Expert Tips for a Cohesive Look</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/in-2024-the-ultimate-list-of-free-commercial-image-websites/"><u>In 2024, The Ultimate List of Free Commercial Image Websites</u></a></li>
 </ul></div>
+
 

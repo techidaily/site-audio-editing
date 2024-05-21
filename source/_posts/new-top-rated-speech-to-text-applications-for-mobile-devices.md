@@ -1236,3 +1236,4 @@ The traditional ways of recording audio have gone obsolete now. The Android and 
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-special-animated-transition-in-filmora-in-just-2-minutes-this-simple-step-by-step-guide-will-show-you-the-easy-way/"><u>New How to Create a Special Animated Transition in Filmora in Just 2 Minutes. This Simple Step-by-Step Guide Will Show You the Easy Way</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering Audacity A Comprehensive Guide to Podcast Production
-date: 2024-05-05T07:28:32.295Z
-updated: 2024-05-06T07:28:32.295Z
+date: 2024-05-20T02:42:43.578Z
+updated: 2024-05-21T02:42:43.578Z
 tags: 
   - audio editing software
   - audio editing
@@ -1407,4 +1407,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-honor-v-purse-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Honor V Purse</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Poco X5? | Dr.fone</u></a></li>
 </ul></div>
+
 

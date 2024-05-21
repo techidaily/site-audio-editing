@@ -1,7 +1,7 @@
 ---
 title: New How to Edit Audio in Avidemux
-date: 2024-05-05T07:26:30.769Z
-updated: 2024-05-06T07:26:30.769Z
+date: 2024-05-20T02:42:39.838Z
+updated: 2024-05-21T02:42:39.838Z
 tags: 
   - audio editing software
   - audio editing
@@ -959,4 +959,5 @@ Follow @Liza Brown
 <li><a href="https://video-content-creator.techidaily.com/quik-fix-exploring-the-best-pc-alternatives-for-video-editing-for-2024/"><u>Quik Fix Exploring the Best PC Alternatives for Video Editing for 2024</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-ideas-of-learning-how-to-send-whatsapp-animated-gifs-for-2024/"><u>Updated Ideas of Learning How to Send WhatsApp Animated Gifs for 2024</u></a></li>
 </ul></div>
+
 

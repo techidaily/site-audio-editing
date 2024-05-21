@@ -1,7 +1,7 @@
 ---
 title: An Ode to Open Source Audio Selecting Tunes for Captivating Montage Videos
-date: 2024-05-05T07:09:50.549Z
-updated: 2024-05-06T07:09:50.549Z
+date: 2024-05-20T02:42:06.448Z
+updated: 2024-05-21T02:42:06.448Z
 tags: 
   - audio editing software
   - audio editing
@@ -784,4 +784,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-no-plugins-how-to-add-a-skin-smoother-effect-with-fcpx/"><u>New In 2024, No Plugins How to Add a Skin Smoother Effect with FCPX</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-fcpx-audio-workflow-efficient-use-of-l-cuts-and-j-cuts-for-2024/"><u>New FCPX Audio Workflow Efficient Use of L-Cuts and J-Cuts for 2024</u></a></li>
 </ul></div>
+
 

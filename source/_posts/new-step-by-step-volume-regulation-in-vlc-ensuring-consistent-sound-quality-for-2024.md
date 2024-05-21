@@ -806,3 +806,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-z-fold-5-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy Z Fold 5 phone? | Dr.fone</u></a></li>
 </ul></div>
 
+

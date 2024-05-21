@@ -1,7 +1,7 @@
 ---
 title: Updated Edit MP3 Basic and Useful Tips
-date: 2024-05-05T07:29:52.881Z
-updated: 2024-05-06T07:29:52.881Z
+date: 2024-05-20T02:42:46.112Z
+updated: 2024-05-21T02:42:46.112Z
 tags: 
   - audio editing software
   - audio editing
@@ -1234,4 +1234,5 @@ There are high chances of audio sound not being in the required pitch or volume.
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-12-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 without iTunes? | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-mobile-apps-for-tracking-your-moves/"><u>Updated In 2024, Top Mobile Apps for Tracking Your Moves</u></a></li>
 </ul></div>
+
 

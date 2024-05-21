@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Volume Control The Art of Audio Ducking with PowerDirector
-date: 2024-05-05T07:29:31.056Z
-updated: 2024-05-06T07:29:31.056Z
+date: 2024-05-20T02:42:45.210Z
+updated: 2024-05-21T02:42:45.210Z
 tags: 
   - audio editing software
   - audio editing
@@ -992,4 +992,5 @@ Follow @Shanoon Cox
 <li><a href="https://video-ai-editor.techidaily.com/top-video-merger-alternatives-for-seamless-editing-for-2024/"><u>Top Video Merger Alternatives for Seamless Editing for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-avi-video-editing-software-trim-cut-and-convert-on-any-platform/"><u>Updated 2024 Approved Top AVI Video Editing Software Trim, Cut, and Convert on Any Platform</u></a></li>
 </ul></div>
+
 

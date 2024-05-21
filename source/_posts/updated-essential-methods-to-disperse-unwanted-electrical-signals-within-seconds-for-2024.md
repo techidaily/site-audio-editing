@@ -1424,3 +1424,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-ai-editor.techidaily.com/new-social-media-design-essentials-aspect-ratios-and-image-dimensions-for-2024/"><u>New Social Media Design Essentials Aspect Ratios and Image Dimensions for 2024</u></a></li>
 </ul></div>
 
+

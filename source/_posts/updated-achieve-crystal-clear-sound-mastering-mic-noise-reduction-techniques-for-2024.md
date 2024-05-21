@@ -2530,3 +2530,4 @@ Follow @Benjamin Arango
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oppo-a2-to-mac-drfone-by-drfone-android/"><u>How to Mirror Oppo A2 to Mac? | Dr.fone</u></a></li>
 </ul></div>
 
+

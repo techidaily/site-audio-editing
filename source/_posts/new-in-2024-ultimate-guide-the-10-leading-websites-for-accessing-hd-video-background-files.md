@@ -1939,3 +1939,4 @@ Numerous effects and resources.
 <li><a href="https://ai-editing-video.techidaily.com/new-do-you-have-a-loved-ones-birthday-fast-approaching-and-youre-wondering-what-to-do-a-birthday-photo-slideshow-is-one-good-way-to-celebrate-the-person-and/"><u>New Do You Have a Loved Ones Birthday Fast Approaching, and Youre Wondering What to Do? A Birthday Photo Slideshow Is One Good Way to Celebrate the Person and Make Them Feel that They Are Loved</u></a></li>
 </ul></div>
 
+

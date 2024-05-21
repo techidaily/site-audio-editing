@@ -1,7 +1,7 @@
 ---
 title: Mastering Volume Control The Art of Audio Ducking with PowerDirector
-date: 2024-05-05T07:12:20.229Z
-updated: 2024-05-06T07:12:20.229Z
+date: 2024-05-20T02:42:10.848Z
+updated: 2024-05-21T02:42:10.848Z
 tags: 
   - audio editing software
   - audio editing
@@ -1274,4 +1274,5 @@ For macOS 10.12 or later
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-11-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 11 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-a-detailed-guide-to-do-color-correction-in-obs/"><u>New 2024 Approved A Detailed Guide to Do Color Correction in OBS</u></a></li>
 </ul></div>
+
 

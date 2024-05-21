@@ -1238,3 +1238,4 @@ Follow @Benjamin Arango
 <li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2007-stellar-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2007 | Stellar</u></a></li>
 </ul></div>
 
+

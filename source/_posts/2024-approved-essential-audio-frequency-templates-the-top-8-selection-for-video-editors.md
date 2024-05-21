@@ -1480,3 +1480,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/do-you-wish-to-create-high-quality-videos-and-experience-effective-videos-with-editing-no-problem-at-all-because-the-keyboard-shortcuts-listed-here-will-ass/"><u>Do You Wish to Create High-Quality Videos and Experience Effective Videos with Editing? No Problem at All because the Keyboard Shortcuts Listed Here Will Assist You</u></a></li>
 </ul></div>
 
+

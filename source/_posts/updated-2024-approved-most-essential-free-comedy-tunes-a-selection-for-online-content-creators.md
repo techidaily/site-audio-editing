@@ -1313,3 +1313,4 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-redmi-note-12r-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Redmi Note 12R?</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Updated Guide to Extracting and Refining Your Audacity Recordings as MP3s
-date: 2024-05-05T07:25:37.448Z
-updated: 2024-05-06T07:25:37.448Z
+date: 2024-05-20T02:42:37.629Z
+updated: 2024-05-21T02:42:37.629Z
 tags: 
   - audio editing software
   - audio editing
@@ -708,4 +708,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://smart-video-creator.techidaily.com/2024-approved-expert-picks-best-text-animation-and-tracking-software-2023/"><u>2024 Approved Expert Picks Best Text Animation and Tracking Software 2023</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-sony-xperia-10-v-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Sony Xperia 10 V Pattern Lock Screen</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Adjusting Audio Speed & Pitch Through Digital Platforms
-date: 2024-05-05T07:09:43.811Z
-updated: 2024-05-06T07:09:43.811Z
+date: 2024-05-20T02:42:06.334Z
+updated: 2024-05-21T02:42:06.334Z
 tags: 
   - audio editing software
   - audio editing
@@ -1578,4 +1578,5 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/updated-a-closer-look-at-vn-video-editor-pro-features-pros-and-cons-for-2024/"><u>Updated A Closer Look at VN Video Editor Pro Features, Pros, and Cons for 2024</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max, Apples New iPhone</u></a></li>
 </ul></div>
+
 

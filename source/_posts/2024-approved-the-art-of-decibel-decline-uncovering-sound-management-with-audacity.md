@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Art of Decibel Decline Uncovering Sound Management with Audacity
-date: 2024-05-05T07:35:15.459Z
-updated: 2024-05-06T07:35:15.459Z
+date: 2024-05-20T02:42:56.292Z
+updated: 2024-05-21T02:42:56.292Z
 tags: 
   - audio editing software
   - audio editing
@@ -1186,4 +1186,5 @@ Follow @Shanoon Cox
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-apple-iphone-8-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your Apple iPhone 8 Apple ID and Apple Pay</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-p60-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on P60</u></a></li>
 </ul></div>
+
 

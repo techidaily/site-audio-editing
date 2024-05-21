@@ -1,7 +1,7 @@
 ---
 title: How to Balance Your Stream Sound with OBS Audio Ducking?
-date: 2024-05-05T07:10:06.145Z
-updated: 2024-05-06T07:10:06.145Z
+date: 2024-05-20T02:42:06.786Z
+updated: 2024-05-21T02:42:06.786Z
 tags: 
   - audio editing software
   - audio editing
@@ -867,4 +867,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 13? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-motorola-moto-g73-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Motorola Moto G73 5G using Video Repair Utility on Windows?</u></a></li>
 </ul></div>
+
 

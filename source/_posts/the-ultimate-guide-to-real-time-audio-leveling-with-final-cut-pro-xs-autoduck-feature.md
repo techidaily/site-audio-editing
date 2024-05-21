@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Real-Time Audio Leveling with Final Cut Pro Xs AutoDuck Feature
-date: 2024-05-05T07:14:04.262Z
-updated: 2024-05-06T07:14:04.262Z
+date: 2024-05-20T02:42:14.159Z
+updated: 2024-05-21T02:42:14.159Z
 tags: 
   - audio editing software
   - audio editing
@@ -1552,4 +1552,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v30-lite-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V30 Lite 5G | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo Y78 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

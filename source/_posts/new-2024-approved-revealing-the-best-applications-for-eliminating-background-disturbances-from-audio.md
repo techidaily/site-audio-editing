@@ -1196,3 +1196,4 @@ Follow @Liza Brown
 <li><a href="https://ai-vdieo-software.techidaily.com/new-avs-video-editor-is-only-available-on-windows-you-need-to-get-avs-video-editor-alternative-for-mac/"><u>New AVS Video Editor Is only Available on Windows, You Need to Get AVS Video Editor Alternative for Mac</u></a></li>
 </ul></div>
 
+

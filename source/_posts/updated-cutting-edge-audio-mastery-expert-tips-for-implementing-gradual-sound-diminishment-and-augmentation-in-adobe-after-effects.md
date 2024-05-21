@@ -1,7 +1,7 @@
 ---
 title: Updated Cutting-Edge Audio Mastery Expert Tips for Implementing Gradual Sound Diminishment & Augmentation in Adobe After Effects
-date: 2024-05-05T07:20:20.466Z
-updated: 2024-05-06T07:20:20.467Z
+date: 2024-05-20T02:42:27.782Z
+updated: 2024-05-21T02:42:27.782Z
 tags: 
   - audio editing software
   - audio editing
@@ -1164,4 +1164,5 @@ All these things will help you understand lots of things about the video editing
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-m34-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy M34 5G to Roku | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-realme-11-proplus-easily-by-drfone-android/"><u>In 2024, How To Unlock a Realme 11 Pro+ Easily?</u></a></li>
 </ul></div>
+
 

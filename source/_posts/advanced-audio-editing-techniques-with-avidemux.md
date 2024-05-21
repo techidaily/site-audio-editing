@@ -1,7 +1,7 @@
 ---
 title: Advanced Audio Editing Techniques with Avidemux
-date: 2024-05-05T07:09:44.592Z
-updated: 2024-05-06T07:09:44.592Z
+date: 2024-05-20T02:42:06.349Z
+updated: 2024-05-21T02:42:06.349Z
 tags: 
   - audio editing software
   - audio editing
@@ -1150,4 +1150,5 @@ Thus, this article had given valuable insights on ****audio ducking Premiere Pro
 <li><a href="https://ai-editing-video.techidaily.com/updated-best-ideas-for-time-lapse-video/"><u>Updated Best Ideas for Time Lapse Video</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>The Magnificent Art of Pokemon Go Streaming On Apple iPhone 12 mini? | Dr.fone</u></a></li>
 </ul></div>
+
 

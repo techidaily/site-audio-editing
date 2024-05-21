@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Walkthrough for Extracting Vocals From Audio Files Using Adobe Audition
-date: 2024-05-05T07:13:16.024Z
-updated: 2024-05-06T07:13:16.024Z
+date: 2024-05-20T02:42:12.644Z
+updated: 2024-05-21T02:42:12.644Z
 tags: 
   - audio editing software
   - audio editing
@@ -1283,4 +1283,5 @@ There is a diverse range of [voice recorders and music-creating software](https:
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-what-is-an-ai-art-generator-wondershare-virbo-glossary/"><u>New In 2024, What Is an AI Art Generator? | Wondershare Virbo Glossary</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo S18e | Dr.fone</u></a></li>
 </ul></div>
+
 

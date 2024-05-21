@@ -1141,3 +1141,4 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-two-ways-to-fade-inout-audio-in-final-cut-pro/"><u>New In 2024, Two Ways to Fade In/Out Audio in Final Cut Pro</u></a></li>
 </ul></div>
 
+

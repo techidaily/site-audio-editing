@@ -1,7 +1,7 @@
 ---
 title: How to Fade in and Fade Out Audio in iMovie?
-date: 2024-05-05T07:11:51.082Z
-updated: 2024-05-06T07:11:51.082Z
+date: 2024-05-20T02:42:09.882Z
+updated: 2024-05-21T02:42:09.882Z
 tags: 
   - audio editing software
   - audio editing
@@ -2131,4 +2131,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-editing.techidaily.com/updated-blender-green-screen-effects/"><u>Updated Blender Green Screen Effects</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-infinix-hot-40i-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Infinix Hot 40i Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

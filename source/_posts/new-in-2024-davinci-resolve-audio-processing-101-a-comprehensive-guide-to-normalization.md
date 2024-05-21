@@ -1148,3 +1148,4 @@ For macOS 10.12 or later
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Nokia C12 Plus? | Dr.fone</u></a></li>
 </ul></div>
 
+

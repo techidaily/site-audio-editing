@@ -1,7 +1,7 @@
 ---
 title: Updated Audacity on Chromebooks A Comprehensive Guide to Getting It Running or Taking It Off
-date: 2024-05-05T07:17:06.204Z
-updated: 2024-05-06T07:17:06.204Z
+date: 2024-05-20T02:42:20.604Z
+updated: 2024-05-21T02:42:20.604Z
 tags: 
   - audio editing software
   - audio editing
@@ -1000,4 +1000,5 @@ Follow @Liza Brown
 <li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oneplus-12r-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On OnePlus 12R? Here Is the Answer | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-civi-3-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi Civi 3, is it possible?</u></a></li>
 </ul></div>
+
 

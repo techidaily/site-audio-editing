@@ -1,7 +1,7 @@
 ---
 title: Updated How to Balance Your Stream Sound with OBS Audio Ducking?
-date: 2024-05-05T07:18:03.431Z
-updated: 2024-05-06T07:18:03.431Z
+date: 2024-05-20T02:42:22.795Z
+updated: 2024-05-21T02:42:22.795Z
 tags: 
   - audio editing software
   - audio editing
@@ -1814,4 +1814,5 @@ Follow @Benjamin Arango
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-8-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 8 to iPad | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-motorola-moto-g24-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Motorola Moto G24? Here Are All Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

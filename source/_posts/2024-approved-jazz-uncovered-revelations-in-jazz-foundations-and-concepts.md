@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Jazz Uncovered Revelations in Jazz Foundations and Concepts
-date: 2024-05-05T07:27:48.127Z
-updated: 2024-05-06T07:27:48.127Z
+date: 2024-05-20T02:42:42.327Z
+updated: 2024-05-21T02:42:42.327Z
 tags: 
   - audio editing software
   - audio editing
@@ -1869,4 +1869,5 @@ Follow @Benjamin Arango
 <li><a href="https://smart-video-creator.techidaily.com/top-apple-video-editors-for-unbeatable-results/"><u>Top Apple Video Editors for Unbeatable Results</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-video-editing-on-linux-made-easy-top-10-adobe-premiere-alternatives/"><u>New 2024 Approved Video Editing on Linux Made Easy Top 10 Adobe Premiere Alternatives</u></a></li>
 </ul></div>
+
 

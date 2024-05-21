@@ -1,7 +1,7 @@
 ---
 title: Updated Streamlining Audio Management for Filmmakers The Ins and Outs of Automated Ducking with Final Cut Pro X 2023
-date: 2024-05-05T07:34:26.999Z
-updated: 2024-05-06T07:34:26.999Z
+date: 2024-05-20T02:42:55.026Z
+updated: 2024-05-21T02:42:55.026Z
 tags: 
   - audio editing software
   - audio editing
@@ -917,4 +917,5 @@ These are some key tips regarding the usage of the YouTube audio library classic
 <li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-v29-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo V29? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Motorola Moto G14 | Dr.fone</u></a></li>
 </ul></div>
+
 

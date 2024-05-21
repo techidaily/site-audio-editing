@@ -1,7 +1,7 @@
 ---
 title: Podcast Editing 101 How to Edit a Podcast
-date: 2024-05-05T07:12:39.126Z
-updated: 2024-05-06T07:12:39.126Z
+date: 2024-05-20T02:42:11.647Z
+updated: 2024-05-21T02:42:11.647Z
 tags: 
   - audio editing software
   - audio editing
@@ -1795,4 +1795,5 @@ Overall, make sure you read the pros and cons attached to using each method so y
 <li><a href="https://video-ai-editor.techidaily.com/new-best-webm-to-mp3-converters-expert-recommendations-for-2024/"><u>New Best WebM to MP3 Converters Expert Recommendations for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-cream-of-the-crop-top-10-free-ubuntu-video-editors/"><u>New 2024 Approved The Cream of the Crop Top 10 Free Ubuntu Video Editors</u></a></li>
 </ul></div>
+
 

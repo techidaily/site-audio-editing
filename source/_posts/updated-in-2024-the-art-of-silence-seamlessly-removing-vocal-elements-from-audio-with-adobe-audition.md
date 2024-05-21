@@ -842,3 +842,4 @@ So, in this article, we have learned about audio normalization, we have answered
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-subtitles-in-canva-in-2024/"><u>How to Add Subtitles in Canva, In 2024</u></a></li>
 </ul></div>
 
+

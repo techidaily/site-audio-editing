@@ -1765,3 +1765,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/updated-cropping-a-video-in-final-cut-pro-step-by-step/"><u>Updated Cropping a Video in Final Cut Pro Step by Step</u></a></li>
 </ul></div>
 
+

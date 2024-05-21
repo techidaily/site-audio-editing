@@ -1819,3 +1819,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-step-by-step-guide-to-creating-halftone-effects-in-photoshop/"><u>2024 Approved Step-By-Step Guide To Creating Halftone Effects In Photoshop</u></a></li>
 </ul></div>
 
+

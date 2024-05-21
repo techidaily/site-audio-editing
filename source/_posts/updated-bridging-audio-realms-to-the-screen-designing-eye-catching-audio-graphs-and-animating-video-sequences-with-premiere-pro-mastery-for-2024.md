@@ -1166,3 +1166,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://ai-editing-video.techidaily.com/scaling-and-setting-videos-in-filmora-tutorial/"><u>Scaling and Setting Videos in Filmora | Tutorial</u></a></li>
 </ul></div>
 
+

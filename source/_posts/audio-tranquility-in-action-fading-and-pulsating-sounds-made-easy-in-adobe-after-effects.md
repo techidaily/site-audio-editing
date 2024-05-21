@@ -1,7 +1,7 @@
 ---
 title: Audio Tranquility in Action Fading and Pulsating Sounds Made Easy in Adobe After Effects
-date: 2024-05-05T07:09:58.862Z
-updated: 2024-05-06T07:09:58.862Z
+date: 2024-05-20T02:42:06.612Z
+updated: 2024-05-21T02:42:06.612Z
 tags: 
   - audio editing software
   - audio editing
@@ -994,4 +994,5 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-creator.techidaily.com/in-2024-virtualdub-review-and-its-best-alternatives/"><u>In 2024, Virtualdub Review and Its Best Alternatives</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-blur-a-still-or-moving-part-of-video/"><u>In 2024, Learn How to Blur a Still or Moving Part of Video</u></a></li>
 </ul></div>
+
 

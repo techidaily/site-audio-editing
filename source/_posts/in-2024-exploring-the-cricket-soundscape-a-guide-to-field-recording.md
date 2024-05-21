@@ -1,7 +1,7 @@
 ---
 title: In 2024, Exploring the Cricket Soundscape A Guide to Field Recording
-date: 2024-05-05T07:24:30.105Z
-updated: 2024-05-06T07:24:30.105Z
+date: 2024-05-20T02:42:35.453Z
+updated: 2024-05-21T02:42:35.453Z
 tags: 
   - audio editing software
   - audio editing
@@ -1061,4 +1061,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-s23-ultra-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy S23 Ultra Easily?</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Nubia Z50S Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

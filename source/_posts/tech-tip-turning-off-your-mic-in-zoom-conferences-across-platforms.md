@@ -1,7 +1,7 @@
 ---
 title: Tech Tip Turning Off Your Mic in Zoom Conferences Across Platforms
-date: 2024-05-05T07:13:26.620Z
-updated: 2024-05-06T07:13:26.620Z
+date: 2024-05-20T02:42:12.972Z
+updated: 2024-05-21T02:42:12.972Z
 tags: 
   - audio editing software
   - audio editing
@@ -1351,4 +1351,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/when-it-comes-to-video-editing-there-are-countless-software-options-available-on-the-market-however-not-all-of-them-come-with-useful-masking-tools-in-this-a/"><u>When It Comes to Video Editing, There Are Countless Software Options Available on the Market. However, Not All of Them Come with Useful Masking Tools. In This Article, We Will Be Discussing the Top 8 Video Editor with Useful Masking Tools</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-defy-2-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Defy 2</u></a></li>
 </ul></div>
+
 

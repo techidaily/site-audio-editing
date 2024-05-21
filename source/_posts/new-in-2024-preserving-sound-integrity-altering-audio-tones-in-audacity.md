@@ -1273,3 +1273,4 @@ For macOS 10.12 or later
 <li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-adding-titles-in-final-cut-pro-x/"><u>Updated The Ultimate Guide to Adding Titles in Final Cut Pro X</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Creating Smooth Volume Curves Using Keyframes in Filmora on macOS
-date: 2024-05-05T07:10:32.131Z
-updated: 2024-05-06T07:10:32.131Z
+date: 2024-05-20T02:42:07.471Z
+updated: 2024-05-21T02:42:07.471Z
 tags: 
   - audio editing software
   - audio editing
@@ -1043,4 +1043,5 @@ Overall, make sure you read the pros and cons attached to using each method so y
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-quality-matters-a-guide-to-converting-video-to-mp3-without-loss/"><u>Updated 2024 Approved Quality Matters A Guide to Converting Video to MP3 without Loss</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-asus-rog-phone-8-pro-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Asus ROG Phone 8 Pro</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Streamlining Audio Production Advanced Methods of Audio Ducking Using Adobe Premiere Pro on a Mac
-date: 2024-05-05T07:13:18.932Z
-updated: 2024-05-06T07:13:18.932Z
+date: 2024-05-20T02:42:12.790Z
+updated: 2024-05-21T02:42:12.790Z
 tags: 
   - audio editing software
   - audio editing
@@ -920,4 +920,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-10-great-apps-to-turn-funny-animated-images-into-comics/"><u>Updated In 2024, 10 Great Apps to Turn Funny Animated Images Into Comics</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-motorola-moto-g24-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Motorola Moto G24</u></a></li>
 </ul></div>
+
 

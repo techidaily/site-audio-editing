@@ -1,7 +1,7 @@
 ---
 title: New Enhancing Your Recordings Additional Layers of Voice Processing in Audacity Using Plugins
-date: 2024-05-05T07:22:58.268Z
-updated: 2024-05-06T07:22:58.268Z
+date: 2024-05-20T02:42:32.628Z
+updated: 2024-05-21T02:42:32.628Z
 tags: 
   - audio editing software
   - audio editing
@@ -1547,4 +1547,5 @@ To be noticeable, you need to know the basics of editing your video in a particu
 <li><a href="https://video-creation-software.techidaily.com/new-best-free-online-audio-waveform-converters-for-videos-for-2024/"><u>New Best Free Online Audio Waveform Converters for Videos for 2024</u></a></li>
 <li><a href="https://techidaily.com/use-device-manager-to-identify-missing-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
 </ul></div>
+
 

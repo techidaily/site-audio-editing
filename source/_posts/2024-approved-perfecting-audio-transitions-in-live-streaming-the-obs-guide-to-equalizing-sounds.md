@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Perfecting Audio Transitions in Live Streaming The OBS Guide to Equalizing Sounds
-date: 2024-05-05T07:30:46.366Z
-updated: 2024-05-06T07:30:46.366Z
+date: 2024-05-20T02:42:47.841Z
+updated: 2024-05-21T02:42:47.841Z
 tags: 
   - audio editing software
   - audio editing
@@ -968,4 +968,5 @@ Follow @Shanoon Cox
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-a2plus-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-tecno-spark-10c-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Tecno Spark 10C</u></a></li>
 </ul></div>
+
 

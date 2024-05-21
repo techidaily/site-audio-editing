@@ -1,7 +1,7 @@
 ---
 title: The Modern Guide to Implementing Decay in Sound Tracks
-date: 2024-05-05T07:13:48.144Z
-updated: 2024-05-06T07:13:48.144Z
+date: 2024-05-20T02:42:13.689Z
+updated: 2024-05-21T02:42:13.689Z
 tags: 
   - audio editing software
   - audio editing
@@ -1253,4 +1253,5 @@ Follow @Liza Brown
 <li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Honor 90 Pro? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-bring-your-photos-to-life-a-detailed-ken-burns-effect-tutorial-for-2024/"><u>New Bring Your Photos to Life A Detailed Ken Burns Effect Tutorial for 2024</u></a></li>
 </ul></div>
+
 

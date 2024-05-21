@@ -1222,3 +1222,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-20-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 20 to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
 
+

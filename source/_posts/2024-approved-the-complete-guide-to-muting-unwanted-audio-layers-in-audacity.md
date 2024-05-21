@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Complete Guide to Muting Unwanted Audio Layers in Audacity
-date: 2024-05-05T07:35:43.824Z
-updated: 2024-05-06T07:35:43.824Z
+date: 2024-05-20T02:42:57.184Z
+updated: 2024-05-21T02:42:57.184Z
 tags: 
   - audio editing software
   - audio editing
@@ -1353,4 +1353,5 @@ For macOS 10.12 or later
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Honor Magic 5 Pro | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-create-epic-intros-top-10-websites-for-free-and-paid-intro-makers/"><u>Updated 2024 Approved Create Epic Intros Top 10 Websites for Free and Paid Intro Makers</u></a></li>
 </ul></div>
+
 

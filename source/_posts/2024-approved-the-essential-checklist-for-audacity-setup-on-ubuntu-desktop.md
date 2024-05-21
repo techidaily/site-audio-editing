@@ -964,3 +964,4 @@ For macOS 10.12 or later
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

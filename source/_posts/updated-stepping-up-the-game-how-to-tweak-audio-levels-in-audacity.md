@@ -1,7 +1,7 @@
 ---
 title: Updated Stepping Up the Game How to Tweak Audio Levels in Audacity
-date: 2024-05-05T07:34:13.412Z
-updated: 2024-05-06T07:34:13.412Z
+date: 2024-05-20T02:42:54.529Z
+updated: 2024-05-21T02:42:54.529Z
 tags: 
   - audio editing software
   - audio editing
@@ -1797,4 +1797,5 @@ For macOS 10.12 or later
 <li><a href="https://android-frp.techidaily.com/the-complete-guide-to-nokia-g310-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Nokia G310 FRP Bypass Everything You Need to Know</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-learning-some-perfect-ways-to-convert-a-slow-motion-video-to-normal-for-2024/"><u>Updated Learning Some Perfect Ways to Convert a Slow-Motion Video to Normal for 2024</u></a></li>
 </ul></div>
+
 

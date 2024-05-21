@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Progressive Audio Fade-Out Effects in Adobe Rushs 2023 Update
-date: 2024-05-05T07:31:52.181Z
-updated: 2024-05-06T07:31:52.181Z
+date: 2024-05-20T02:42:49.573Z
+updated: 2024-05-21T02:42:49.573Z
 tags: 
   - audio editing software
   - audio editing
@@ -987,4 +987,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-free-avi-video-editor-downloads-our-top-recommendations/"><u>2024 Approved Free AVI Video Editor Downloads Our Top Recommendations</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone X? | Dr.fone</u></a></li>
 </ul></div>
+
 

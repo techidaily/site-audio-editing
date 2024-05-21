@@ -1302,3 +1302,4 @@ Basically, it's easy to **remove sound from video windows 10**. You can use the 
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-smart-7-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Smart 7 to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
 
+

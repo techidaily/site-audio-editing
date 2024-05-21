@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Fishy Tones A Guide to Using Discords Clownfish Vocal Effect
-date: 2024-05-05T07:12:18.637Z
-updated: 2024-05-06T07:12:18.637Z
+date: 2024-05-20T02:42:10.820Z
+updated: 2024-05-21T02:42:10.820Z
 tags: 
   - audio editing software
   - audio editing
@@ -1977,4 +1977,5 @@ Although there are many different places to find sad background music, you will 
 <li><a href="https://ai-video-tools.techidaily.com/2024-approved-s-most-popular-free-video-editing-apps-with-special-effects-features/"><u>2024 Approved S Most Popular Free Video Editing Apps with Special Effects Features</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/failed-to-play-mkv-movies-on-samsung-galaxy-z-flip-5-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Failed to play MKV movies on Samsung Galaxy Z Flip 5</u></a></li>
 </ul></div>
+
 

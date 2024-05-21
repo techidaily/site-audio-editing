@@ -1,7 +1,7 @@
 ---
 title: Updated What Is Audio Ducking and How to Use It in Filmora
-date: 2024-05-05T07:17:14.892Z
-updated: 2024-05-06T07:17:14.892Z
+date: 2024-05-20T02:42:20.928Z
+updated: 2024-05-21T02:42:20.928Z
 tags: 
   - audio editing software
   - audio editing
@@ -1248,4 +1248,5 @@ The above-written article gave you the voice changers that will help you make bo
 <li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-from-idea-to-viral-best-reaction-video-creation-apps/"><u>Updated In 2024, From Idea to Viral Best Reaction Video Creation Apps</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-x100-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo X100 Devices</u></a></li>
 </ul></div>
+
 

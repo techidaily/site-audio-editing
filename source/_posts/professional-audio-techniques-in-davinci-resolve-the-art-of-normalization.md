@@ -1,7 +1,7 @@
 ---
 title: Professional Audio Techniques in DaVinci Resolve The Art of Normalization
-date: 2024-05-05T07:12:49.206Z
-updated: 2024-05-06T07:12:49.206Z
+date: 2024-05-20T02:42:11.816Z
+updated: 2024-05-21T02:42:11.816Z
 tags: 
   - audio editing software
   - audio editing
@@ -746,4 +746,5 @@ In conclusion, let's review everything we have discussed in the article. Users h
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-8-free-gif-animators-to-make-your-own-gif/"><u>Updated 2024 Approved 8 Free GIF Animators to Make Your Own GIF</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-y77t-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo Y77t Phone</u></a></li>
 </ul></div>
+
 

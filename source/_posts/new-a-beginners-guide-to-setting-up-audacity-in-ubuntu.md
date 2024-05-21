@@ -1,7 +1,7 @@
 ---
 title: New A Beginners Guide to Setting Up Audacity in Ubuntu
-date: 2024-05-05T07:15:40.095Z
-updated: 2024-05-06T07:15:40.095Z
+date: 2024-05-20T02:42:17.500Z
+updated: 2024-05-21T02:42:17.500Z
 tags: 
   - audio editing software
   - audio editing
@@ -1391,4 +1391,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Oppo A56s 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-y78tmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo Y78tMirror Share to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

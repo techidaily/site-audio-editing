@@ -1,7 +1,7 @@
 ---
 title: The Modern Producers Guide to Applying Gradual Volume Decrease in Audio Production
-date: 2024-05-05T07:13:48.408Z
-updated: 2024-05-06T07:13:48.408Z
+date: 2024-05-20T02:42:13.697Z
+updated: 2024-05-21T02:42:13.697Z
 tags: 
   - audio editing software
   - audio editing
@@ -1297,4 +1297,5 @@ Follow @Liza Brown
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Poco C65 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/complete-tutorial-for-oppo-reno-10-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo Reno 10 Pro 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

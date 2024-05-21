@@ -1,7 +1,7 @@
 ---
 title: New How to Extract Audio From Videos on Win/Mac/Phone
-date: 2024-05-05T07:26:32.603Z
-updated: 2024-05-06T07:26:32.603Z
+date: 2024-05-20T02:42:39.888Z
+updated: 2024-05-21T02:42:39.888Z
 tags: 
   - audio editing software
   - audio editing
@@ -1763,4 +1763,5 @@ Thus, you had a detailed discussion about **Audio ducking**. Choose the applicat
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-free-slow-motion-apps-for-android-and-iphone/"><u>2024 Approved Best Free Slow Motion Apps For Android and iPhone</u></a></li>
 <li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-nubia-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Nubia</u></a></li>
 </ul></div>
+
 

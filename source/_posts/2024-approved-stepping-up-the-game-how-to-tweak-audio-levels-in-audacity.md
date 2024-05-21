@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Stepping Up the Game How to Tweak Audio Levels in Audacity
-date: 2024-05-05T07:34:12.888Z
-updated: 2024-05-06T07:34:12.888Z
+date: 2024-05-20T02:42:54.522Z
+updated: 2024-05-21T02:42:54.522Z
 tags: 
   - audio editing software
   - audio editing
@@ -1354,4 +1354,5 @@ Follow @Liza Brown
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-ultimate-guide-to-free-3gp-video-rotation-top-5-choices/"><u>2024 Approved The Ultimate Guide to Free 3GP Video Rotation Top 5 Choices</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-this-article-we-will-be-covering-the-most-important-topics-you-have-to-remember-when-becoming-a-successful-youtube-star-for-2024/"><u>Updated In This Article We Will Be Covering the Most Important Topics You Have to Remember when Becoming a Successful YouTube-Star for 2024</u></a></li>
 </ul></div>
+
 

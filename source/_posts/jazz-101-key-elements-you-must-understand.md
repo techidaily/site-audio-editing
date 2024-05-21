@@ -1,7 +1,7 @@
 ---
 title: Jazz 101 Key Elements You Must Understand
-date: 2024-05-05T07:12:00.411Z
-updated: 2024-05-06T07:12:00.411Z
+date: 2024-05-20T02:42:10.201Z
+updated: 2024-05-21T02:42:10.201Z
 tags: 
   - audio editing software
   - audio editing
@@ -1078,4 +1078,5 @@ Social media content creators, musicians, and VJs can produce stunning videos wi
 <li><a href="https://ai-video-apps.techidaily.com/new-get-noticed-top-10-intro-maker-sites-for-businesses-and-creators-for-2024/"><u>New Get Noticed Top 10 Intro Maker Sites for Businesses and Creators for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-motorola-moto-g23-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Motorola Moto G23 via a USB Cable | Dr.fone</u></a></li>
 </ul></div>
+
 

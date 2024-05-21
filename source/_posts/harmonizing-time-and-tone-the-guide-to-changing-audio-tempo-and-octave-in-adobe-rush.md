@@ -1,7 +1,7 @@
 ---
 title: Harmonizing Time and Tone The Guide to Changing Audio Tempo and Octave in Adobe Rush
-date: 2024-05-05T07:11:38.778Z
-updated: 2024-05-06T07:11:38.778Z
+date: 2024-05-20T02:42:09.465Z
+updated: 2024-05-21T02:42:09.465Z
 tags: 
   - audio editing software
   - audio editing
@@ -848,4 +848,5 @@ You can find video files on all kinds of online social media platforms. These ar
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-12-pro-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 12 Pro</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-the-power-of-pro-how-final-cut-pro-surpasses-final-cut-express-for-2024/"><u>New The Power of Pro How Final Cut Pro Surpasses Final Cut Express for 2024</u></a></li>
 </ul></div>
+
 

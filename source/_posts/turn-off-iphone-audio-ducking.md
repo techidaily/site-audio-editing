@@ -1,7 +1,7 @@
 ---
 title: Turn Off iPhone Audio Ducking
-date: 2024-05-05T07:14:31.001Z
-updated: 2024-05-06T07:14:31.001Z
+date: 2024-05-20T02:42:15.049Z
+updated: 2024-05-21T02:42:15.049Z
 tags: 
   - audio editing software
   - audio editing
@@ -1009,4 +1009,5 @@ Moreover, the article emphasizes Wondershare Filmora's V13 features, particularl
 <li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

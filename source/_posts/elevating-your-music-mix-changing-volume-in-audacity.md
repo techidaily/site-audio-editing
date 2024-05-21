@@ -1,7 +1,7 @@
 ---
 title: Elevating Your Music Mix Changing Volume in Audacity
-date: 2024-05-05T07:10:56.880Z
-updated: 2024-05-06T07:10:56.880Z
+date: 2024-05-20T02:42:08.278Z
+updated: 2024-05-21T02:42:08.278Z
 tags: 
   - audio editing software
   - audio editing
@@ -2129,4 +2129,5 @@ Simply upload your audio recording, then choose the Auto Transcribe option. You 
 <li><a href="https://howto.techidaily.com/fix-vivo-s17-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo S17 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Android/iOS? | Dr.fone</u></a></li>
 </ul></div>
+
 

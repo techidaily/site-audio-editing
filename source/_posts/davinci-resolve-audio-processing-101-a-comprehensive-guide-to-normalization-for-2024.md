@@ -1,7 +1,7 @@
 ---
 title: DaVinci Resolve Audio Processing 101 A Comprehensive Guide to Normalization for 2024
-date: 2024-05-05T07:20:35.255Z
-updated: 2024-05-06T07:20:35.255Z
+date: 2024-05-20T02:42:28.206Z
+updated: 2024-05-21T02:42:28.206Z
 tags: 
   - audio editing software
   - audio editing
@@ -1457,4 +1457,5 @@ Listening to your favorite Music at your ease is the best thing in the world. Es
 <li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-honor-magic-6-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor Magic 6 Pro Phone Screen?</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-t2x-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo T2x 5G Black and White | Dr.fone</u></a></li>
 </ul></div>
+
 

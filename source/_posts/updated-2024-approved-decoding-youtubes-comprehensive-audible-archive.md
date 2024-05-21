@@ -1569,3 +1569,4 @@ For macOS 10.14 or later
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-motorola-edge-40-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Motorola Edge 40 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
 
+

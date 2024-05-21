@@ -1,7 +1,7 @@
 ---
 title: New Progressive Audio Fade-Out Effects in Adobe Rushs 2023 Update
-date: 2024-05-05T07:31:52.441Z
-updated: 2024-05-06T07:31:52.441Z
+date: 2024-05-20T02:42:49.576Z
+updated: 2024-05-21T02:42:49.576Z
 tags: 
   - audio editing software
   - audio editing
@@ -985,4 +985,5 @@ If you are worried about a Chrome audio recorder, then this article must help yo
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo Y100i | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-and-steady-the-best-video-stabilizer-apps-for-android-users/"><u>Updated 2024 Approved Free and Steady The Best Video Stabilizer Apps for Android Users</u></a></li>
 </ul></div>
+
 

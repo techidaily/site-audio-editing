@@ -1,7 +1,7 @@
 ---
 title: Setting Up Audacity on Ubuntu Linux A 2023 Comprehensive Instruction Manual for Audio Enthusiasts
-date: 2024-05-05T07:13:04.082Z
-updated: 2024-05-06T07:13:04.082Z
+date: 2024-05-20T02:42:12.261Z
+updated: 2024-05-21T02:42:12.261Z
 tags: 
   - audio editing software
   - audio editing
@@ -1392,4 +1392,5 @@ For macOS 10.12 or later
 <li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-12-pro-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 12 Pro when Phone is Broken? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-6s-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 6s Properly</u></a></li>
 </ul></div>
+
 

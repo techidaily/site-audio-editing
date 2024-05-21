@@ -1066,3 +1066,4 @@ Admittedly, there are countless other apps in the store that can do the job of c
 <li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor 90 Pro? | Dr.fone</u></a></li>
 </ul></div>
 
+

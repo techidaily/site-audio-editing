@@ -1912,3 +1912,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-a-beginners-guide-to-understanding-aspect-ratios-and-pixels/"><u>New 2024 Approved A Beginners Guide to Understanding Aspect Ratios and Pixels</u></a></li>
 </ul></div>
 
+

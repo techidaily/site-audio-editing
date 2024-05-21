@@ -1,7 +1,7 @@
 ---
 title: In 2024, Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac
-date: 2024-05-05T07:20:02.544Z
-updated: 2024-05-06T07:20:02.544Z
+date: 2024-05-20T02:42:27.274Z
+updated: 2024-05-21T02:42:27.274Z
 tags: 
   - audio editing software
   - audio editing
@@ -1202,4 +1202,5 @@ Follow @Shanoon Cox
 <li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-itel-p40plus-by-drfone-android/"><u>Universal Unlock Pattern for Itel P40+</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Poco X5 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

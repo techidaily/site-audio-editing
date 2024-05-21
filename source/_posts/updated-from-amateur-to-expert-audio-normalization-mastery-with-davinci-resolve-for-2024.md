@@ -934,3 +934,4 @@ For macOS 10.12 or later
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-blaze-2-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lava Blaze 2 to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
 
+

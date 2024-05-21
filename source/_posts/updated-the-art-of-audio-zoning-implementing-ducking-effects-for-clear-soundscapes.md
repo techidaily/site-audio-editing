@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Audio Zoning Implementing Ducking Effects for Clear Soundscapes
-date: 2024-05-05T07:35:13.361Z
-updated: 2024-05-06T07:35:13.361Z
+date: 2024-05-20T02:42:56.261Z
+updated: 2024-05-21T02:42:56.261Z
 tags: 
   - audio editing software
   - audio editing
@@ -1373,4 +1373,5 @@ All these audio recorders work well on Chrome. If you only need to record some m
 <li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo X100 Pro | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-mac-movie-magic-8-essential-video-editing-tools-for-2024/"><u>New Mac Movie Magic 8 Essential Video Editing Tools for 2024</u></a></li>
 </ul></div>
+
 

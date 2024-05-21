@@ -1,7 +1,7 @@
 ---
 title: New From Amateur to Artist A Foundational Guide to Editing Podcast Content
-date: 2024-05-05T07:25:12.680Z
-updated: 2024-05-06T07:25:12.680Z
+date: 2024-05-20T02:42:36.984Z
+updated: 2024-05-21T02:42:36.984Z
 tags: 
   - audio editing software
   - audio editing
@@ -1272,4 +1272,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-nubia-red-magic-8s-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Nubia Red Magic 8S Pro Phone Screen?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-12-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 12 When You Forget the Passcode?</u></a></li>
 </ul></div>
+
 

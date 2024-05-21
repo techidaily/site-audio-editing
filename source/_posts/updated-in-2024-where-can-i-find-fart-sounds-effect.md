@@ -1587,3 +1587,4 @@ For macOS 10.14 or later
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-motorola-edge-40-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Motorola Edge 40 Pro to Mac? | Dr.fone</u></a></li>
 </ul></div>
 
+

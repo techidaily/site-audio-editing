@@ -988,3 +988,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-creation-software.techidaily.com/updated-wide-screen-woes-fixing-amazon-prime-video-aspect-ratio-issues/"><u>Updated Wide Screen Woes? Fixing Amazon Prime Video Aspect Ratio Issues</u></a></li>
 </ul></div>
 
+

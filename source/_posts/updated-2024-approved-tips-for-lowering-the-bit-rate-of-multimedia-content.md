@@ -1406,3 +1406,4 @@ For macOS 10.12 or later
 <li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-t2-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo T2 5G</u></a></li>
 </ul></div>
 
+

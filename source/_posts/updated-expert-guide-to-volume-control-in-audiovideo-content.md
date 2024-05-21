@@ -1,7 +1,7 @@
 ---
 title: Updated Expert Guide to Volume Control in Audio/Video Content
-date: 2024-05-05T07:23:49.229Z
-updated: 2024-05-06T07:23:49.229Z
+date: 2024-05-20T02:42:34.067Z
+updated: 2024-05-21T02:42:34.067Z
 tags: 
   - audio editing software
   - audio editing
@@ -1220,4 +1220,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://animation-videos.techidaily.com/new-10-must-use-mp4-to-gif-converters-to-get-perfect-made-gif-for-2024/"><u>New 10 Must-Use MP4 to GIF Converters to Get Perfect-Made GIF for 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-change-google-pixel-7a-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Google Pixel 7a Lock Screen Clock in Seconds</u></a></li>
 </ul></div>
+
 

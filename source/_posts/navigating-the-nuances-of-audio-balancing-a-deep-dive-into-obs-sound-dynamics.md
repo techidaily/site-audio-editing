@@ -1,7 +1,7 @@
 ---
 title: Navigating the Nuances of Audio Balancing A Deep Dive Into OBS Sound Dynamics
-date: 2024-05-05T07:12:29.555Z
-updated: 2024-05-06T07:12:29.555Z
+date: 2024-05-20T02:42:11.171Z
+updated: 2024-05-21T02:42:11.171Z
 tags: 
   - audio editing software
   - audio editing
@@ -940,4 +940,5 @@ After reading this article, pranking your friends and speaking with a unique voi
 <li><a href="https://animation-videos.techidaily.com/new-how-to-cartoonize-photo-photoshop-in-simple-steps-for-2024/"><u>New How to Cartoonize Photo Photoshop in Simple Steps for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-the-art-of-storytelling-video-editing-tips-to-bring-your-home-movies-to-life-for-2024/"><u>Updated The Art of Storytelling Video Editing Tips to Bring Your Home Movies to Life for 2024</u></a></li>
 </ul></div>
+
 

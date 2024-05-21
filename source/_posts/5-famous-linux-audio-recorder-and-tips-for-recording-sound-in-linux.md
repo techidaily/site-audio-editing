@@ -1,7 +1,7 @@
 ---
 title: 5 Famous Linux Audio Recorder and Tips for Recording Sound in Linux
-date: 2024-05-05T07:12:07.025Z
-updated: 2024-05-06T07:12:07.025Z
+date: 2024-05-20T02:42:10.449Z
+updated: 2024-05-21T02:42:10.450Z
 tags: 
   - audio editing software
   - audio editing
@@ -1421,4 +1421,5 @@ Follow @Benjamin Arango
 <li><a href="https://howto.techidaily.com/fix-motorola-edge-40-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola Edge 40 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-resize-images-with-ease-top-online-ratio-changers/"><u>Updated In 2024, Resize Images with Ease Top Online Ratio Changers</u></a></li>
 </ul></div>
+
 

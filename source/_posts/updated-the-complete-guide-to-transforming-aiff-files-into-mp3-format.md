@@ -1,7 +1,7 @@
 ---
 title: Updated The Complete Guide to Transforming AIFF Files Into MP3 Format
-date: 2024-05-05T07:35:44.865Z
-updated: 2024-05-06T07:35:44.865Z
+date: 2024-05-20T02:42:57.209Z
+updated: 2024-05-21T02:42:57.209Z
 tags: 
   - audio editing software
   - audio editing
@@ -1980,4 +1980,5 @@ For macOS 10.14 or later
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-a05-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy A05? Here Are All Fixes | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-top-best-free-luts-for-premiere-pro/"><u>New Top Best Free LUTs For Premiere Pro</u></a></li>
 </ul></div>
+
 

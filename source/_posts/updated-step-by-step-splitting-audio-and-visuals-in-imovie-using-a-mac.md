@@ -1,7 +1,7 @@
 ---
 title: Updated Step-by-Step Splitting Audio and Visuals in iMovie Using a Mac
-date: 2024-05-05T07:34:08.954Z
-updated: 2024-05-06T07:34:08.954Z
+date: 2024-05-20T02:42:54.443Z
+updated: 2024-05-21T02:42:54.443Z
 tags: 
   - audio editing software
   - audio editing
@@ -1381,4 +1381,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-v30-pro-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo V30 Pro Device</u></a></li>
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-x50iplus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor X50i+ | Dr.fone</u></a></li>
 </ul></div>
+
 

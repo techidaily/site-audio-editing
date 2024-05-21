@@ -1,7 +1,7 @@
 ---
 title: A Beginners Primer on Professional Wave Editing Techniques and Tools for 2024
-date: 2024-05-05T07:15:40.877Z
-updated: 2024-05-06T07:15:40.877Z
+date: 2024-05-20T02:42:17.512Z
+updated: 2024-05-21T02:42:17.512Z
 tags: 
   - audio editing software
   - audio editing
@@ -1282,4 +1282,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-unlocking-the-power-of-davinci-resolve-scopes-enhance-your-color-grad/"><u>Updated In 2024, Unlocking the Power of DaVinci Resolve Scopes Enhance Your Color Grad</u></a></li>
 <li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-a18-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo A18 FRP</u></a></li>
 </ul></div>
+
 

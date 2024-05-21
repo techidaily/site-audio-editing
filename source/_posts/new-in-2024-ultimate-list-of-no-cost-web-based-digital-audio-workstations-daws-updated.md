@@ -1532,3 +1532,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to others devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

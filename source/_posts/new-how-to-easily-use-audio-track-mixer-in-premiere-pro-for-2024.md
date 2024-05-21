@@ -1259,3 +1259,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-itel-a05s-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Itel A05s without backup.</u></a></li>
 </ul></div>
 
+

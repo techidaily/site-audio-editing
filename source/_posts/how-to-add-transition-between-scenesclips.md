@@ -1,7 +1,7 @@
 ---
 title: How to Add Transition Between Scenes/Clips
-date: 2024-05-05T07:09:42.767Z
-updated: 2024-05-06T07:09:42.767Z
+date: 2024-05-20T02:42:06.317Z
+updated: 2024-05-21T02:42:06.317Z
 tags: 
   - audio editing software
   - audio editing
@@ -963,4 +963,5 @@ Echoes in your soundtracks can be so annoying. They affect the clarity of vocals
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-infinix-smart-8-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Infinix Smart 8 Pro Lock Screen Password</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-how-to-download-filmora-for-free-without-risking-your-pc/"><u>Updated 2024 Approved How to Download Filmora for Free Without Risking Your PC</u></a></li>
 </ul></div>
+
 

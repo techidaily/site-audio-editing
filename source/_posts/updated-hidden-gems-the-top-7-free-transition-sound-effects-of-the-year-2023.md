@@ -1,7 +1,7 @@
 ---
 title: Updated Hidden Gems The Top 7 Free Transition Sound Effects of the Year 2023
-date: 2024-05-05T07:26:11.843Z
-updated: 2024-05-06T07:26:11.843Z
+date: 2024-05-20T02:42:38.641Z
+updated: 2024-05-21T02:42:38.641Z
 tags: 
   - audio editing software
   - audio editing
@@ -1452,4 +1452,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-can-you-diy-vhs-overlay-in-after-effects/"><u>New 2024 Approved How Can You DIY VHS Overlay in After Effects?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-poco-f5-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Poco F5 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

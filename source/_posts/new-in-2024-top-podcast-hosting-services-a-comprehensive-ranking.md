@@ -1809,3 +1809,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-driven-video-production.techidaily.com/new-quick-and-easy-video-edits-a-gopro-quik-tutorial-for-macbook-users/"><u>New Quick and Easy Video Edits A GoPro Quik Tutorial for MacBook Users</u></a></li>
 </ul></div>
 
+

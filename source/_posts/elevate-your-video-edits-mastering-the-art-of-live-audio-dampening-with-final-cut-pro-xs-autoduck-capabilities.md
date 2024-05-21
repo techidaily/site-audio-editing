@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Video Edits Mastering the Art of Live Audio Dampening with Final Cut Pro Xs AutoDuck Capabilities
-date: 2024-05-05T07:10:55.024Z
-updated: 2024-05-06T07:10:55.024Z
+date: 2024-05-20T02:42:08.213Z
+updated: 2024-05-21T02:42:08.213Z
 tags: 
   - audio editing software
   - audio editing
@@ -1203,4 +1203,5 @@ You may want to extract drums from your favorite songs for various reasons. Mayb
 <li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-11-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 11 Prevention & Solution | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-poco-x6-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Poco X6 Device</u></a></li>
 </ul></div>
+
 

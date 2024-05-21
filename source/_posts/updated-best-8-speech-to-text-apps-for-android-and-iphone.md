@@ -1,7 +1,7 @@
 ---
 title: Updated Best 8 Speech to Text Apps for Android and iPhone
-date: 2024-05-05T07:33:54.108Z
-updated: 2024-05-06T07:33:54.108Z
+date: 2024-05-20T02:42:54.004Z
+updated: 2024-05-21T02:42:54.004Z
 tags: 
   - audio editing software
   - audio editing
@@ -1229,4 +1229,5 @@ There are many unique features you should consider when you’re choosing the be
 <li><a href="https://ai-driven-video-production.techidaily.com/in-2024-motion-capture-apps-android-and-ios-essentials/"><u>In 2024, Motion Capture Apps Android and iOS Essentials</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-quick-solved-how-to-add-subtitles-to-a-video-on-iphones/"><u>New 2024 Approved Quick Solved How to Add Subtitles to a Video on iPhones</u></a></li>
 </ul></div>
+
 

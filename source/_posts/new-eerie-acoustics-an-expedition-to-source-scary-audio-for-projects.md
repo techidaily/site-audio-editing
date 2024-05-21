@@ -1,7 +1,7 @@
 ---
 title: New Eerie Acoustics An Expedition to Source Scary Audio for Projects
-date: 2024-05-05T07:21:51.864Z
-updated: 2024-05-06T07:21:51.864Z
+date: 2024-05-20T02:42:30.671Z
+updated: 2024-05-21T02:42:30.671Z
 tags: 
   - audio editing software
   - audio editing
@@ -1107,4 +1107,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-apps.techidaily.com/updated-make-amazing-videos-on-your-mac-best-video-makers-compared/"><u>Updated Make Amazing Videos on Your Mac Best Video Makers Compared</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-this-article-shows-the-detail-steps-to-add-titles-in-final-cut-pro-x-for-2024/"><u>New This Article Shows the Detail Steps to Add Titles in Final Cut Pro X for 2024</u></a></li>
 </ul></div>
+
 

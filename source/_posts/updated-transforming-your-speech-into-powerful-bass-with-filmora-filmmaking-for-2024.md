@@ -1317,3 +1317,4 @@ Follow @Liza Brown
 <li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Lenovo ThinkPhone? | Dr.fone</u></a></li>
 </ul></div>
 
+

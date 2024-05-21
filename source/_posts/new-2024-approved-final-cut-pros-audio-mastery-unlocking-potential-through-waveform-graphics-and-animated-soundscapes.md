@@ -1081,3 +1081,4 @@ For macOS 10.12 or later
 <li><a href="https://phone-solutions.techidaily.com/how-to-add-signature-to-a-pdf-file-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to add signature to a .pdf file document</u></a></li>
 </ul></div>
 
+

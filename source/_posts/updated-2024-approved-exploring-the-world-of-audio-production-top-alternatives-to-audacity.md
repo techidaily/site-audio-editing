@@ -1509,3 +1509,4 @@ Follow @Shanoon Cox
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unlock-cinematic-storytelling-how-to-apply-the-ken-burns-effect-in-final-cut-pro/"><u>New In 2024, Unlock Cinematic Storytelling How to Apply the Ken Burns Effect in Final Cut Pro</u></a></li>
 </ul></div>
 
+

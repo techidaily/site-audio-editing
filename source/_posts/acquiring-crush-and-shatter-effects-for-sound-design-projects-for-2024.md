@@ -1,7 +1,7 @@
 ---
 title: Acquiring Crush and Shatter Effects for Sound Design Projects for 2024
-date: 2024-05-05T07:16:18.044Z
-updated: 2024-05-06T07:16:18.044Z
+date: 2024-05-20T02:42:18.691Z
+updated: 2024-05-21T02:42:18.691Z
 tags: 
   - audio editing software
   - audio editing
@@ -1128,4 +1128,5 @@ This article discusses the [background noise removal](https://tools.techidaily.c
 <li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Xiaomi Redmi 13C | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-most-talented-lego-stop-motion-creators-of-the-year/"><u>New 2024 Approved The Most Talented Lego Stop Motion Creators of the Year</u></a></li>
 </ul></div>
+
 

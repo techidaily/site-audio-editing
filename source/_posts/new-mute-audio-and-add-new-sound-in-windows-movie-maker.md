@@ -1,7 +1,7 @@
 ---
 title: New Mute Audio and Add New Sound in Windows Movie Maker
-date: 2024-05-05T07:30:01.591Z
-updated: 2024-05-06T07:30:01.591Z
+date: 2024-05-20T02:42:46.750Z
+updated: 2024-05-21T02:42:46.750Z
 tags: 
   - audio editing software
   - audio editing
@@ -1506,4 +1506,5 @@ Follow @Liza Brown
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-lightweight-video-editing-solutions-for-all/"><u>New 2024 Approved Lightweight Video Editing Solutions for All</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-s-hottest-free-and-paid-android-video-editors-a-comprehensive-review/"><u>New 2024 Approved S Hottest Free and Paid Android Video Editors A Comprehensive Review</u></a></li>
 </ul></div>
+
 

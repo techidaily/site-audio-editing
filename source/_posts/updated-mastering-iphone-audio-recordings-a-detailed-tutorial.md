@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering iPhone Audio Recordings A Detailed Tutorial
-date: 2024-05-05T07:28:48.407Z
-updated: 2024-05-06T07:28:48.407Z
+date: 2024-05-20T02:42:44.025Z
+updated: 2024-05-21T02:42:44.026Z
 tags: 
   - audio editing software
   - audio editing
@@ -1047,4 +1047,5 @@ Thus, you had a detailed discussion about **Audio ducking**. Choose the applicat
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-best-gif-to-mov-converters/"><u>Updated In 2024, Best GIF to MOV Converters</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/updated-a-complete-guide-to-translate-video-with-google-for-2024/"><u>Updated A Complete Guide To Translate Video With Google for 2024</u></a></li>
 </ul></div>
+
 

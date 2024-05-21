@@ -1,7 +1,7 @@
 ---
 title: Updated From Novice to Pro Harnessing the Potential of Adobes Audio Editor (Adobe Audition)
-date: 2024-05-05T07:25:19.137Z
-updated: 2024-05-06T07:25:19.137Z
+date: 2024-05-20T02:42:37.089Z
+updated: 2024-05-21T02:42:37.089Z
 tags: 
   - audio editing software
   - audio editing
@@ -1059,4 +1059,5 @@ So, in this article, we learned one or two things about normalizing volumes and 
 <li><a href="https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>6 Methods to Protect Yourself from Location Tracking on Apple iPhone 11 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcpx-title-effects-take-your-videos-to-the-next-level/"><u>In 2024, FCPX Title Effects Take Your Videos to the Next Level</u></a></li>
 </ul></div>
+
 

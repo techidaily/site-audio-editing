@@ -1,7 +1,7 @@
 ---
 title: New Mastering Sound Editing Shorten Audio Sections in iMovie for Mac and iPhone
-date: 2024-05-05T07:29:05.701Z
-updated: 2024-05-06T07:29:05.701Z
+date: 2024-05-20T02:42:44.462Z
+updated: 2024-05-21T02:42:44.462Z
 tags: 
   - audio editing software
   - audio editing
@@ -2027,4 +2027,5 @@ Follow @Shanoon Cox
 <li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-12-pro-max-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 12 Pro Max with a Broken Screen?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-smart-7-hd-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Smart 7 HD</u></a></li>
 </ul></div>
+
 

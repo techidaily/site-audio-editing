@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering Dynamic Volume Control in Final Cut Pro X An Introduction to Automatic Audio Ducking
-date: 2024-05-05T07:28:44.171Z
-updated: 2024-05-06T07:28:44.171Z
+date: 2024-05-20T02:42:43.930Z
+updated: 2024-05-21T02:42:43.930Z
 tags: 
   - audio editing software
   - audio editing
@@ -1187,4 +1187,5 @@ Follow @Liza Brown
 <li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-realme-c53-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Realme C53 without Anyone Knowing | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo Reno 11 5G?</u></a></li>
 </ul></div>
+
 

@@ -1387,3 +1387,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/7-solutions-to-cut-video-on-mac-without-using-ffmpeg/"><u>7 Solutions to Cut Video on Mac without Using FFmpeg?</u></a></li>
 </ul></div>
 
+

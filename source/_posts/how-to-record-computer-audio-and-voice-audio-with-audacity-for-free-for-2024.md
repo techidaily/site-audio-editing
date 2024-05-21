@@ -1,7 +1,7 @@
 ---
 title: How to Record Computer Audio and Voice Audio with Audacity for Free for 2024
-date: 2024-05-05T07:32:11.813Z
-updated: 2024-05-06T07:32:11.813Z
+date: 2024-05-20T02:42:50.215Z
+updated: 2024-05-21T02:42:50.215Z
 tags: 
   - audio editing software
   - audio editing
@@ -1221,4 +1221,5 @@ Numerous effects, footage and audio.
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-create-an-aesthetic-slideshow-presentation/"><u>Updated 2024 Approved How to Create an Aesthetic Slideshow Presentation</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-15-pro-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 15 Pro Max without Security Questions?</u></a></li>
 </ul></div>
+
 

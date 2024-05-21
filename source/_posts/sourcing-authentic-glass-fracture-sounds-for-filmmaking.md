@@ -1,7 +1,7 @@
 ---
 title: Sourcing Authentic Glass Fracture Sounds for Filmmaking
-date: 2024-05-05T07:13:12.844Z
-updated: 2024-05-06T07:13:12.844Z
+date: 2024-05-20T02:42:12.517Z
+updated: 2024-05-21T02:42:12.517Z
 tags: 
   - audio editing software
   - audio editing
@@ -1904,4 +1904,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-15-pro-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 15 Pro</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-6s-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone 6s iCloud Activation Lock Bypass</u></a></li>
 </ul></div>
+
 

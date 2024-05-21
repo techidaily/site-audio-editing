@@ -1,7 +1,7 @@
 ---
 title: Dive Into Sound Design An Overview of Fundamental Wave Editor Features
-date: 2024-05-05T07:10:47.289Z
-updated: 2024-05-06T07:10:47.289Z
+date: 2024-05-20T02:42:07.956Z
+updated: 2024-05-21T02:42:07.956Z
 tags: 
   - audio editing software
   - audio editing
@@ -1354,4 +1354,5 @@ Follow @Benjamin Arango
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-honor-x8b-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Honor X8b? Fixed | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-11-pro-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From Apple iPhone 11 Pro Online</u></a></li>
 </ul></div>
+
 

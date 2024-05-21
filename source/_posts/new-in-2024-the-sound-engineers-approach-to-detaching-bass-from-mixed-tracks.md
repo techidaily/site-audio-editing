@@ -1379,3 +1379,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/how-to-blur-a-still-or-moving-part-of-video-for-2024/"><u>How to Blur a Still or Moving Part of Video for 2024</u></a></li>
 </ul></div>
 
+

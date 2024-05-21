@@ -1,7 +1,7 @@
 ---
 title: The Beat Engineers Handbook Designing Sounds for the Silver Screen
-date: 2024-05-05T07:13:33.264Z
-updated: 2024-05-06T07:13:33.264Z
+date: 2024-05-20T02:42:13.177Z
+updated: 2024-05-21T02:42:13.177Z
 tags: 
   - audio editing software
   - audio editing
@@ -1397,4 +1397,5 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/remove-nokia-c12-plus-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Nokia C12 Plus unlock screen</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-se-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone SE | Dr.fone</u></a></li>
 </ul></div>
+
 

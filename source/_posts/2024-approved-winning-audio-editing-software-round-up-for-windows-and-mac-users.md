@@ -1182,3 +1182,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-motion-blur-on-capcut-iphone-and-android-for-2024/"><u>How To Add Motion Blur On CapCut? (IPhone & Android) for 2024</u></a></li>
 </ul></div>
 
+

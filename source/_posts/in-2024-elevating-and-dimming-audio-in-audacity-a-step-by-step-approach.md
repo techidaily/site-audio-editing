@@ -1,7 +1,7 @@
 ---
 title: In 2024, Elevating and Dimming Audio in Audacity A Step-by-Step Approach
-date: 2024-05-05T07:22:14.943Z
-updated: 2024-05-06T07:22:14.943Z
+date: 2024-05-20T02:42:31.687Z
+updated: 2024-05-21T02:42:31.687Z
 tags: 
   - audio editing software
   - audio editing
@@ -1367,4 +1367,5 @@ Merging audios is combining several audio files into one. We usually select the 
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-useful-guide-to-speed-updown-videos-in-vlc/"><u>Updated 2024 Approved Useful Guide to Speed Up/Down Videos in VLC</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/11-exceptional-free-music-recording-programs-for-beginners-and-pros/"><u>11 Exceptional Free Music Recording Programs for Beginners and Pros</u></a></li>
 </ul></div>
+
 

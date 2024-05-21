@@ -1,7 +1,7 @@
 ---
 title: Updated How to Increase or Decrease Audio Volume in Audacity?
-date: 2024-05-05T07:26:34.701Z
-updated: 2024-05-06T07:26:34.701Z
+date: 2024-05-20T02:42:39.941Z
+updated: 2024-05-21T02:42:39.941Z
 tags: 
   - audio editing software
   - audio editing
@@ -1080,4 +1080,5 @@ For macOS 10.12 or later
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-accelerate-your-videos-a-quicktime-player-guide/"><u>New In 2024, Accelerate Your Videos A QuickTime Player Guide</u></a></li>
 <li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo Reno 8T | Dr.fone</u></a></li>
 </ul></div>
+
 

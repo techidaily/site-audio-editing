@@ -1,7 +1,7 @@
 ---
 title: New DIY Sound Capture How to Use Audacity Free of Charge
-date: 2024-05-05T07:21:34.153Z
-updated: 2024-05-06T07:21:34.153Z
+date: 2024-05-20T02:42:30.185Z
+updated: 2024-05-21T02:42:30.185Z
 tags: 
   - audio editing software
   - audio editing
@@ -1554,4 +1554,5 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-14-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Screen Mirroring You Must Know | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1007,3 +1007,4 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-video-editing-on-the-go-top-powerdirector-alternatives-for-android-and-ios/"><u>New In 2024, Video Editing on the Go Top PowerDirector Alternatives for Android and iOS</u></a></li>
 </ul></div>
 
+

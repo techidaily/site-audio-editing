@@ -1444,3 +1444,4 @@ For macOS 10.14 or later
 <li><a href="https://ai-video-tools.techidaily.com/new-simplify-avi-editing-a-step-by-step-guide-to-trimming-and-splitting/"><u>New Simplify AVI Editing A Step-by-Step Guide to Trimming and Splitting</u></a></li>
 </ul></div>
 
+

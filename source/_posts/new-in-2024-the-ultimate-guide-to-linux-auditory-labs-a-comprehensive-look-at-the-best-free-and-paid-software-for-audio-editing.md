@@ -2705,3 +2705,4 @@ For macOS 10.14 or later
 <li><a href="https://ai-video-tools.techidaily.com/new-in-2024-make-a-lyric-video-top-online-platforms/"><u>New In 2024, Make a Lyric Video Top Online Platforms</u></a></li>
 </ul></div>
 
+

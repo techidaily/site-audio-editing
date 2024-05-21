@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Balance Your Stream Sound with OBS Audio Ducking?
-date: 2024-05-05T07:18:02.631Z
-updated: 2024-05-06T07:18:02.631Z
+date: 2024-05-20T02:42:22.721Z
+updated: 2024-05-21T02:42:22.721Z
 tags: 
   - audio editing software
   - audio editing
@@ -1422,4 +1422,5 @@ The above-written article gave you the voice changers that will help you make bo
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-zero-30-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Zero 30 5Gwith/without a PC</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme Narzo 60 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

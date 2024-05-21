@@ -837,3 +837,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-creator.techidaily.com/updated-10-free-video-editing-programs-that-are-better-than-windows-movie-maker/"><u>Updated 10 Free Video Editing Programs That Are Better Than Windows Movie Maker</u></a></li>
 </ul></div>
 
+

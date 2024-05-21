@@ -1,7 +1,7 @@
 ---
 title: New Exploring the Cricket Soundscape A Guide to Field Recording
-date: 2024-05-05T07:24:30.368Z
-updated: 2024-05-06T07:24:30.368Z
+date: 2024-05-20T02:42:35.458Z
+updated: 2024-05-21T02:42:35.458Z
 tags: 
   - audio editing software
   - audio editing
@@ -1174,4 +1174,5 @@ For macOS 10.12 or later
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Nokia C02 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 7 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

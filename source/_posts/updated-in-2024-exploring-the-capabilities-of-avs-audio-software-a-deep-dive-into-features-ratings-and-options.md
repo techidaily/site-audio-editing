@@ -1078,3 +1078,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/new-here-the-main-discussion-is-regarding-the-split-of-the-audio-from-the-video-in-the-sony-vegas-pro-there-are-also-some-details-about-the-substitute-which/"><u>New Here, the Main Discussion Is Regarding the Split of the Audio From the Video in the Sony Vegas Pro. There Are Also some Details About the Substitute, Which Is Wondershare Filmora</u></a></li>
 </ul></div>
 
+

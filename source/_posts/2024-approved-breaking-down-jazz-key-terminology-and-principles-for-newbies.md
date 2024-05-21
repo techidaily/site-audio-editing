@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Breaking Down Jazz Key Terminology and Principles for Newbies
-date: 2024-05-05T07:18:57.163Z
-updated: 2024-05-06T07:18:57.163Z
+date: 2024-05-20T02:42:25.097Z
+updated: 2024-05-21T02:42:25.097Z
 tags: 
   - audio editing software
   - audio editing
@@ -2324,4 +2324,5 @@ For macOS 10.12 or later
 <li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-lava-yuva-2-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Lava Yuva 2 Pro Black and White | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-apple-iphone-11-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or Apple iPhone 11 Pro without iCloud Password or Apple ID?</u></a></li>
 </ul></div>
+
 

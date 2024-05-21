@@ -1,7 +1,7 @@
 ---
 title: How to Add Audio Fade Out Effect
-date: 2024-05-05T07:09:55.739Z
-updated: 2024-05-06T07:09:55.739Z
+date: 2024-05-20T02:42:06.530Z
+updated: 2024-05-21T02:42:06.530Z
 tags: 
   - audio editing software
   - audio editing
@@ -1367,4 +1367,5 @@ Follow @Liza Brown
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-s23plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy S23+ to iPhone | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-the-best-of-the-best-ogg-converter-features-and-functions-for-2024/"><u>New The Best of the Best OGG Converter Features and Functions for 2024</u></a></li>
 </ul></div>
+
 

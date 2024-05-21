@@ -1,7 +1,7 @@
 ---
 title: Updated Installing and Removing Audacity An Ubuntu Users Handbook
-date: 2024-05-05T07:27:34.865Z
-updated: 2024-05-06T07:27:34.865Z
+date: 2024-05-20T02:42:41.983Z
+updated: 2024-05-21T02:42:41.983Z
 tags: 
   - audio editing software
   - audio editing
@@ -1549,4 +1549,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://howto.techidaily.com/best-methods-for-itel-s23-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Itel S23 Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-motorola-edge-40-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Motorola Edge 40 FRP</u></a></li>
 </ul></div>
+
 

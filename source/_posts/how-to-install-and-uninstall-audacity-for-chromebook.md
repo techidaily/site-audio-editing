@@ -1,7 +1,7 @@
 ---
 title: How to Install and Uninstall Audacity for Chromebook
-date: 2024-05-05T07:11:43.836Z
-updated: 2024-05-06T07:11:43.836Z
+date: 2024-05-20T02:42:09.659Z
+updated: 2024-05-21T02:42:09.659Z
 tags: 
   - audio editing software
   - audio editing
@@ -809,4 +809,5 @@ Online Audio Cutter is an online app that can be used to cut audio tracks right 
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-10-leading-intro-creator-platforms-free-and-paid-options/"><u>Updated In 2024, 10 Leading Intro Creator Platforms Free and Paid Options</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-chromebook-linux-installation-a-beginners-tutorial/"><u>New In 2024, Chromebook Linux Installation A Beginners Tutorial</u></a></li>
 </ul></div>
+
 

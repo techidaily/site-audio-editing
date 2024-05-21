@@ -1,7 +1,7 @@
 ---
 title: Enhancing Accessibility Documenting Computer Audio in Audacity
-date: 2024-05-05T07:11:01.646Z
-updated: 2024-05-06T07:11:01.646Z
+date: 2024-05-20T02:42:08.433Z
+updated: 2024-05-21T02:42:08.433Z
 tags: 
   - audio editing software
   - audio editing
@@ -1345,4 +1345,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-your-photos-and-videos-to-give-an-old-and-vintage-feel-here-are-some-vintage-luts-premiere-pro-free-and-paid-options-available-to-downlo/"><u>In 2024, Do You Want Your Photos and Videos to Give an Old and Vintage Feel? Here Are some Vintage LUTs Premiere Pro Free and Paid Options Available to Download</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/ogg-converter-roundup-the-most-important-findings-for-2024/"><u>OGG Converter Roundup The Most Important Findings for 2024</u></a></li>
 </ul></div>
+
 

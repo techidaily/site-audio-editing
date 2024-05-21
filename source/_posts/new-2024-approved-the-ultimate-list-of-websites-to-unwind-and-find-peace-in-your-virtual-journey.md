@@ -916,3 +916,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-xiaomi-redmi-k70-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Xiaomi Redmi K70?</u></a></li>
 </ul></div>
 
+

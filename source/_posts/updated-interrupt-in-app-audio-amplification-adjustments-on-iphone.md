@@ -1,7 +1,7 @@
 ---
 title: Updated Interrupt In-App Audio Amplification Adjustments on iPhone
-date: 2024-05-05T07:27:42.289Z
-updated: 2024-05-06T07:27:42.289Z
+date: 2024-05-20T02:42:42.195Z
+updated: 2024-05-21T02:42:42.195Z
 tags: 
   - audio editing software
   - audio editing
@@ -1168,4 +1168,5 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 13 devices? | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-rotate-your-avi-videos-with-ease-top-5-free-tools-for-2024/"><u>New Rotate Your AVI Videos with Ease Top 5 Free Tools for 2024</u></a></li>
 </ul></div>
+
 

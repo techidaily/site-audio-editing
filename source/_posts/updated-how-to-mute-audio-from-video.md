@@ -1,7 +1,7 @@
 ---
 title: Updated How to Mute Audio From Video
-date: 2024-05-05T07:16:44.158Z
-updated: 2024-05-06T07:16:44.158Z
+date: 2024-05-20T02:42:19.891Z
+updated: 2024-05-21T02:42:19.891Z
 tags: 
   - audio editing software
   - audio editing
@@ -1063,4 +1063,5 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/updated-in-2024-desktop-video-editing-gopro-quik-and-beyond/"><u>Updated In 2024, Desktop Video Editing GoPro Quik and Beyond</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokémon Go Cooldown Chart On Apple iPhone 12 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

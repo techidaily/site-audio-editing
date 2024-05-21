@@ -1738,3 +1738,4 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/how-to-reset-a-infinix-hot-30i-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Hot 30i Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
 
+

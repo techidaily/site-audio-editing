@@ -1,7 +1,7 @@
 ---
 title: New How to Use Audio Ducking in Adobe Premiere Pro on Win
-date: 2024-05-05T07:26:52.209Z
-updated: 2024-05-06T07:26:52.209Z
+date: 2024-05-20T02:42:40.583Z
+updated: 2024-05-21T02:42:40.583Z
 tags: 
   - audio editing software
   - audio editing
@@ -1312,4 +1312,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-driven-video-production.techidaily.com/steady-as-a-rock-mastering-video-stabilization-in-adobe-premiere-pro/"><u>Steady as a Rock Mastering Video Stabilization in Adobe Premiere Pro</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-galaxy-s23plus-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Galaxy S23+ Phone When You Forget the Password</u></a></li>
 </ul></div>
+
 

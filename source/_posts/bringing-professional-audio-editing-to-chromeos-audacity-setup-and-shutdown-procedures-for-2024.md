@@ -1,7 +1,7 @@
 ---
 title: Bringing Professional Audio Editing to ChromeOS Audacity Setup & Shutdown Procedures for 2024
-date: 2024-05-05T07:19:00.846Z
-updated: 2024-05-06T07:19:00.846Z
+date: 2024-05-20T02:42:25.208Z
+updated: 2024-05-21T02:42:25.208Z
 tags: 
   - audio editing software
   - audio editing
@@ -1312,4 +1312,5 @@ Increasing the volume of a video to make the dialogues sound properly and amplif
 <li><a href="https://techidaily.com/sony-xperia-10-v-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Sony Xperia 10 V can’t play AVCHD .mts video</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-xs-max-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone XS Max and iPad Securely</u></a></li>
 </ul></div>
+
 

@@ -1534,3 +1534,4 @@ For macOS 10.12 or later
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-samsung-galaxy-a05s-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Samsung Galaxy A05s</u></a></li>
 </ul></div>
 
+

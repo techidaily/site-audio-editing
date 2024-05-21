@@ -1280,3 +1280,4 @@ For macOS 10.12 or later
 <li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2019-has-encountered-a-problem-by-stellar-guide/"><u>How to Fix Excel 2019 has Encountered a Problem</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Decibel Diplomacy A Detailed Exploration of Audio Normalization in Media for 2024
-date: 2024-05-05T07:20:37.371Z
-updated: 2024-05-06T07:20:37.371Z
+date: 2024-05-20T02:42:28.248Z
+updated: 2024-05-21T02:42:28.248Z
 tags: 
   - audio editing software
   - audio editing
@@ -858,4 +858,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://smart-video-editing.techidaily.com/the-best-no-cost-security-camera-software-for-2024/"><u>The Best No-Cost Security Camera Software for 2024</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Oppo Reno 9A | Dr.fone</u></a></li>
 </ul></div>
+
 

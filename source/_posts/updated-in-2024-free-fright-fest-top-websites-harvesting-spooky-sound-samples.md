@@ -1054,3 +1054,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-editing-video.techidaily.com/new-understanding-more-about-capcut-lenta-template-and-slow-motion-videos-for-2024/"><u>New Understanding More About CapCut Lenta Template and Slow-Motion Videos for 2024</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Updated Setting Up Audacity on Your Chromebook A Step-by-Step Guide
-date: 2024-05-05T07:33:05.097Z
-updated: 2024-05-06T07:33:05.097Z
+date: 2024-05-20T02:42:52.282Z
+updated: 2024-05-21T02:42:52.282Z
 tags: 
   - audio editing software
   - audio editing
@@ -1094,4 +1094,5 @@ Creative professionals like music artists need software that allows them to reco
 <li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-asus-rog-phone-7-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Asus ROG Phone 7</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/updated-mocking-sponge-bob-meme-generator/"><u>Updated Mocking Sponge Bob Meme Generator</u></a></li>
 </ul></div>
+
 

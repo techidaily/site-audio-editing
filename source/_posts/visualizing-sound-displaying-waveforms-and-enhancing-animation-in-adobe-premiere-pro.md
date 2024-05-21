@@ -1,7 +1,7 @@
 ---
 title: Visualizing Sound Displaying Waveforms & Enhancing Animation in Adobe Premiere Pro
-date: 2024-05-05T07:14:50.303Z
-updated: 2024-05-06T07:14:50.303Z
+date: 2024-05-20T02:42:15.633Z
+updated: 2024-05-21T02:42:15.633Z
 tags: 
   - audio editing software
   - audio editing
@@ -804,4 +804,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/updated-easy-steps-to-export-video-in-filmora/"><u>Updated Easy Steps to Export Video in Filmora</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-great-guide-for-beginners-on-2d-animation-making/"><u>Updated Great Guide for Beginners on 2D Animation Making</u></a></li>
 </ul></div>
+
 

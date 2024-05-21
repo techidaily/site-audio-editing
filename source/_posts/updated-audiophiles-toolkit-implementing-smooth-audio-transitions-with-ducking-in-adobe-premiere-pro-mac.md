@@ -1,7 +1,7 @@
 ---
 title: Updated Audiophiles Toolkit Implementing Smooth Audio Transitions with Ducking in Adobe Premiere Pro (Mac)
-date: 2024-05-05T07:17:42.781Z
-updated: 2024-05-06T07:17:42.781Z
+date: 2024-05-20T02:42:22.062Z
+updated: 2024-05-21T02:42:22.062Z
 tags: 
   - audio editing software
   - audio editing
@@ -1139,4 +1139,5 @@ Numerous effects and resources.
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-free-dvd-player-roundup-top-picks-for-windows-10/"><u>2024 Approved Free DVD Player Roundup Top Picks for Windows 10</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/want-to-make-a-fun-and-cinematic-video-with-an-introductory-text-title-learn-the-stages-of-editing-with-filmora-for-this-effect-here/"><u>Want to Make a Fun and Cinematic Video with an Introductory Text Title? Learn the Stages of Editing with Filmora for This Effect Here</u></a></li>
 </ul></div>
+
 

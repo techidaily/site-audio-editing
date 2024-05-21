@@ -1,7 +1,7 @@
 ---
 title: The Complete Guide to Muting Unwanted Audio Layers in Audacity
-date: 2024-05-05T07:13:36.189Z
-updated: 2024-05-06T07:13:36.189Z
+date: 2024-05-20T02:42:13.246Z
+updated: 2024-05-21T02:42:13.246Z
 tags: 
   - audio editing software
   - audio editing
@@ -1605,4 +1605,5 @@ For macOS 10.12 or later
 <li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-xiaomi-redmi-note-12-pro-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Xiaomi Redmi Note 12 Pro 5G? Fix Now | Dr.fone</u></a></li>
 </ul></div>
+
 

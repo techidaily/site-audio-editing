@@ -1,7 +1,7 @@
 ---
 title: Setting Up and Disabling Audacity for Enhanced Sound Editing on Your Chromebook
-date: 2024-05-05T07:13:03.817Z
-updated: 2024-05-06T07:13:03.817Z
+date: 2024-05-20T02:42:12.257Z
+updated: 2024-05-21T02:42:12.257Z
 tags: 
   - audio editing software
   - audio editing
@@ -1038,4 +1038,5 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/1713950990740-movavi-slideshow-maker-is-a-powerful-video-editing-tool-that-can-be-used-to-add-rich-effects-to-videos-easily-this-guide-will-introduce-the-features-and-sho/"><u>Movavi Slideshow Maker Is a Powerful Video Editing Tool that Can Be Used to Add Rich Effects to Videos Easily. This Guide Will Introduce the Features and Show You How to Apply Effects to Videos with This Tool for 2024</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-free-vob-video-editing-software-for-beginners/"><u>2024 Approved Best Free VOB Video Editing Software for Beginners</u></a></li>
 </ul></div>
+
 

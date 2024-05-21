@@ -974,3 +974,4 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-zte-nubia-z60-ultra-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your ZTE Nubia Z60 Ultra Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
 
+

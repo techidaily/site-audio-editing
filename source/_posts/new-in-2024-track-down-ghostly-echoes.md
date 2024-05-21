@@ -1378,3 +1378,4 @@ Merging audios is combining several audio files into one. We usually select the 
 <li><a href="https://ai-video-editing.techidaily.com/updated-before-and-after-editing-trick-filmora/"><u>Updated Before & After Editing Trick - Filmora</u></a></li>
 </ul></div>
 
+

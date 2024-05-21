@@ -1,7 +1,7 @@
 ---
 title: Enhancing Accessibility Documenting Computer Audio in Audacity for 2024
-date: 2024-05-05T07:22:44.842Z
-updated: 2024-05-06T07:22:44.842Z
+date: 2024-05-20T02:42:32.329Z
+updated: 2024-05-21T02:42:32.329Z
 tags: 
   - audio editing software
   - audio editing
@@ -606,4 +606,5 @@ This article will help you in resolving various audio waveform issues in Premier
 <li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Oppo Find N3? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Find iSpoofer Pro Activation Key On Apple iPhone XR? | Dr.fone</u></a></li>
 </ul></div>
+
 

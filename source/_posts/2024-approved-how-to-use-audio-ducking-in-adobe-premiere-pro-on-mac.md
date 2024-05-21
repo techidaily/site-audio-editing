@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Use Audio Ducking in Adobe Premiere Pro on Mac
-date: 2024-05-05T07:16:27.192Z
-updated: 2024-05-06T07:16:27.192Z
+date: 2024-05-20T02:42:19.146Z
+updated: 2024-05-21T02:42:19.146Z
 tags: 
   - audio editing software
   - audio editing
@@ -1106,4 +1106,5 @@ You may want to extract drums from your favorite songs for various reasons. Mayb
 <li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-y78t-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo Y78t Phone? Unlock It Now</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-realme-12plus-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Realme 12+ 5G to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 

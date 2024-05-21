@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Pitch Correction in Audacity Enhancing Sound Worthily
-date: 2024-05-05T07:35:18.060Z
-updated: 2024-05-06T07:35:18.060Z
+date: 2024-05-20T02:42:56.689Z
+updated: 2024-05-21T02:42:56.689Z
 tags: 
   - audio editing software
   - audio editing
@@ -1230,4 +1230,5 @@ Numerous effects and resources.
 <li><a href="https://smart-video-editing.techidaily.com/time-manipulation-in-final-cut-pro-x-a-step-by-step-guide-for-2024/"><u>Time Manipulation in Final Cut Pro X A Step-by-Step Guide for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-best-tips-on-how-to-design-travel-slideshow/"><u>New 2024 Approved Best Tips on How to Design Travel Slideshow</u></a></li>
 </ul></div>
+
 

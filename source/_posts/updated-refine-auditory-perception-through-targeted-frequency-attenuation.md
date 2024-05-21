@@ -1,7 +1,7 @@
 ---
 title: Updated Refine Auditory Perception Through Targeted Frequency Attenuation
-date: 2024-05-05T07:32:17.838Z
-updated: 2024-05-06T07:32:17.838Z
+date: 2024-05-20T02:42:50.553Z
+updated: 2024-05-21T02:42:50.553Z
 tags: 
   - audio editing software
   - audio editing
@@ -1295,4 +1295,5 @@ All in all, Audacity does an excellent job at audio editing. If you simply need 
 <li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-6s-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 6s iCloud Bypass</u></a></li>
 <li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo T2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

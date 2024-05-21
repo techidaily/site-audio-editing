@@ -1,7 +1,7 @@
 ---
 title: New Open Source Audio Sources A Filmmakers Resource List
-date: 2024-05-05T07:30:30.056Z
-updated: 2024-05-06T07:30:30.056Z
+date: 2024-05-20T02:42:47.415Z
+updated: 2024-05-21T02:42:47.415Z
 tags: 
   - audio editing software
   - audio editing
@@ -1279,4 +1279,5 @@ For macOS 10.12 or later
 <li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-14-plus-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone 14 Plus for Free? | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/best-powerdirector-alternatives-for-android-and-ios/"><u>Best PowerDirector Alternatives for Android and iOS</u></a></li>
 </ul></div>
+
 

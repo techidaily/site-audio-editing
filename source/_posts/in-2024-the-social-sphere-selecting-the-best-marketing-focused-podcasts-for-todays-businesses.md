@@ -1267,3 +1267,4 @@ So, in this article, we have learned about audio normalization, we have answered
 <li><a href="https://ai-video-editing.techidaily.com/new-want-to-speed-up-or-slow-down-a-video-to-make-it-look-different-here-are-the-simple-steps-to-change-video-speed-in-lightworks-video-editor/"><u>New Want to Speed up or Slow Down a Video to Make It Look Different? Here Are the Simple Steps to Change Video Speed in Lightworks Video Editor</u></a></li>
 </ul></div>
 
+

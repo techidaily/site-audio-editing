@@ -1691,3 +1691,4 @@ For macOS 10.12 or later
 <li><a href="https://unlock-android.techidaily.com/top-12-prominent-xiaomi-redmi-a2plus-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Xiaomi Redmi A2+ Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
 
+

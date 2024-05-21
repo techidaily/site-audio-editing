@@ -1289,3 +1289,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-creator.techidaily.com/new-reversing-video-in-final-cut-pro-tips-tricks-and-techniques/"><u>New Reversing Video in Final Cut Pro Tips, Tricks, and Techniques</u></a></li>
 </ul></div>
 
+

@@ -1708,3 +1708,4 @@ Follow @Benjamin Arango
 <li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-smart-7-hd-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Smart 7 HD</u></a></li>
 </ul></div>
 
+

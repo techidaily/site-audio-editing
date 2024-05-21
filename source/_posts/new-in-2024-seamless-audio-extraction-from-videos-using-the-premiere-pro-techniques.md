@@ -1491,3 +1491,4 @@ For macOS 10.12 or later
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Spark 10 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

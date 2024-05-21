@@ -1443,3 +1443,4 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/updated-in-2024-image-dimension-calculator-finding-the-perfect-ratio/"><u>Updated In 2024, Image Dimension Calculator Finding the Perfect Ratio</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Updated Achieving Smooth Transitions in Sound The Guide to Audio Fading
-date: 2024-05-05T07:16:14.921Z
-updated: 2024-05-06T07:16:14.921Z
+date: 2024-05-20T02:42:18.620Z
+updated: 2024-05-21T02:42:18.620Z
 tags: 
   - audio editing software
   - audio editing
@@ -1099,4 +1099,5 @@ Using sound effects that make a scene relatable is nothing less than art. This a
 <li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-infinix-note-30-vip-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Infinix Note 30 VIP Phone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-can-i-play-mov-files-on-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>How can I play .mov files on Galaxy S21 FE 5G (2023) ?</u></a></li>
 </ul></div>
+
 

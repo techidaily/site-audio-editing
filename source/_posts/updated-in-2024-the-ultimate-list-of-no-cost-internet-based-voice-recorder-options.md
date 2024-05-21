@@ -1401,3 +1401,4 @@ As the uploading speed is slow, we highly suggest using Filmora to add audio to 
 <li><a href="https://ai-editing-video.techidaily.com/updated-cropping-a-video-in-davinci-resolve-step-by-step/"><u>Updated Cropping a Video in Davinci Resolve Step by Step</u></a></li>
 </ul></div>
 
+

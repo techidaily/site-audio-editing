@@ -1,7 +1,7 @@
 ---
 title: Sound Design Excellence Applying Audio Ducking Methods in PowerDirector for Non-Intrusive Volume Reduction
-date: 2024-05-05T07:13:10.729Z
-updated: 2024-05-06T07:13:10.729Z
+date: 2024-05-20T02:42:12.417Z
+updated: 2024-05-21T02:42:12.417Z
 tags: 
   - audio editing software
   - audio editing
@@ -1104,4 +1104,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://smart-video-creator.techidaily.com/level-up-your-recording-3-simple-and-effective-methods/"><u>Level Up Your Recording 3 Simple and Effective Methods</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-a1-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Oppo A1 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

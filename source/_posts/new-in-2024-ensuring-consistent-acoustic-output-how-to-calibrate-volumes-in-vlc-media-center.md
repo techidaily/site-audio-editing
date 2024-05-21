@@ -639,3 +639,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-editing-video.techidaily.com/new-detailed-guide-to-crop-video-in-sony-vegas-pro-for-2024/"><u>New Detailed Guide to Crop Video in Sony Vegas Pro for 2024</u></a></li>
 </ul></div>
 
+

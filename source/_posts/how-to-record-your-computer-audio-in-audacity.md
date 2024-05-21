@@ -1,7 +1,7 @@
 ---
 title: How To Record Your Computer Audio in Audacity
-date: 2024-05-05T07:11:41.974Z
-updated: 2024-05-06T07:11:41.974Z
+date: 2024-05-20T02:42:09.551Z
+updated: 2024-05-21T02:42:09.551Z
 tags: 
   - audio editing software
   - audio editing
@@ -1333,4 +1333,5 @@ The podcast directories introduced above are reliable for submitting podcast sho
 <li><a href="https://techidaily.com/xiaomi-redmi-k70e-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Xiaomi Redmi K70E won’t play MKV movies</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Tecno Spark 10 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering the Art of Volume Control A Guide to Seamless Audio Transitions in Adobe After Effects
-date: 2024-05-05T07:29:24.648Z
-updated: 2024-05-06T07:29:24.648Z
+date: 2024-05-20T02:42:45.082Z
+updated: 2024-05-21T02:42:45.082Z
 tags: 
   - audio editing software
   - audio editing
@@ -1224,4 +1224,5 @@ There is a diverse range of [voice recorders and music-creating software](https:
 <li><a href="https://video-ai-editor.techidaily.com/2024-approved-here-weve-selected-some-of-the-best-alternatives-to-imovie-for-windows-10/"><u>2024 Approved Here Weve Selected some of the Best Alternatives to iMovie for Windows 10</u></a></li>
 <li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-12-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone 12</u></a></li>
 </ul></div>
+
 

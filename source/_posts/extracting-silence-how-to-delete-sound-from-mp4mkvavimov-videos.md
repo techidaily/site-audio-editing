@@ -1,7 +1,7 @@
 ---
 title: Extracting Silence How to Delete Sound From MP4/MKV/AVI/MOV Videos
-date: 2024-05-05T07:11:24.604Z
-updated: 2024-05-06T07:11:24.604Z
+date: 2024-05-20T02:42:08.990Z
+updated: 2024-05-21T02:42:08.990Z
 tags: 
   - audio editing software
   - audio editing
@@ -1289,4 +1289,5 @@ For macOS 10.12 or later
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-free-audio-editing-software-for-m4a-files-top-5/"><u>New 2024 Approved Free Audio Editing Software for M4A Files Top 5</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-v30-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo V30 in 3 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

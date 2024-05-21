@@ -1033,3 +1033,4 @@ Follow @Shanoon Cox
 <li><a href="https://techidaily.com/how-to-hard-reset-lava-blaze-2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Lava Blaze 2 Without Password | Dr.fone</u></a></li>
 </ul></div>
 
+

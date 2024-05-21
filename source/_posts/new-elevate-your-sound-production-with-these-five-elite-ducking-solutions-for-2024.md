@@ -1294,3 +1294,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-install-lumafusion-for-mac-or-get-best-alternatives-on-mac/"><u>Updated In 2024, Install Lumafusion for Mac or Get Best Alternatives on Mac</u></a></li>
 </ul></div>
 
+

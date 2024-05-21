@@ -1,7 +1,7 @@
 ---
 title: Methods of Exporting Audio From Audacity in MP3 Format
-date: 2024-05-05T07:12:23.988Z
-updated: 2024-05-06T07:12:23.988Z
+date: 2024-05-20T02:42:10.960Z
+updated: 2024-05-21T02:42:10.960Z
 tags: 
   - audio editing software
   - audio editing
@@ -1206,4 +1206,5 @@ For macOS 10.12 or later
 <li><a href="https://video-content-creator.techidaily.com/updated-mpeg-video-splitter-reviews-5-best-free-tools-for-2024/"><u>Updated MPEG Video Splitter Reviews 5 Best Free Tools for 2024</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your OnePlus Ace 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

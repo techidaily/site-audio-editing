@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Record Your Computer Audio in Audacity
-date: 2024-05-05T07:26:41.773Z
-updated: 2024-05-06T07:26:41.773Z
+date: 2024-05-20T02:42:40.126Z
+updated: 2024-05-21T02:42:40.126Z
 tags: 
   - audio editing software
   - audio editing
@@ -1012,4 +1012,5 @@ Numerous effects to choose from.
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-lava-blaze-pro-5g-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Lava Blaze Pro 5G</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-vivo-v30-lite-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Vivo V30 Lite 5G Phone Hassle-Free</u></a></li>
 </ul></div>
+
 

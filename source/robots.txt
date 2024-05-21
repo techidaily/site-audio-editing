@@ -1,4 +1,4 @@
-Sitemap: https://audio-editing.techidaily.com/sitemap.xml
+Sitemap: https://audio-editing.techidaily.com/sitemap_index.xml
 User-agent: Googlebot
 Disallow:
 

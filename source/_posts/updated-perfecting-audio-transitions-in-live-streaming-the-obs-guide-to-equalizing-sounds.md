@@ -1,7 +1,7 @@
 ---
 title: Updated Perfecting Audio Transitions in Live Streaming The OBS Guide to Equalizing Sounds
-date: 2024-05-05T07:30:46.629Z
-updated: 2024-05-06T07:30:46.629Z
+date: 2024-05-20T02:42:47.844Z
+updated: 2024-05-21T02:42:47.844Z
 tags: 
   - audio editing software
   - audio editing
@@ -873,4 +873,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-ai-editor.techidaily.com/2024-approved-8-great-image-ratio-changer-online/"><u>2024 Approved 8 Great Image Ratio Changer Online</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/the-ultimate-free-video-blur-hack-online-solution-for-2024/"><u>The Ultimate Free Video Blur Hack Online Solution for 2024</u></a></li>
 </ul></div>
+
 

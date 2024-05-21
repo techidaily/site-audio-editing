@@ -1,7 +1,7 @@
 ---
 title: New Amplify Your Voice Basic Changes on Audacity Made Simple
-date: 2024-05-05T07:16:52.818Z
-updated: 2024-05-06T07:16:52.818Z
+date: 2024-05-20T02:42:20.260Z
+updated: 2024-05-21T02:42:20.260Z
 tags: 
   - audio editing software
   - audio editing
@@ -1215,4 +1215,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-video-apps.techidaily.com/updated-top-6-intro-video-makers-for-stunning-movie-openers/"><u>Updated Top 6 Intro Video Makers for Stunning Movie Openers</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-convert-youtube-videos-to-mp3-with-ease-best-tools/"><u>In 2024, Convert YouTube Videos to MP3 with Ease Best Tools</u></a></li>
 </ul></div>
+
 

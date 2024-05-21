@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Adding Lame Library to Your Audacity Setup
-date: 2024-05-05T07:11:09.875Z
-updated: 2024-05-06T07:11:09.875Z
+date: 2024-05-20T02:42:08.641Z
+updated: 2024-05-21T02:42:08.641Z
 tags: 
   - audio editing software
   - audio editing
@@ -880,4 +880,5 @@ Follow @Shanoon Cox
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-how-to-make-a-gif-in-photoshop/"><u>New In 2024, How to Make a GIF in Photoshop</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-editing-gopro-videos-on-mac-best-practices-and-software/"><u>2024 Approved Editing GoPro Videos on Mac Best Practices and Software</u></a></li>
 </ul></div>
+
 

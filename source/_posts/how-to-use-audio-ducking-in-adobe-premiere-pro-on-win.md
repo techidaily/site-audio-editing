@@ -1,7 +1,7 @@
 ---
 title: How to Use Audio Ducking in Adobe Premiere Pro on Win
-date: 2024-05-05T07:11:47.584Z
-updated: 2024-05-06T07:11:47.584Z
+date: 2024-05-20T02:42:09.783Z
+updated: 2024-05-21T02:42:09.783Z
 tags: 
   - audio editing software
   - audio editing
@@ -1189,4 +1189,5 @@ All these audio recorders work well on Chrome. If you only need to record some m
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 11 | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/voice-cloning-in-descript-features-guide-and-alternatives/"><u>Voice Cloning in Descript Features, Guide & Alternatives</u></a></li>
 </ul></div>
+
 

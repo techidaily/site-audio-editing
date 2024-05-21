@@ -1,7 +1,7 @@
 ---
 title: New Steps for Integrating Soundtracks Into MKV Format (MKV v2.0.2 Release)
-date: 2024-05-05T07:34:14.716Z
-updated: 2024-05-06T07:34:14.716Z
+date: 2024-05-20T02:42:54.568Z
+updated: 2024-05-21T02:42:54.568Z
 tags: 
   - audio editing software
   - audio editing
@@ -470,4 +470,5 @@ So, in this article, we learned a lot about normalizing volumes, why and how it 
 <li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y02T | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-vn-video-editor-app-review-is-it-worth-downloading/"><u>Updated VN Video Editor App Review Is It Worth Downloading?</u></a></li>
 </ul></div>
+
 

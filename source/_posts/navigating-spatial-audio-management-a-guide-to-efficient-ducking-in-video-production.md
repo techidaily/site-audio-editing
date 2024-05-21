@@ -1,7 +1,7 @@
 ---
 title: Navigating Spatial Audio Management A Guide to Efficient Ducking in Video Production
-date: 2024-05-05T07:12:29.021Z
-updated: 2024-05-06T07:12:29.021Z
+date: 2024-05-20T02:42:11.142Z
+updated: 2024-05-21T02:42:11.142Z
 tags: 
   - audio editing software
   - audio editing
@@ -1265,4 +1265,5 @@ Follow @Liza Brown
 <li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo T2 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/hard-reset-samsung-galaxy-xcover-6-pro-tactical-edition-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy XCover 6 Pro Tactical Edition in 3 Efficient Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Audiobook Making Made Simple An Up-to-Date, All-Inclusive Handbook
-date: 2024-05-05T07:10:00.161Z
-updated: 2024-05-06T07:10:00.161Z
+date: 2024-05-20T02:42:06.629Z
+updated: 2024-05-21T02:42:06.629Z
 tags: 
   - audio editing software
   - audio editing
@@ -1541,4 +1541,5 @@ For macOS 10.12 or later
 <li><a href="https://video-content-creator.techidaily.com/updated-from-script-to-screen-on-a-shoestring-8-affordable-filmmaking-software-for-2024/"><u>Updated From Script to Screen on a Shoestring 8 Affordable Filmmaking Software for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-top-8-augmented-reality-video-games/"><u>Updated In 2024, Top 8 Augmented Reality Video Games</u></a></li>
 </ul></div>
+
 

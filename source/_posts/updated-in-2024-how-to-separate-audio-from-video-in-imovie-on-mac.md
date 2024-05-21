@@ -1650,3 +1650,4 @@ For macOS 10.12 or later
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-pop-7-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Tecno Pop 7 Pro</u></a></li>
 </ul></div>
 
+

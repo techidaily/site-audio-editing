@@ -1,7 +1,7 @@
 ---
 title: New Elevating and Dimming Audio in Audacity A Step-by-Step Approach
-date: 2024-05-05T07:22:15.212Z
-updated: 2024-05-06T07:22:15.212Z
+date: 2024-05-20T02:42:31.695Z
+updated: 2024-05-21T02:42:31.695Z
 tags: 
   - audio editing software
   - audio editing
@@ -947,4 +947,5 @@ Therefore, this content had given you insights about where to find the brush sou
 <li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-xiaomi-redmi-13c-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Xiaomi Redmi 13C 5G? Fix Now | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/play-mov-movies-on-motorola-moto-g34-5g-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Motorola Moto G34 5G, is it possible?</u></a></li>
 </ul></div>
+
 

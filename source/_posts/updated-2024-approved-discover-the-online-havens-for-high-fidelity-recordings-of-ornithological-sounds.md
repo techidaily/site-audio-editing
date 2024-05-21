@@ -869,3 +869,4 @@ For macOS 10.12 or later
 <li><a href="https://video-ai-editor.techidaily.com/updated-10-best-aspect-ratio-editor-software-for-perfect-proportions-for-2024/"><u>Updated 10 Best Aspect Ratio Editor Software for Perfect Proportions for 2024</u></a></li>
 </ul></div>
 
+

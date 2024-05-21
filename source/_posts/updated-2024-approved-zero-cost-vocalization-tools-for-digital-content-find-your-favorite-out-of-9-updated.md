@@ -1717,3 +1717,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-note-30-vip-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Note 30 VIP?</u></a></li>
 </ul></div>
 
+

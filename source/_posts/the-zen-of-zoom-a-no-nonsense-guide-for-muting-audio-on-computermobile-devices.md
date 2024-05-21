@@ -1,7 +1,7 @@
 ---
 title: The Zen of Zoom A No-Nonsense Guide for Muting Audio on Computer/Mobile Devices
-date: 2024-05-05T07:14:10.167Z
-updated: 2024-05-06T07:14:10.167Z
+date: 2024-05-20T02:42:14.348Z
+updated: 2024-05-21T02:42:14.348Z
 tags: 
   - audio editing software
   - audio editing
@@ -1491,4 +1491,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-4k-video-editing-made-easy-top-proxy-editing-tools/"><u>Updated 4K Video Editing Made Easy Top Proxy Editing Tools</u></a></li>
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Tecno Pova 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

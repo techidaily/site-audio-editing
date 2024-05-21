@@ -2282,3 +2282,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/updated-make-a-lasting-impression-how-to-design-custom-linkedin-video-thumbnails/"><u>Updated Make a Lasting Impression How to Design Custom LinkedIn Video Thumbnails</u></a></li>
 </ul></div>
 
+

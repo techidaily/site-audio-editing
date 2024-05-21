@@ -1,7 +1,7 @@
 ---
 title: New Basic Knowledge About Jazz Music That You Need Know
-date: 2024-05-05T07:27:47.595Z
-updated: 2024-05-06T07:27:47.595Z
+date: 2024-05-20T02:42:42.311Z
+updated: 2024-05-21T02:42:42.311Z
 tags: 
   - audio editing software
   - audio editing
@@ -1160,4 +1160,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-video-tempo-changers-top-picks-for-windows-and-mac-users/"><u>2024 Approved Video Tempo Changers Top Picks for Windows and Mac Users</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-14-top-rated-free-video-editing-tools-without-watermarks/"><u>New 14 Top-Rated Free Video Editing Tools Without Watermarks</u></a></li>
 </ul></div>
+
 

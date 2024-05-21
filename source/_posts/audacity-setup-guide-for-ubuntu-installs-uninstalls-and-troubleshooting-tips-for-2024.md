@@ -1,7 +1,7 @@
 ---
 title: Audacity Setup Guide for Ubuntu Installs, Uninstalls & Troubleshooting Tips for 2024
-date: 2024-05-05T07:17:07.002Z
-updated: 2024-05-06T07:17:07.002Z
+date: 2024-05-20T02:42:20.644Z
+updated: 2024-05-21T02:42:20.644Z
 tags: 
   - audio editing software
   - audio editing
@@ -1116,4 +1116,5 @@ Hopefully, you can now decide better about choosing a music editing software for
 <li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-y36-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo Y36 Black and White | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-15-plus-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 15 Plus when Phone is Broken?</u></a></li>
 </ul></div>
+
 

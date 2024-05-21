@@ -1,7 +1,7 @@
 ---
 title: Updated Customizing Audio Intensity The Ultimate Guide to Volume Management in Audacity
-date: 2024-05-05T07:20:17.294Z
-updated: 2024-05-06T07:20:17.294Z
+date: 2024-05-20T02:42:27.662Z
+updated: 2024-05-21T02:42:27.662Z
 tags: 
   - audio editing software
   - audio editing
@@ -1284,4 +1284,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Oppo A2? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone SE (2020)</u></a></li>
 </ul></div>
+
 

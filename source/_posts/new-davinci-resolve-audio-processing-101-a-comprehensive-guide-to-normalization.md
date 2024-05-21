@@ -1,7 +1,7 @@
 ---
 title: New DaVinci Resolve Audio Processing 101 A Comprehensive Guide to Normalization
-date: 2024-05-05T07:20:35.519Z
-updated: 2024-05-06T07:20:35.519Z
+date: 2024-05-20T02:42:28.210Z
+updated: 2024-05-21T02:42:28.210Z
 tags: 
   - audio editing software
   - audio editing
@@ -1346,4 +1346,5 @@ Follow @Benjamin Arango
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-effortless-video-trimming-on-mac-the-ultimate-guide/"><u>New In 2024, Effortless Video Trimming on Mac The Ultimate Guide</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-the-free-music-makers-toolkit-12-essential-recording-software/"><u>Updated The Free Music Makers Toolkit 12 Essential Recording Software</u></a></li>
 </ul></div>
+
 

@@ -1231,3 +1231,4 @@ You can find video files on all kinds of online social media platforms. These ar
 <li><a href="https://fix-guide.techidaily.com/infinix-smart-8-hd-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 HD Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 
+

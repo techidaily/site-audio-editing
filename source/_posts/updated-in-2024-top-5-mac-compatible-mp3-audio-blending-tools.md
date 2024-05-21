@@ -1230,3 +1230,4 @@ Vimeo Video Size Ratio and other requirements to upload your video to the Vimeo 
 <li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-samsung-galaxy-xcover-6-pro-tactical-edition-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Samsung Galaxy XCover 6 Pro Tactical Edition, is it possible?</u></a></li>
 </ul></div>
 
+

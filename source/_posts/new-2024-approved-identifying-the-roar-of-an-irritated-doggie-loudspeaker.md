@@ -1679,3 +1679,4 @@ For macOS 10.12 or later
 <li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo Y100? | Dr.fone</u></a></li>
 </ul></div>
 
+

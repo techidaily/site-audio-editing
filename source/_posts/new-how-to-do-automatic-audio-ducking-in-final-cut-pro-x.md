@@ -1,7 +1,7 @@
 ---
 title: New How to Do Automatic Audio Ducking in Final Cut Pro X
-date: 2024-05-05T07:17:58.126Z
-updated: 2024-05-06T07:17:58.126Z
+date: 2024-05-20T02:42:22.555Z
+updated: 2024-05-21T02:42:22.555Z
 tags: 
   - audio editing software
   - audio editing
@@ -1262,4 +1262,5 @@ There is a diverse range of [voice recorders and music-creating software](https:
 <li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo Phones</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/choosing-the-perfect-video-to-audio-converter-key-criteria-to-consider/"><u>Choosing the Perfect Video to Audio Converter Key Criteria to Consider</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Sonic Injury A Compilation of Terrifying Noise Samples for Entertainment
-date: 2024-05-05T07:13:08.072Z
-updated: 2024-05-06T07:13:08.072Z
+date: 2024-05-20T02:42:12.361Z
+updated: 2024-05-21T02:42:12.361Z
 tags: 
   - audio editing software
   - audio editing
@@ -2793,4 +2793,5 @@ Follow @Benjamin Arango
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-top-mac-speech-to-text-apps-you-never-knew-existed-free-and-no-installation/"><u>New 2024 Approved Top Mac Speech-to-Text Apps You Never Knew Existed Free & No Installation</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-free-gif-loop-creator-tools-for-2024/"><u>Updated Unleash Your Creativity Free GIF Loop Creator Tools for 2024</u></a></li>
 </ul></div>
+
 

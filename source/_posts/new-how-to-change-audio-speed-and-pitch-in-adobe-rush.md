@@ -1,7 +1,7 @@
 ---
 title: New How to Change Audio Speed and Pitch in Adobe Rush
-date: 2024-05-05T07:26:23.160Z
-updated: 2024-05-06T07:26:23.160Z
+date: 2024-05-20T02:42:39.521Z
+updated: 2024-05-21T02:42:39.521Z
 tags: 
   - audio editing software
   - audio editing
@@ -1330,4 +1330,5 @@ Follow @Benjamin Arango
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-make-your-presentation-more-attractive-with-best-google-slideshows-templates-how-to-make-a-google-slideshow-in-simple-step-do-you-know-how-to-create/"><u>In 2024, Make Your Presentation More Attractive with Best Google Slideshows Templates. How to Make a Google Slideshow in Simple Step? Do You Know How to Create Google Images Slideshow?</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 12 | Dr.fone</u></a></li>
 </ul></div>
+
 

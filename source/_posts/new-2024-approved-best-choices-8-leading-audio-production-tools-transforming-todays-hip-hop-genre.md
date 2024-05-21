@@ -1605,3 +1605,4 @@ For macOS 10.12 or later
 <li><a href="https://video-ai-editor.techidaily.com/2024-approved-from-wide-to-square-mastering-video-aspect-ratio-in-minutes/"><u>2024 Approved From Wide to Square Mastering Video Aspect Ratio in Minutes</u></a></li>
 </ul></div>
 
+

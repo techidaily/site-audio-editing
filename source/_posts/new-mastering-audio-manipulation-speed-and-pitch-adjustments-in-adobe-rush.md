@@ -1,7 +1,7 @@
 ---
 title: New Mastering Audio Manipulation Speed and Pitch Adjustments in Adobe Rush
-date: 2024-05-05T07:28:38.350Z
-updated: 2024-05-06T07:28:38.350Z
+date: 2024-05-20T02:42:43.741Z
+updated: 2024-05-21T02:42:43.741Z
 tags: 
   - audio editing software
   - audio editing
@@ -1083,4 +1083,5 @@ There are high chances of audio sound not being in the required pitch or volume.
 <li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-13c-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi 13C Device Made Easy | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

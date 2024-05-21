@@ -1,7 +1,7 @@
 ---
 title: Updated Fine-Tuning Audacitys Decibel Settings for Perfect Balance
-date: 2024-05-05T07:24:53.034Z
-updated: 2024-05-06T07:24:53.034Z
+date: 2024-05-20T02:42:36.121Z
+updated: 2024-05-21T02:42:36.121Z
 tags: 
   - audio editing software
   - audio editing
@@ -1726,4 +1726,5 @@ For macOS 10.12 or later
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nokia C22 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-motorola-edge-2023-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Motorola Edge 2023? </u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Audio Transition Techniques with Keyframes A Mac-Based Filmorians Handbook
-date: 2024-05-05T07:09:59.120Z
-updated: 2024-05-06T07:09:59.120Z
+date: 2024-05-20T02:42:06.615Z
+updated: 2024-05-21T02:42:06.615Z
 tags: 
   - audio editing software
   - audio editing
@@ -1209,4 +1209,5 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/new-video-compression-made-easy-5-free-apps-for-iphone-and-ipad/"><u>New Video Compression Made Easy 5 Free Apps for iPhone and iPad</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-v27e-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo V27e is off? | Dr.fone</u></a></li>
 </ul></div>
+
 

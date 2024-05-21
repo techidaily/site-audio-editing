@@ -1,7 +1,7 @@
 ---
 title: How to Cut Audio in iMovie on Mac & iPhone for 2024
-date: 2024-05-05T07:26:28.146Z
-updated: 2024-05-06T07:26:28.146Z
+date: 2024-05-20T02:42:39.792Z
+updated: 2024-05-21T02:42:39.792Z
 tags: 
   - audio editing software
   - audio editing
@@ -1214,4 +1214,5 @@ Follow @Shanoon Cox
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-itel-p55t-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Itel P55T | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/how-to-make-a-video-by-mouse-with-filmora/"><u>How to Make a Video by Mouse with Filmora</u></a></li>
 </ul></div>
+
 

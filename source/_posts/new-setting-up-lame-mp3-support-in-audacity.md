@@ -1,7 +1,7 @@
 ---
 title: New Setting Up Lame MP3 Support in Audacity
-date: 2024-05-05T07:33:05.624Z
-updated: 2024-05-06T07:33:05.624Z
+date: 2024-05-20T02:42:52.331Z
+updated: 2024-05-21T02:42:52.331Z
 tags: 
   - audio editing software
   - audio editing
@@ -1424,4 +1424,5 @@ For macOS 10.12 or later
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-note-30-vip-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Note 30 VIP</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-huawei-nova-y71-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Huawei Nova Y71 Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1426,3 +1426,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/sign-jpg-online-for-free-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>Sign JPG Online for Free</u></a></li>
 </ul></div>
 
+

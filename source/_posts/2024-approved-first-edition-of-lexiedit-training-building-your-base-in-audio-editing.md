@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved First Edition of LexiEdit Training Building Your Base in Audio Editing
-date: 2024-05-05T07:24:54.356Z
-updated: 2024-05-06T07:24:54.356Z
+date: 2024-05-20T02:42:36.139Z
+updated: 2024-05-21T02:42:36.139Z
 tags: 
   - audio editing software
   - audio editing
@@ -1253,4 +1253,5 @@ Thus, you had an interesting discussion about the availability of fart sounds in
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Poco X6 | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-fcpx-productivity-hacks-top-40-keyboard-shortcuts-for-editors-for-2024/"><u>Updated FCPX Productivity Hacks Top 40 Keyboard Shortcuts for Editors for 2024</u></a></li>
 </ul></div>
+
 

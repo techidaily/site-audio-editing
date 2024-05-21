@@ -1,7 +1,7 @@
 ---
 title: Updated The Complete Guide to Muting Unwanted Audio Layers in Audacity
-date: 2024-05-05T07:35:44.086Z
-updated: 2024-05-06T07:35:44.086Z
+date: 2024-05-20T02:42:57.188Z
+updated: 2024-05-21T02:42:57.188Z
 tags: 
   - audio editing software
   - audio editing
@@ -1346,4 +1346,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-camon-20-premier-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Camon 20 Premier 5G to iPhone XS/11 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-unlimited-gif-loops-top-free-creators-and-makers/"><u>Updated Unlimited GIF Loops Top Free Creators and Makers</u></a></li>
 </ul></div>
+
 

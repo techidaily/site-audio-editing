@@ -1187,3 +1187,4 @@ Numerous effects, footage and audio.
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-color-matching-secrets-expert-tips-for-a-cohesive-look/"><u>Updated Final Cut Pro Color Matching Secrets Expert Tips for a Cohesive Look</u></a></li>
 </ul></div>
 
+

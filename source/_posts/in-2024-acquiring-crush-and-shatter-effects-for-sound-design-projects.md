@@ -1,7 +1,7 @@
 ---
 title: In 2024, Acquiring Crush and Shatter Effects for Sound Design Projects
-date: 2024-05-05T07:16:17.784Z
-updated: 2024-05-06T07:16:17.784Z
+date: 2024-05-20T02:42:18.664Z
+updated: 2024-05-21T02:42:18.664Z
 tags: 
   - audio editing software
   - audio editing
@@ -1165,4 +1165,5 @@ Audio mixing and editing are sometimes essential to creating an excellent music 
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-webm-to-gif-converters-online-and-offline-solutions/"><u>New In 2024, WebM to GIF Converters (Online and Offline Solutions)</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-video-editor-for-mavericks-how-to-edit-videos-in-os-x-mavericks/"><u>New 2024 Approved Video Editor for Mavericks How to Edit Videos in OS X Mavericks</u></a></li>
 </ul></div>
+
 

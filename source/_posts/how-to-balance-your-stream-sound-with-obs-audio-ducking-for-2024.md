@@ -1,7 +1,7 @@
 ---
 title: How to Balance Your Stream Sound with OBS Audio Ducking for 2024
-date: 2024-05-05T07:18:03.164Z
-updated: 2024-05-06T07:18:03.164Z
+date: 2024-05-20T02:42:22.739Z
+updated: 2024-05-21T02:42:22.739Z
 tags: 
   - audio editing software
   - audio editing
@@ -1673,4 +1673,5 @@ Follow @Benjamin Arango
 <li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-lenovo-thinkphone-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Lenovo ThinkPhone? Fix Now | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Nubia Z50S Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

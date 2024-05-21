@@ -1140,3 +1140,4 @@ Follow @Shanoon Cox
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-infinix-zero-30-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Infinix Zero 30 5G to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

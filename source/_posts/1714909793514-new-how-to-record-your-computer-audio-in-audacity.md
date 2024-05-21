@@ -1,7 +1,7 @@
 ---
 title: New How to Record Your Computer Audio in Audacity
-date: 2024-05-05T07:26:42.042Z
-updated: 2024-05-06T07:26:42.042Z
+date: 2024-05-20T02:42:40.129Z
+updated: 2024-05-21T02:42:40.129Z
 tags: 
   - audio editing software
   - audio editing
@@ -1142,4 +1142,5 @@ Follow @Benjamin Arango
 <li><a href="https://video-ai-editor.techidaily.com/new-free-top-10-best-online-video-editors-no-watermark-for-2024/"><u>New FREE Top 10 Best Online Video Editors No Watermark for 2024</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-guide-to-slow-motion-video-editing-top-10-tools/"><u>New In 2024, The Ultimate Guide to Slow Motion Video Editing Top 10 Tools</u></a></li>
 </ul></div>
+
 

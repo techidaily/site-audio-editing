@@ -1,7 +1,7 @@
 ---
 title: In 2024, Elevating Your Music Mix Changing Volume in Audacity
-date: 2024-05-05T07:22:21.508Z
-updated: 2024-05-06T07:22:21.508Z
+date: 2024-05-20T02:42:31.786Z
+updated: 2024-05-21T02:42:31.786Z
 tags: 
   - audio editing software
   - audio editing
@@ -1308,4 +1308,5 @@ For macOS 10.12 or later
 <li><a href="https://animation-videos.techidaily.com/in-2024-10-photoshop-cartoon-effects-for-creatives/"><u>In 2024, 10 Photoshop Cartoon Effects For Creatives</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/2024-approved-the-ultimate-guide-to-converting-video-to-mp3-without-compromising-sound/"><u>2024 Approved The Ultimate Guide to Converting Video to MP3 without Compromising Sound</u></a></li>
 </ul></div>
+
 

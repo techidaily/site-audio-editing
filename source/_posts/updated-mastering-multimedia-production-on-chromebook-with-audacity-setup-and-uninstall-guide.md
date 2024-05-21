@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Multimedia Production on Chromebook with Audacity - Setup & Uninstall Guide
-date: 2024-05-05T07:28:54.726Z
-updated: 2024-05-06T07:28:54.726Z
+date: 2024-05-20T02:42:44.199Z
+updated: 2024-05-21T02:42:44.199Z
 tags: 
   - audio editing software
   - audio editing
@@ -1291,4 +1291,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-s18e-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo S18e online without jailbreak</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: New Mastering Multimedia Production on Chromebook with Audacity - Setup & Uninstall Guide
-date: 2024-05-05T07:28:54.471Z
-updated: 2024-05-06T07:28:54.471Z
+date: 2024-05-20T02:42:44.196Z
+updated: 2024-05-21T02:42:44.196Z
 tags: 
   - audio editing software
   - audio editing
@@ -1173,4 +1173,5 @@ Turn long videos into viral clips. Effortlessly transform lengthy videos into en
 <li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12 mini | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y36-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y36 by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 

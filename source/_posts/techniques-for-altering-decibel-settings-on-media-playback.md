@@ -1,7 +1,7 @@
 ---
 title: Techniques for Altering Decibel Settings on Media Playback
-date: 2024-05-05T07:13:26.888Z
-updated: 2024-05-06T07:13:26.888Z
+date: 2024-05-20T02:42:12.974Z
+updated: 2024-05-21T02:42:12.974Z
 tags: 
   - audio editing software
   - audio editing
@@ -718,4 +718,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v30-lite-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V30 Lite 5G Location by Number | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/top-12-prominent-infinix-zero-30-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Infinix Zero 30 5G Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
+
 

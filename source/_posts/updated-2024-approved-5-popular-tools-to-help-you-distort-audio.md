@@ -979,3 +979,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mac-video-editing-made-easy-avs-editor/"><u>New 2024 Approved Mac Video Editing Made Easy AVS Editor</u></a></li>
 </ul></div>
 
+

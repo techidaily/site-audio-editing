@@ -1615,3 +1615,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-tools.techidaily.com/updated-the-art-of-image-resizing-calculating-and-adjusting-ratios-for-perfection/"><u>Updated The Art of Image Resizing Calculating and Adjusting Ratios for Perfection</u></a></li>
 </ul></div>
 
+

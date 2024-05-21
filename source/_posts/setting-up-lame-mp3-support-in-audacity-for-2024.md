@@ -1,7 +1,7 @@
 ---
 title: Setting Up Lame MP3 Support in Audacity for 2024
-date: 2024-05-05T07:33:05.361Z
-updated: 2024-05-06T07:33:05.361Z
+date: 2024-05-20T02:42:52.284Z
+updated: 2024-05-21T02:42:52.284Z
 tags: 
   - audio editing software
   - audio editing
@@ -1189,4 +1189,5 @@ This article tried to cover different kinds of voice changers for gaming purpose
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-v27-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo V27 Phone that is Locked?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-magic-v2-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor Magic V2 to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

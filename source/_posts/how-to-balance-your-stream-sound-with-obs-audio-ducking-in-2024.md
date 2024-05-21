@@ -1,7 +1,7 @@
 ---
 title: How to Balance Your Stream Sound with OBS Audio Ducking, In 2024
-date: 2024-05-05T07:18:02.897Z
-updated: 2024-05-06T07:18:02.897Z
+date: 2024-05-20T02:42:22.731Z
+updated: 2024-05-21T02:42:22.731Z
 tags: 
   - audio editing software
   - audio editing
@@ -1349,4 +1349,5 @@ For macOS 10.12 or later
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Poco F5 5G? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-infinix-gt-10-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Infinix GT 10 Pro FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+
 

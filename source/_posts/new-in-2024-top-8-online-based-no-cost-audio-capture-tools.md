@@ -1678,3 +1678,4 @@ For macOS 10.12 or later
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-a14-4g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy A14 4G to New Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

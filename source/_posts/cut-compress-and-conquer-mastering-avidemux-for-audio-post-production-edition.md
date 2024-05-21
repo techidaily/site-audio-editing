@@ -1,7 +1,7 @@
 ---
 title: Cut, Compress & Conquer Mastering Avidemux for Audio Post Production ( Edition)
-date: 2024-05-05T07:10:33.702Z
-updated: 2024-05-06T07:10:33.702Z
+date: 2024-05-20T02:42:07.507Z
+updated: 2024-05-21T02:42:07.507Z
 tags: 
   - audio editing software
   - audio editing
@@ -918,4 +918,5 @@ Music controls are features that we can't miss here. You can have only basic con
 <li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>How to identify some outdated drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/3gp-video-format-what-is-3gp-format-and-how-to-play-it-for-2024/"><u>3GP Video Format What Is 3GP Format And How To Play It for 2024</u></a></li>
 </ul></div>
+
 

@@ -1361,3 +1361,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-crop-resize-and-rotate-mastering-video-shape-editing/"><u>In 2024, Crop, Resize, and Rotate Mastering Video Shape Editing</u></a></li>
 </ul></div>
 
+

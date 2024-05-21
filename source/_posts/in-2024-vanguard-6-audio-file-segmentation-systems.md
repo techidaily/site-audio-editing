@@ -1292,3 +1292,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-change-the-speed-of-video-in-davinci-resolve/"><u>Updated In 2024, How to Change the Speed of Video in DaVinci Resolve?</u></a></li>
 </ul></div>
 
+

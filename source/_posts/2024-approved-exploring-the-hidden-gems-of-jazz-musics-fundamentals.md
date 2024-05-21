@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Exploring the Hidden Gems of Jazz Musics Fundamentals
-date: 2024-05-05T07:24:34.372Z
-updated: 2024-05-06T07:24:34.372Z
+date: 2024-05-20T02:42:35.543Z
+updated: 2024-05-21T02:42:35.543Z
 tags: 
   - audio editing software
   - audio editing
@@ -1944,4 +1944,5 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-this-article-we-will-discuss-what-lens-distortion-is-how-it-may-be-fixed-and-the-factors-you-need-to-pay-attention-to-avoid-lens-distortion-when-/"><u>Updated In This Article, We Will Discuss What Lens Distortion Is, How It May Be Fixed, and the Factors You Need to Pay Attention to Avoid Lens Distortion when Taking or Recording Videos</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-google-pixel-7a-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Google Pixel 7a.</u></a></li>
 </ul></div>
+
 

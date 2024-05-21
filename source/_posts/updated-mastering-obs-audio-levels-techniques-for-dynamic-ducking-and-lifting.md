@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering OBS Audio Levels Techniques for Dynamic Ducking and Lifting
-date: 2024-05-05T07:28:56.550Z
-updated: 2024-05-06T07:28:56.550Z
+date: 2024-05-20T02:42:44.298Z
+updated: 2024-05-21T02:42:44.298Z
 tags: 
   - audio editing software
   - audio editing
@@ -1413,4 +1413,5 @@ For macOS 10.12 or later
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From Apple iPhone 14 Pro?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Realme GT 5 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

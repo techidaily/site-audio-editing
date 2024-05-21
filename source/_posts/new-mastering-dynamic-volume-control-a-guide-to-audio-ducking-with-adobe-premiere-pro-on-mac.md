@@ -1,7 +1,7 @@
 ---
 title: New Mastering Dynamic Volume Control A Guide to Audio Ducking with Adobe Premiere Pro on Mac
-date: 2024-05-05T07:28:43.909Z
-updated: 2024-05-06T07:28:43.909Z
+date: 2024-05-20T02:42:43.927Z
+updated: 2024-05-21T02:42:43.927Z
 tags: 
   - audio editing software
   - audio editing
@@ -1061,4 +1061,5 @@ Thus, in this article, you had a better understanding of how to add background m
 <li><a href="https://ai-editing-video.techidaily.com/how-to-get-zoom-on-tv-easy-solutions-for-2024/"><u>How to Get Zoom on TV Easy Solutions for 2024</u></a></li>
 <li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-7-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 7? 7 Mehtods You Cant-Miss</u></a></li>
 </ul></div>
+
 

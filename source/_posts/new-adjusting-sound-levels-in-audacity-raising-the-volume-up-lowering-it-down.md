@@ -1,7 +1,7 @@
 ---
 title: New Adjusting Sound Levels in Audacity Raising the Volume Up, Lowering It Down
-date: 2024-05-05T07:16:25.623Z
-updated: 2024-05-06T07:16:25.623Z
+date: 2024-05-20T02:42:19.065Z
+updated: 2024-05-21T02:42:19.065Z
 tags: 
   - audio editing software
   - audio editing
@@ -2936,4 +2936,5 @@ As you can see, these are the top ten free and paid software that you can use fo
 <li><a href="https://review-topics.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-tecno-spark-10-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Tecno Spark 10 Pro by Name | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-14-pro-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 14 Pro Data Completely | Dr.fone</u></a></li>
 </ul></div>
+
 

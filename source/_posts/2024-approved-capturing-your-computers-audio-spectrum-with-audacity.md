@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Capturing Your Computers Audio Spectrum with Audacity
-date: 2024-05-05T07:19:09.774Z
-updated: 2024-05-06T07:19:09.774Z
+date: 2024-05-20T02:42:25.544Z
+updated: 2024-05-21T02:42:25.544Z
 tags: 
   - audio editing software
   - audio editing
@@ -1268,4 +1268,5 @@ So, this article listed how to add audio to video in Premiere Pro via a step-by-
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-12-mini-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 12 mini to Excel CSV & vCard Easily | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme Narzo N55 | Dr.fone</u></a></li>
 </ul></div>
+
 

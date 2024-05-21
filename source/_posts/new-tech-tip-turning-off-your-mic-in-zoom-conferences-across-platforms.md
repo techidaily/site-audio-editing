@@ -1,7 +1,7 @@
 ---
 title: New Tech Tip Turning Off Your Mic in Zoom Conferences Across Platforms
-date: 2024-05-05T07:34:56.955Z
-updated: 2024-05-06T07:34:56.955Z
+date: 2024-05-20T02:42:55.871Z
+updated: 2024-05-21T02:42:55.871Z
 tags: 
   - audio editing software
   - audio editing
@@ -1400,4 +1400,5 @@ We are dealing with online businesses and online lectures at the moment. It is h
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-12-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 12 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
 </ul></div>
+
 

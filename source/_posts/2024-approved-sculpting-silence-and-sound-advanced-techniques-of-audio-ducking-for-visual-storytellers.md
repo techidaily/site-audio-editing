@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Sculpting Silence and Sound Advanced Techniques of Audio Ducking for Visual Storytellers
-date: 2024-05-05T07:32:48.491Z
-updated: 2024-05-06T07:32:48.491Z
+date: 2024-05-20T02:42:51.997Z
+updated: 2024-05-21T02:42:51.997Z
 tags: 
   - audio editing software
   - audio editing
@@ -1851,4 +1851,5 @@ Follow @Liza Brown
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-honor-magic-5-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Honor Magic 5? Here Are Real Fixes | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-some-facts-that-few-people-know-on-how-to-make-transparent-background-in-canva/"><u>Updated In 2024, Some Facts That Few People Know on How to Make Transparent Background in Canva</u></a></li>
 </ul></div>
+
 

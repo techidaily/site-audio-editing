@@ -1161,3 +1161,4 @@ Follow @Liza Brown
 <li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-xcover-7-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy XCover 7 Phone</u></a></li>
 </ul></div>
 
+

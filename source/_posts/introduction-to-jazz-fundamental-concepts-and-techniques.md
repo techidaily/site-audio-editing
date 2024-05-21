@@ -1,7 +1,7 @@
 ---
 title: Introduction to Jazz Fundamental Concepts and Techniques
-date: 2024-05-05T07:11:59.607Z
-updated: 2024-05-06T07:11:59.607Z
+date: 2024-05-20T02:42:10.186Z
+updated: 2024-05-21T02:42:10.186Z
 tags: 
   - audio editing software
   - audio editing
@@ -2388,4 +2388,5 @@ Follow @Shanoon Cox
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-y200-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Y200 Devices</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-from-zero-to-hero-fixing-fcpx-plugin-problems-in-minutes/"><u>New 2024 Approved From Zero to Hero Fixing FCPX Plugin Problems in Minutes</u></a></li>
 </ul></div>
+
 

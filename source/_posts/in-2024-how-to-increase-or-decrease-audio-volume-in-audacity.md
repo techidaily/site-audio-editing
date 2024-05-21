@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Increase or Decrease Audio Volume in Audacity?
-date: 2024-05-05T07:26:34.176Z
-updated: 2024-05-06T07:26:34.176Z
+date: 2024-05-20T02:42:39.909Z
+updated: 2024-05-21T02:42:39.909Z
 tags: 
   - audio editing software
   - audio editing
@@ -1295,4 +1295,5 @@ Thus, you had a detailed discussion about **Audio ducking**. Choose the applicat
 <li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-7-plus-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 7 Plus</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-xs-max-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone XS Max? How to Fix it?</u></a></li>
 </ul></div>
+
 

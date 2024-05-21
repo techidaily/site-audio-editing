@@ -1,7 +1,7 @@
 ---
 title: New Mastering OBS Audio Levels Techniques for Dynamic Ducking and Lifting
-date: 2024-05-05T07:28:56.290Z
-updated: 2024-05-06T07:28:56.290Z
+date: 2024-05-20T02:42:44.290Z
+updated: 2024-05-21T02:42:44.290Z
 tags: 
   - audio editing software
   - audio editing
@@ -1737,4 +1737,5 @@ Follow @Benjamin Arango
 <li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Itel S23+ | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-a38-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo A38 Phone Using PC | Dr.fone</u></a></li>
 </ul></div>
+
 

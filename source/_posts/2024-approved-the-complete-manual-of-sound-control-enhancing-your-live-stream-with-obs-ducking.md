@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Complete Manual of Sound Control Enhancing Your Live Stream with OBS Ducking
-date: 2024-05-05T07:35:46.168Z
-updated: 2024-05-06T07:35:46.168Z
+date: 2024-05-20T02:42:57.231Z
+updated: 2024-05-21T02:42:57.231Z
 tags: 
   - audio editing software
   - audio editing
@@ -1535,4 +1535,5 @@ Scream sound effects are one of the most exciting effects that are used in films
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-realme-narzo-60-pro-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Realme Narzo 60 Pro 5G Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-hard-reset-tecno-spark-20-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Spark 20 Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 

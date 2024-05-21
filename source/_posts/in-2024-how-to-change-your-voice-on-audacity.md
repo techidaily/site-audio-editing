@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change Your Voice on Audacity?
-date: 2024-05-05T07:26:24.459Z
-updated: 2024-05-06T07:26:24.459Z
+date: 2024-05-20T02:42:39.610Z
+updated: 2024-05-21T02:42:39.610Z
 tags: 
   - audio editing software
   - audio editing
@@ -1846,4 +1846,5 @@ Follow @Liza Brown
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-key-findings-from-the-leading-ogg-conversion-software/"><u>Updated 2024 Approved Key Findings From the Leading OGG Conversion Software</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-guide-to-instagram-video-aspect-ratios-and-sizes-for-2024/"><u>Updated The Ultimate Guide to Instagram Video Aspect Ratios and Sizes for 2024</u></a></li>
 </ul></div>
+
 

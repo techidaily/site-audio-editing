@@ -1,7 +1,7 @@
 ---
 title: Setting Up Audacity on Your Chromebook A Step-by-Step Guide for 2024
-date: 2024-05-05T07:33:04.835Z
-updated: 2024-05-06T07:33:04.835Z
+date: 2024-05-20T02:42:52.279Z
+updated: 2024-05-21T02:42:52.279Z
 tags: 
   - audio editing software
   - audio editing
@@ -1229,4 +1229,5 @@ For macOS 10.12 or later
 <li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-xr-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone XR without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-12-pro-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 12 Pro With 7 Methods | Dr.fone</u></a></li>
 </ul></div>
+
 

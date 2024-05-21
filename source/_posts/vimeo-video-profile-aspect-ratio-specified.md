@@ -1,7 +1,7 @@
 ---
 title: Vimeo Video Profile Aspect Ratio Specified
-date: 2024-05-05T07:14:50.038Z
-updated: 2024-05-06T07:14:50.038Z
+date: 2024-05-20T02:42:15.590Z
+updated: 2024-05-21T02:42:15.590Z
 tags: 
   - audio editing software
   - audio editing
@@ -1286,4 +1286,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/updated-a-detailed-guid-to-remove-background-from-a-video-in-premier-pro-for-2024/"><u>Updated A Detailed Guid to Remove Background From a Video in Premier Pro for 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-y78plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Y78+</u></a></li>
 </ul></div>
+
 

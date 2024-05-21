@@ -1,7 +1,7 @@
 ---
 title: Audiophiles Toolkit Implementing Smooth Audio Transitions with Ducking in Adobe Premiere Pro (Mac)
-date: 2024-05-05T07:10:01.721Z
-updated: 2024-05-06T07:10:01.721Z
+date: 2024-05-20T02:42:06.687Z
+updated: 2024-05-21T02:42:06.687Z
 tags: 
   - audio editing software
   - audio editing
@@ -978,4 +978,5 @@ This article will help you in resolving various audio waveform issues in Premier
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-asus-rog-phone-7-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Asus ROG Phone 7 Phones</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-12-mini-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 12 mini in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
 </ul></div>
+
 
