@@ -1,7 +1,7 @@
 ---
 title: How To Add & Edit A Song To Video For Free?
-date: 2024-05-20T02:42:09.525Z
-updated: 2024-05-21T02:42:09.525Z
+date: 2024-06-09T19:57:46.543Z
+updated: 2024-06-10T19:57:46.543Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes How To Add & Edit A Song To Video For Free?
 excerpt: This Article Describes How To Add & Edit A Song To Video For Free?
 keywords: add edit song to video free,how to add edit a song to video for free,how to add music to a video online for free,how to add audio to video,how to mix audio tracks into one file for a video,how to add audio to your video,how to add audio to mp4 mpeg mpg video
-thumbnail: https://www.lifewire.com/thmb/tJAkAFLn8PgYLDdSxKT4QReLsyg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Sonoma-Banner-fe4ffda2caaf4040b81ae0b66f2d6dc0.jpg
+thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc319264524a7b728bfe67ef7f7.jpg
 ---
 
 ## How To Add & Edit A Song To Video For Free?

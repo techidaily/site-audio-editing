@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Where Can I Find Glass Breaking Sound Effect?
-date: 2024-05-05T08:15:05.776Z
-updated: 2024-05-06T08:15:05.776Z
+date: 2024-06-09T19:57:44.042Z
+updated: 2024-06-10T19:57:44.042Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Where Can I Find Glass Breaking Sound Effect?
 excerpt: This Article Describes Updated 2024 Approved Where Can I Find Glass Breaking Sound Effect?
 keywords: where can i find laughing sound effect,where can i find brush sound effect,where can i find bruh sound effect,where can i find applause sound effect,where can i find wolf howling sound effect,where can i find clapping sound effect,where can i find glass breaking sound effect
-thumbnail: https://www.lifewire.com/thmb/hTKYwh0v7qXo9k56663KdHBIHZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-a-critical-process-dies-windows-11-error-952a1ad6325f455aaef36516fb3f7120.jpg
+thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa481cdc60b824492075830e06.jpg
 ---
 
 ## Where Can I Find Glass Breaking Sound Effect?

@@ -1,7 +1,7 @@
 ---
 title: Crafting Auditory Landscapes The Artistic Synergy Between Film Edits and Pianissimo Passages
-date: 2024-05-20T02:42:07.401Z
-updated: 2024-05-21T02:42:07.401Z
+date: 2024-06-09T19:57:45.091Z
+updated: 2024-06-10T19:57:45.091Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Crafting Auditory Landscapes The Artistic Synergy Between Film Edits and Pianissimo Passages
 excerpt: This Article Describes Crafting Auditory Landscapes The Artistic Synergy Between Film Edits and Pianissimo Passages
 keywords: What is the best audio editing app for iPhones and iPad? In this article,crafting auditory landscapes the artistic synergy between film edits and pianissimo passages,auditory delights in cinema celebrating the best 8 film soundscapes 2023 edition,auditory craftsmanship exploring the best tools for editing sounds with benefits and limitations,essential mobile audio cutting software the ultimate list for iphones and tablets 2024 edition,crafting a seamless auditory experience in obs from silence to echoes and everything in between,pianissimo filmmakers an abundant library of free piano scores catering to the cinema industry
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## Crafting Auditory Landscapes: The Artistic Synergy Between Film Edits and Pianissimo Passages

@@ -1,7 +1,7 @@
 ---
 title: Updated How to Use Audio Ducking to Fade Out Music in PowerDirector?
-date: 2024-05-05T07:41:33.426Z
-updated: 2024-05-06T07:41:33.426Z
+date: 2024-06-09T19:57:59.077Z
+updated: 2024-06-10T19:57:59.077Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated How to Use Audio Ducking to Fade Out Music in PowerDirector?
 excerpt: This Article Describes Updated How to Use Audio Ducking to Fade Out Music in PowerDirector?
 keywords: how to use audio ducking in adobe premiere pro on win,streamlining sound sync how to implement audio ducking for dynamic volume control in powerdirector,use audio ducking to fade out music powerdirector,how to fade music and audio in imovie on mac,elevating your edit workflow using audio duck features in powerdirector to enhance audio transitions,the artisans approach to integrating fade out effects in audio design updated for today,achieving smooth transitions utilizing audio ducking for elegant music fades in powerdirector
-thumbnail: https://www.lifewire.com/thmb/o9Q9WuSk80JXjgUWGQkyTXmmm-M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
 ## Mastering Volume Control: The Art of Audio Ducking with PowerDirector

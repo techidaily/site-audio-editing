@@ -1,7 +1,7 @@
 ---
 title: New Efficiently Dividing Soundtracks An Introduction to Audio Segmentation Tools
-date: 2024-05-20T02:42:30.900Z
-updated: 2024-05-21T02:42:30.900Z
+date: 2024-06-09T19:57:47.522Z
+updated: 2024-06-10T19:57:47.522Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Efficiently Dividing Soundtracks An Introduction to Audio Segmentation Tools
 excerpt: This Article Describes New Efficiently Dividing Soundtracks An Introduction to Audio Segmentation Tools
 keywords: navigating spatial audio management a guide to efficient ducking in video production,imovie pro tips how to detach audio tracks efficiently on a mac,revolutionizing sounds five key digital audio alteration tools,efficiently dividing soundtracks an introduction to audio segmentation tools,free audio transmutation exploring six efficient ways to convert video to sound,from silence to soundtracks tips for blending audio into video on android gadgets,the essentials of silent segment creation leveraging audio duck in powerdirector to quiet music during transitions
-thumbnail: https://www.lifewire.com/thmb/44IYkFUfRU4h-daoi0uxZYAKRhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lifewire_Windows_Update_2624595-9da08302ecc44539b8f0fa484a81227e.jpg
+thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c32a9023581f934b16334c5a.jpg
 ---
 
 ## "Efficiently Dividing Soundtracks: An Introduction to Audio Segmentation Tools"

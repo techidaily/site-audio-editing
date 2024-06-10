@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Lower Volume of the Media Files
-date: 2024-05-05T07:58:32.924Z
-updated: 2024-05-06T07:58:32.924Z
+date: 2024-06-09T19:57:45.707Z
+updated: 2024-06-10T19:57:45.707Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved How to Lower Volume of the Media Files
 excerpt: This Article Describes Updated 2024 Approved How to Lower Volume of the Media Files
 keywords: how to change volume in media files with filmora,unveiling the new era of voice alteration tools tailored for google meet 2024 guide,Here is a step-by-step guide to tell you how to lower volume in the media files.,the future of linux audio editing unveiled best tools for the year 2024,how to increase volume of the media files,you can increase volume of media files in various formats as you like. Now follow the step,audiophiles manual to volume control on digital media updated
-thumbnail: https://www.lifewire.com/thmb/YiNkR1XmMF85fjzS0zFQ4X75o4Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/coffeecup-free-html-editor-profile-3467555-8876645f89c444c8b94addcf4307b22d.png
+thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895e91d61d746d246092f66e50.png
 ---
 
 ## Modern Techniques for Shrinking Digital File Dimensions

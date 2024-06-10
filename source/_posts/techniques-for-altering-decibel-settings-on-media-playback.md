@@ -1,7 +1,7 @@
 ---
 title: Techniques for Altering Decibel Settings on Media Playback
-date: 2024-05-20T02:42:12.974Z
-updated: 2024-05-21T02:42:12.974Z
+date: 2024-06-09T19:57:49.459Z
+updated: 2024-06-10T19:57:49.459Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Techniques for Altering Decibel Settings on Media Playback
 excerpt: This Article Describes Techniques for Altering Decibel Settings on Media Playback
 keywords: techniques for altering decibel settings on media playback,techniques for separating soundtracks from visual media in adobe premiere pro,expert techniques for isolating singers from visual media,techniques for excising drum sections in online music editing,mastering mp3 files essential editing techniques for beginners,techniques for audio free editing of filmed material,fine tuning audacitys decibel settings for perfect balance
-thumbnail: https://www.lifewire.com/thmb/yeBMpxlKjRXXKI0Ay67NUTI2xl0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hexadecimal-code-security-key-krzysztof-zmij-e-plus-getty-images-57c76b825f9b5829f4bd185e.jpg
+thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg
 ---
 
 ## Techniques for Altering Decibel Settings on Media Playback

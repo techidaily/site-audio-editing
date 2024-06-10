@@ -1,7 +1,7 @@
 ---
 title: Updated Find Crowd Cheering Effect
-date: 2024-05-20T02:42:27.529Z
-updated: 2024-05-21T02:42:27.529Z
+date: 2024-06-09T19:57:57.789Z
+updated: 2024-06-10T19:57:57.789Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Find Crowd Cheering Effect
 excerpt: This Article Describes Updated Find Crowd Cheering Effect
 keywords: where can i find crowd cheering effect,where can i find mp3 cat sound effect,where can i find clapping sound effect,where can i find cricket sound effect,where can i find laughing sound effect,where can i find wolf howling sound effect,crowd cheering effect
-thumbnail: https://www.lifewire.com/thmb/xSHtE9tL82nCUVR18o4SkLJaAw8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-962954554-5c338fc146e0fb0001346aec.jpg
+thumbnail: https://thmb.techidaily.com/fff656b551e024a92bec77f08e34169fdbb7972daf3e003aecf76e9fd40fed20.jpg
 ---
 
 ## Find Crowd Cheering Effect

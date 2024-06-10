@@ -1,7 +1,7 @@
 ---
 title: How To Normalize Audio In DaVinci Resolve for 2024
-date: 2024-05-20T02:42:47.268Z
-updated: 2024-05-21T02:42:47.268Z
+date: 2024-06-09T19:57:47.212Z
+updated: 2024-06-10T19:57:47.212Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes How To Normalize Audio In DaVinci Resolve for 2024
 excerpt: This Article Describes How To Normalize Audio In DaVinci Resolve for 2024
 keywords: normalize audio davinci resolve,mastering audio normalization with davinci resolve an in depth tutorial,streamlining your mixes normalizing audio in davinci resolve,synchronize your tracks a guide to normalizing audio with davinci resolve,silencing the noise how to normalize audio using davinci resolve,audio balance simplified normalizing sound in davinci resolve,normalizing audio in davinci resolve a step by step guide
-thumbnail: https://www.lifewire.com/thmb/0FZf3k28kLauMvGO0aGhDI7aaYY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sb10069770n-003-56a104403df78cafdaa7dd48-ba41d70c51114343aaa38409d9cdfc3f.jpg
+thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad25662873342662329d5363509351a52f0.jpg
 ---
 
 ## "Audio Balance Simplified: Normalizing Sound in DaVinci Resolve"

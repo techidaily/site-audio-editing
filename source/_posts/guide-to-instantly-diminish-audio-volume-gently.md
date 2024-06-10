@@ -1,7 +1,7 @@
 ---
 title: Guide to Instantly Diminish Audio Volume Gently
-date: 2024-05-20T02:42:09.313Z
-updated: 2024-05-21T02:42:09.313Z
+date: 2024-06-09T19:58:00.006Z
+updated: 2024-06-10T19:58:00.006Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Guide to Instantly Diminish Audio Volume Gently
 excerpt: This Article Describes Guide to Instantly Diminish Audio Volume Gently
 keywords: customizing audio intensity the ultimate guide to volume management in audacity,guide to instantly diminish audio volume gently,revitalize audio diminishments in video presentation,consistent volume calibration the ultimate guide to fast audio tuning,expert guide to volume control in audiovideo content,expert tips for gradually diminishing audio volume,the essential guide to volume manipulation in audacity
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## Guide to Instantly Diminish Audio Volume Gently
