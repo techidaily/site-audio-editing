@@ -1,7 +1,7 @@
 ---
 title: How to Create Mute Video Sequences
-date: 2024-05-20T02:44:10.621Z
-updated: 2024-05-21T02:44:10.621Z
+date: 2024-06-26T11:42:23.247Z
+updated: 2024-06-27T11:42:23.247Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,14 +11,12 @@ categories:
 description: This Article Describes How to Create Mute Video Sequences
 excerpt: This Article Describes How to Create Mute Video Sequences
 keywords: how to add audio to video 3 creative ways,how to create mute video sequences,create video music free,how to mute audio from video,best free soundtracks for editing creative video sequences,learn how to produce musical videos at no expense with these techniques,how to create video with music for free
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## How to Create Mute Video Sequences
 
-# How to Remove Audio From Video in Magix Movie Edit Pro
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+# How to Remove Audio From Video in Magix Movie Edit Pro ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
 
@@ -32,15 +30,11 @@ We will show you how you can remove audio files from a video in Magix Edit Pro i
 
 During the editing process original audio files are often separated from the video files because video editors can manipulate video files better and the audio files are replaced by the sound recordings of better quality.
 
-#### 1. Place the video clips onto the timeline
-
-![magix-size-position](https://images.wondershare.com/filmora/article-images/magix-remove-audio-from-video.JPG)
+#### 1. Place the video clips onto the timeline ![magix-size-position](https://images.wondershare.com/filmora/article-images/magix-remove-audio-from-video.JPG)
 
 The first step in the process of removing audio from the video will require you to place the video clip onto the timeline. You can do so by clicking on the 'Import' tab and dragging the file to the timeline from the folder in which the video clip is stored. After you've positioned the video file onto the video track in the Magix Movie Edit Pro you will notice that the audio file isn't displayed, which means that audio and video tracks are linked together and that all the changes you make on the video file will also apply to the audio file.
 
-#### 2.Separate the audio and the video
-
-![magix ungroup](https://images.wondershare.com/filmora/article-images/magix-ungroup.JPG)
+#### 2.Separate the audio and the video ![magix ungroup](https://images.wondershare.com/filmora/article-images/magix-ungroup.JPG)
 
 In order to avoid changing the speed of the audio file when you are trying to alter the playback speed of the video file, you need to separate the two files. You can do this easily, by selecting the video clip on the timeline and clicking the 'Ungroup' icon located on the editor's toolbar. Upon clicking the 'Ungroup' icon you will be able to see the audio file on the track directly below the video track.
 
@@ -82,15 +76,11 @@ We will show you how you can remove audio files from a video in Magix Edit Pro i
 
 During the editing process original audio files are often separated from the video files because video editors can manipulate video files better and the audio files are replaced by the sound recordings of better quality.
 
-#### 1. Place the video clips onto the timeline
-
-![magix-size-position](https://images.wondershare.com/filmora/article-images/magix-remove-audio-from-video.JPG)
+#### 1. Place the video clips onto the timeline ![magix-size-position](https://images.wondershare.com/filmora/article-images/magix-remove-audio-from-video.JPG)
 
 The first step in the process of removing audio from the video will require you to place the video clip onto the timeline. You can do so by clicking on the 'Import' tab and dragging the file to the timeline from the folder in which the video clip is stored. After you've positioned the video file onto the video track in the Magix Movie Edit Pro you will notice that the audio file isn't displayed, which means that audio and video tracks are linked together and that all the changes you make on the video file will also apply to the audio file.
 
-#### 2.Separate the audio and the video
-
-![magix ungroup](https://images.wondershare.com/filmora/article-images/magix-ungroup.JPG)
+#### 2.Separate the audio and the video ![magix ungroup](https://images.wondershare.com/filmora/article-images/magix-ungroup.JPG)
 
 In order to avoid changing the speed of the audio file when you are trying to alter the playback speed of the video file, you need to separate the two files. You can do this easily, by selecting the video clip on the timeline and clicking the 'Ungroup' icon located on the editor's toolbar. Upon clicking the 'Ungroup' icon you will be able to see the audio file on the track directly below the video track.
 
@@ -132,15 +122,11 @@ We will show you how you can remove audio files from a video in Magix Edit Pro i
 
 During the editing process original audio files are often separated from the video files because video editors can manipulate video files better and the audio files are replaced by the sound recordings of better quality.
 
-#### 1. Place the video clips onto the timeline
-
-![magix-size-position](https://images.wondershare.com/filmora/article-images/magix-remove-audio-from-video.JPG)
+#### 1. Place the video clips onto the timeline ![magix-size-position](https://images.wondershare.com/filmora/article-images/magix-remove-audio-from-video.JPG)
 
 The first step in the process of removing audio from the video will require you to place the video clip onto the timeline. You can do so by clicking on the 'Import' tab and dragging the file to the timeline from the folder in which the video clip is stored. After you've positioned the video file onto the video track in the Magix Movie Edit Pro you will notice that the audio file isn't displayed, which means that audio and video tracks are linked together and that all the changes you make on the video file will also apply to the audio file.
 
-#### 2.Separate the audio and the video
-
-![magix ungroup](https://images.wondershare.com/filmora/article-images/magix-ungroup.JPG)
+#### 2.Separate the audio and the video ![magix ungroup](https://images.wondershare.com/filmora/article-images/magix-ungroup.JPG)
 
 In order to avoid changing the speed of the audio file when you are trying to alter the playback speed of the video file, you need to separate the two files. You can do this easily, by selecting the video clip on the timeline and clicking the 'Ungroup' icon located on the editor's toolbar. Upon clicking the 'Ungroup' icon you will be able to see the audio file on the track directly below the video track.
 
@@ -182,15 +168,11 @@ We will show you how you can remove audio files from a video in Magix Edit Pro i
 
 During the editing process original audio files are often separated from the video files because video editors can manipulate video files better and the audio files are replaced by the sound recordings of better quality.
 
-#### 1. Place the video clips onto the timeline
-
-![magix-size-position](https://images.wondershare.com/filmora/article-images/magix-remove-audio-from-video.JPG)
+#### 1. Place the video clips onto the timeline ![magix-size-position](https://images.wondershare.com/filmora/article-images/magix-remove-audio-from-video.JPG)
 
 The first step in the process of removing audio from the video will require you to place the video clip onto the timeline. You can do so by clicking on the 'Import' tab and dragging the file to the timeline from the folder in which the video clip is stored. After you've positioned the video file onto the video track in the Magix Movie Edit Pro you will notice that the audio file isn't displayed, which means that audio and video tracks are linked together and that all the changes you make on the video file will also apply to the audio file.
 
-#### 2.Separate the audio and the video
-
-![magix ungroup](https://images.wondershare.com/filmora/article-images/magix-ungroup.JPG)
+#### 2.Separate the audio and the video ![magix ungroup](https://images.wondershare.com/filmora/article-images/magix-ungroup.JPG)
 
 In order to avoid changing the speed of the audio file when you are trying to alter the playback speed of the video file, you need to separate the two files. You can do this easily, by selecting the video clip on the timeline and clicking the 'Ungroup' icon located on the editor's toolbar. Upon clicking the 'Ungroup' icon you will be able to see the audio file on the track directly below the video track.
 
@@ -362,7 +344,7 @@ Are you a beginner? Let’s share some basic details about Adobe Audition. You c
 
 Do you know something about the Effects Rack? This part of the interface allows you to add and save effects for editing. If you record things and make notes, the Markers tab is great for noting things along the timeline. For adding audio effects, the Essential Sound section will be visible on the right side of the screen.
 
-### 2\. [Getting Started with Audition Audio Mixing](https://helpx.adobe.com/premiere-pro/how-to/essential-sound-panel.html)
+### 2\. Getting Started with Audition Audio Mixing
 
 Mixing files is always fun, but what about mixing files with Adobe voice editor? Let’s share the steps for this mixing purpose.
 
@@ -382,7 +364,7 @@ Step 4: While mixing files with Adobe, you can also edit and add volume envelope
 
 ![edit and add volume envelope points](https://images.wondershare.com/filmora/article-images/2022/adobe-audition-audio-editor-5.jpg)
 
-### 3\. How Can You [Apply Effects in Adobe Audition](https://helpx.adobe.com/audition/how-to/apply-effects-multitrack-audition-cc.html)?
+### 3\. How Can You Apply Effects in Adobe Audition
 
 If you have successfully mixed the files, we should discuss audio effects. So, let's get started.
 
@@ -402,7 +384,7 @@ Step 4: This exceptional Adobe audio editor offers different presets that could 
 
 ![save effect preset](https://images.wondershare.com/filmora/article-images/2022/adobe-audition-audio-editor-9.jpg)
 
-### 4\. How to Do [Noise Reduction & Restoration in Adobe Audition](https://www.youtube.com/watch?v=54VsPQBlOpY)
+### 4\. How to Do Noise Reduction & Restoration in Adobe Audition
 
 You might have recorded a great podcast or voiceover, but when you check it, you are devastated. This is because there is a lot of background noise, disturbing the file quality. Try Noise Reduction in Adobe voice editor by following these steps.
 
@@ -430,11 +412,9 @@ Adobe Audition is a known and stunning Adobe audio editor. For you to learn ever
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 02 [Key Features of Adobe Auditionos](#part2)
 
@@ -495,7 +475,7 @@ Are you a beginner? Let’s share some basic details about Adobe Audition. You c
 
 Do you know something about the Effects Rack? This part of the interface allows you to add and save effects for editing. If you record things and make notes, the Markers tab is great for noting things along the timeline. For adding audio effects, the Essential Sound section will be visible on the right side of the screen.
 
-### 2\. [Getting Started with Audition Audio Mixing](https://helpx.adobe.com/premiere-pro/how-to/essential-sound-panel.html)
+### 2\. Getting Started with Audition Audio Mixing
 
 Mixing files is always fun, but what about mixing files with Adobe voice editor? Let’s share the steps for this mixing purpose.
 
@@ -515,7 +495,7 @@ Step 4: While mixing files with Adobe, you can also edit and add volume envelope
 
 ![edit and add volume envelope points](https://images.wondershare.com/filmora/article-images/2022/adobe-audition-audio-editor-5.jpg)
 
-### 3\. How Can You [Apply Effects in Adobe Audition](https://helpx.adobe.com/audition/how-to/apply-effects-multitrack-audition-cc.html)?
+### 3\. How Can You Apply Effects in Adobe Audition
 
 If you have successfully mixed the files, we should discuss audio effects. So, let's get started.
 
@@ -535,7 +515,7 @@ Step 4: This exceptional Adobe audio editor offers different presets that could 
 
 ![save effect preset](https://images.wondershare.com/filmora/article-images/2022/adobe-audition-audio-editor-9.jpg)
 
-### 4\. How to Do [Noise Reduction & Restoration in Adobe Audition](https://www.youtube.com/watch?v=54VsPQBlOpY)
+### 4\. How to Do Noise Reduction & Restoration in Adobe Audition
 
 You might have recorded a great podcast or voiceover, but when you check it, you are devastated. This is because there is a lot of background noise, disturbing the file quality. Try Noise Reduction in Adobe voice editor by following these steps.
 
@@ -563,11 +543,9 @@ Adobe Audition is a known and stunning Adobe audio editor. For you to learn ever
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 02 [Key Features of Adobe Auditionos](#part2)
 
@@ -628,7 +606,7 @@ Are you a beginner? Let’s share some basic details about Adobe Audition. You c
 
 Do you know something about the Effects Rack? This part of the interface allows you to add and save effects for editing. If you record things and make notes, the Markers tab is great for noting things along the timeline. For adding audio effects, the Essential Sound section will be visible on the right side of the screen.
 
-### 2\. [Getting Started with Audition Audio Mixing](https://helpx.adobe.com/premiere-pro/how-to/essential-sound-panel.html)
+### 2\. Getting Started with Audition Audio Mixing
 
 Mixing files is always fun, but what about mixing files with Adobe voice editor? Let’s share the steps for this mixing purpose.
 
@@ -648,7 +626,7 @@ Step 4: While mixing files with Adobe, you can also edit and add volume envelope
 
 ![edit and add volume envelope points](https://images.wondershare.com/filmora/article-images/2022/adobe-audition-audio-editor-5.jpg)
 
-### 3\. How Can You [Apply Effects in Adobe Audition](https://helpx.adobe.com/audition/how-to/apply-effects-multitrack-audition-cc.html)?
+### 3\. How Can You Apply Effects in Adobe Audition
 
 If you have successfully mixed the files, we should discuss audio effects. So, let's get started.
 
@@ -668,7 +646,7 @@ Step 4: This exceptional Adobe audio editor offers different presets that could 
 
 ![save effect preset](https://images.wondershare.com/filmora/article-images/2022/adobe-audition-audio-editor-9.jpg)
 
-### 4\. How to Do [Noise Reduction & Restoration in Adobe Audition](https://www.youtube.com/watch?v=54VsPQBlOpY)
+### 4\. How to Do Noise Reduction & Restoration in Adobe Audition
 
 You might have recorded a great podcast or voiceover, but when you check it, you are devastated. This is because there is a lot of background noise, disturbing the file quality. Try Noise Reduction in Adobe voice editor by following these steps.
 
@@ -696,11 +674,9 @@ Adobe Audition is a known and stunning Adobe audio editor. For you to learn ever
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 02 [Key Features of Adobe Auditionos](#part2)
 
@@ -761,7 +737,7 @@ Are you a beginner? Let’s share some basic details about Adobe Audition. You c
 
 Do you know something about the Effects Rack? This part of the interface allows you to add and save effects for editing. If you record things and make notes, the Markers tab is great for noting things along the timeline. For adding audio effects, the Essential Sound section will be visible on the right side of the screen.
 
-### 2\. [Getting Started with Audition Audio Mixing](https://helpx.adobe.com/premiere-pro/how-to/essential-sound-panel.html)
+### 2\. Getting Started with Audition Audio Mixing
 
 Mixing files is always fun, but what about mixing files with Adobe voice editor? Let’s share the steps for this mixing purpose.
 
@@ -781,7 +757,7 @@ Step 4: While mixing files with Adobe, you can also edit and add volume envelope
 
 ![edit and add volume envelope points](https://images.wondershare.com/filmora/article-images/2022/adobe-audition-audio-editor-5.jpg)
 
-### 3\. How Can You [Apply Effects in Adobe Audition](https://helpx.adobe.com/audition/how-to/apply-effects-multitrack-audition-cc.html)?
+### 3\. How Can You Apply Effects in Adobe Audition
 
 If you have successfully mixed the files, we should discuss audio effects. So, let's get started.
 
@@ -801,7 +777,7 @@ Step 4: This exceptional Adobe audio editor offers different presets that could 
 
 ![save effect preset](https://images.wondershare.com/filmora/article-images/2022/adobe-audition-audio-editor-9.jpg)
 
-### 4\. How to Do [Noise Reduction & Restoration in Adobe Audition](https://www.youtube.com/watch?v=54VsPQBlOpY)
+### 4\. How to Do Noise Reduction & Restoration in Adobe Audition
 
 You might have recorded a great podcast or voiceover, but when you check it, you are devastated. This is because there is a lot of background noise, disturbing the file quality. Try Noise Reduction in Adobe voice editor by following these steps.
 
@@ -829,11 +805,9 @@ Adobe Audition is a known and stunning Adobe audio editor. For you to learn ever
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 <ins class="adsbygoogle"
      style="display:block"

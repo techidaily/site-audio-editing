@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Future of Soundscape Engineering Navigating Through Film and Video to Uncover Audio
-date: 2024-05-05T08:08:20.593Z
-updated: 2024-05-06T08:08:20.593Z
+date: 2024-06-26T11:42:11.761Z
+updated: 2024-06-27T11:42:11.761Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,14 +11,12 @@ categories:
 description: This Article Describes Updated In 2024, The Future of Soundscape Engineering Navigating Through Film and Video to Uncover Audio
 excerpt: This Article Describes Updated In 2024, The Future of Soundscape Engineering Navigating Through Film and Video to Uncover Audio
 keywords: the future of audio crafting androids most innovative digital audio workstations for todays sound engineers,the future of soundscape engineering navigating through film and video to uncover audio 2023 edition,windows 10 sound engineering the ultimate guide to capturing clear audio,cutting through the clutter a comprehensive approach to sound management in video editing,syncing sound a comprehensive approach to matching timelines of audio and video in fcpx,navigating the modern landscape of live audio capturing for streaming,top audio extraction solutions navigating the 2023 landscape for clearer sounds from videos
-thumbnail: https://www.lifewire.com/thmb/MgXYGqoMMbFkRcMCb9oaCyNjJGE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6g-4717cafbb03b4d0eb3dae878b5ad134e.png
+thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e6a52b60eb890177d543e794.png
 ---
 
 ## The Future of Soundscape Engineering: Navigating Through Film and Video to Uncover Audio (2023 Edition)
 
-# Audio Extractor: How to Extract Audio from Video
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+# Audio Extractor: How to Extract Audio from Video ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
 
@@ -36,9 +34,7 @@ Install and run this Wondershare Filmora. Then click the “Import” button to 
 
 ![extract audio from video - import media](https://images.wondershare.com/filmora/article-images/extract-audio-from-video-filmora9-media-library.jpg)
 
-#### 2. Start extracting audio from video
-
-![extract audio from video ](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
+#### 2. Start extracting audio from video ![extract audio from video](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
 
 After importing video to Wondershare Filmora, drag the video from the media library to the video Timeline. You can then right-click the video clip and choose “Audio Detach” to extract audio from the video. After a while, video and audio will be displayed on different tracks. If you don’t want to keep the video file, right-click it and choose “Delete” to remove it from the video timeline.
 
@@ -52,7 +48,7 @@ You can add fade-in and fade-out effects, [change the sound volume](https://tool
 
 If you find some unnecessary sounds in the extracted audio file, and you want to delete them, just put the cursor to the place where you would like the deletion to start and press the “Split” button to split. The end of the deletion area can be marked similarly – play the audio and select the final point of the area to be excluded from the output audio, and then press the “Split” button again.
 
-![split and delete unwanted part from extracted audio ](https://images.wondershare.com/filmora/article-images/split-delete-extracted-audio-min.gif)
+![split and delete unwanted part from extracted audio](https://images.wondershare.com/filmora/article-images/split-delete-extracted-audio-min.gif)
 
 Click the split part in the audio track, press the Delete button on the keyboard, or click the Delete icon on the toolbar to remove the unwanted audio clip.
 
@@ -96,9 +92,7 @@ Install and run this Wondershare Filmora. Then click the “Import” button to 
 
 ![extract audio from video - import media](https://images.wondershare.com/filmora/article-images/extract-audio-from-video-filmora9-media-library.jpg)
 
-#### 2. Start extracting audio from video
-
-![extract audio from video ](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
+#### 2. Start extracting audio from video ![extract audio from video](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
 
 After importing video to Wondershare Filmora, drag the video from the media library to the video Timeline. You can then right-click the video clip and choose “Audio Detach” to extract audio from the video. After a while, video and audio will be displayed on different tracks. If you don’t want to keep the video file, right-click it and choose “Delete” to remove it from the video timeline.
 
@@ -112,7 +106,7 @@ You can add fade-in and fade-out effects, [change the sound volume](https://tool
 
 If you find some unnecessary sounds in the extracted audio file, and you want to delete them, just put the cursor to the place where you would like the deletion to start and press the “Split” button to split. The end of the deletion area can be marked similarly – play the audio and select the final point of the area to be excluded from the output audio, and then press the “Split” button again.
 
-![split and delete unwanted part from extracted audio ](https://images.wondershare.com/filmora/article-images/split-delete-extracted-audio-min.gif)
+![split and delete unwanted part from extracted audio](https://images.wondershare.com/filmora/article-images/split-delete-extracted-audio-min.gif)
 
 Click the split part in the audio track, press the Delete button on the keyboard, or click the Delete icon on the toolbar to remove the unwanted audio clip.
 
@@ -156,9 +150,7 @@ Install and run this Wondershare Filmora. Then click the “Import” button to 
 
 ![extract audio from video - import media](https://images.wondershare.com/filmora/article-images/extract-audio-from-video-filmora9-media-library.jpg)
 
-#### 2. Start extracting audio from video
-
-![extract audio from video ](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
+#### 2. Start extracting audio from video ![extract audio from video](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
 
 After importing video to Wondershare Filmora, drag the video from the media library to the video Timeline. You can then right-click the video clip and choose “Audio Detach” to extract audio from the video. After a while, video and audio will be displayed on different tracks. If you don’t want to keep the video file, right-click it and choose “Delete” to remove it from the video timeline.
 
@@ -172,7 +164,7 @@ You can add fade-in and fade-out effects, [change the sound volume](https://tool
 
 If you find some unnecessary sounds in the extracted audio file, and you want to delete them, just put the cursor to the place where you would like the deletion to start and press the “Split” button to split. The end of the deletion area can be marked similarly – play the audio and select the final point of the area to be excluded from the output audio, and then press the “Split” button again.
 
-![split and delete unwanted part from extracted audio ](https://images.wondershare.com/filmora/article-images/split-delete-extracted-audio-min.gif)
+![split and delete unwanted part from extracted audio](https://images.wondershare.com/filmora/article-images/split-delete-extracted-audio-min.gif)
 
 Click the split part in the audio track, press the Delete button on the keyboard, or click the Delete icon on the toolbar to remove the unwanted audio clip.
 
@@ -216,9 +208,7 @@ Install and run this Wondershare Filmora. Then click the “Import” button to 
 
 ![extract audio from video - import media](https://images.wondershare.com/filmora/article-images/extract-audio-from-video-filmora9-media-library.jpg)
 
-#### 2. Start extracting audio from video
-
-![extract audio from video ](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
+#### 2. Start extracting audio from video ![extract audio from video](https://images.wondershare.com/filmora/article-images/detach-audio-filmora9.jpg)
 
 After importing video to Wondershare Filmora, drag the video from the media library to the video Timeline. You can then right-click the video clip and choose “Audio Detach” to extract audio from the video. After a while, video and audio will be displayed on different tracks. If you don’t want to keep the video file, right-click it and choose “Delete” to remove it from the video timeline.
 
@@ -232,7 +222,7 @@ You can add fade-in and fade-out effects, [change the sound volume](https://tool
 
 If you find some unnecessary sounds in the extracted audio file, and you want to delete them, just put the cursor to the place where you would like the deletion to start and press the “Split” button to split. The end of the deletion area can be marked similarly – play the audio and select the final point of the area to be excluded from the output audio, and then press the “Split” button again.
 
-![split and delete unwanted part from extracted audio ](https://images.wondershare.com/filmora/article-images/split-delete-extracted-audio-min.gif)
+![split and delete unwanted part from extracted audio](https://images.wondershare.com/filmora/article-images/split-delete-extracted-audio-min.gif)
 
 Click the split part in the audio track, press the Delete button on the keyboard, or click the Delete icon on the toolbar to remove the unwanted audio clip.
 
@@ -355,43 +345,43 @@ For macOS 10.14 or later
 
 ## Part 2\. 10 Hot Sad Background Music in 2024
 
-### 1\. [Missing You by Purple Cat](https://www.youtube.com/watch?v=KmpoBQ8nOS8)
+### 1\. Missing You by Purple Cat
 
 Missing You is a fantastic sound by Purple Cat, a U.S-based music producer & visual artist trapped in a cat's body. She mostly hangs out in her studio, creating dreamy landscapes of distant worlds and faraway sounds. She makes a surreal world with her songs. Other latest releases by the same artist are Distant Worlds, Sweet Dreams, and Adventure Island.
 
-### 2\. [Sorrow by Alexander Nakarada](https://www.youtube.com/results?search%5Fquery=Sorrow+Alexander+Nakarada+)
+### 2\. Sorrow by Alexander Nakarada
 
 Sorrow is a song from the album Fantasy Fair by Alexander Nakarada, a Norwegian composer and the founder of SerpentSound Studios. He creates all kinds of tracks for the creative people out there. If you feel sad and low, this song playing in the background can ease your soul.
 
-### 3\. [No Turning Back by Synapse Trailer Music -](https://www.youtube.com/watch?v=0S1GNPSY7-M)
+### 3\. No Turning Back by Synapse Trailer Music -
 
 Synapse Trailer is a full-service production house based in Los Angeles, creating songs for various purposes. No turning back is beautiful, emotional instrumental music that will touch your heart and make you feel fantastic.
 
-### 4\.  [Wilderness Roads- Salt Of The Sound & Simon Wester](https://www.youtube.com/watch?v=IYWhhlek8eE)
+### 4\. Wilderness Roads- Salt Of The Sound & Simon Wester
 
 "With so much that is still unknown, we felt inspired to write a song that speaks of this uncharted territory." Swedish artist Simon Wester and Salt Of The Sound. Are you having a hard time? This song is for when we undoubtedly find ourselves on these 'wilderness roads,' but we won't be alone in that journey. Echoes Blue Music released it.
 
-### 5\. [Michael FK - Gleam](https://www.youtube.com/watch?v=vPQkHRh607Q)
+### 5\. Michael FK - Gleam
 
 Michael FK is a sound producer specializing in composing songs for short films and other visual media. Gleam is one popular song by him. It was released in 2020.
 
-### 6\.  [Gísli Gunnarsson - Birds Of Paradise](https://www.youtube.com/watch?v=o4UvIHDVHJA)
+### 6\. Gísli Gunnarsson - Birds Of Paradise
 
 This song belongs to the album Birds of Prey by [Gísli Gunnarsson.](https://www.youtube.com/watch?v=o4UvIHDVHJA) This Album has 15 exclusive audio tracks, all from female artists. The songs are so engaging you'll get hooked to them.
 
-### 7\. [Narrow Skies - The Night](https://www.youtube.com/watch?v=bcZkqWQVoY8)
+### 7\. Narrow Skies - The Night
 
 Narrow Skies has been a group active since 2017\. 'The Night' is the third single from the album Earth. It is inspired by the human impact on nature.
 
-### 8\. [Michael FK - Yearning](https://www.youtube.com/watch?v=GBJj-KOVwsk)
+### 8\. Michael FK - Yearning
 
  This is another song by Michael FK. His style is epic and emotional. A contemporary, modern orchestral sound is the basis of his compositions, but that's all that makes them comparable. Yearning is such a delicate composition that makes you feel beautiful. It will give you goosebumps.
 
-### 9\. [Andreas Kübler - Is This Goodbye](https://www.youtube.com/watch?v=wRaHc36Qxw8)
+### 9\. Andreas Kübler - Is This Goodbye
 
  Andreas Kübler is a German musician and composer, with 'The Stories We Forget' being his latest piece to be released. It's a heart-touching song that creates a soft atmosphere if you feel down. This is how it goes- "It's been an honor fighting alongside you. Is this goodbye? If so, have a safe journey, my friend. I hope you find whatever it is you're looking for".
 
-### 10\. [Mustafa Avşaroğlu - When the Last Hope Runs Out](https://www.youtube.com/watch?v=Ch8CaiTz%5FT0)
+### 10\. Mustafa Avşaroğlu - When the Last Hope Runs Out
 
 Are you feeling hopeless? Listen to this sad background music and heal yourself. Mustafa Avşaroğlu is a Turkish neoclassical composer. He makes fantastic sad background songs for broken hearts.
 
@@ -465,43 +455,43 @@ For macOS 10.14 or later
 
 ## Part 2\. 10 Hot Sad Background Music in 2024
 
-### 1\. [Missing You by Purple Cat](https://www.youtube.com/watch?v=KmpoBQ8nOS8)
+### 1\. Missing You by Purple Cat
 
 Missing You is a fantastic sound by Purple Cat, a U.S-based music producer & visual artist trapped in a cat's body. She mostly hangs out in her studio, creating dreamy landscapes of distant worlds and faraway sounds. She makes a surreal world with her songs. Other latest releases by the same artist are Distant Worlds, Sweet Dreams, and Adventure Island.
 
-### 2\. [Sorrow by Alexander Nakarada](https://www.youtube.com/results?search%5Fquery=Sorrow+Alexander+Nakarada+)
+### 2\. Sorrow by Alexander Nakarada
 
 Sorrow is a song from the album Fantasy Fair by Alexander Nakarada, a Norwegian composer and the founder of SerpentSound Studios. He creates all kinds of tracks for the creative people out there. If you feel sad and low, this song playing in the background can ease your soul.
 
-### 3\. [No Turning Back by Synapse Trailer Music -](https://www.youtube.com/watch?v=0S1GNPSY7-M)
+### 3\. No Turning Back by Synapse Trailer Music -
 
 Synapse Trailer is a full-service production house based in Los Angeles, creating songs for various purposes. No turning back is beautiful, emotional instrumental music that will touch your heart and make you feel fantastic.
 
-### 4\.  [Wilderness Roads- Salt Of The Sound & Simon Wester](https://www.youtube.com/watch?v=IYWhhlek8eE)
+### 4\. Wilderness Roads- Salt Of The Sound & Simon Wester
 
 "With so much that is still unknown, we felt inspired to write a song that speaks of this uncharted territory." Swedish artist Simon Wester and Salt Of The Sound. Are you having a hard time? This song is for when we undoubtedly find ourselves on these 'wilderness roads,' but we won't be alone in that journey. Echoes Blue Music released it.
 
-### 5\. [Michael FK - Gleam](https://www.youtube.com/watch?v=vPQkHRh607Q)
+### 5\. Michael FK - Gleam
 
 Michael FK is a sound producer specializing in composing songs for short films and other visual media. Gleam is one popular song by him. It was released in 2020.
 
-### 6\.  [Gísli Gunnarsson - Birds Of Paradise](https://www.youtube.com/watch?v=o4UvIHDVHJA)
+### 6\. Gísli Gunnarsson - Birds Of Paradise
 
 This song belongs to the album Birds of Prey by [Gísli Gunnarsson.](https://www.youtube.com/watch?v=o4UvIHDVHJA) This Album has 15 exclusive audio tracks, all from female artists. The songs are so engaging you'll get hooked to them.
 
-### 7\. [Narrow Skies - The Night](https://www.youtube.com/watch?v=bcZkqWQVoY8)
+### 7\. Narrow Skies - The Night
 
 Narrow Skies has been a group active since 2017\. 'The Night' is the third single from the album Earth. It is inspired by the human impact on nature.
 
-### 8\. [Michael FK - Yearning](https://www.youtube.com/watch?v=GBJj-KOVwsk)
+### 8\. Michael FK - Yearning
 
  This is another song by Michael FK. His style is epic and emotional. A contemporary, modern orchestral sound is the basis of his compositions, but that's all that makes them comparable. Yearning is such a delicate composition that makes you feel beautiful. It will give you goosebumps.
 
-### 9\. [Andreas Kübler - Is This Goodbye](https://www.youtube.com/watch?v=wRaHc36Qxw8)
+### 9\. Andreas Kübler - Is This Goodbye
 
  Andreas Kübler is a German musician and composer, with 'The Stories We Forget' being his latest piece to be released. It's a heart-touching song that creates a soft atmosphere if you feel down. This is how it goes- "It's been an honor fighting alongside you. Is this goodbye? If so, have a safe journey, my friend. I hope you find whatever it is you're looking for".
 
-### 10\. [Mustafa Avşaroğlu - When the Last Hope Runs Out](https://www.youtube.com/watch?v=Ch8CaiTz%5FT0)
+### 10\. Mustafa Avşaroğlu - When the Last Hope Runs Out
 
 Are you feeling hopeless? Listen to this sad background music and heal yourself. Mustafa Avşaroğlu is a Turkish neoclassical composer. He makes fantastic sad background songs for broken hearts.
 
@@ -575,43 +565,43 @@ For macOS 10.14 or later
 
 ## Part 2\. 10 Hot Sad Background Music in 2024
 
-### 1\. [Missing You by Purple Cat](https://www.youtube.com/watch?v=KmpoBQ8nOS8)
+### 1\. Missing You by Purple Cat
 
 Missing You is a fantastic sound by Purple Cat, a U.S-based music producer & visual artist trapped in a cat's body. She mostly hangs out in her studio, creating dreamy landscapes of distant worlds and faraway sounds. She makes a surreal world with her songs. Other latest releases by the same artist are Distant Worlds, Sweet Dreams, and Adventure Island.
 
-### 2\. [Sorrow by Alexander Nakarada](https://www.youtube.com/results?search%5Fquery=Sorrow+Alexander+Nakarada+)
+### 2\. Sorrow by Alexander Nakarada
 
 Sorrow is a song from the album Fantasy Fair by Alexander Nakarada, a Norwegian composer and the founder of SerpentSound Studios. He creates all kinds of tracks for the creative people out there. If you feel sad and low, this song playing in the background can ease your soul.
 
-### 3\. [No Turning Back by Synapse Trailer Music -](https://www.youtube.com/watch?v=0S1GNPSY7-M)
+### 3\. No Turning Back by Synapse Trailer Music -
 
 Synapse Trailer is a full-service production house based in Los Angeles, creating songs for various purposes. No turning back is beautiful, emotional instrumental music that will touch your heart and make you feel fantastic.
 
-### 4\.  [Wilderness Roads- Salt Of The Sound & Simon Wester](https://www.youtube.com/watch?v=IYWhhlek8eE)
+### 4\. Wilderness Roads- Salt Of The Sound & Simon Wester
 
 "With so much that is still unknown, we felt inspired to write a song that speaks of this uncharted territory." Swedish artist Simon Wester and Salt Of The Sound. Are you having a hard time? This song is for when we undoubtedly find ourselves on these 'wilderness roads,' but we won't be alone in that journey. Echoes Blue Music released it.
 
-### 5\. [Michael FK - Gleam](https://www.youtube.com/watch?v=vPQkHRh607Q)
+### 5\. Michael FK - Gleam
 
 Michael FK is a sound producer specializing in composing songs for short films and other visual media. Gleam is one popular song by him. It was released in 2020.
 
-### 6\.  [Gísli Gunnarsson - Birds Of Paradise](https://www.youtube.com/watch?v=o4UvIHDVHJA)
+### 6\. Gísli Gunnarsson - Birds Of Paradise
 
 This song belongs to the album Birds of Prey by [Gísli Gunnarsson.](https://www.youtube.com/watch?v=o4UvIHDVHJA) This Album has 15 exclusive audio tracks, all from female artists. The songs are so engaging you'll get hooked to them.
 
-### 7\. [Narrow Skies - The Night](https://www.youtube.com/watch?v=bcZkqWQVoY8)
+### 7\. Narrow Skies - The Night
 
 Narrow Skies has been a group active since 2017\. 'The Night' is the third single from the album Earth. It is inspired by the human impact on nature.
 
-### 8\. [Michael FK - Yearning](https://www.youtube.com/watch?v=GBJj-KOVwsk)
+### 8\. Michael FK - Yearning
 
  This is another song by Michael FK. His style is epic and emotional. A contemporary, modern orchestral sound is the basis of his compositions, but that's all that makes them comparable. Yearning is such a delicate composition that makes you feel beautiful. It will give you goosebumps.
 
-### 9\. [Andreas Kübler - Is This Goodbye](https://www.youtube.com/watch?v=wRaHc36Qxw8)
+### 9\. Andreas Kübler - Is This Goodbye
 
  Andreas Kübler is a German musician and composer, with 'The Stories We Forget' being his latest piece to be released. It's a heart-touching song that creates a soft atmosphere if you feel down. This is how it goes- "It's been an honor fighting alongside you. Is this goodbye? If so, have a safe journey, my friend. I hope you find whatever it is you're looking for".
 
-### 10\. [Mustafa Avşaroğlu - When the Last Hope Runs Out](https://www.youtube.com/watch?v=Ch8CaiTz%5FT0)
+### 10\. Mustafa Avşaroğlu - When the Last Hope Runs Out
 
 Are you feeling hopeless? Listen to this sad background music and heal yourself. Mustafa Avşaroğlu is a Turkish neoclassical composer. He makes fantastic sad background songs for broken hearts.
 
@@ -685,43 +675,43 @@ For macOS 10.14 or later
 
 ## Part 2\. 10 Hot Sad Background Music in 2024
 
-### 1\. [Missing You by Purple Cat](https://www.youtube.com/watch?v=KmpoBQ8nOS8)
+### 1\. Missing You by Purple Cat
 
 Missing You is a fantastic sound by Purple Cat, a U.S-based music producer & visual artist trapped in a cat's body. She mostly hangs out in her studio, creating dreamy landscapes of distant worlds and faraway sounds. She makes a surreal world with her songs. Other latest releases by the same artist are Distant Worlds, Sweet Dreams, and Adventure Island.
 
-### 2\. [Sorrow by Alexander Nakarada](https://www.youtube.com/results?search%5Fquery=Sorrow+Alexander+Nakarada+)
+### 2\. Sorrow by Alexander Nakarada
 
 Sorrow is a song from the album Fantasy Fair by Alexander Nakarada, a Norwegian composer and the founder of SerpentSound Studios. He creates all kinds of tracks for the creative people out there. If you feel sad and low, this song playing in the background can ease your soul.
 
-### 3\. [No Turning Back by Synapse Trailer Music -](https://www.youtube.com/watch?v=0S1GNPSY7-M)
+### 3\. No Turning Back by Synapse Trailer Music -
 
 Synapse Trailer is a full-service production house based in Los Angeles, creating songs for various purposes. No turning back is beautiful, emotional instrumental music that will touch your heart and make you feel fantastic.
 
-### 4\.  [Wilderness Roads- Salt Of The Sound & Simon Wester](https://www.youtube.com/watch?v=IYWhhlek8eE)
+### 4\. Wilderness Roads- Salt Of The Sound & Simon Wester
 
 "With so much that is still unknown, we felt inspired to write a song that speaks of this uncharted territory." Swedish artist Simon Wester and Salt Of The Sound. Are you having a hard time? This song is for when we undoubtedly find ourselves on these 'wilderness roads,' but we won't be alone in that journey. Echoes Blue Music released it.
 
-### 5\. [Michael FK - Gleam](https://www.youtube.com/watch?v=vPQkHRh607Q)
+### 5\. Michael FK - Gleam
 
 Michael FK is a sound producer specializing in composing songs for short films and other visual media. Gleam is one popular song by him. It was released in 2020.
 
-### 6\.  [Gísli Gunnarsson - Birds Of Paradise](https://www.youtube.com/watch?v=o4UvIHDVHJA)
+### 6\. Gísli Gunnarsson - Birds Of Paradise
 
 This song belongs to the album Birds of Prey by [Gísli Gunnarsson.](https://www.youtube.com/watch?v=o4UvIHDVHJA) This Album has 15 exclusive audio tracks, all from female artists. The songs are so engaging you'll get hooked to them.
 
-### 7\. [Narrow Skies - The Night](https://www.youtube.com/watch?v=bcZkqWQVoY8)
+### 7\. Narrow Skies - The Night
 
 Narrow Skies has been a group active since 2017\. 'The Night' is the third single from the album Earth. It is inspired by the human impact on nature.
 
-### 8\. [Michael FK - Yearning](https://www.youtube.com/watch?v=GBJj-KOVwsk)
+### 8\. Michael FK - Yearning
 
  This is another song by Michael FK. His style is epic and emotional. A contemporary, modern orchestral sound is the basis of his compositions, but that's all that makes them comparable. Yearning is such a delicate composition that makes you feel beautiful. It will give you goosebumps.
 
-### 9\. [Andreas Kübler - Is This Goodbye](https://www.youtube.com/watch?v=wRaHc36Qxw8)
+### 9\. Andreas Kübler - Is This Goodbye
 
  Andreas Kübler is a German musician and composer, with 'The Stories We Forget' being his latest piece to be released. It's a heart-touching song that creates a soft atmosphere if you feel down. This is how it goes- "It's been an honor fighting alongside you. Is this goodbye? If so, have a safe journey, my friend. I hope you find whatever it is you're looking for".
 
-### 10\. [Mustafa Avşaroğlu - When the Last Hope Runs Out](https://www.youtube.com/watch?v=Ch8CaiTz%5FT0)
+### 10\. Mustafa Avşaroğlu - When the Last Hope Runs Out
 
 Are you feeling hopeless? Listen to this sad background music and heal yourself. Mustafa Avşaroğlu is a Turkish neoclassical composer. He makes fantastic sad background songs for broken hearts.
 
@@ -739,9 +729,7 @@ Although there are many different places to find sad background music, you will 
 
 ## Elevate Your Soundtracks: Expert Edits Using Sony Vegas Pro Software [2023 Update]
 
-# Sony Vegas Audio Editor: How to Edit Audio in Vegas Pro
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+# Sony Vegas Audio Editor: How to Edit Audio in Vegas Pro ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
 
@@ -768,9 +756,7 @@ First of all you need to import your desired audio file to timeline of Vegas Pro
 
 ![Track header](https://images.wondershare.com/edit-audio-in-vegas-pro-1.jpg)
 
-* Mute the Audio Track: Press M
-
-![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
+* Mute the Audio Track: Press M ![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
 
 * Manage volume control for all events of loaded track: Use Volume Slider switch that is denoted by dB.
 * Pan Slider: It is possible to make adjustments for audio pan using a slider named as Center. Users can slide it to left side or right side as per audio project requirements.
@@ -793,7 +779,7 @@ Those who want to control volume separately for different portions of audio file
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
 
-![Adjust audio pan ](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
+![Adjust audio pan](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
 
 #### Section 2: Fade in and Fade Out
 
@@ -801,7 +787,7 @@ Some professional settings to audio project can be made using fade in/out option
 
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
-![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
+![Fade in/out audio](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
 
 #### Section 3: Speed up or Slow down
 
@@ -817,7 +803,7 @@ One can easily reverse his selected audio clip; simply right click over it and t
 
 #### Section 5: Noise Removal
 
-One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/)using Sony Vegas Pro & Audacity.
+One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/) using Sony Vegas Pro & Audacity.
 
 Or check this video tutorial below:
 
@@ -827,7 +813,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **To entire audio layer**
 
-![To entire audio layer ](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
+![To entire audio layer](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
 
 **To an individual portion of the audio layer**
 
@@ -835,7 +821,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
-![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
+![Audio track FX](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
 For additional personalization you need to use plug-in chain button from right corner.
 
@@ -843,7 +829,7 @@ For additional personalization you need to use plug-in chain button from right c
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
-![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
+![Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 
@@ -890,9 +876,7 @@ First of all you need to import your desired audio file to timeline of Vegas Pro
 
 ![Track header](https://images.wondershare.com/edit-audio-in-vegas-pro-1.jpg)
 
-* Mute the Audio Track: Press M
-
-![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
+* Mute the Audio Track: Press M ![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
 
 * Manage volume control for all events of loaded track: Use Volume Slider switch that is denoted by dB.
 * Pan Slider: It is possible to make adjustments for audio pan using a slider named as Center. Users can slide it to left side or right side as per audio project requirements.
@@ -915,7 +899,7 @@ Those who want to control volume separately for different portions of audio file
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
 
-![Adjust audio pan ](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
+![Adjust audio pan](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
 
 #### Section 2: Fade in and Fade Out
 
@@ -923,7 +907,7 @@ Some professional settings to audio project can be made using fade in/out option
 
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
-![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
+![Fade in/out audio](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
 
 #### Section 3: Speed up or Slow down
 
@@ -939,7 +923,7 @@ One can easily reverse his selected audio clip; simply right click over it and t
 
 #### Section 5: Noise Removal
 
-One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/)using Sony Vegas Pro & Audacity.
+One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/) using Sony Vegas Pro & Audacity.
 
 Or check this video tutorial below:
 
@@ -949,7 +933,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **To entire audio layer**
 
-![To entire audio layer ](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
+![To entire audio layer](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
 
 **To an individual portion of the audio layer**
 
@@ -957,7 +941,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
-![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
+![Audio track FX](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
 For additional personalization you need to use plug-in chain button from right corner.
 
@@ -965,7 +949,7 @@ For additional personalization you need to use plug-in chain button from right c
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
-![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
+![Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 
@@ -1012,9 +996,7 @@ First of all you need to import your desired audio file to timeline of Vegas Pro
 
 ![Track header](https://images.wondershare.com/edit-audio-in-vegas-pro-1.jpg)
 
-* Mute the Audio Track: Press M
-
-![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
+* Mute the Audio Track: Press M ![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
 
 * Manage volume control for all events of loaded track: Use Volume Slider switch that is denoted by dB.
 * Pan Slider: It is possible to make adjustments for audio pan using a slider named as Center. Users can slide it to left side or right side as per audio project requirements.
@@ -1037,7 +1019,7 @@ Those who want to control volume separately for different portions of audio file
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
 
-![Adjust audio pan ](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
+![Adjust audio pan](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
 
 #### Section 2: Fade in and Fade Out
 
@@ -1045,7 +1027,7 @@ Some professional settings to audio project can be made using fade in/out option
 
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
-![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
+![Fade in/out audio](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
 
 #### Section 3: Speed up or Slow down
 
@@ -1061,7 +1043,7 @@ One can easily reverse his selected audio clip; simply right click over it and t
 
 #### Section 5: Noise Removal
 
-One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/)using Sony Vegas Pro & Audacity.
+One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/) using Sony Vegas Pro & Audacity.
 
 Or check this video tutorial below:
 
@@ -1071,7 +1053,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **To entire audio layer**
 
-![To entire audio layer ](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
+![To entire audio layer](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
 
 **To an individual portion of the audio layer**
 
@@ -1079,7 +1061,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
-![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
+![Audio track FX](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
 For additional personalization you need to use plug-in chain button from right corner.
 
@@ -1087,7 +1069,7 @@ For additional personalization you need to use plug-in chain button from right c
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
-![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
+![Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 
@@ -1134,9 +1116,7 @@ First of all you need to import your desired audio file to timeline of Vegas Pro
 
 ![Track header](https://images.wondershare.com/edit-audio-in-vegas-pro-1.jpg)
 
-* Mute the Audio Track: Press M
-
-![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
+* Mute the Audio Track: Press M ![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
 
 * Manage volume control for all events of loaded track: Use Volume Slider switch that is denoted by dB.
 * Pan Slider: It is possible to make adjustments for audio pan using a slider named as Center. Users can slide it to left side or right side as per audio project requirements.
@@ -1159,7 +1139,7 @@ Those who want to control volume separately for different portions of audio file
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
 
-![Adjust audio pan ](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
+![Adjust audio pan](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
 
 #### Section 2: Fade in and Fade Out
 
@@ -1167,7 +1147,7 @@ Some professional settings to audio project can be made using fade in/out option
 
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
-![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
+![Fade in/out audio](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
 
 #### Section 3: Speed up or Slow down
 
@@ -1183,7 +1163,7 @@ One can easily reverse his selected audio clip; simply right click over it and t
 
 #### Section 5: Noise Removal
 
-One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/)using Sony Vegas Pro & Audacity.
+One classic feature of Vegas Pro is its Sound Restoration in Audio FX control. But it does not work as good compared to Audacity. Check this article to [see how to remove noise from audio](http://www.technospot.net/blogs/remove-background-noise-sony-vegas-audacity/) using Sony Vegas Pro & Audacity.
 
 Or check this video tutorial below:
 
@@ -1193,7 +1173,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **To entire audio layer**
 
-![To entire audio layer ](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
+![To entire audio layer](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
 
 **To an individual portion of the audio layer**
 
@@ -1201,7 +1181,7 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
-![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
+![Audio track FX](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
 For additional personalization you need to use plug-in chain button from right corner.
 
@@ -1209,7 +1189,7 @@ For additional personalization you need to use plug-in chain button from right c
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
-![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
+![Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 

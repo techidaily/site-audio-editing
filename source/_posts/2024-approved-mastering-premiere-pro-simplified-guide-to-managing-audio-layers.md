@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Mastering Premiere Pro Simplified Guide to Managing Audio Layers
-date: 2024-05-20T02:42:44.323Z
-updated: 2024-05-21T02:42:44.323Z
+date: 2024-06-26T11:42:15.074Z
+updated: 2024-06-27T11:42:15.074Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,14 +11,12 @@ categories:
 description: This Article Describes 2024 Approved Mastering Premiere Pro Simplified Guide to Managing Audio Layers
 excerpt: This Article Describes 2024 Approved Mastering Premiere Pro Simplified Guide to Managing Audio Layers
 keywords: expert guide to displaying audio waves and adding motion graphics in premiere pro,embedding audio layers into moving image projects with premiere pro,enhancing film quality with simplified audio layer control in premiere pro 2023,the premier guide to cutting edge audio masking tech apps online sites,mastering dynamic volume control a guide to audio ducking with adobe premiere pro on mac,eliminating ambient sound mastering audio editing in premiere pro,mastering premiere pro simplified guide to managing audio layers
-thumbnail: https://www.lifewire.com/thmb/4MzQVD7hvg3LqrJguvtCUGY_xnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-990620130-ec2a7076e3f043bfa4f540b72d2034c6.jpg
+thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd4f5906c27990e96a64caabf.jpg
 ---
 
 ## Mastering Premiere Pro: Simplified Guide to Managing Audio Layers
 
-# How to Easily Use Audio Track Mixer in Premiere Pro
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+# How to Easily Use Audio Track Mixer in Premiere Pro ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
 
@@ -42,9 +40,7 @@ With audio track mixer, you can see each track being played in real time, not ju
 
 * listen to tracks separately or together
 * rename them
-* control the volume and type of audio that each track is producing
-
-![Audio Track Mixer details](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-detailes.jpg)
+* control the volume and type of audio that each track is producing ![Audio Track Mixer details](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-detailes.jpg)
 
 You can even look at meters while the main window is closed, which is helpful if you need to free up some space or organize your sounds while other data is shown.
 
@@ -56,7 +52,7 @@ If you are the type of person that likes to work with the sound as it happens, t
 
 Using mono tracks allows you to alter the sound for left and right settings, while stereo tracks produce two different signals for two different speakers. So, if you want to control where the sounds are coming from, then you can do so with a simple adjustment.
 
-![ Audio Track Mixer Settings](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-settings.jpg)
+![Audio Track Mixer Settings](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-settings.jpg)
 
 The audio files are edited both in the audio interface and in a timeline, where it is either imported or directly recorded. Then their waveforms can be viewed, the volume and sounds can be adjusted, and [larger audio mixes can be divided into sub-mixes](https://www.izotope.com/en/blog/mixing/5-approaches-to-submixes.html).
 
@@ -104,9 +100,7 @@ With audio track mixer, you can see each track being played in real time, not ju
 
 * listen to tracks separately or together
 * rename them
-* control the volume and type of audio that each track is producing
-
-![Audio Track Mixer details](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-detailes.jpg)
+* control the volume and type of audio that each track is producing ![Audio Track Mixer details](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-detailes.jpg)
 
 You can even look at meters while the main window is closed, which is helpful if you need to free up some space or organize your sounds while other data is shown.
 
@@ -118,7 +112,7 @@ If you are the type of person that likes to work with the sound as it happens, t
 
 Using mono tracks allows you to alter the sound for left and right settings, while stereo tracks produce two different signals for two different speakers. So, if you want to control where the sounds are coming from, then you can do so with a simple adjustment.
 
-![ Audio Track Mixer Settings](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-settings.jpg)
+![Audio Track Mixer Settings](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-settings.jpg)
 
 The audio files are edited both in the audio interface and in a timeline, where it is either imported or directly recorded. Then their waveforms can be viewed, the volume and sounds can be adjusted, and [larger audio mixes can be divided into sub-mixes](https://www.izotope.com/en/blog/mixing/5-approaches-to-submixes.html).
 
@@ -166,9 +160,7 @@ With audio track mixer, you can see each track being played in real time, not ju
 
 * listen to tracks separately or together
 * rename them
-* control the volume and type of audio that each track is producing
-
-![Audio Track Mixer details](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-detailes.jpg)
+* control the volume and type of audio that each track is producing ![Audio Track Mixer details](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-detailes.jpg)
 
 You can even look at meters while the main window is closed, which is helpful if you need to free up some space or organize your sounds while other data is shown.
 
@@ -180,7 +172,7 @@ If you are the type of person that likes to work with the sound as it happens, t
 
 Using mono tracks allows you to alter the sound for left and right settings, while stereo tracks produce two different signals for two different speakers. So, if you want to control where the sounds are coming from, then you can do so with a simple adjustment.
 
-![ Audio Track Mixer Settings](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-settings.jpg)
+![Audio Track Mixer Settings](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-settings.jpg)
 
 The audio files are edited both in the audio interface and in a timeline, where it is either imported or directly recorded. Then their waveforms can be viewed, the volume and sounds can be adjusted, and [larger audio mixes can be divided into sub-mixes](https://www.izotope.com/en/blog/mixing/5-approaches-to-submixes.html).
 
@@ -228,9 +220,7 @@ With audio track mixer, you can see each track being played in real time, not ju
 
 * listen to tracks separately or together
 * rename them
-* control the volume and type of audio that each track is producing
-
-![Audio Track Mixer details](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-detailes.jpg)
+* control the volume and type of audio that each track is producing ![Audio Track Mixer details](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-detailes.jpg)
 
 You can even look at meters while the main window is closed, which is helpful if you need to free up some space or organize your sounds while other data is shown.
 
@@ -242,7 +232,7 @@ If you are the type of person that likes to work with the sound as it happens, t
 
 Using mono tracks allows you to alter the sound for left and right settings, while stereo tracks produce two different signals for two different speakers. So, if you want to control where the sounds are coming from, then you can do so with a simple adjustment.
 
-![ Audio Track Mixer Settings](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-settings.jpg)
+![Audio Track Mixer Settings](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-settings.jpg)
 
 The audio files are edited both in the audio interface and in a timeline, where it is either imported or directly recorded. Then their waveforms can be viewed, the volume and sounds can be adjusted, and [larger audio mixes can be divided into sub-mixes](https://www.izotope.com/en/blog/mixing/5-approaches-to-submixes.html).
 
@@ -709,7 +699,7 @@ Detailed tutorials provided by the official channel
 
 **Step 1:** In order to start editing a video, you must first import it into Windows Movie Maker. Click on the **Add Videos and Photos** icon in the software's **Home tab** and proceed to select the clip you'd like to mute.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
 
  Click on the **Open** button in the Add Videos and Photos window and your clip will be imported into the software.
 
@@ -719,7 +709,7 @@ Detailed tutorials provided by the official channel
 
 **Step 3:** Make sure that the clip you want to mute is selected and click on the **Video Volume icon** on the left side of the Edit tab.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
 
  Drag the slider all the way to the left to mute the audio. Click the **Play button** in the preview window to make sure that video's sound is muted.
 
@@ -729,7 +719,7 @@ Detailed tutorials provided by the official channel
 
 **Step 1:** After you've muted the audio, click on the **Add Music icon,** that is located next to the Add Photos and Videos icon in the Home tab.
 
-![ Windows Movie Maker Audio Editing]( https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
 
  A drop-down menu will appear offering you to select music from an online source or to import an audio file from your computer. Moreover, you can select the starting point of the song you're importing so you don't have to adjust the position of the audio file in your project manually.
 
@@ -737,7 +727,7 @@ Detailed tutorials provided by the official channel
 
 **Step 2:** The audio file you imported will be automatically added to the video clip on the Storyboard. Click Play in the preview window to check if you like the result. Head over to the **File** menu and click on the **Save Movie** option. Windows Movie Maker will offer you a number of different options and if you'd like to save your video to the computer, you should select the **For Computer** option.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg )
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg)
 
 ## Part 3: Wondershare Filmora - A Better Way to Replace Audio Files in Videos on Windows OS
 
@@ -747,7 +737,7 @@ Detailed tutorials provided by the official channel
 
 **Step 2:** Drag and drop the video file to the timeline and then right-click on it. Select the **Audio Detach**  option from the context menu. The audio file will appear in the newly created audio track, and you can just click on the **Volume** icon located at the begging of the audio track to mute that audio track.
 
-![ Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png )
+![Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png)
 
  For more details, check our guide about [How to remove audio from video in Filmora on Windows.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -787,7 +777,7 @@ Follow @Shanoon Cox
 
 **Step 1:** In order to start editing a video, you must first import it into Windows Movie Maker. Click on the **Add Videos and Photos** icon in the software's **Home tab** and proceed to select the clip you'd like to mute.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
 
  Click on the **Open** button in the Add Videos and Photos window and your clip will be imported into the software.
 
@@ -797,7 +787,7 @@ Follow @Shanoon Cox
 
 **Step 3:** Make sure that the clip you want to mute is selected and click on the **Video Volume icon** on the left side of the Edit tab.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
 
  Drag the slider all the way to the left to mute the audio. Click the **Play button** in the preview window to make sure that video's sound is muted.
 
@@ -807,7 +797,7 @@ Follow @Shanoon Cox
 
 **Step 1:** After you've muted the audio, click on the **Add Music icon,** that is located next to the Add Photos and Videos icon in the Home tab.
 
-![ Windows Movie Maker Audio Editing]( https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
 
  A drop-down menu will appear offering you to select music from an online source or to import an audio file from your computer. Moreover, you can select the starting point of the song you're importing so you don't have to adjust the position of the audio file in your project manually.
 
@@ -815,7 +805,7 @@ Follow @Shanoon Cox
 
 **Step 2:** The audio file you imported will be automatically added to the video clip on the Storyboard. Click Play in the preview window to check if you like the result. Head over to the **File** menu and click on the **Save Movie** option. Windows Movie Maker will offer you a number of different options and if you'd like to save your video to the computer, you should select the **For Computer** option.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg )
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg)
 
 ## Part 3: Wondershare Filmora - A Better Way to Replace Audio Files in Videos on Windows OS
 
@@ -825,7 +815,7 @@ Follow @Shanoon Cox
 
 **Step 2:** Drag and drop the video file to the timeline and then right-click on it. Select the **Audio Detach**  option from the context menu. The audio file will appear in the newly created audio track, and you can just click on the **Volume** icon located at the begging of the audio track to mute that audio track.
 
-![ Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png )
+![Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png)
 
  For more details, check our guide about [How to remove audio from video in Filmora on Windows.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -865,7 +855,7 @@ Follow @Shanoon Cox
 
 **Step 1:** In order to start editing a video, you must first import it into Windows Movie Maker. Click on the **Add Videos and Photos** icon in the software's **Home tab** and proceed to select the clip you'd like to mute.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
 
  Click on the **Open** button in the Add Videos and Photos window and your clip will be imported into the software.
 
@@ -875,7 +865,7 @@ Follow @Shanoon Cox
 
 **Step 3:** Make sure that the clip you want to mute is selected and click on the **Video Volume icon** on the left side of the Edit tab.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
 
  Drag the slider all the way to the left to mute the audio. Click the **Play button** in the preview window to make sure that video's sound is muted.
 
@@ -885,7 +875,7 @@ Follow @Shanoon Cox
 
 **Step 1:** After you've muted the audio, click on the **Add Music icon,** that is located next to the Add Photos and Videos icon in the Home tab.
 
-![ Windows Movie Maker Audio Editing]( https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
 
  A drop-down menu will appear offering you to select music from an online source or to import an audio file from your computer. Moreover, you can select the starting point of the song you're importing so you don't have to adjust the position of the audio file in your project manually.
 
@@ -893,7 +883,7 @@ Follow @Shanoon Cox
 
 **Step 2:** The audio file you imported will be automatically added to the video clip on the Storyboard. Click Play in the preview window to check if you like the result. Head over to the **File** menu and click on the **Save Movie** option. Windows Movie Maker will offer you a number of different options and if you'd like to save your video to the computer, you should select the **For Computer** option.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg )
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg)
 
 ## Part 3: Wondershare Filmora - A Better Way to Replace Audio Files in Videos on Windows OS
 
@@ -903,7 +893,7 @@ Follow @Shanoon Cox
 
 **Step 2:** Drag and drop the video file to the timeline and then right-click on it. Select the **Audio Detach**  option from the context menu. The audio file will appear in the newly created audio track, and you can just click on the **Volume** icon located at the begging of the audio track to mute that audio track.
 
-![ Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png )
+![Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png)
 
  For more details, check our guide about [How to remove audio from video in Filmora on Windows.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -943,7 +933,7 @@ Follow @Shanoon Cox
 
 **Step 1:** In order to start editing a video, you must first import it into Windows Movie Maker. Click on the **Add Videos and Photos** icon in the software's **Home tab** and proceed to select the clip you'd like to mute.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
 
  Click on the **Open** button in the Add Videos and Photos window and your clip will be imported into the software.
 
@@ -953,7 +943,7 @@ Follow @Shanoon Cox
 
 **Step 3:** Make sure that the clip you want to mute is selected and click on the **Video Volume icon** on the left side of the Edit tab.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
 
  Drag the slider all the way to the left to mute the audio. Click the **Play button** in the preview window to make sure that video's sound is muted.
 
@@ -963,7 +953,7 @@ Follow @Shanoon Cox
 
 **Step 1:** After you've muted the audio, click on the **Add Music icon,** that is located next to the Add Photos and Videos icon in the Home tab.
 
-![ Windows Movie Maker Audio Editing]( https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
 
  A drop-down menu will appear offering you to select music from an online source or to import an audio file from your computer. Moreover, you can select the starting point of the song you're importing so you don't have to adjust the position of the audio file in your project manually.
 
@@ -971,7 +961,7 @@ Follow @Shanoon Cox
 
 **Step 2:** The audio file you imported will be automatically added to the video clip on the Storyboard. Click Play in the preview window to check if you like the result. Head over to the **File** menu and click on the **Save Movie** option. Windows Movie Maker will offer you a number of different options and if you'd like to save your video to the computer, you should select the **For Computer** option.
 
-![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg )
+![Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg)
 
 ## Part 3: Wondershare Filmora - A Better Way to Replace Audio Files in Videos on Windows OS
 
@@ -981,7 +971,7 @@ Follow @Shanoon Cox
 
 **Step 2:** Drag and drop the video file to the timeline and then right-click on it. Select the **Audio Detach**  option from the context menu. The audio file will appear in the newly created audio track, and you can just click on the **Volume** icon located at the begging of the audio track to mute that audio track.
 
-![ Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png )
+![Audio Detach](https://images.wondershare.com/filmora/article-images/detach-audio-from-video.png)
 
  For more details, check our guide about [How to remove audio from video in Filmora on Windows.](https://tools.techidaily.com/wondershare/filmora/download/)
 
