@@ -1,7 +1,7 @@
 ---
 title: Efficiently Incorporate and Retract Audacity Into Your Chromebooks Audio Workflow
-date: 2024-05-20T02:42:08.102Z
-updated: 2024-05-21T02:42:08.103Z
+date: 2024-07-05T18:49:56.788Z
+updated: 2024-07-06T18:49:56.788Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Efficiently Incorporate and Retract Audacity Into Your Chromebooks Audio Workflow
 excerpt: This Article Describes Efficiently Incorporate and Retract Audacity Into Your Chromebooks Audio Workflow
 keywords: achieving sonic excellence incorporating auto tune into your audacity workflow,free audio workflow with audacity tips and tricks for effective recording,from zero to pro integrating audacity into your chromebooks ecosystem,we will introduce you how to record your computer audio in audacity.,efficiently incorporate and retract audacity into your chromebooks audio workflow,unlocking free audacity features for efficient audio recording,how to record your computer audio in audacity
-thumbnail: https://www.lifewire.com/thmb/8693hBAeE81sk6n359fo6i01-Hc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1168002788-1bccccf67a1f4988bd355c09748383ab.jpg
+thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3dbfe57b65bd55e5629cfc57b6.jpg
 ---
 
 ## "Efficiently Incorporate and Retract Audacity Into Your Chromebook's Audio Workflow"

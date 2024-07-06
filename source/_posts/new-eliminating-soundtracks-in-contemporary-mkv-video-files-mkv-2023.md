@@ -1,7 +1,7 @@
 ---
 title: New Eliminating Soundtracks in Contemporary MKV Video Files (MKV-2023)
-date: 2024-06-26T11:42:19.067Z
-updated: 2024-06-27T11:42:19.067Z
+date: 2024-07-05T18:49:45.672Z
+updated: 2024-07-06T18:49:45.672Z
 tags: 
   - audio editing software
   - audio editing
@@ -16,7 +16,8 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
 ## "Eliminating Soundtracks in Contemporary MKV Video Files (MKV-2023)"
 
-# How to Remove Audio from MKV ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+# How to Remove Audio from MKV
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
 
@@ -496,7 +497,8 @@ There are so many wonderful Spotify rippers for you to get MP3 files, online or 
 
 ## The Art of Smooth Transitions Between Film Cuts
 
-# How to Add Video and Audio Transition Between Scenes/Clips ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+# How to Add Video and Audio Transition Between Scenes/Clips
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
 

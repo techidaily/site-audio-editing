@@ -1,7 +1,7 @@
 ---
 title: New How to Record Your Computer Audio in Audacity
-date: 2024-05-20T02:42:40.129Z
-updated: 2024-05-21T02:42:40.129Z
+date: 2024-07-05T18:49:44.186Z
+updated: 2024-07-06T18:49:44.186Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New How to Record Your Computer Audio in Audacity
 excerpt: This Article Describes New How to Record Your Computer Audio in Audacity
 keywords: how to convert audacity projects into mp3 audio outputs,how to audacity recording computer audio,how to record your computer audio in audacity,capturing your computers audio spectrum with audacity,how to record audio with audacity for free,essential tips for free voice and audio recording in audacity on computers,we will introduce you how to record your computer audio in audacity.
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## How to Record Your Computer Audio in Audacity

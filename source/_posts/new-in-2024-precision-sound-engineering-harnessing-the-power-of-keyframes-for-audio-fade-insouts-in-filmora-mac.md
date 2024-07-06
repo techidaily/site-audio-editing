@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Precision Sound Engineering Harnessing the Power of Keyframes for Audio Fade-Ins/Outs in Filmora (Mac)
-date: 2024-05-05T08:02:21.273Z
-updated: 2024-05-06T08:02:21.273Z
+date: 2024-07-05T18:49:59.248Z
+updated: 2024-07-06T18:49:59.248Z
 tags: 
   - audio editing software
   - audio editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Precision Sound Engineering Harnessing the Power of Keyframes for Audio Fade-Ins/Outs in Filmora (Mac)
 excerpt: This Article Describes New In 2024, Precision Sound Engineering Harnessing the Power of Keyframes for Audio Fade-Ins/Outs in Filmora (Mac)
 keywords: harnessing the power of tension building melodies in cinematic storytelling,the art of sound manipulation creating engaging audio timelines using keyframes in adobe premiere pro mac,enhancing presentations with sound in depth techniques for recording audio in powerpoint on pcmac platforms,soundtrack sanctuary the finest websites offering free audio selections for filmmakers,fine tuning film soundtracks strategies for precise audio timing with keyframes in final cut pro x,precision sound engineering harnessing the power of keyframes for audio fade insouts in filmora mac,integrating audible elements into your slides a comprehensive guide for recording sound in powerpoint on pcmac systems
-thumbnail: https://www.lifewire.com/thmb/r5-nbFpZcg3uV6IKilx2-E6xQtA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-185223738-56a691fd5f9b58b7d0e3a1d9.jpg
+thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa28f7cfc8442056063114a14.jpg
 ---
 
 ## Precision Sound Engineering: Harnessing the Power of Keyframes for Audio Fade-Ins/Outs in Filmora (Mac)
@@ -394,23 +394,23 @@ Follow @Benjamin Arango
 
 ## 5 of the Best Backwards music videos
 
-### [1\. Forward by Messe Kopp](https://www.youtube.com/watch?v=X6jprOZ29wY)
+### 1\. Forward by Messe Kopp
 
  This video was created by Messe Kopp and it is a perfect example of how backwards video techniques have evolved over recent years. It uses all the things that you would normally see in a backwards video and it really is a great video as well. You will also find that the backwards technique adds a complete new dynamic to the video as well so it really is interesting to watch. On top of this, the song is great and the whole scene works really well so you can already start to see how the backwards technique is becoming more and more prominent in today's industry.
 
-### [2\. 2 Guys, 600 Pillows](https://www.youtube.com/watch?v=01TL9bUWr6I)
+### 2\. 2 Guys, 600 Pillows
 
  Have you ever wondered what 600 pillows look like? Well now you know. The guys start by throwing pillows onto the bed and the great thing is that it is all in reverse. On top of this, it also shows the guys jump onto the pillows and the entire scene is reversed. The song that is played over the video is also great when you take a look at the way it is filmed so why not give it a watch for yourself to see the great filming styles that are present.
 
-### [3\. Tongue Tied](https://www.youtube.com/watch?v=1x1wjGKHjBI)
+### 3\. Tongue Tied
 
  This video is by a band called GroupLove and it was directed by Jordan Bahat. The video starts with a comical opening and after a few seconds you can start to see the backwards filming style. He starts by running backwards and before you know it, there are some wrestlers in masks following him. This video has plenty of things to show you and the effects are well and truly fantastic.
 
-### [4. Drop](https://www.youtube.com/watch?v=wQlvSpPuWdo)
+### 4. Drop
 
  This is called the Drop Video and it is by a group called the Pharcyde. Spike Jonze directed this and he came up with the idea for it as well. It has a very similar style to the first video and it is all filmed in the street. The group perform plenty of dance moves and this continues to add to the style and interest that this video has to offer.
 
-### [5\. Rivers](https://www.youtube.com/watch?v=vt50B772Fcg)
+### 5\. Rivers
 
  This video was done by a group called Small Feet and it really does have a lot to offer, from start to finish. Even though this video made it to number 5 on the list, doesn't mean that it isn't interesting. It was directed by Oskar Wrango and it uses nature in an attempt to tell the story of the song. This is unlike the videos that have been mentioned before and it certainly delivers an interesting result.
 
@@ -432,23 +432,23 @@ Follow @Liza Brown
 
 ## 5 of the Best Backwards music videos
 
-### [1\. Forward by Messe Kopp](https://www.youtube.com/watch?v=X6jprOZ29wY)
+### 1\. Forward by Messe Kopp
 
  This video was created by Messe Kopp and it is a perfect example of how backwards video techniques have evolved over recent years. It uses all the things that you would normally see in a backwards video and it really is a great video as well. You will also find that the backwards technique adds a complete new dynamic to the video as well so it really is interesting to watch. On top of this, the song is great and the whole scene works really well so you can already start to see how the backwards technique is becoming more and more prominent in today's industry.
 
-### [2\. 2 Guys, 600 Pillows](https://www.youtube.com/watch?v=01TL9bUWr6I)
+### 2\. 2 Guys, 600 Pillows
 
  Have you ever wondered what 600 pillows look like? Well now you know. The guys start by throwing pillows onto the bed and the great thing is that it is all in reverse. On top of this, it also shows the guys jump onto the pillows and the entire scene is reversed. The song that is played over the video is also great when you take a look at the way it is filmed so why not give it a watch for yourself to see the great filming styles that are present.
 
-### [3\. Tongue Tied](https://www.youtube.com/watch?v=1x1wjGKHjBI)
+### 3\. Tongue Tied
 
  This video is by a band called GroupLove and it was directed by Jordan Bahat. The video starts with a comical opening and after a few seconds you can start to see the backwards filming style. He starts by running backwards and before you know it, there are some wrestlers in masks following him. This video has plenty of things to show you and the effects are well and truly fantastic.
 
-### [4. Drop](https://www.youtube.com/watch?v=wQlvSpPuWdo)
+### 4. Drop
 
  This is called the Drop Video and it is by a group called the Pharcyde. Spike Jonze directed this and he came up with the idea for it as well. It has a very similar style to the first video and it is all filmed in the street. The group perform plenty of dance moves and this continues to add to the style and interest that this video has to offer.
 
-### [5\. Rivers](https://www.youtube.com/watch?v=vt50B772Fcg)
+### 5\. Rivers
 
  This video was done by a group called Small Feet and it really does have a lot to offer, from start to finish. Even though this video made it to number 5 on the list, doesn't mean that it isn't interesting. It was directed by Oskar Wrango and it uses nature in an attempt to tell the story of the song. This is unlike the videos that have been mentioned before and it certainly delivers an interesting result.
 
@@ -470,23 +470,23 @@ Follow @Liza Brown
 
 ## 5 of the Best Backwards music videos
 
-### [1\. Forward by Messe Kopp](https://www.youtube.com/watch?v=X6jprOZ29wY)
+### 1\. Forward by Messe Kopp
 
  This video was created by Messe Kopp and it is a perfect example of how backwards video techniques have evolved over recent years. It uses all the things that you would normally see in a backwards video and it really is a great video as well. You will also find that the backwards technique adds a complete new dynamic to the video as well so it really is interesting to watch. On top of this, the song is great and the whole scene works really well so you can already start to see how the backwards technique is becoming more and more prominent in today's industry.
 
-### [2\. 2 Guys, 600 Pillows](https://www.youtube.com/watch?v=01TL9bUWr6I)
+### 2\. 2 Guys, 600 Pillows
 
  Have you ever wondered what 600 pillows look like? Well now you know. The guys start by throwing pillows onto the bed and the great thing is that it is all in reverse. On top of this, it also shows the guys jump onto the pillows and the entire scene is reversed. The song that is played over the video is also great when you take a look at the way it is filmed so why not give it a watch for yourself to see the great filming styles that are present.
 
-### [3\. Tongue Tied](https://www.youtube.com/watch?v=1x1wjGKHjBI)
+### 3\. Tongue Tied
 
  This video is by a band called GroupLove and it was directed by Jordan Bahat. The video starts with a comical opening and after a few seconds you can start to see the backwards filming style. He starts by running backwards and before you know it, there are some wrestlers in masks following him. This video has plenty of things to show you and the effects are well and truly fantastic.
 
-### [4. Drop](https://www.youtube.com/watch?v=wQlvSpPuWdo)
+### 4. Drop
 
  This is called the Drop Video and it is by a group called the Pharcyde. Spike Jonze directed this and he came up with the idea for it as well. It has a very similar style to the first video and it is all filmed in the street. The group perform plenty of dance moves and this continues to add to the style and interest that this video has to offer.
 
-### [5\. Rivers](https://www.youtube.com/watch?v=vt50B772Fcg)
+### 5\. Rivers
 
  This video was done by a group called Small Feet and it really does have a lot to offer, from start to finish. Even though this video made it to number 5 on the list, doesn't mean that it isn't interesting. It was directed by Oskar Wrango and it uses nature in an attempt to tell the story of the song. This is unlike the videos that have been mentioned before and it certainly delivers an interesting result.
 
@@ -508,23 +508,23 @@ Follow @Liza Brown
 
 ## 5 of the Best Backwards music videos
 
-### [1\. Forward by Messe Kopp](https://www.youtube.com/watch?v=X6jprOZ29wY)
+### 1\. Forward by Messe Kopp
 
  This video was created by Messe Kopp and it is a perfect example of how backwards video techniques have evolved over recent years. It uses all the things that you would normally see in a backwards video and it really is a great video as well. You will also find that the backwards technique adds a complete new dynamic to the video as well so it really is interesting to watch. On top of this, the song is great and the whole scene works really well so you can already start to see how the backwards technique is becoming more and more prominent in today's industry.
 
-### [2\. 2 Guys, 600 Pillows](https://www.youtube.com/watch?v=01TL9bUWr6I)
+### 2\. 2 Guys, 600 Pillows
 
  Have you ever wondered what 600 pillows look like? Well now you know. The guys start by throwing pillows onto the bed and the great thing is that it is all in reverse. On top of this, it also shows the guys jump onto the pillows and the entire scene is reversed. The song that is played over the video is also great when you take a look at the way it is filmed so why not give it a watch for yourself to see the great filming styles that are present.
 
-### [3\. Tongue Tied](https://www.youtube.com/watch?v=1x1wjGKHjBI)
+### 3\. Tongue Tied
 
  This video is by a band called GroupLove and it was directed by Jordan Bahat. The video starts with a comical opening and after a few seconds you can start to see the backwards filming style. He starts by running backwards and before you know it, there are some wrestlers in masks following him. This video has plenty of things to show you and the effects are well and truly fantastic.
 
-### [4. Drop](https://www.youtube.com/watch?v=wQlvSpPuWdo)
+### 4. Drop
 
  This is called the Drop Video and it is by a group called the Pharcyde. Spike Jonze directed this and he came up with the idea for it as well. It has a very similar style to the first video and it is all filmed in the street. The group perform plenty of dance moves and this continues to add to the style and interest that this video has to offer.
 
-### [5\. Rivers](https://www.youtube.com/watch?v=vt50B772Fcg)
+### 5\. Rivers
 
  This video was done by a group called Small Feet and it really does have a lot to offer, from start to finish. Even though this video made it to number 5 on the list, doesn't mean that it isn't interesting. It was directed by Oskar Wrango and it uses nature in an attempt to tell the story of the song. This is unlike the videos that have been mentioned before and it certainly delivers an interesting result.
 

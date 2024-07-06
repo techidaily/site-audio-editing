@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Fade In/Out Audio with Keyframes in Filmora for Mac
-date: 2024-06-26T11:42:11.281Z
-updated: 2024-06-27T11:42:11.281Z
+date: 2024-07-05T18:50:01.788Z
+updated: 2024-07-06T18:50:01.788Z
 tags: 
   - audio editing software
   - audio editing
@@ -16,7 +16,8 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
 
 ## Audio Transition Techniques with Keyframes: A Mac-Based Filmorian's Handbook
 
-# How to Fade In/Out Audio with Keyframes in Filmora for Mac ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+# How to Fade In/Out Audio with Keyframes in Filmora for Mac
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
 
