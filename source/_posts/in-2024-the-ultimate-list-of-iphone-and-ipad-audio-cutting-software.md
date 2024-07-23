@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate List of iPhone and iPad Audio Cutting Software
-date: 2024-06-09T19:59:03.430Z
-updated: 2024-06-10T19:59:03.430Z
+date: 2024-07-22T08:39:32.042Z
+updated: 2024-07-23T08:39:32.042Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,6 +18,9 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
 # Best Audio Editing Apps for iPhone and iPad
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -28,6 +31,9 @@ Audio recording is an integral part of every phone. This feature lets you record
 
 To make things easier for you, we have hand-picked the top ten and the **best audio editing apps for iPhone** that you can try. These audio apps are more than a [recorder](https://tools.techidaily.com/wondershare/filmora/download/); they can help you to edit audio files professionally. Keep reading to find out which tools they are.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora logo](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-horizontal.svg)
 
 ## A cross-platform for making videos anywhere for all creators
@@ -51,8 +57,14 @@ To make things easier for you, we have hand-picked the top ten and the **best au
 
 ![filmora12](https://images.wondershare.com/filmora/12-filmora/img/filmora12-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10 Best Audio Editing Apps for iPhone and iPad
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1. GarageBand
 
 ![Audio editing app for iPhone - GarageBand ](https://images.wondershare.com/filmora/article-images/garageband-audio-editor-iphone.jpg)
@@ -65,6 +77,9 @@ Whether you want to create RnB, Hip-Hop, EDM, or other live sounds, GarageBand w
 
 ### 2\.  Edjing Mix – DJ app
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Audio editing app for iPhone - Edjing Mix – DJ ](https://images.wondershare.com/filmora/article-images/edjing-mix-dj-app.jpg)
 
 Available - [iOS](https://apps.apple.com/us/app/edjing-mix-dj-app/id493226494)
@@ -73,8 +88,14 @@ If you are a DJ and looking for an audio app that will let you edit a music piec
 
 Moreover, Edjing Mix – DJ has integrated with SoundCloud Go+, TIDAL Premium, iTunes, and more so that you can instantly start editing the song file that you want to. Although Edjing Mix – DJ is free to use, it comes with in-app purchases, which you can try to enhance the audio quality.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\.  Hokusai Audio Editor
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Audio editing app for iPhone - Hokusai Audio Editor ](https://images.wondershare.com/filmora/article-images/hokusai-audio-editor.jpg)
 
 Available- [iOS](https://apps.apple.com/in/app/hokusai-audio-editor/id432079746)
@@ -95,6 +116,9 @@ If you want to trim or enhance ringtones and voiceovers, you can try WavePad Mus
 
 ### 5\.  Audio Editor Tool
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Audio editing app for iPhone - Audio Editor Tool](https://images.wondershare.com/filmora/article-images/audio-editor-tool.jpg)
 
 Available: [iOS](https://apps.apple.com/app/audio-editor-tool/id960205691#?platform=iphone)
@@ -103,8 +127,19 @@ If you are looking for a straightforward audio editing tool with robust editing 
 
 One of the good things about the Audio Editor Tool is that the developers of this music editing tool have made it simple to use. It has multiple sound effects, an 8-band equalizer and even lets you record music straight through the app. To download Audio Editor Tool, visit the App Store. It's free to use, but for better audio editing tools, you can make in-app purchases.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\.  Lexis Audio Editor
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Audio editing app for iPhone - Lexis Audio Editor](https://images.wondershare.com/filmora/article-images/lexis-audio-editor-app.jpg)
 
 Available: [Android](https://play.google.com/store/apps/details?id=com.pamsys.lexisaudioeditor&hl=en%5FGB&gl=US), [iOS](https://apps.apple.com/us/app/lexis-audio-editor/id1259401721)
@@ -123,6 +158,9 @@ TwistedWave Audio Editor lets you edit your audio files instantly. This is a pro
 
 With this audio editing tool in your handset, creating and editing music on the go will become easy. If you want, you can change the speed of some parts of the audio file and even change the pitch. It's not a free tool, but the features it provides are worth every penny.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 8\.  Audio Editor - Music Mixer
 
 ![Audio editing app for iPhone - Audio Editor - Music Mixer](https://images.wondershare.com/filmora/article-images/audio-editor-music-mixer.jpg)
@@ -133,6 +171,9 @@ Do you want to create fantastic ringtones or convert MP3? Audio Editor - Music M
 
 It lets you add audio effects; you can choose from a plethora of audio effects, EQ, normalize, add tempo, and much more. So, whether you want to splice a song or edit it, cut two songs or add them together, Audio Editor - Music Mixer is here and will let you edit your music files just the way you want.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9\.  Ferrite Recording Studio
 
 Available: [iOS](https://apps.apple.com/gb/app/ferrite-recording-studio/id1018780185)
@@ -163,6 +204,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Click here to get Filmora for PC by email](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -186,3 +230,62 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/rafting-content-that-captivates-youtube-keyword-mastery/"><u>[New] Crafting Content that Captivates  YouTube Keyword Mastery</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-insta-perfect-pivoting-mastering-video-angles-for-social-success/"><u>[New] Insta Perfect Pivoting  Mastering Video Angles for Social Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-livestream-perfection-selecting-your-go-to-platform/"><u>[New] Livestream Perfection  Selecting Your Go-To Platform</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-proven-methods-for-assessing-youtube-channel-profitability/"><u>[New] Proven Methods for Assessing YouTube Channel Profitability</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-past-essential-historical-yt-creators-for-students/"><u>[New] Unveiling the Past  Essential Historical YT Creators for Students</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-vlogging-mastering-tripod-angles-and-positions/"><u>[Updated] 2024 Approved  Elevate Your Vlogging  Mastering Tripod Angles and Positions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-elevate-your-gaming-by-recording-ps3-games/"><u>[Updated] In 2024, Elevate Your Gaming by Recording PS3 Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-how-to-angle-videos-for-improved-viewership/"><u>[Updated] In 2024, How to Angle Videos for Improved Viewership</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-trail-of-imagery-the-complete-user-manual-for-inverted-scans-in-instagram/"><u>[Updated] Trail of Imagery  The Complete User Manual for Inverted Scans in Instagram</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-effortlessly-excel-at-creating-instagram-reels/"><u>2024 Approved  Effortlessly Excel at Creating Instagram Reels</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-prime-6-mobile-movie-collections/"><u>2024 Approved  Prime 6 Mobile Movie Collections</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streamline-lesson-planning-with-recorder-tools/"><u>2024 Approved  Streamline Lesson Planning with Recorder Tools</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-the-producers-playbook-discovering-premium-sound-effects-for-your-podcast-creations/"><u>2024 Approved The Producers Playbook Discovering Premium Sound Effects for Your Podcast Creations</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-the-quintessential-free-mp3-amplitude-adjusters-guide/"><u>2024 Approved The Quintessential Free MP3 Amplitude Adjusters Guide</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-the-quintessential-quality-control-for-sound-customization/"><u>2024 Approved The Quintessential Quality Control for Sound Customization</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-the-quintessential-song-compendium-optimal-audio-to-enhance-montage-cinematics/"><u>2024 Approved The Quintessential Song Compendium Optimal Audio to Enhance Montage Cinematics</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-the-roadmap-to-pinpointing-exceptional-audio-experts/"><u>2024 Approved The Roadmap to Pinpointing Exceptional Audio Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-images-with-gorgeous-mosaics/"><u>Elevate Your Images with Gorgeous Mosaics</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/hot-tiktok-shopping-30-essential-products-from-amazon/"><u>Hot TikTok Shopping  30 Essential Products From Amazon</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-6s-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 6s?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-vivo-s17e-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo S17e Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-the-quintessential-list-8-iconic-sound-effects-from-todays-blockbusters/"><u>In 2024, The Quintessential List 8 Iconic Sound Effects From Todays Blockbusters</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-the-real-deal-with-daws-separating-fact-from-fiction-in-audio-production/"><u>In 2024, The Real Deal with DAWs Separating Fact From Fiction in Audio Production</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-the-ringtone-revolution-transforming-in-app-music-to-personal-anthems/"><u>In 2024, The Ringtone Revolution Transforming In-App Music to Personal Anthems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unbeatable-free-vob-video-editors-expert-recommendations/"><u>New 2024 Approved Unbeatable Free VOB Video Editors Expert Recommendations</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-best-online-webm-video-compressors-for-2024/"><u>New Best Online WebM Video Compressors for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-set-up-twitch-green-screen/"><u>New How to Set Up Twitch Green Screen</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-maximize-your-music-potential-the-benefits-of-reading-about-mp3-conversion-for-2024/"><u>New Maximize Your Music Potential The Benefits of Reading About Mp3 Conversion for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-professionals-method-for-soundless-iphone-video-editing/"><u>New The Professionals Method for Soundless iPhone Video Editing</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-professionals-review-of-adobe-audition-innovative-tools-expert-tutorials-and-user-centric-design/"><u>New The Professionals Review of Adobe Audition Innovative Tools, Expert Tutorials & User-Centric Design</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-pros-pathway-to-purging-percussion-from-digital-melodies/"><u>New The Pros Pathway to Purging Percussion From Digital Melodies</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-quintessential-free-mp3-amplitude-adjusters-guide/"><u>New The Quintessential Free MP3 Amplitude Adjusters Guide</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-remote-auditory-engineers-toolkit-optimizing-playback-velocity-and-harmonic-content-online/"><u>New The Remote Auditory Engineers Toolkit Optimizing Playback Velocity and Harmonic Content Online</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-professionals-method-for-soundless-iphone-video-editing-for-2024/"><u>The Professionals Method for Soundless iPhone Video Editing for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-quiet-revolution-cutting-edge-approaches-to-taming-sibilance-in-audio-editing-for-2024/"><u>The Quiet Revolution Cutting-Edge Approaches to Taming Sibilance in Audio Editing for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-quiet-zone-mastering-the-craft-of-muting-unwanted-web-based-sounds-for-2024/"><u>The Quiet Zone Mastering the Craft of Muting Unwanted Web-Based Sounds for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-quietude-process-an-orderly-procedure-to-dissolve-disruptive-drones-for-2024/"><u>The Quietude Process An Orderly Procedure to Dissolve Disruptive Drones for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-quintessential-compilation-3-aplus-online-services-for-elevated-sound-in-media-for-2024/"><u>The Quintessential Compilation 3 A+ Online Services for Elevated Sound in Media for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-quintessential-guide-to-optimal-free-audio-loudness-tuners-for-2024/"><u>The Quintessential Guide to Optimal Free Audio Loudness Tuners for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-quintessential-song-compendium-optimal-audio-to-enhance-montage-cinematics-for-2024/"><u>The Quintessential Song Compendium Optimal Audio to Enhance Montage Cinematics for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-real-deal-with-daws-separating-fact-from-fiction-in-audio-production-for-2024/"><u>The Real Deal with DAWs Separating Fact From Fiction in Audio Production for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ringtone-revolution-transforming-in-app-music-to-personal-anthems-for-2024/"><u>The Ringtone Revolution Transforming In-App Music to Personal Anthems for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-roadmap-to-pinpointing-exceptional-audio-experts-for-2024/"><u>The Roadmap to Pinpointing Exceptional Audio Experts for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-role-of-high-stakes-soundtracks-in-crafting-unforgettable-movie-experiences-for-2024/"><u>The Role of High-Stakes Soundtracks in Crafting Unforgettable Movie Experiences for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-22-free-video-editing-software-to-save-your-money-and-time/"><u>Updated 2024 Approved 22 Free Video Editing Software to Save Your Money and Time</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-essential-playlist-of-audio-enhancing-technology-top-15-apps-and-websites-for-music-in-media/"><u>Updated 2024 Approved The Essential Playlist of Audio-Enhancing Technology Top 15 Apps and Websites for Music in Media</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-mp3-cat-sound-effect/"><u>Updated In 2024, MP3 Cat Sound Effect</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-best-way-to-trim-vlc-videos-on-mac-maintain-original-quality/"><u>Updated In 2024, The Best Way to Trim VLC Videos on Mac Maintain Original Quality</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-professionals-method-for-removing-unwanted-sounds-from-media-projects-using-premiere-pro/"><u>Updated The Professionals Method for Removing Unwanted Sounds From Media Projects Using Premiere Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-pursuit-of-pristine-sounds-a-complete-guide-to-utilizing-adobe-auditions-noise-reduction-features/"><u>Updated The Pursuit of Pristine Sounds A Complete Guide to Utilizing Adobe Auditions Noise Reduction Features</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-quintessential-quality-control-for-sound-customization/"><u>Updated The Quintessential Quality Control for Sound Customization</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-real-deal-with-daws-separating-fact-from-fiction-in-audio-production/"><u>Updated The Real Deal with DAWs Separating Fact From Fiction in Audio Production</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-role-of-dissonant-harmonies-and-pacing-in-creating-film-music-suspense/"><u>Updated The Role of Dissonant Harmonies and Pacing in Creating Film Music Suspense</u></a></li>
+</ul></div>
