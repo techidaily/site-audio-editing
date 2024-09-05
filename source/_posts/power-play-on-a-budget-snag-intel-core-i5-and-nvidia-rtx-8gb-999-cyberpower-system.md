@@ -1,7 +1,7 @@
 ---
 title: "Power Play on a Budget: Snag Intel Core I5 & Nvidia RTX ^8GB, $999 CyberPower System"
-date: 2024-08-10T02:26:27.860Z
-updated: 2024-08-11T02:26:27.860Z
+date: 2024-09-04T00:03:13.655Z
+updated: 2024-09-05T00:03:13.655Z
 tags:
   - desktop
 categories:
@@ -98,5 +98,8 @@ This is a deal for those who require a prebuilt gaming PC over building their ow
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Professionals Method for Removing Unwanted Sounds From Media Projects Using Premiere Pro
-date: 2024-08-10T02:28:59.795Z
-updated: 2024-08-11T02:28:59.795Z
+date: 2024-09-04T00:03:09.902Z
+updated: 2024-09-05T00:03:09.902Z
 tags: 
   - audio editing software
   - audio editing
@@ -38,25 +38,19 @@ If this is what you do, then let us share a smart solution with you. Background 
 
 To remove background noise from your videos, you first need to import the media file to Premiere Pro. Then drag and drop the file onto the timeline. After that, you need to select and open the 'Effects' menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![access the effects tab](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Step 2: Add Denoise Effect
 
 On the right side of the Effects menu, type and search for 'Denoise.' Then, you should select the Denoise option and drag it onto the timeline over the media file. The Denoise feature removes nearly 50% of the noise automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![insert the denoise effect](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 3: Denoise Effects Control
 
@@ -64,18 +58,24 @@ The rest of the background noise can be customized. For that, head to the ‘Eff
 
 ![customize denoise effect](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 4: Voice Enhance Effect
 
 Removing background noise damages the quality of voice. This quality can be improved by using 'Vocal Enhance.' You can search it from the search bar in the Effects tab and drag it over to the media file in the timeline. You can also customize this from the ‘Effects Control’ tab.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![use the vocal enhance effect](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to Mute A Clip in Premiere Pro
 
 Sometimes, you might need to mute a clip. You can use such clips as your status. You can also add your desired background music and then share the clips. In any case, you need to mute the clip, but what if you don’t know how to mute the clip in Premiere Pro?
@@ -84,11 +84,214 @@ Don’t worry because we are here to help you. The following section of this art
 
 Method 1: The first method is to mute an entire clip on the timeline. This could be done by checking the Mute Track ‘M’ button. You will find the mute button beside the track name.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on the m button](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-5.jpg)
 
+Method 2: The next method is to mute a specific clip. For that, go to the ‘Audio’ section from the menu bar. Then, look at the 'Essential Sound' panel on the right side of the screen. From you will see various tags. Open your desired tag and check the box against the 'Mute' option.
+
+![enable the mute option](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-6.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="150" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Method 3: Another method that could be used to mute a clip is by right-clicking on the clip that you want to mute. A menu appears on the screen. From that menu, you need to uncheck the ‘Enable’ button. This mutes the clip.
+
+![uncheck the enable option](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Method 4: The next method demands you to first select the video clip. Then, from the menu bar, head over to the ‘Editing’ tab. There go to the ‘Audio Clip Mixer’ section. You will see volume sliders; drag down the Volume slider to negative to mute the clip.
+
+![drag the slider to negative](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-8.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3\. Tips and Tricks to Help You Better Editing Audio in Premiere Pro
+
+As we have mentioned earlier, noise removal damages the overall quality of the audio. All your effort goes to waste if your voice is not clear or anything else. Now that you know how you can handle background noise removal, it’s time to talk about something new and different.
+
+The following section of this article is going to share tips and tricks that could be adopted. These will help you to get better and improved quality while editing audio.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1\. Restore Bass
+
+The first tip that we are going to introduce is restoring the bass of the media file. You can do this by using the Parametric Equalizer and dragging it onto the timeline. With an equalizer, you can play with different audio frequencies. Whatsoever suits the best, you can set it.
+
+### 2\. Atmosphere Setting
+
+Its essential to first of all create an atmosphere. For this, you can mix sounds, add reverb and even adjust the loudness. An ambiance audio tag can be used for background noise. You need to set the scene for your music or the dialogue.
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="125" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 3\. Compress the Audio
+
+To make the audio better and more consistent, it is essential to compress it. Like the name is presenting, compression lowers the volume of loud parts, increases the volume of fairly quiet parts, it compresses the waveform of audio. After compression, your audio sounds instantly better, especially the voices.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 4\. Dialogue Adjustments
+
+You can unify different recordings for a common loudness if you tag audio clips as Dialogue. If you plan to add a voiceover to your video, then you must improve the clarity, reduce or remove any background noise and also, adjust the reverb. Subtitles could be added to make the conversation understandable in your video.
+
+### 5\. Remove Noise
+
+The noise of the computer fan or the weird hissing noise of the microphone and other similar things are referred to as Background noise. This can become a distracting element. While editing the audio, it matters that you remove the background noise because it does not get automatically removed. So, to have good audio, always remove background noise.
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Bottom Line
+
+If background noise is bothering you, then this problem is resolved. The article above has shared how to remove noise from video in premiere pro. The easy step-by-step guide for removing background noise with Premiere Pro has been shared.
+
+To remove background noise, Premiere Pro is not the only editor. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is another stunning and known video editor. You can use the tool to remove background noise from your videos. With this editor, you can also mute your clips.
+
+Not just this, but the editor has many more classic features. Filmora allows keyframing, motion tracking, and doing cool edits with a split-screen. Color match is another offered feature among the many other features of Filmora. It also has an asset library. You can get fantastic effects, transitions, elements, and whatnot from its library.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+02 [How to Mute A Clip in Premiere Pro](#part2)
+
+03 [Tips and Tricks to Help You Better Editing Audio in Premiere Pro](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1\. Remove Background Noise Premiere Pro
+
+While recording a video, you cannot control every noise. Sometimes, you get disturbed by your doorbell. Sometimes, it's your neighbor's horn that might bother you or anything else. What do you do when this happens to you? Do you stop the recording and wait until it's quiet?
+
+If this is what you do, then let us share a smart solution with you. Background noise can be removed from your video using the remove background noise Premiere Pro feature. Allow us to share its steps to guide you more about it.
+
+### Step 1: Import the File
+
+To remove background noise from your videos, you first need to import the media file to Premiere Pro. Then drag and drop the file onto the timeline. After that, you need to select and open the 'Effects' menu.
+
+![access the effects tab](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-1.jpg)
+
+### Step 2: Add Denoise Effect
+
+On the right side of the Effects menu, type and search for 'Denoise.' Then, you should select the Denoise option and drag it onto the timeline over the media file. The Denoise feature removes nearly 50% of the noise automatically.
+
+![insert the denoise effect](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-2.jpg)
+
+### Step 3: Denoise Effects Control
+
+The rest of the background noise can be customized. For that, head to the ‘Effects Control’ section. You will see Denoise-related options. There, click on ‘Edit’ for Custom Setup. You can adjust both the 'Frequency' and 'Amount' values.
+
+![customize denoise effect](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 4: Voice Enhance Effect
+
+Removing background noise damages the quality of voice. This quality can be improved by using 'Vocal Enhance.' You can search it from the search bar in the Effects tab and drag it over to the media file in the timeline. You can also customize this from the ‘Effects Control’ tab.
+
+![use the vocal enhance effect](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2\. How to Mute A Clip in Premiere Pro
+
+Sometimes, you might need to mute a clip. You can use such clips as your status. You can also add your desired background music and then share the clips. In any case, you need to mute the clip, but what if you don’t know how to mute the clip in Premiere Pro?
+
+Don’t worry because we are here to help you. The following section of this article will share different methods to mute clips in Adobe Premiere Pro.
+
+Method 1: The first method is to mute an entire clip on the timeline. This could be done by checking the Mute Track ‘M’ button. You will find the mute button beside the track name.
+
+![tap on the m button](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Method 2: The next method is to mute a specific clip. For that, go to the ‘Audio’ section from the menu bar. Then, look at the 'Essential Sound' panel on the right side of the screen. From you will see various tags. Open your desired tag and check the box against the 'Mute' option.
 
 ![enable the mute option](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-6.jpg)
@@ -102,7 +305,10 @@ Method 4: The next method demands you to first select the video clip. Then, from
 ![drag the slider to negative](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3\. Tips and Tricks to Help You Better Editing Audio in Premiere Pro
 
@@ -111,8 +317,163 @@ As we have mentioned earlier, noise removal damages the overall quality of the a
 The following section of this article is going to share tips and tricks that could be adopted. These will help you to get better and improved quality while editing audio.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+### 1\. Restore Bass
+
+The first tip that we are going to introduce is restoring the bass of the media file. You can do this by using the Parametric Equalizer and dragging it onto the timeline. With an equalizer, you can play with different audio frequencies. Whatsoever suits the best, you can set it.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2\. Atmosphere Setting
+
+Its essential to first of all create an atmosphere. For this, you can mix sounds, add reverb and even adjust the loudness. An ambiance audio tag can be used for background noise. You need to set the scene for your music or the dialogue.
+
+### 3\. Compress the Audio
+
+To make the audio better and more consistent, it is essential to compress it. Like the name is presenting, compression lowers the volume of loud parts, increases the volume of fairly quiet parts, it compresses the waveform of audio. After compression, your audio sounds instantly better, especially the voices.
+
+### 4\. Dialogue Adjustments
+
+You can unify different recordings for a common loudness if you tag audio clips as Dialogue. If you plan to add a voiceover to your video, then you must improve the clarity, reduce or remove any background noise and also, adjust the reverb. Subtitles could be added to make the conversation understandable in your video.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 5\. Remove Noise
+
+The noise of the computer fan or the weird hissing noise of the microphone and other similar things are referred to as Background noise. This can become a distracting element. While editing the audio, it matters that you remove the background noise because it does not get automatically removed. So, to have good audio, always remove background noise.
+
+### Bottom Line
+
+If background noise is bothering you, then this problem is resolved. The article above has shared how to remove noise from video in premiere pro. The easy step-by-step guide for removing background noise with Premiere Pro has been shared.
+
+To remove background noise, Premiere Pro is not the only editor. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is another stunning and known video editor. You can use the tool to remove background noise from your videos. With this editor, you can also mute your clips.
+
+Not just this, but the editor has many more classic features. Filmora allows keyframing, motion tracking, and doing cool edits with a split-screen. Color match is another offered feature among the many other features of Filmora. It also has an asset library. You can get fantastic effects, transitions, elements, and whatnot from its library.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+02 [How to Mute A Clip in Premiere Pro](#part2)
+
+03 [Tips and Tricks to Help You Better Editing Audio in Premiere Pro](#part3)
+
+## Part 1\. Remove Background Noise Premiere Pro
+
+While recording a video, you cannot control every noise. Sometimes, you get disturbed by your doorbell. Sometimes, it's your neighbor's horn that might bother you or anything else. What do you do when this happens to you? Do you stop the recording and wait until it's quiet?
+
+If this is what you do, then let us share a smart solution with you. Background noise can be removed from your video using the remove background noise Premiere Pro feature. Allow us to share its steps to guide you more about it.
+
+### Step 1: Import the File
+
+To remove background noise from your videos, you first need to import the media file to Premiere Pro. Then drag and drop the file onto the timeline. After that, you need to select and open the 'Effects' menu.
+
+![access the effects tab](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 2: Add Denoise Effect
+
+On the right side of the Effects menu, type and search for 'Denoise.' Then, you should select the Denoise option and drag it onto the timeline over the media file. The Denoise feature removes nearly 50% of the noise automatically.
+
+![insert the denoise effect](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Step 3: Denoise Effects Control
+
+The rest of the background noise can be customized. For that, head to the ‘Effects Control’ section. You will see Denoise-related options. There, click on ‘Edit’ for Custom Setup. You can adjust both the 'Frequency' and 'Amount' values.
+
+![customize denoise effect](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-3.jpg)
+
+### Step 4: Voice Enhance Effect
+
+Removing background noise damages the quality of voice. This quality can be improved by using 'Vocal Enhance.' You can search it from the search bar in the Effects tab and drag it over to the media file in the timeline. You can also customize this from the ‘Effects Control’ tab.
+
+![use the vocal enhance effect](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-4.jpg)
+
+## Part 2\. How to Mute A Clip in Premiere Pro
+
+Sometimes, you might need to mute a clip. You can use such clips as your status. You can also add your desired background music and then share the clips. In any case, you need to mute the clip, but what if you don’t know how to mute the clip in Premiere Pro?
+
+Don’t worry because we are here to help you. The following section of this article will share different methods to mute clips in Adobe Premiere Pro.
+
+Method 1: The first method is to mute an entire clip on the timeline. This could be done by checking the Mute Track ‘M’ button. You will find the mute button beside the track name.
+
+![tap on the m button](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Method 2: The next method is to mute a specific clip. For that, go to the ‘Audio’ section from the menu bar. Then, look at the 'Essential Sound' panel on the right side of the screen. From you will see various tags. Open your desired tag and check the box against the 'Mute' option.
+
+![enable the mute option](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Method 3: Another method that could be used to mute a clip is by right-clicking on the clip that you want to mute. A menu appears on the screen. From that menu, you need to uncheck the ‘Enable’ button. This mutes the clip.
+
+![uncheck the enable option](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Method 4: The next method demands you to first select the video clip. Then, from the menu bar, head over to the ‘Editing’ tab. There go to the ‘Audio Clip Mixer’ section. You will see volume sliders; drag down the Volume slider to negative to mute the clip.
+
+![drag the slider to negative](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-8.jpg)
+
+## Part 3\. Tips and Tricks to Help You Better Editing Audio in Premiere Pro
+
+As we have mentioned earlier, noise removal damages the overall quality of the audio. All your effort goes to waste if your voice is not clear or anything else. Now that you know how you can handle background noise removal, it’s time to talk about something new and different.
+
+The following section of this article is going to share tips and tricks that could be adopted. These will help you to get better and improved quality while editing audio.
+
 ### 1\. Restore Bass
 
 The first tip that we are going to introduce is restoring the bass of the media file. You can do this by using the Parametric Equalizer and dragging it onto the timeline. With an equalizer, you can play with different audio frequencies. Whatsoever suits the best, you can set it.
@@ -122,7 +483,10 @@ The first tip that we are going to introduce is restoring the bass of the media 
 Its essential to first of all create an atmosphere. For this, you can mix sounds, add reverb and even adjust the loudness. An ambiance audio tag can be used for background noise. You need to set the scene for your music or the dialogue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3\. Compress the Audio
 
@@ -156,15 +520,18 @@ For macOS 10.12 or later
 
 03 [Tips and Tricks to Help You Better Editing Audio in Premiere Pro](#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1\. Remove Background Noise Premiere Pro
 
 While recording a video, you cannot control every noise. Sometimes, you get disturbed by your doorbell. Sometimes, it's your neighbor's horn that might bother you or anything else. What do you do when this happens to you? Do you stop the recording and wait until it's quiet?
 
 If this is what you do, then let us share a smart solution with you. Background noise can be removed from your video using the remove background noise Premiere Pro feature. Allow us to share its steps to guide you more about it.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1: Import the File
 
 To remove background noise from your videos, you first need to import the media file to Premiere Pro. Then drag and drop the file onto the timeline. After that, you need to select and open the 'Effects' menu.
@@ -172,15 +539,15 @@ To remove background noise from your videos, you first need to import the media 
 ![access the effects tab](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 2: Add Denoise Effect
 
 On the right side of the Effects menu, type and search for 'Denoise.' Then, you should select the Denoise option and drag it onto the timeline over the media file. The Denoise feature removes nearly 50% of the noise automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![insert the denoise effect](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-2.jpg)
 
 ### Step 3: Denoise Effects Control
@@ -190,7 +557,16 @@ The rest of the background noise can be customized. For that, head to the ‘Eff
 ![customize denoise effect](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 4: Voice Enhance Effect
 
@@ -208,158 +584,47 @@ Method 1: The first method is to mute an entire clip on the timeline. This could
 
 ![tap on the m button](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="150" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Method 2: The next method is to mute a specific clip. For that, go to the ‘Audio’ section from the menu bar. Then, look at the 'Essential Sound' panel on the right side of the screen. From you will see various tags. Open your desired tag and check the box against the 'Mute' option.
 
 ![enable the mute option](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-6.jpg)
 
-Method 3: Another method that could be used to mute a clip is by right-clicking on the clip that you want to mute. A menu appears on the screen. From that menu, you need to uncheck the ‘Enable’ button. This mutes the clip.
-
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![uncheck the enable option](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-7.jpg)
-
-Method 4: The next method demands you to first select the video clip. Then, from the menu bar, head over to the ‘Editing’ tab. There go to the ‘Audio Clip Mixer’ section. You will see volume sliders; drag down the Volume slider to negative to mute the clip.
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
-![drag the slider to negative](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-## Part 3\. Tips and Tricks to Help You Better Editing Audio in Premiere Pro
-
-As we have mentioned earlier, noise removal damages the overall quality of the audio. All your effort goes to waste if your voice is not clear or anything else. Now that you know how you can handle background noise removal, it’s time to talk about something new and different.
-
-The following section of this article is going to share tips and tricks that could be adopted. These will help you to get better and improved quality while editing audio.
-
-### 1\. Restore Bass
-
-The first tip that we are going to introduce is restoring the bass of the media file. You can do this by using the Parametric Equalizer and dragging it onto the timeline. With an equalizer, you can play with different audio frequencies. Whatsoever suits the best, you can set it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### 2\. Atmosphere Setting
-
-Its essential to first of all create an atmosphere. For this, you can mix sounds, add reverb and even adjust the loudness. An ambiance audio tag can be used for background noise. You need to set the scene for your music or the dialogue.
-
-### 3\. Compress the Audio
-
-To make the audio better and more consistent, it is essential to compress it. Like the name is presenting, compression lowers the volume of loud parts, increases the volume of fairly quiet parts, it compresses the waveform of audio. After compression, your audio sounds instantly better, especially the voices.
-
-### 4\. Dialogue Adjustments
-
-You can unify different recordings for a common loudness if you tag audio clips as Dialogue. If you plan to add a voiceover to your video, then you must improve the clarity, reduce or remove any background noise and also, adjust the reverb. Subtitles could be added to make the conversation understandable in your video.
-
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-### 5\. Remove Noise
-
-The noise of the computer fan or the weird hissing noise of the microphone and other similar things are referred to as Background noise. This can become a distracting element. While editing the audio, it matters that you remove the background noise because it does not get automatically removed. So, to have good audio, always remove background noise.
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
-### Bottom Line
-
-If background noise is bothering you, then this problem is resolved. The article above has shared how to remove noise from video in premiere pro. The easy step-by-step guide for removing background noise with Premiere Pro has been shared.
-
-To remove background noise, Premiere Pro is not the only editor. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is another stunning and known video editor. You can use the tool to remove background noise from your videos. With this editor, you can also mute your clips.
-
-Not just this, but the editor has many more classic features. Filmora allows keyframing, motion tracking, and doing cool edits with a split-screen. Color match is another offered feature among the many other features of Filmora. It also has an asset library. You can get fantastic effects, transitions, elements, and whatnot from its library.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-02 [How to Mute A Clip in Premiere Pro](#part2)
-
-03 [Tips and Tricks to Help You Better Editing Audio in Premiere Pro](#part3)
-
-## Part 1\. Remove Background Noise Premiere Pro
-
-While recording a video, you cannot control every noise. Sometimes, you get disturbed by your doorbell. Sometimes, it's your neighbor's horn that might bother you or anything else. What do you do when this happens to you? Do you stop the recording and wait until it's quiet?
-
-If this is what you do, then let us share a smart solution with you. Background noise can be removed from your video using the remove background noise Premiere Pro feature. Allow us to share its steps to guide you more about it.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
-### Step 1: Import the File
-
-To remove background noise from your videos, you first need to import the media file to Premiere Pro. Then drag and drop the file onto the timeline. After that, you need to select and open the 'Effects' menu.
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![access the effects tab](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-1.jpg)
-
-### Step 2: Add Denoise Effect
-
-On the right side of the Effects menu, type and search for 'Denoise.' Then, you should select the Denoise option and drag it onto the timeline over the media file. The Denoise feature removes nearly 50% of the noise automatically.
-
-![insert the denoise effect](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
-### Step 3: Denoise Effects Control
-
-The rest of the background noise can be customized. For that, head to the ‘Effects Control’ section. You will see Denoise-related options. There, click on ‘Edit’ for Custom Setup. You can adjust both the 'Frequency' and 'Amount' values.
-
-![customize denoise effect](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-3.jpg)
-
-### Step 4: Voice Enhance Effect
-
-Removing background noise damages the quality of voice. This quality can be improved by using 'Vocal Enhance.' You can search it from the search bar in the Effects tab and drag it over to the media file in the timeline. You can also customize this from the ‘Effects Control’ tab.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![use the vocal enhance effect](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-4.jpg)
-
-## Part 2\. How to Mute A Clip in Premiere Pro
-
-Sometimes, you might need to mute a clip. You can use such clips as your status. You can also add your desired background music and then share the clips. In any case, you need to mute the clip, but what if you don’t know how to mute the clip in Premiere Pro?
-
-Don’t worry because we are here to help you. The following section of this article will share different methods to mute clips in Adobe Premiere Pro.
-
-Method 1: The first method is to mute an entire clip on the timeline. This could be done by checking the Mute Track ‘M’ button. You will find the mute button beside the track name.
-
-![tap on the m button](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-5.jpg)
-
-Method 2: The next method is to mute a specific clip. For that, go to the ‘Audio’ section from the menu bar. Then, look at the 'Essential Sound' panel on the right side of the screen. From you will see various tags. Open your desired tag and check the box against the 'Mute' option.
-
-![enable the mute option](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-6.jpg)
-
 Method 3: Another method that could be used to mute a clip is by right-clicking on the clip that you want to mute. A menu appears on the screen. From that menu, you need to uncheck the ‘Enable’ button. This mutes the clip.
 
 ![uncheck the enable option](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Method 4: The next method demands you to first select the video clip. Then, from the menu bar, head over to the ‘Editing’ tab. There go to the ‘Audio Clip Mixer’ section. You will see volume sliders; drag down the Volume slider to negative to mute the clip.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drag the slider to negative](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3\. Tips and Tricks to Help You Better Editing Audio in Premiere Pro
 
@@ -368,144 +633,43 @@ As we have mentioned earlier, noise removal damages the overall quality of the a
 The following section of this article is going to share tips and tricks that could be adopted. These will help you to get better and improved quality while editing audio.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1\. Restore Bass
 
 The first tip that we are going to introduce is restoring the bass of the media file. You can do this by using the Parametric Equalizer and dragging it onto the timeline. With an equalizer, you can play with different audio frequencies. Whatsoever suits the best, you can set it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<span id="2135471">
+					<video width="540" height="960" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Atmosphere Setting
 
 Its essential to first of all create an atmosphere. For this, you can mix sounds, add reverb and even adjust the loudness. An ambiance audio tag can be used for background noise. You need to set the scene for your music or the dialogue.
 
-### 3\. Compress the Audio
-
-To make the audio better and more consistent, it is essential to compress it. Like the name is presenting, compression lowers the volume of loud parts, increases the volume of fairly quiet parts, it compresses the waveform of audio. After compression, your audio sounds instantly better, especially the voices.
-
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-### 4\. Dialogue Adjustments
-
-You can unify different recordings for a common loudness if you tag audio clips as Dialogue. If you plan to add a voiceover to your video, then you must improve the clarity, reduce or remove any background noise and also, adjust the reverb. Subtitles could be added to make the conversation understandable in your video.
-
-### 5\. Remove Noise
-
-The noise of the computer fan or the weird hissing noise of the microphone and other similar things are referred to as Background noise. This can become a distracting element. While editing the audio, it matters that you remove the background noise because it does not get automatically removed. So, to have good audio, always remove background noise.
-
-### Bottom Line
-
-If background noise is bothering you, then this problem is resolved. The article above has shared how to remove noise from video in premiere pro. The easy step-by-step guide for removing background noise with Premiere Pro has been shared.
-
-To remove background noise, Premiere Pro is not the only editor. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is another stunning and known video editor. You can use the tool to remove background noise from your videos. With this editor, you can also mute your clips.
-
-Not just this, but the editor has many more classic features. Filmora allows keyframing, motion tracking, and doing cool edits with a split-screen. Color match is another offered feature among the many other features of Filmora. It also has an asset library. You can get fantastic effects, transitions, elements, and whatnot from its library.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-02 [How to Mute A Clip in Premiere Pro](#part2)
-
-03 [Tips and Tricks to Help You Better Editing Audio in Premiere Pro](#part3)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## Part 1\. Remove Background Noise Premiere Pro
-
-While recording a video, you cannot control every noise. Sometimes, you get disturbed by your doorbell. Sometimes, it's your neighbor's horn that might bother you or anything else. What do you do when this happens to you? Do you stop the recording and wait until it's quiet?
-
-If this is what you do, then let us share a smart solution with you. Background noise can be removed from your video using the remove background noise Premiere Pro feature. Allow us to share its steps to guide you more about it.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
-### Step 1: Import the File
-
-To remove background noise from your videos, you first need to import the media file to Premiere Pro. Then drag and drop the file onto the timeline. After that, you need to select and open the 'Effects' menu.
-
-![access the effects tab](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-1.jpg)
-
-### Step 2: Add Denoise Effect
-
-On the right side of the Effects menu, type and search for 'Denoise.' Then, you should select the Denoise option and drag it onto the timeline over the media file. The Denoise feature removes nearly 50% of the noise automatically.
-
-![insert the denoise effect](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-2.jpg)
-
-### Step 3: Denoise Effects Control
-
-The rest of the background noise can be customized. For that, head to the ‘Effects Control’ section. You will see Denoise-related options. There, click on ‘Edit’ for Custom Setup. You can adjust both the 'Frequency' and 'Amount' values.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![customize denoise effect](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-3.jpg)
-
-### Step 4: Voice Enhance Effect
-
-Removing background noise damages the quality of voice. This quality can be improved by using 'Vocal Enhance.' You can search it from the search bar in the Effects tab and drag it over to the media file in the timeline. You can also customize this from the ‘Effects Control’ tab.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
-![use the vocal enhance effect](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-4.jpg)
-
-## Part 2\. How to Mute A Clip in Premiere Pro
-
-Sometimes, you might need to mute a clip. You can use such clips as your status. You can also add your desired background music and then share the clips. In any case, you need to mute the clip, but what if you don’t know how to mute the clip in Premiere Pro?
-
-Don’t worry because we are here to help you. The following section of this article will share different methods to mute clips in Adobe Premiere Pro.
-
-Method 1: The first method is to mute an entire clip on the timeline. This could be done by checking the Mute Track ‘M’ button. You will find the mute button beside the track name.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
-![tap on the m button](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-5.jpg)
-
-Method 2: The next method is to mute a specific clip. For that, go to the ‘Audio’ section from the menu bar. Then, look at the 'Essential Sound' panel on the right side of the screen. From you will see various tags. Open your desired tag and check the box against the 'Mute' option.
-
-![enable the mute option](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-6.jpg)
-
-Method 3: Another method that could be used to mute a clip is by right-clicking on the clip that you want to mute. A menu appears on the screen. From that menu, you need to uncheck the ‘Enable’ button. This mutes the clip.
-
-![uncheck the enable option](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-7.jpg)
-
-Method 4: The next method demands you to first select the video clip. Then, from the menu bar, head over to the ‘Editing’ tab. There go to the ‘Audio Clip Mixer’ section. You will see volume sliders; drag down the Volume slider to negative to mute the clip.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![drag the slider to negative](https://images.wondershare.com/filmora/article-images/2022/remove-background-noise-premiere-pro-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 3\. Tips and Tricks to Help You Better Editing Audio in Premiere Pro
-
-As we have mentioned earlier, noise removal damages the overall quality of the audio. All your effort goes to waste if your voice is not clear or anything else. Now that you know how you can handle background noise removal, it’s time to talk about something new and different.
-
-The following section of this article is going to share tips and tricks that could be adopted. These will help you to get better and improved quality while editing audio.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
-### 1\. Restore Bass
-
-The first tip that we are going to introduce is restoring the bass of the media file. You can do this by using the Parametric Equalizer and dragging it onto the timeline. With an equalizer, you can play with different audio frequencies. Whatsoever suits the best, you can set it.
-
-### 2\. Atmosphere Setting
-
-Its essential to first of all create an atmosphere. For this, you can mix sounds, add reverb and even adjust the loudness. An ambiance audio tag can be used for background noise. You need to set the scene for your music or the dialogue.
-
 ### 3\. Compress the Audio
 
 To make the audio better and more consistent, it is essential to compress it. Like the name is presenting, compression lowers the volume of loud parts, increases the volume of fairly quiet parts, it compresses the waveform of audio. After compression, your audio sounds instantly better, especially the voices.
@@ -514,9 +678,6 @@ To make the audio better and more consistent, it is essential to compress it. Li
 
 You can unify different recordings for a common loudness if you tag audio clips as Dialogue. If you plan to add a voiceover to your video, then you must improve the clarity, reduce or remove any background noise and also, adjust the reverb. Subtitles could be added to make the conversation understandable in your video.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Remove Noise
 
 The noise of the computer fan or the weird hissing noise of the microphone and other similar things are referred to as Background noise. This can become a distracting element. While editing the audio, it matters that you remove the background noise because it does not get automatically removed. So, to have good audio, always remove background noise.
@@ -549,9 +710,6 @@ For macOS 10.12 or later
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## "Exploring Portable Audio Modifiers: A Guide to Voice-Changing Devices"
 
 Working with different tools for different purposes can be hectic, but what if you get an all-in-one tool? AV Voice Changer is such a software that delivers various functionalities like Voice Recorder, Voice Editor, and also Voice Changer.

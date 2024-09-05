@@ -1,7 +1,7 @@
 ---
 title: Updated 3 Quick Ways to Convert Audio to Text for FreeStep-by-Step Guide for 2024
-date: 2024-08-03T01:28:28.841Z
-updated: 2024-08-04T01:28:28.841Z
+date: 2024-09-04T00:03:17.701Z
+updated: 2024-09-05T00:03:17.701Z
 tags: 
   - audio editing software
   - audio editing
@@ -34,25 +34,16 @@ Thanks to technological advancements, there is a multitude of ways you can use t
 
 Here are the top 3 ways to translate voice to text-
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Google Docs Voice Typing
 
 Google Docs is an innovative approach that allows users to easily create, share and update documents. Through your google id, your documents can be accessed and synced on multiple devices. Also, it features a built-in option to transcribe audio to text free.
 
 1\. Open your browser and enter Google Docs to access the website. Tap **Blank** to start a new document.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![open google docs](https://images.wondershare.com/filmora/article-images/1-open-google-docs.jpg)
 
 2\. In the menu bar on the top, click on **Tools** to open a drop-down menu. Click on **Voice typing** or press **Ctrl+Shift+S**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![find voice typing option](https://images.wondershare.com/filmora/article-images/2-find-voice-typing-option.jpg)
 
 3\. To use the microphone, press **Allow** on the pop-up box.
@@ -61,9 +52,6 @@ Google Docs is an innovative approach that allows users to easily create, share 
 
 4\. Tap on the Microphone icon start speaking to translate voice to text. By tapping on the down arrow key, you can choose from a multitude of languages and then translate voice to text in the language of your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start speaking and translate](https://images.wondershare.com/filmora/article-images/4-start-speaking-and-translate.jpg)
 
 5\. After you convert audio to text and wish to end the process of voice typing, you can tap on the microphone again. In the **File** tab, you can click on **Download** and save the file to your device in the format of your choice.
@@ -76,31 +64,46 @@ Another tool to transcribe audio to text free is Windows Dictation, already avai
 
 1\. In order to use the Windows Dictation tool to transcribe audio to text free, you must first go to **Speech** **settings** and turn on the toggle key.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![enable speech settings](https://images.wondershare.com/filmora/article-images/6-enable-speech-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2\. In Word, Powerpoint, or wherever you want to convert audio to text, press the **Windows Icon+H**. The dictation tool will be displayed. The tool is moveable, and you can drag it so it doesn't hinder your view.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![open windows dictation](https://images.wondershare.com/filmora/article-images/7-open-windows-dictation.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="125" height="125" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3\. To start the process to translate voice to text, say **'Start'** Then, when the tool displays **'Listening**,' all you say will be written automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![start dictating](https://images.wondershare.com/filmora/article-images/8-start-dictating.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4\. If you want to finish the process, you can say **'Stop'** Or, you can also simply cross out the tool and continue working on your document.
 
 ### Method 3: Speechnotes
@@ -109,11 +112,14 @@ Speechnotes is available for use on the Chrome browser. It has several distingui
 
 1\. Firstly, open [Speechnotes](https://speechnotes.co/) on your browser.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open speechnotes tool](https://images.wondershare.com/filmora/article-images/9-open-speechnotes-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2\. On the left side of the page is a microphone icon. Press it to access the notification pop-up. Click **Allow** to use the microphone and translate voice to text.
 
 ![allow translate voice](https://images.wondershare.com/filmora/article-images/10-allow-translate-voice.jpg)
@@ -124,11 +130,14 @@ Speechnotes is available for use on the Chrome browser. It has several distingui
 
 4\. By clicking on the document name, you can edit it. Also, you can tap on the **Settings** icon and check the word count or enable the dark theme.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check word count](https://images.wondershare.com/filmora/article-images/12-check-word-count.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5\. Finally, once your document is complete, there are various options to choose from. You can either save the document to your device as a **File** or as a **Word** Or, you can just as easily upload it to **Google Drive** or share it through **Email**.
 
 ![save speech file](https://images.wondershare.com/filmora/article-images/13-save-speech-file.jpg)
@@ -139,6 +148,12 @@ You don't need to sit glued to your PC in order to complete your tasks or assign
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.

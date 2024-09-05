@@ -1,7 +1,7 @@
 ---
 title: Updated Step-by-Step Process Disabling Video Sound in Latest MKV Format (MKV-2023) for 2024
-date: 2024-08-10T02:25:52.534Z
-updated: 2024-08-11T02:25:52.534Z
+date: 2024-09-04T00:03:14.477Z
+updated: 2024-09-05T00:03:14.477Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 
 # How to Remove Audio from MKV
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -31,18 +28,12 @@ _I have a High Definition MKV video here with 2 audio tracks: Russian and Englis
 
 Sometimes you might come across the same problem: got a piece of HD video with more than one audio track and want to remove the extra audio track. Or you may want to remove all the audio tracks and add some other audio files to it later. Now that can be very easy with the professional video editing tool - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)(originally Wondershare Video Editor). It’s a very effective MKV audio remover, very easy to use yet creates excellent result. Apart from removing audio from MKV, you can also use it to audio from AVI, FLV, MKV, MP4, M4V, PSP, 3GP, MOV and more. Now download Wondershare Filmora (originally Wondershare Video Editor) and follow the steps below to remove audio from MKV easily and quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 1 Add your MKV files to the program
 
 Install and run Wondershare Filmora (originally Wondershare Video Editor) and click the “Import” button to locate and add your target MKV files. Then the imported files will be displayed in the media library as the picture shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![remove mkv from mkv](https://images.wondershare.com/images/multimedia/video-editor/video-editor-main-interface.jpg)
 
 #### 2 Remove audio from MKV
@@ -51,23 +42,14 @@ After that, drag and drop the videos from the media library to the Timeline. Rig
 
 Tip: If want to add a new sound track or background music to your video, just import it to the media library and then drag and drop to the proper position of the Timeline. Here is a detailed guide on how to add background music to video.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![remove audio track from mkv](https://images.wondershare.com/images/multimedia/video-editor/audio-detach.jpg)
 
 #### 3 Preview and save the new file
 
 Preview the new file by clicking the Play icon to see if it’s what you want. If you are happy with the result, hit “Create” to export the edited MKV file. As you see, you can select a desired output method: save the video in various formats, save it to play on portable devices, burn it to DVD disc or share it to YouTube directly. Then click “Create”, and your new file will be saved in a few seconds
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![remove audio from mkv file](https://images.wondershare.com/images/multimedia/video-editor/video-editor-output.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -143,3 +125,9 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
