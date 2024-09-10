@@ -1,7 +1,7 @@
 ---
 title: How Lenovo's Shift to Chinese Loongson CPUs Fortifies Its Server Lineup Amid Sanction Challenges
-date: 2024-09-04T00:03:09.853Z
-updated: 2024-09-05T00:03:09.853Z
+date: 2024-09-09T01:08:27.524Z
+updated: 2024-09-10T01:08:27.524Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/AdGF8mqfmrfKzZXh2t7FTB-320-80.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2024 World Server Destruction Showdown: Search for Rough-and-Tumble Gamers Who Brazenly Challenge Computing Power
 
 The 2024 World Server Throwing Championship (WSTC) organizers are[calling for entrants](https://www.cloudfest.com/world-server-throwing-championship#server-reg) . Scheduled for March 19, the bare metal vs. raw power event is set to become a must-watch experience of the annual CloudFest conference.
@@ -25,12 +31,24 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 ![Server throwing athletes](https://cdn.mos.cms.futurecdn.net/wtmZvaBCUd7W2J88EkoF6b-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: CloudFest)
 
  If we had to place a bet on the winner’s nationality, it would probably be Dutch, as the country where the sport seems to have become established. We discovered that some of the WTSC partners have already promoted server throwing in Dutch events. The winner of a Dutch national championship event[in 2022](https://dutchcloudcommunity.nl/agenda/summer-bbq-dutch-cloud-community-2022/) managed to fling a 10kg+ (22 pounds +) server 12.23 meters (over 40 feet).
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -112,10 +130,3 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-step-by-step-techniques-for-infusing-music-into-your-final-cut-pro-video-edits/"><u>Updated In 2024, Step-by-Step Techniques for Infusing Music Into Your Final Cut Pro Video Edits</u></a></li>
 <li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo T2x 5G? | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

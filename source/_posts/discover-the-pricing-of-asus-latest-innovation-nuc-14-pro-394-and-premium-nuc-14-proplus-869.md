@@ -1,7 +1,7 @@
 ---
 title: "Discover the Pricing of Asus' Latest Innovation: NUC 14 Pro ($394) and Premium NUC 14 Pro+ ($869)"
-date: 2024-09-04T00:03:11.053Z
-updated: 2024-09-05T00:03:11.053Z
+date: 2024-09-09T01:08:28.675Z
+updated: 2024-09-10T01:08:28.675Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f5343bae186756d50b06815cf1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Enhancing Old PCs: The Persistent Trend of Modifying AGP Slots for New GPUs & Improved Networking - Discover the Top 2 Adapters
 
 Strangely enough, the past few months of 2024 have seen prominent discussions of a few modern-day AGP (Accelerated Graphics Port) mods — the first is a mod of questionable practicality to get a GTX 960 working on an AGP board, which took considerable gymnastics. The second involves repurposing an AGP port on a Super Socket 7 motherboard for faster, more modern networking speeds.
@@ -19,6 +25,12 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
 ![Photograph of the AGP-to-PCI mod attached to the PCI-to-PCIe mod needed to install a GTX 960 in an old Athlon XP 2400+ PC.](https://cdn.mos.cms.futurecdn.net/QYgYq7hUqARXB4fFQkNQ84-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Photograph of the AGP-to-PCI mod attached to the PCI-to-PCIe mod needed to install a GTX 960 in an old Athlon XP 2400+ PC.  (Image credit: Christian Rudewig on FB (via @tercio\_miranda on Twitter))
 
  For instance, back in August of 2009, Don Woligroski,[writing for_Tom's Hardware_](https://www.tomshardware.com/reviews/agp-radeon-overclocking,2395-4.html) , used an OC'd CPU and a powerful native AGP card[to get Crysis running at 65 FPS](https://www.tomshardware.com/reviews/agp-radeon-overclocking,2395-4.html) on Low Physics on an AGP board originally released in November 2005\. PCIe debuted in 2003, so this was well after many faster boards with newer standards were already on the market. This means that, yes, AGP could run Crysis while it was still common, and it remained one of the most demanding games on PC for several years after its 2007 release.
@@ -31,6 +43,12 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -120,10 +138,3 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-silencing-the-stridor-techniques-for-defeating-hiss-in-professional-recordings/"><u>Updated In 2024, Silencing the Stridor Techniques for Defeating Hiss in Professional Recordings</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-strategies-for-minimizing-large-scale-video-and-audio-data/"><u>Updated In 2024, Strategies for Minimizing Large-Scale Video and Audio Data</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

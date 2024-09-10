@@ -1,7 +1,7 @@
 ---
 title: "The Epic Showdown: AMD's EPYC Processors Vs. Nvidia's ARM-Powered Grace - Who Wins on Performance? Double the Speed Revealed"
-date: 2024-09-04T00:03:09.917Z
-updated: 2024-09-05T00:03:09.917Z
+date: 2024-09-09T01:08:27.588Z
+updated: 2024-09-10T01:08:27.588Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc4a0e7b50a621bf0e1ad49b5.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Gear Up for the Epic Showdown of Minds vs Machines in 202Vearl World Server Championship
 
 The 2024 World Server Throwing Championship (WSTC) organizers are[calling for entrants](https://www.cloudfest.com/world-server-throwing-championship#server-reg) . Scheduled for March 19, the bare metal vs. raw power event is set to become a must-watch experience of the annual CloudFest conference.
@@ -25,12 +31,24 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 ![Server throwing athletes](https://cdn.mos.cms.futurecdn.net/wtmZvaBCUd7W2J88EkoF6b-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: CloudFest)
 
  If we had to place a bet on the winner’s nationality, it would probably be Dutch, as the country where the sport seems to have become established. We discovered that some of the WTSC partners have already promoted server throwing in Dutch events. The winner of a Dutch national championship event[in 2022](https://dutchcloudcommunity.nl/agenda/summer-bbq-dutch-cloud-community-2022/) managed to fling a 10kg+ (22 pounds +) server 12.23 meters (over 40 feet).
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -110,10 +128,3 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 <li><a href="https://driver-download.techidaily.com/upgrade-to-the-newest-amd-radeon-pro-w5700-drivers-for-windows-platforms/"><u>Upgrade to the Newest AMD Radeon Pro W5700 Drivers for Windows Platforms</u></a></li>
 <li><a href="https://program-issues.techidaily.com/1723000765820-world-of-warcraft-players-rejoice-put-an-end-to-that-dreaded-screen-shimmer/"><u>World of Warcraft Players Rejoice: Put an End to That Dreaded Screen Shimmer!</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
