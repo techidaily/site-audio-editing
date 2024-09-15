@@ -1,7 +1,7 @@
 ---
 title: "Affordable Innovation: The Qualcomm Snapdragon X Elite PC - Your Mini Desktop Is Here for Preorder!"
-date: 2024-09-09T01:08:29.315Z
-updated: 2024-09-10T01:08:29.315Z
+date: 2024-09-10T16:03:11.573Z
+updated: 2024-09-14T17:02:11.066Z
 tags:
   - desktop
 categories:
@@ -9,30 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa085c1775706e382ffb2952424.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Beat the Rush: Grab Your Cost-Effective Qualcomm Snapdragon X Elite PC Before It's Gone – Preorders Open
 
 In an interesting turn of events, the first device boasting the highest-end version of Qualcomm's Snapdragon X Elite chipset isn't even a laptop. It's a Mini PC in the form of an official Dev Kit, which undercuts ([or at least matches](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1069194734322795598%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) ) the price of even the lower-end Snapdragon X Plus laptops, and it's set for a full launch on August 23rd, though it's also already available for pre-order on[Arrow.com](https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm) for just $899 USD.
 
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
 
 * **SoC** : Qualcomm Snapdragon X Elite X-1E-00-1DE, specs divided between CPU, GPU, and NPU below
@@ -54,12 +36,6 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -74,8 +50,6 @@ In an interesting turn of events, the first device boasting the highest-end vers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -85,52 +59,21 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhance-video-popularity-with-strategic-timestamps/"><u>[New] 2024 Approved  Enhance Video Popularity with Strategic Timestamps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-capturing-your-workflow-optimal-screenshot-tools-for-2024/"><u>[New] Capturing Your Workflow  Optimal Screenshot Tools for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-mastering-youtubes-creative-commons-licensing-guide/"><u>[New] In 2024, Mastering YouTube’s Creative Commons Licensing Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-peak-level-hd-mastery-in-the-markets-top-recorders/"><u>[New] Peak-Level HD Mastery in the Market's Top Recorders</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-behind-the-scenes-with-slow-motion-in-reels/"><u>[Updated] Behind the Scenes with Slow Motion in Reels</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-final-cut-pro-x-the-ultimate-guide-for-vertical-video-posts/"><u>[Updated] Final Cut Pro X  The Ultimate Guide for Vertical Video Posts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-essential-techniques-for-enhancing-your-instagram-videos/"><u>[Updated] In 2024, Essential Techniques for Enhancing Your Instagram Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-simplifying-the-complexities-of-vr-devices/"><u>[Updated] In 2024, Simplifying the Complexities of VR Devices</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-exclusive-guide-best-8-cameras-for-dynamic-livestreams/"><u>2024 Approved  Exclusive Guide  Best 8 Cameras for Dynamic Livestreams</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/are-apples-latest-models-including-the-iphone-13-resistant-to-liquid-exposure/"><u>Are Apple's Latest Models, Including the iPhone 13, Resistant to Liquid Exposure?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/conquering-low-light-with-iphones-advanced-hdr-techniques/"><u>Conquering Low Light with iPhone’s Advanced HDR Techniques</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/cutting-edge-editing-solutions-just-for-vimeo-for-2024/"><u>Cutting-Edge Editing Solutions Just for Vimeo for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/elite-windows-11-editing-software-showcase/"><u>Elite Windows 11 Editing Software Showcase</u></a></li>
-<li><a href="https://fox-info.techidaily.com/essential-8-srt-tools-for-streaming-media-files-for-2024/"><u>Essential 8 SRT Tools for Streaming Media Files for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-a-grayed-out-secure-boot-in-the-bios-on-windows/"><u>How to Fix a Grayed-Out Secure Boot in the BIOS on Windows</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to use Pokemon Go Joystick on Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-5-best-graphics-cards-for-4k-video-editing-and-rendering/"><u>In 2024, 5 Best Graphics Cards for 4K Video Editing and Rendering</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-easy-ways-to-record-google-voice-calls/"><u>In 2024, Easy Ways to Record Google Voice Calls</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-x-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your iPhone X</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo A38? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-mp3-cutter-for-mac-which-is-the-best-mp3-cutter-on-mac/"><u>New MP3 Cutter for Mac - Which Is the Best MP3 Cutter on Mac?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-speedy-route-to-flawless-sound-import-in-premiere-pro-updated-for-2024/"><u>New The Speedy Route to Flawless Sound Import in Premiere Pro (Updated ) for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-top-10-best-audio-mixer-software-for-free/"><u>New Top 10 Best Audio Mixer Software for FREE</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-unconventional-chat-services-excellence-list-security-functionality-and-pleasure-for-2024/"><u>New Unconventional Chat Services Excellence List Security, Functionality, and Pleasure for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/top-budget-friendly-vfx-resources-your-go-to-guide-for-cost-effective-edits/"><u>Top Budget-Friendly VFX Resources - Your Go-To Guide for Cost-Effective Edits</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-a-list-of-trustworthy-websites-for-procuring-creative-outro-harmonies-without-copyright-issues/"><u>Updated 2024 Approved A List of Trustworthy Websites for Procuring Creative Outro Harmonies Without Copyright Issues</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-best-online-locations-to-find-and-download-open-source-closing-music/"><u>Updated 2024 Approved Best Online Locations to Find and Download Open-Source Closing Music</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-curating-high-quality-instrumental-soundscape-for-videos-and-films/"><u>Updated 2024 Approved Curating High-Quality Instrumental Soundscape for Videos and Films</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-5-amazing-voice-changer-for-google-meet-for-2024/"><u>Updated 5 Amazing Voice Changer for Google Meet for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-beat-decoding-utilizing-web-resources-for-rhythmic-analysis-of-songs/"><u>Updated Beat Decoding Utilizing Web Resources for Rhythmic Analysis of Songs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-best-audio-chat-applications-tailored-for-gaming-enthusiasts/"><u>Updated Best Audio Chat Applications Tailored for Gaming Enthusiasts</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-best-nature-sounds-apps-for-ios-and-android/"><u>Updated Best Nature Sounds Apps for iOS and Android</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-daw-10-best-digital-audio-workstation-for-windows-and-mac-for-2024/"><u>Updated DAW 10 Best Digital Audio Workstation for Windows and Mac for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-elevating-video-experience-perfecting-the-mix-of-music-and-cinematography/"><u>Updated Elevating Video Experience Perfecting the Mix of Music and Cinematography</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-essential-audio-software-for-musicians-a-comprehensive-list-of-best-free-and-paid-options-2023/"><u>Updated Essential Audio Software for Musicians A Comprehensive List of Best Free & Paid Options 2023</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-essential-introduction-audio-tracks-the-top-8-for-digital-creators/"><u>Updated Essential Introduction Audio Tracks The Top 8 for Digital Creators</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-essential-tips-for-aspiring-music-video-editors/"><u>Updated Essential Tips for Aspiring Music Video Editors</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-free-audio-workflow-with-audacity-tips-and-tricks-for-effective-recording-for-2024/"><u>Updated Free Audio Workflow with Audacity Tips and Tricks for Effective Recording for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-auditory-decline-trends-in-adobe-rush-update-2023/"><u>Updated In 2024, Auditory Decline Trends in Adobe Rush Update 2023</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-bridging-aiff-and-mp3-techniques-for-high-quality-audio-conversion/"><u>Updated In 2024, Bridging AIFF and MP3 Techniques for High-Quality Audio Conversion</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-elevate-audio-output-simple-gratis-methods-to-increase-volume-on-windows/"><u>Updated In 2024, Elevate Audio Output Simple, Gratis Methods to Increase Volume on Windows</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-innovative-approaches-to-minimize-audio-and-video-file-size/"><u>Updated In 2024, Innovative Approaches to Minimize Audio and Video File Size</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-probing-sound-clarity-an-updated-analysis-of-cambridges-cxu-series/"><u>Updated In 2024, Probing Sound Clarity An Updated Analysis of Cambridges CXU Series</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-quick-fixes-to-keep-tiktok-sound-off-a-step-by-step-approach/"><u>Updated In 2024, Quick Fixes to Keep TikTok Sound Off A Step-by-Step Approach</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-single-file-soundscapes-uniting-diverse-audio-tracks-for-visuals/"><u>Updated In 2024, Single-File Soundscapes Uniting Diverse Audio Tracks for Visuals</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/virtual-space-clearing-perfecting-your-backdrop-in-zoom-and-google-meet/"><u>Virtual Space Clearing  Perfecting Your Backdrop in Zoom & Google Meet</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-diving-deep-reviewing-your-old-tweets-for-2024/"><u>[Updated] Diving Deep Reviewing Your Old Tweets for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-nord-n30-se-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Nord N30 SE</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/effective-ways-to-shrink-large-scale-digital-media-downscale-for-2024/"><u>Effective Ways to Shrink Large Scale Digital Media Downscale for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hyper-scape-stability-tips-for-preventing-game-crashes-on-windowsmac-os-x-pcs/"><u>Hyper Scape Stability: Tips for Preventing Game Crashes on Windows/Mac OS X PCs</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-decoding-silence-a-comprehensive-look-at-video-audio-separation-technology/"><u>New 2024 Approved Decoding Silence A Comprehensive Look at Video Audio Separation Technology</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-master-your-music-collection-a-guide-to-premium-mp3-editor-websites-for-2024/"><u>New Master Your Music Collection A Guide to Premium MP3 Editor Websites for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-blueprint-for-on-screen-dialogues-for-2024/"><u>The Blueprint for On-Screen Dialogues for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-announced-default-printing-and-scanning-applications-missing-from-windows-10/"><u>Update Announced: Default Printing and Scanning Applications Missing From Windows 10</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-unveiling-the-epic-15-rock-melodies-that-define-2023s-music-scene/"><u>Updated In 2024, Unveiling the Epic 15 Rock Melodies that Define 2023S Music Scene</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

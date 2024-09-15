@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Volume Control The Art of Audio Ducking with PowerDirector for 2024
-date: 2024-09-09T01:08:31.990Z
-updated: 2024-09-10T01:08:31.990Z
+date: 2024-09-09T01:07:18.698Z
+updated: 2024-09-14T20:18:43.476Z
 tags: 
   - audio editing software
   - audio editing
@@ -14,24 +14,12 @@ keywords: mastering the art of audio dampening modern techniques for a silent en
 thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e6c7211350802c91feadcdaf.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering Volume Control: The Art of Audio Ducking with PowerDirector
 
 # How to Use Audio Ducking to Fade Out Music in PowerDirector?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Oct 26, 2023• Proven solutions
@@ -40,18 +28,6 @@ _"Can you explain to us the simple method to execute **audio ducking**?”_
 
 I hope you're already aware of **the audio ducking** feature if you're into video editing or any music industry. The audio ducking is commonly to balance two audios. You can see the very typical application while balancing the background music with the person speaking there. So, the different voices would pop up and needs an adjustment according to the scenario. However, selecting the most straightforward process and genuine video editor is the user's responsibility to get the task done effectively. So, here, we would like to discuss the audio ducking function of **CyberLink PowerDirector** along with a suitable alternative - **Wondershare Filmora**.
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Use Audio Ducking to Fade Out Music in PowerDirector?
 
 **CyberLink PowerDirector** is a video editing software with impeccable features, including Motion Tracking, Magic Movie Wizard, Encoding, Action Camera Tools, and so on. The **audio ducking** element in PowerDirector has automated the audio adjustment in terms of keyframes.
@@ -92,12 +68,6 @@ All in all, the Wondershare Filmora is a remarkable video editor fulfilling the 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Here is a step-by-step tutorial after which you can compare the audio ducking easiness of Wondershare Filmora with CyberLink PowerDirector.
 
 So, let’s start without further ado!
@@ -126,76 +96,14 @@ Thus, with a discussion over two different ways to implement the **audio ducking
 
 | ![](https://www.google.com/favicon.ico) | ![](https://www.youtube.com/favicon.ico) | ![](https://www.google.com/favicon.ico) | ![](https://www.google.com/images/branding/product/ico/maps_32dp.ico) | ![](https://en.wikipedia.org/favicon.ico) | ![](https://www.amazon.com/favicon.ico) |
 | --------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- |
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-boosting-engagement-tailoring-backgrounds-on-google-meet-devices/"><u>[New] 2024 Approved  Boosting Engagement  Tailoring Backgrounds on Google Meet Devices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-duration-decoded-a-guide-to-editing-youtube-videos/"><u>[New] 2024 Approved  Duration Decoded  A Guide to Editing YouTube Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-professional-filming-made-simple-the-essentials-of-logitech-webcam-setup/"><u>[New] 2024 Approved  Professional Filming Made Simple  The Essentials of Logitech Webcam Setup</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-thors-odyssey-the-last-stand/"><u>[New] In 2024, Thor’s Odyssey  The Last Stand</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-top-picks-for-professional-4k-reflective-tech/"><u>[New] Top Picks for Professional 4K Reflective Tech</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-cutting-edge-methods-for-drone-video-refinement/"><u>[Updated] Cutting-Edge Methods for Drone Video Refinement</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-cutting-edge-tactics-for-sharing-video-content-from-twitter-and-whatsapp/"><u>[Updated] In 2024, Cutting-Edge Tactics for Sharing Video Content From Twitter and WhatsApp</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-expressive-communicator-investigation-edition-8/"><u>2024 Approved  Expressive Communicator Investigation, Edition 8</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-most-esteemed-ios-tone-artisans/"><u>2024 Approved  Most Esteemed iOS Tone Artisans</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-synthesizing-worlds-latest-trends-in-virtual-tech/"><u>2024 Approved  Synthesizing Worlds  Latest Trends in Virtual Tech</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advanced-ai-coders-list-7-next-gen-platforms-taking-over-chatgpts-role-in-auto-coding/"><u>Advanced AI Coders List: 7 Next-Gen Platforms Taking Over ChatGPT's Role in Auto-Coding</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-huawei-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Huawei FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-bluescreenview-a-step-by-step-tutorial/"><u>Exploring BlueScreenView - A Step-By-Step Tutorial</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/facebook-fanfare-identifying-the-top-8-likable-apps-for-you-for-2024/"><u>Facebook Fanfare  Identifying the Top 8 Likable Apps for You for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinixs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Infinixs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-premiered-7-techniques-for-nonchalant-vocal-suppression-online-and-offline/"><u>New Premiered 7 Techniques for Nonchalant Vocal Suppression Online & Offline</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-techniques-for-embedding-audio-into-newly-updated-avi-video-files/"><u>New Techniques for Embedding Audio Into Newly Updated AVI Video Files</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-quintessential-list-8-iconic-sound-effects-from-todays-blockbusters/"><u>New The Quintessential List 8 Iconic Sound Effects From Todays Blockbusters</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-top-8-mac-daws-with-in-depth-analysis-for-2024/"><u>New The Ultimate Guide Top 8 Mac DAWs with In-Depth Analysis for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-list-of-iphone-and-ipad-audio-cutting-software-for-2024/"><u>New The Ultimate List of iPhone and iPad Audio Cutting Software for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-complete-tutorial-adding-soundtracks-to-gif-files-using-macos-tools-for-2024/"><u>The Complete Tutorial Adding Soundtracks to GIF Files Using macOS Tools for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-guide-to-enhancing-avi-files-with-audio-tracks-for-2024/"><u>The Guide to Enhancing AVI Files with Audio Tracks for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-premier-virtual-communities-where-strangers-become-friends/"><u>The Premier Virtual Communities Where Strangers Become Friends</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-achieving-perfect-intonation-in-audacity-maintaining-high-quality-output/"><u>Updated 2024 Approved Achieving Perfect Intonation in Audacity Maintaining High-Quality Output</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-amr-audio-converter-complete-guide-to-amr-files/"><u>Updated 2024 Approved AMR Audio Converter Complete Guide to AMR Files</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-discovering-secure-online-spaces-to-connect-with-others/"><u>Updated 2024 Approved Discovering Secure Online Spaces to Connect with Others</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-harmonizing-words-into-sounds-top-choices-in-online-text-to-speech-services/"><u>Updated 2024 Approved Harmonizing Words Into Sounds Top Choices in Online Text-to-Speech Services</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-how-to-convert-whatsapp-audio-to-mp3-in-the-quickest-way/"><u>Updated 2024 Approved How to Convert WhatsApp Audio to MP3 in the Quickest Way?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-normalizing-audio-in-3-quick-ways-audio-normalization/"><u>Updated 2024 Approved Normalizing Audio in 3 Quick Ways-Audio Normalization</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-silencing-the-stridor-techniques-for-defeating-hiss-in-professional-recordings/"><u>Updated 2024 Approved Silencing the Stridor Techniques for Defeating Hiss in Professional Recordings</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-most-acclaimed-windows-based-digital-audio-workstation-daw-list-a-free-and-paid-comparison/"><u>Updated 2024 Approved The Most Acclaimed Windows-Based Digital Audio Workstation (DAW) List A Free & Paid Comparison</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-a-step-by-step-guide-to-crafting-professional-level-android-media-with-audio-integration/"><u>Updated A Step-by-Step Guide to Crafting Professional-Level Android Media With Audio Integration</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-creating-smooth-volume-curves-using-keyframes-in-filmora-on-macos-for-2024/"><u>Updated Creating Smooth Volume Curves Using Keyframes in Filmora on macOS for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-elevate-your-online-collaboration-discover-the-best-voice-transformation-technologies-for-google-meet-users/"><u>Updated Elevate Your Online Collaboration Discover the Best Voice Transformation Technologies for Google Meet Users</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-guide-to-achieving-soundless-visual-content/"><u>Updated Guide to Achieving Soundless Visual Content</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-balance-your-stream-sound-with-obs-audio-ducking-in-2024/"><u>Updated How to Balance Your Stream Sound with OBS Audio Ducking, In 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-10-free-online-mp3-to-text-converters-wondershare-filmora/"><u>Updated In 2024, 10 FREE Online MP3 to Text Converters-Wondershare Filmora</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-best-free-video-to-audio-converter/"><u>Updated In 2024, Best Free Video to Audio Converter</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-crafting-cinematic-lyrics-with-advanced-afx-templates/"><u>Updated In 2024, Crafting Cinematic Lyrics with Advanced AFX Templates</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-elevate-your-music-production-the-best-six-free-digital-audio-workstations-for-those-starting-out/"><u>Updated In 2024, Elevate Your Music Production The Best Six Free Digital Audio Workstations for Those Starting Out</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-elevate-your-video-storytelling-with-professional-voiceovers/"><u>Updated In 2024, Elevate Your Video Storytelling with Professional Voiceovers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-how-to-fade-in-and-fade-out-audio-in-adobe-after-effects/"><u>Updated In 2024, How to Fade In and Fade Out Audio in Adobe After Effects</u></a></li>
-<li><a href="https://techidaily.com/vivo-x90s-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Vivo X90S Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Lava Blaze Curve 5G | Dr.fone</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -203,3 +111,22 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-creating-ken-burns-transitions-in-camtasia-9-a-step-by-step-guide/"><u>[Updated] Creating Ken Burns Transitions in Camtasia 9 A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-hot-tunes-essential-background-scores-for-viral-yt-shorts/"><u>[Updated] Hot Tunes Essential Background Scores For Viral YT Shorts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-broadcast-capture-made-easy-your-comprehensive-guide/"><u>2024 Approved Broadcast Capture Made Easy Your Comprehensive Guide</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-preferred-destinations-for-zero-price-guitar-backdrop-images-and-song-selections/"><u>In 2024, Preferred Destinations for Zero-Price Guitar Backdrop Images and Song Selections</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/navigating-audio-segmentation-easy-ways-to-split-your-mp3s-and-aacs/"><u>Navigating Audio Segmentation Easy Ways to Split Your MP3s and AACs</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-visually-pleasing-audio-selections-for-digital-content-streaming/"><u>New In 2024, Visually Pleasing Audio Selections for Digital Content Streaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pc-manufacturers-criticized-by-framework-the-excessive-use-of-ai-in-marketing/"><u>PC Manufacturers Criticized by Framework: The Excessive Use of 'AI' In Marketing</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

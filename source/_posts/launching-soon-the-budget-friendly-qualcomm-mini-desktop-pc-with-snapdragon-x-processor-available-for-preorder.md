@@ -1,7 +1,7 @@
 ---
 title: "Launching Soon: The Budget-Friendly Qualcomm Mini Desktop PC with Snapdragon X Processor Available for Preorder!"
-date: 2024-09-09T01:08:28.864Z
-updated: 2024-09-10T01:08:28.864Z
+date: 2024-09-12T21:45:45.710Z
+updated: 2024-09-14T17:21:21.042Z
 tags:
   - desktop
 categories:
@@ -9,24 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/452ad4dc833c22f824c1e0bb341979346435ef6ab644bfbf893f7206f9b144d3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Qualcomm Unveils a New Era of Desktop Computing – The Economical Snapdragon X Mini Dev Kit, Preorders Open
 
 In an interesting turn of events, the first device boasting the highest-end version of Qualcomm's Snapdragon X Elite chipset isn't even a laptop. It's a Mini PC in the form of an official Dev Kit, which undercuts ([or at least matches](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1069194734322795598%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) ) the price of even the lower-end Snapdragon X Plus laptops, and it's set for a full launch on August 23rd, though it's also already available for pre-order on[Arrow.com](https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm) for just $899 USD.
 
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
 
 * **SoC** : Qualcomm Snapdragon X Elite X-1E-00-1DE, specs divided between CPU, GPU, and NPU below
@@ -48,18 +36,6 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -74,8 +50,6 @@ In an interesting turn of events, the first device boasting the highest-end vers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -85,39 +59,27 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-visionary-to-reality-the-4k-showcase-of-lgs-digital-cinema-31mu97-b/"><u>[New] From Visionary to Reality  The 4K Showcase of LG's Digital Cinema 31MU97-B</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-excellent-free-cam-snipping-software/"><u>[New] In 2024, Excellent Free Cam Snipping Software</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pun-picture-studio-chucklecrafts/"><u>[Updated] 2024 Approved  Pun Picture Studio  ChuckleCrafts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-x9b-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor X9b to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-30plus-best-no-spend-templates-for-after-effects-wizards/"><u>In 2024, 30+ Best No-Spend Templates for After Effects Wizards</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-home-cinematic-wonders-fastest-tips-and-tricks/"><u>In 2024, Home Cinematic Wonders  Fastest Tips & Tricks</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-s17t-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo S17t Phone FRP Lock</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/navigate-the-czech-language-web-based-quickly-and-comfortably/"><u>Navigate the Czech Language Web-Based, Quickly & Comfortably</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-mp3-cutter-for-mac-which-is-the-best-mp3-cutter-on-mac/"><u>New MP3 Cutter for Mac - Which Is the Best MP3 Cutter on Mac?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-speedy-route-to-flawless-sound-import-in-premiere-pro-updated-for-2024/"><u>New The Speedy Route to Flawless Sound Import in Premiere Pro (Updated ) for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-top-10-best-audio-mixer-software-for-free/"><u>New Top 10 Best Audio Mixer Software for FREE</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-unconventional-chat-services-excellence-list-security-functionality-and-pleasure-for-2024/"><u>New Unconventional Chat Services Excellence List Security, Functionality, and Pleasure for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/privacy-focused-tools-for-unseen-story-watching-for-2024/"><u>Privacy-Focused Tools for Unseen Story Watching for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-meizu-21-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Meizu 21 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/athway-to-lyrical-masterpieces-via-lyric-video-maker-software/"><u>The Pathway to Lyrical Masterpieces via Lyric Video Maker Software</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-a-list-of-trustworthy-websites-for-procuring-creative-outro-harmonies-without-copyright-issues/"><u>Updated 2024 Approved A List of Trustworthy Websites for Procuring Creative Outro Harmonies Without Copyright Issues</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-best-10-sound-boosters-for-android-and-ios-sound-booster-app/"><u>Updated 2024 Approved Best 10 Sound Boosters for Android and iOS-Sound Booster App</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-best-online-locations-to-find-and-download-open-source-closing-music/"><u>Updated 2024 Approved Best Online Locations to Find and Download Open-Source Closing Music</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-curating-high-quality-instrumental-soundscape-for-videos-and-films/"><u>Updated 2024 Approved Curating High-Quality Instrumental Soundscape for Videos and Films</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-5-amazing-voice-changer-for-google-meet-for-2024/"><u>Updated 5 Amazing Voice Changer for Google Meet for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-beat-decoding-utilizing-web-resources-for-rhythmic-analysis-of-songs/"><u>Updated Beat Decoding Utilizing Web Resources for Rhythmic Analysis of Songs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-best-audio-chat-applications-tailored-for-gaming-enthusiasts/"><u>Updated Best Audio Chat Applications Tailored for Gaming Enthusiasts</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-best-nature-sounds-apps-for-ios-and-android/"><u>Updated Best Nature Sounds Apps for iOS and Android</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-elevating-video-experience-perfecting-the-mix-of-music-and-cinematography/"><u>Updated Elevating Video Experience Perfecting the Mix of Music and Cinematography</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-essential-audio-software-for-musicians-a-comprehensive-list-of-best-free-and-paid-options-2023/"><u>Updated Essential Audio Software for Musicians A Comprehensive List of Best Free & Paid Options 2023</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-essential-introduction-audio-tracks-the-top-8-for-digital-creators/"><u>Updated Essential Introduction Audio Tracks The Top 8 for Digital Creators</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-essential-tips-for-aspiring-music-video-editors/"><u>Updated Essential Tips for Aspiring Music Video Editors</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-free-audio-workflow-with-audacity-tips-and-tricks-for-effective-recording-for-2024/"><u>Updated Free Audio Workflow with Audacity Tips and Tricks for Effective Recording for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-auditory-decline-trends-in-adobe-rush-update-2023/"><u>Updated In 2024, Auditory Decline Trends in Adobe Rush Update 2023</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-bridging-aiff-and-mp3-techniques-for-high-quality-audio-conversion/"><u>Updated In 2024, Bridging AIFF and MP3 Techniques for High-Quality Audio Conversion</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-elevate-audio-output-simple-gratis-methods-to-increase-volume-on-windows/"><u>Updated In 2024, Elevate Audio Output Simple, Gratis Methods to Increase Volume on Windows</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-innovative-approaches-to-minimize-audio-and-video-file-size/"><u>Updated In 2024, Innovative Approaches to Minimize Audio and Video File Size</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-probing-sound-clarity-an-updated-analysis-of-cambridges-cxu-series/"><u>Updated In 2024, Probing Sound Clarity An Updated Analysis of Cambridges CXU Series</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-quick-fixes-to-keep-tiktok-sound-off-a-step-by-step-approach/"><u>Updated In 2024, Quick Fixes to Keep TikTok Sound Off A Step-by-Step Approach</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-single-file-soundscapes-uniting-diverse-audio-tracks-for-visuals/"><u>Updated In 2024, Single-File Soundscapes Uniting Diverse Audio Tracks for Visuals</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-buyers-ultimate-guide/"><u>: A Buyer's Ultimate Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-kinetic-illustration-101-core-skills-and-concepts/"><u>[New] 2024 Approved Kinetic Illustration 101 Core Skills & Concepts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-free-video-chat-alternatives-for-windowsmac-os-users/"><u>[New] In 2024, Free Video Chat Alternatives for Windows/Mac OS Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-charting-new-territories-leading-6-artists-in-nft-landscape/"><u>2024 Approved Charting New Territories Leading 6 Artists in NFT Landscape</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-convert-and-store-webcam-footage-in-vlc-media/"><u>2024 Approved Convert & Store Webcam Footage in VLC Media</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/essential-melodies-crafting-a-perfect-music-sequence-for-your-montage-film-for-2024/"><u>Essential Melodies Crafting a Perfect Music Sequence for Your Montage Film for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/implementing-video-transcripts-via-youtube-captions-for-2024/"><u>Implementing Video Transcripts via YouTube Captions for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/journey-through-the-maze-old-vs-innovative-rpgs-for-2024/"><u>Journey Through the Maze Old Vs. Innovative RPGs for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-from-silence-to-symphony-practical-steps-for-reducing-unintentional-auditory-background/"><u>New 2024 Approved From Silence to Symphony Practical Steps for Reducing Unintentional Auditory Background</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-and-comprehensive-gadget-testing/"><u>Tom's Tech Review: Expert Insights and Comprehensive Gadget Testing</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-15-best-rock-songs-that-you-should-know/"><u>Updated 2024 Approved 15 Best Rock Songs That You Should Know</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-future-proof-audio-editing-platforms-top-choices/"><u>Updated In 2024, Future-Proof Audio Editing Platforms Top Choices</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-unmissable-web-based-mp3-metadata-manipulators-heres-the-list/"><u>Updated Unmissable Web-Based MP3 Metadata Manipulators – Heres the List</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-your-guide-to-the-best-free-comedic-music-downloads/"><u>Updated Your Guide to the Best Free Comedic Music Downloads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725285736796-6/"><u>お薦め音源分離ソフト！無料で使える上位6選手、どれが最強か？</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Computer Systems: Essential Tips From Tom's Hardware Profiles"
-date: 2024-09-09T01:08:29.931Z
-updated: 2024-09-10T01:08:29.932Z
+date: 2024-09-10T02:06:12.785Z
+updated: 2024-09-14T22:38:24.268Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/0b81880445efb7746c34685a24a5e53155bfff0ac907d2d7a06d83968e5eaef1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Master Your Computer Knowledge with Top Insights From Tom's Hardware
 
 Mini PC specialist Minisforum has launched a new device, claiming several firsts. The new[AtomMan X7 Ti](https://www.minisforum.com/page/x7ti/index.html?lang=en) becomes the first in the firm's AtomMan line, described as a high-end cutting-edge marque by Minisforum. It is also claimed to be the “first Intel Ultra 9 AI Mini PC with a 4-inch Touchscreen.” With the rising popularity of[extra screens in PCs](https://www.tomshardware.com/pc-components/cooling/hands-on-lian-lis-lcd-screen-fans-turn-heads-and-are-surprisingly-affordable-but-not-as-configurable-as-id-like) , integrating one into a compact desktop might be a popular idea.
@@ -27,38 +21,14 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  Moving inside, the star of the show is the new Intel Core Ultra 9 processor[185H](https://www.intel.com/content/www/us/en/products/sku/236849/intel-core-ultra-9-processor-185h-24m-cache-up-to-5-10-ghz/specifications.html) with a 16C/22T CPU running at up to 5.1 GHz, and onboard Arc GPU with eight Xe cores running at up to 2.35 GHz. This[Meteor Lake](https://www.tomshardware.com/news/intel-details-core-ultra-meteor-lake-architecture-launches-december-14) chip is cooled by the new Cold Wave cooling system featuring a large diameter fan, 3 copper heatpipes, and a phase-change module.
@@ -71,18 +41,6 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -91,14 +49,11 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,39 +64,22 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-gameglasses-glimpse-guide/"><u>[New] 2024 Approved  GameGlasses Glimpse Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-expert-picks-best-7-video-streaming-apps-to-take-your-youtube-game-upward-iosandroid-for-2024/"><u>[New] Expert Picks  Best 7 Video Streaming Apps to Take Your YouTube Game Upward (iOS/Android) for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-optimal-sound-settings-win/"><u>[New] Optimal Sound Settings WIN</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-sony-vegas-youtube-video-editing-basics/"><u>[Updated] Mastering Sony Vegas  YouTube Video Editing Basics</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-quieting-mute-voices-on-obs-platforms/"><u>[Updated] Quieting Mute Voices on OBS Platforms</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/access-freely-available-logitech-webcam-drivers-and-setup-files-for-windows-operating-systems/"><u>Access Freely Available Logitech Webcam Drivers and Setup Files for Windows Operating Systems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-motorola-moto-g24-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Motorola Moto G24 without App | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-mastering-seamless-scene-shifts-in-video-editing/"><u>New Mastering Seamless Scene Shifts in Video Editing</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-mastering-the-art-of-syncing-sound-with-visuals-in-filmmaking-for-2024/"><u>New Mastering the Art of Syncing Sound with Visuals in Filmmaking for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-shaping-your-sound-strategies-for-modifying-your-speaking-voice-for-2024/"><u>New Shaping Your Sound Strategies for Modifying Your Speaking Voice for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-silent-capture-effective-strategies-to-remove-noise-from-iphone-videos-for-2024/"><u>New Silent Capture Effective Strategies to Remove Noise From iPhone Videos for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-failed-to-load-steamuidll-problem-in-steam-game-launcher/"><u>Overcoming the 'Failed to Load steamui.dll' Problem in Steam Game Launcher</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-ultimate-how-to-syncing-audio-with-newly-updated-avi-content-for-2024/"><u>The Ultimate How-To Syncing Audio with Newly Updated AVI Content for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-list-for-fbs-most-popular-song-videos/"><u>The Ultimate List for FB's Most Popular Song Videos</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/top-10-digital-audio-workstation-tools-free-vs-paid-options-for-2024/"><u>Top 10 Digital Audio Workstation Tools Free vs Paid Options for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/transform-your-speech-the-7-top-vocal-changer-mobile-apps-for-2024/"><u>Transform Your Speech  The 7 Top Vocal Changer Mobile Apps for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/understanding-enhanced-functionality-in-nero-waveedito-as-for-2024/"><u>Understanding Enhanced Functionality in Nero WaveEdito As for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-10-social-media-podcasts-to-help-you-make-marketing-strategy-for-2024/"><u>Updated 10 Social Media Podcasts to Help You Make Marketing Strategy for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-audio-precision-step-by-step-guide-to-muting-unnecessary-sounds-in-after-effects/"><u>Updated 2024 Approved Audio Precision Step-by-Step Guide to Muting Unnecessary Sounds in After Effects</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-behind-the-scenes-sound-management-expert-insights-into-using-ducking-effects/"><u>Updated 2024 Approved Behind-the-Scenes Sound Management Expert Insights Into Using Ducking Effects</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-identifying-core-functionalities-in-digital-sound-editors-for-mac/"><u>Updated 2024 Approved Identifying Core Functionalities in Digital Sound Editors for Mac</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-smartphone-speech-to-text-solutions-compiling-the-best-android-and-iphone-apps/"><u>Updated 2024 Approved Smartphone Speech-to-Text Solutions Compiling the Best Android and iPhone Apps</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-fast-track-to-voice-reduction-in-audacity/"><u>Updated 2024 Approved The Fast Track to Voice Reduction in Audacity</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-ultimate-selection-of-voice-customization-mobile-apps/"><u>Updated 2024 Approved Ultimate Selection of Voice Customization Mobile Apps</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-a-comprehensive-overview-of-changing-speech-and-music-levels-in-files-for-2024/"><u>Updated A Comprehensive Overview of Changing Speech and Music Levels in Files for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-achieving-smooth-transitions-utilizing-audio-ducking-for-elegant-music-fades-in-powerdirector/"><u>Updated Achieving Smooth Transitions Utilizing Audio Ducking for Elegant Music Fades in PowerDirector</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-discover-the-best-android-speech-to-text-programs-with-no-monthly-fees-for-2024/"><u>Updated Discover the Best Android Speech-to-Text Programs with No Monthly Fees for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-discovering-the-best-8-android-compatible-daws-for-musicians-and-producers-for-2024/"><u>Updated Discovering the Best 8 Android-Compatible DAWs for Musicians and Producers for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-effortless-soloist-extraction-devices-catering-to-every-skill-tier-for-2024/"><u>Updated Effortless Soloist Extraction Devices Catering to Every Skill Tier for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-audio-alchemy-revealed-a-deep-dive-into-premier-sound-design-software/"><u>Updated In 2024, Audio Alchemy Revealed A Deep Dive Into Premier Sound Design Software</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-behind-the-scenes-sound-management-expert-insights-into-using-ducking-effects/"><u>Updated In 2024, Behind-the-Scenes Sound Management Expert Insights Into Using Ducking Effects</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-crafting-silent-elegance-the-art-of-audio-ducking-in-video-editing-with-adobe-premiere-pro-on-mac/"><u>Updated In 2024, Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-eliminating-ambient-sound-mastering-audio-editing-in-premiere-pro/"><u>Updated In 2024, Eliminating Ambient Sound Mastering Audio Editing in Premiere Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-navigating-through-the-top-choices-for-mac-mp3-metadata-manipulators/"><u>Updated In 2024, Navigating Through the Top Choices for Mac MP3 Metadata Manipulators</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-remove-sound-from-video-on-desktop-or-online/"><u>Updated In 2024, Remove Sound From Video on Desktop or Online</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge/"><u>[Updated] Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-images-with-frames-best-sites-and-tools-of-2023-reviewed/"><u>[Updated] Perfect Images with Frames Best Sites and Tools of 2023 Reviewed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-engagement-crafting-high-impact-snaps-for-your-brand/"><u>2024 Approved Elevate Engagement Crafting High-Impact Snaps for Your Brand</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/achieving-tiktok-peace-effective-strategies-for-dialing-down-volume/"><u>Achieving TikTok Peace Effective Strategies for Dialing Down Volume</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ver-top-6-short-video-download-sites-free-for-2024/"><u>Discover Top 6 Short Video Download Sites (FREE) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-address-and-fix-error-0x80070079-semaphore-timed-out/"><u>Effective Solutions to Address and Fix Error 0X80070079: Semaphore Timed Out</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-scour-the-soundscape-of-laughter-and-whimsy/"><u>In 2024, Scour the Soundscape of Laughter and Whimsy</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-unveiling-the-epic-15-rock-melodies-that-define-2023s-music-scene/"><u>In 2024, Unveiling the Epic 15 Rock Melodies that Define 2023S Music Scene</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smart-image-management-adjusting-iphone-photo-sizes-for-2024/"><u>Smart Image Management Adjusting iPhone Photo Sizes for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-successful-sms-and-mms-from-an-ipad/"><u>Step-by-Step Instructions for Successful SMS and MMS From an iPad</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

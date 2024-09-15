@@ -1,7 +1,7 @@
 ---
 title: How Lenovo's Shift to Chinese Loongson CPUs Fortifies Its Server Lineup Amid Sanction Challenges
-date: 2024-09-09T01:08:27.524Z
-updated: 2024-09-10T01:08:27.524Z
+date: 2024-09-07T18:03:22.792Z
+updated: 2024-09-14T16:47:55.031Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/AdGF8mqfmrfKzZXh2t7FTB-320-80.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2024 World Server Destruction Showdown: Search for Rough-and-Tumble Gamers Who Brazenly Challenge Computing Power
 
 The 2024 World Server Throwing Championship (WSTC) organizers are[calling for entrants](https://www.cloudfest.com/world-server-throwing-championship#server-reg) . Scheduled for March 19, the bare metal vs. raw power event is set to become a must-watch experience of the annual CloudFest conference.
@@ -31,24 +25,12 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 ![Server throwing athletes](https://cdn.mos.cms.futurecdn.net/wtmZvaBCUd7W2J88EkoF6b-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: CloudFest)
 
  If we had to place a bet on the winner’s nationality, it would probably be Dutch, as the country where the sport seems to have become established. We discovered that some of the WTSC partners have already promoted server throwing in Dutch events. The winner of a Dutch national championship event[in 2022](https://dutchcloudcommunity.nl/agenda/summer-bbq-dutch-cloud-community-2022/) managed to fling a 10kg+ (22 pounds +) server 12.23 meters (over 40 feet).
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -59,14 +41,11 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  The CloudFest 2024 event occurs at Europa-park in Rust,[Germany](https://www.tomshardware.com/pc-components/gpus/intel-submits-schematics-for-1nm-chip-fabs-in-germany-two-new-fabs-open-in-2027) , from March 18 to 24\. It is described as a must-attend event for anyone who works in[the cloud](https://www.tomshardware.com/reviews/cloud-computing-security,2829-2.html) , with a packed schedule featuring keynotes, panel discussions, masterclasses, networking events, and more. Only paying attendees can sign up for the chance to show off their server-throwing prowess. Tickets start at 499 euros.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -77,56 +56,28 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-record-and-evaluate-speech-files/"><u>[New] 2024 Approved  Record & Evaluate Speech Files</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-starting-a-youtube-channel-the-ultimate-blueprint/"><u>[New] 2024 Approved  Starting a YouTube Channel  The Ultimate Blueprint</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-leading-open-source-20-best-pubg-images-for-2024/"><u>[New] Leading Open Source  20 Best PUBG Images for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-use-the-instagram-question-sticker-the-way-you-may-miss/"><u>[Updated] 2024 Approved  How to Use the Instagram Question Sticker [The Way You May Miss]</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-visualizationvirtue-the-art-of-resizing-photos-and-videos-in-instagram/"><u>[Updated] 2024 Approved  VisualizationVirtue  The Art of Resizing Photos and Videos in Instagram</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-seekingnextgencamerasolutions-for-2024/"><u>[Updated] SeekingNextGenCameraSolutions for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-total-locomotion-survey-2023/"><u>[Updated] Total Locomotion Survey 2023</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-scaling-your-channel-a-guide-to-increased-viewership-and-followers/"><u>2024 Approved  Scaling Your Channel  A Guide to Increased Viewership and Followers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-techniques-to-boost-periscope-live-video-speed/"><u>2024 Approved  Techniques to Boost Periscope Live Video Speed</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-70-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-oppo-find-n3-lock-screen-password-by-drfone-android/"><u>How To Change Oppo Find N3 Lock Screen Password?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-90-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor 90? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-beatboxing-basics-add-audio-to-windows-11-projects-with-ease/"><u>In 2024, Beatboxing Basics  Add Audio to Windows 11 Projects with Ease</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-100-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor 100 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-seamless-synergy-merging-soundtracks-with-visual-narratives-in-modern-cinema/"><u>New Seamless Synergy Merging Soundtracks with Visual Narratives in Modern Cinema</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-smartphone-speech-to-text-solutions-compiling-the-best-android-and-iphone-apps/"><u>New Smartphone Speech-to-Text Solutions Compiling the Best Android and iPhone Apps</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-superior-audio-format-changer-instant-mp3-creation-with-zero-hassle/"><u>New Superior Audio Format Changer Instant MP3 Creation with Zero Hassle</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-beat-engineers-companion-selecting-from-among-the-top-8-daw-tools-for-todays-urban-music-masters-for-2024/"><u>New The Beat Engineers Companion Selecting From Among the Top 8 DAW Tools for Todays Urban Music Masters for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-modern-sound-engineers-guide-ranking-the-best-ios-daws-for-ipad-and-iphone-for-2024/"><u>New The Modern Sound Engineers Guide Ranking the Best iOS DAWs for iPad and iPhone for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-soundtrack-to-today-celebrating-the-most-popular-radio-audio/"><u>New The Soundtrack to Today Celebrating the Most Popular Radio Audio</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-to-audio-based-text-extraction-techniques-for-2024/"><u>New The Ultimate Guide to Audio-Based Text Extraction Techniques for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-top-tools-for-silencing-unwanted-sound-in-podcasts-and-recordings-for-2024/"><u>New Top Tools for Silencing Unwanted Sound in Podcasts and Recordings for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-vocalizing-text-pioneering-audio-to-written-content-conversion-for-2024/"><u>New Vocalizing Text Pioneering Audio to Written Content Conversion for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/premier-voice-recorders-for-android-comprehensive-and-cost-free-for-2024/"><u>Premier Voice Recorders for Android - Comprehensive and Cost-Free for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/step-by-step-techniques-for-embedding-audio-into-videos/"><u>Step-By-Step Techniques for Embedding Audio Into Videos</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/techniques-for-embedding-audio-into-newly-updated-avi-video-files/"><u>Techniques for Embedding Audio Into Newly Updated AVI Video Files</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-ultimate-guide-to-silencing-sounds-cutting-audio-from-iphonesmac-videos/"><u>The Ultimate Guide to Silencing Sounds Cutting Audio From iPhones/Mac Videos</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-ultimate-selection-of-six-compelling-chrome-talk-transformers-to-experience-moviemagicsuite-for-2024/"><u>The Ultimate Selection of Six Compelling Chrome Talk Transformers to Experience - MovieMagicSuite for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/top-notch-video-reparation-for-pcs-and-macs/"><u>Top-Notch Video Reparation for PCs & MACs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-resolving-no-sms-messages-on-your-android-device/"><u>Troubleshooting Steps for Resolving No SMS Messages on Your Android Device</u></a></li>
-<li><a href="https://some-skills.techidaily.com/twitch-time-rewind-hacks-unveiled-for-2024/"><u>Twitch Time Rewind Hacks Unveiled for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unlock-slow-momentum-a-filmmakers-tale-on-instagram/"><u>Unlock Slow Momentum  A Filmmaker’s Tale on Instagram</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-accessible-vocal-isolation-equipment-for-all-voice-levels/"><u>Updated 2024 Approved Accessible Vocal Isolation Equipment for All Voice Levels</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-digital-resonance-a-comprehensive-tutorial-for-echo-addition-in-windows-and-web-audio-applications/"><u>Updated 2024 Approved Digital Resonance A Comprehensive Tutorial for Echo Addition in Windows and Web Audio Applications</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-essential-compilation-discovering-the-top-11-free-audio-customization-tools-for-ios-and-android-gadgets/"><u>Updated 2024 Approved Essential Compilation Discovering the Top 11 Free Audio Customization Tools for iOS & Android Gadgets</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-finding-your-perfect-mp3-trimmer-on-macos-compare-the-best-audio-editors/"><u>Updated 2024 Approved Finding Your Perfect MP3 Trimmer on macOS Compare the Best Audio Editors</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-how-to-remove-audio-from-mkv/"><u>Updated 2024 Approved How to Remove Audio From MKV</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-initiating-your-journey-with-wave-editors-tips-and-tricks-for-aspiring-audio-editors/"><u>Updated 2024 Approved Initiating Your Journey with Wave Editors Tips and Tricks for Aspiring Audio Editors</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-innovative-sound-solutions-for-videographers-streamlining-effect-implementation/"><u>Updated 2024 Approved Innovative Sound Solutions for Videographers Streamlining Effect Implementation</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-premium-selection-the-most-exceptional-11-voice-alteration-apps-available-at-no-charge-for-mobile-devices/"><u>Updated 2024 Approved Premium Selection The Most Exceptional 11 Voice Alteration Apps Available at No Charge for Mobile Devices</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-mechanics-behind-anime-translations-insights-into-adaptation-and-localization/"><u>Updated 2024 Approved The Mechanics Behind Anime Translations Insights Into Adaptation and Localization</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-pros-method-for-smooth-on-off-sound-dynamics-using-adobe-after-effects/"><u>Updated 2024 Approved The Pros Method for Smooth On-Off Sound Dynamics Using Adobe After Effects</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-bridging-aiff-and-mp3-techniques-for-high-quality-audio-conversion/"><u>Updated Bridging AIFF and MP3 Techniques for High-Quality Audio Conversion</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-crafting-seamless-sound-tracks-with-imovies-volume-control-for-2024/"><u>Updated Crafting Seamless Sound Tracks with iMovies Volume Control for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-deciphering-the-newest-advances-in-nero-waveedito-for-2024/"><u>Updated Deciphering the Newest Advances in Nero WaveEdito for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-choose-the-best-voice-changer-for-gaming-in-2024/"><u>Updated How to Choose the Best Voice Changer for Gaming, In 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-make-beats-for-your-music-videos-for-2024/"><u>Updated How to Make Beats for Your Music Videos for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-elevate-video-audio-dynamics-increase-surround-impact/"><u>Updated In 2024, Elevate Video Audio Dynamics Increase Surround Impact</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-enhancing-film-production-adding-audio-elements-in-magix-pro-2023-edition/"><u>Updated In 2024, Enhancing Film Production Adding Audio Elements in Magix Pro 2023 Edition</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-step-by-step-techniques-for-infusing-music-into-your-final-cut-pro-video-edits/"><u>Updated In 2024, Step-by-Step Techniques for Infusing Music Into Your Final Cut Pro Video Edits</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-quick-vimeo-transformation-tips-easy-to-create-gifs/"><u>[New] In 2024, Quick Vimeo Transformation Tips Easy-to-Create GIFs</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/1723262359107-compact-computer-with-full-amd-ryzen-setup-foldable-mini-keyboard-and-touchpad-just-needs-a-screen/"><u>Compact Computer with Full AMD Ryzen Setup: Foldable Mini Keyboard & Touchpad, Just Needs a Screen!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your Apple iPhone XS Max?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/instant-video-link-up-using-whatsapp-desktop-for-pc-calls-for-2024/"><u>Instant Video Link-Up Using WhatsApp Desktop for PC Calls for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-lava-yuva-3-pro-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Lava Yuva 3 Pro has been deleted.</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/remarkable-archaeological-tech-discovery-by-cleaners-ancient-intel-8008-cpu-powered-personal-computers-with-limited-memory-unearthed/"><u>Remarkable Archaeological Tech Discovery by Cleaners: Ancient Intel 8008 CPU-Powered Personal Computers with Limited Memory Unearthed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sony-a6400-video-failure-what-to-do-next/"><u>Sony A6400 Video Failure What To Do Next?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stop-vertical-distortion-phenomena/"><u>Stop Vertical Distortion Phenomena</u></a></li>
+<li><a href="https://blog-min.techidaily.com/umwandlung-von-flv-zu-mp4-professioneller-guide-mit-winx-hd-video-converter-deluxe/"><u>Umwandlung Von FLV Zu MP4: Professioneller Guide Mit WinX HD Video Converter Deluxe</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-essential-directory-of-fee-free-high-quality-audio-player-applications-for-android-and-ios-devices/"><u>Updated In 2024, The Essential Directory of Fee-Free, High-Quality Audio Player Applications for Android and iOS Devices</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-ultimate-step-by-step-on-incorporating-sound-into-videos-using-magix/"><u>Updated In 2024, The Ultimate Step-by-Step on Incorporating Sound Into Videos Using Magix</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-integrating-sound-into-imovie-projects-for-complete-novices-for-2024/"><u>Updated Integrating Sound Into iMovie Projects For Complete Novices for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-top-10-audio-reversal-tools-latest-edition-for-pcs-and-mobile-devices-for-2024/"><u>Updated Top 10 Audio Reversal Tools Latest Edition for PCs & Mobile Devices for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/voice-memos-unveiled-comparing-features-and-options-beyond-vocaroo-for-2024/"><u>Voice Memos Unveiled Comparing Features and Options Beyond Vocaroo for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/44k544od44o844oe44ow44or44gu44kq44oz44op44kk44oz44kz44oz44og44oz44oe44ks5pyj5ysf44o754sh5ysf44gn44oa44km44oz44ot44o844oj44gz44kl5pa55rov/"><u>スポーツブルのオンラインコンテンツを有償・無償でダウンロードする方法</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

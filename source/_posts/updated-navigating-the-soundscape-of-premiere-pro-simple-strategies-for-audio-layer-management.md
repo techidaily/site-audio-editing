@@ -1,7 +1,7 @@
 ---
 title: Updated Navigating the Soundscape of Premiere Pro Simple Strategies for Audio Layer Management
-date: 2024-09-09T01:08:27.049Z
-updated: 2024-09-10T01:08:27.049Z
+date: 2024-09-11T03:28:24.294Z
+updated: 2024-09-14T23:15:46.700Z
 tags: 
   - audio editing software
   - audio editing
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
@@ -38,12 +32,6 @@ So how do you use the audio track mixer to manage your audio inside of a video? 
 * [**Part 2: How to Change the Audio Track Mixer Settings**](#part2)
 * [**Part 3: Using Audio Track Mixer for Your next Project**](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How Does the Audio Track Mixer Work
 
 Mixing tracks is when audio is blended and mixed together in a sequence, and you have multiple sounds over one channel. For instance, when you watch a TV show and have music cut over two characters talking, that’s an example of mixed tracks. You can mix music, dialogue, sound effects, voiceovers, and other things to create a seamless finished product. You can even have different types of audio, or have different tracks play in different earphones of the headset if you want to.
@@ -58,22 +46,10 @@ With audio track mixer, you can see each track being played in real time, not ju
 
 ![Audio Track Mixer details](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-detailes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can even look at meters while the main window is closed, which is helpful if you need to free up some space or organize your sounds while other data is shown.
 
 You can see the sequence in real time as it is being played, see the peaks and valleys of the sound, and ensure that you can control the volume for every track. You’ll have total control over the sound, and the playback.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Change the Audio Track Mixer Settings
 
 If you are the type of person that likes to work with the sound as it happens, then you can. Recording and mixing on the fly is easy if [you can avoid some mistakes](https://www.audio-issues.com/music-mixing/mixing-mistakes-top-ten/).
@@ -82,12 +58,6 @@ Using mono tracks allows you to alter the sound for left and right settings, whi
 
 ![ Audio Track Mixer Settings](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The audio files are edited both in the audio interface and in a timeline, where it is either imported or directly recorded. Then their waveforms can be viewed, the volume and sounds can be adjusted, and [larger audio mixes can be divided into sub-mixes](https://www.izotope.com/en/blog/mixing/5-approaches-to-submixes.html).
 
 All your changes will happen on the timeline, and you’ll be able to listen to the new track instantly.
@@ -100,6 +70,13 @@ Instead of wasting hours staring at the computer screen, using the Audio Track M
 
 Use the track mixer to manage and customize your sounds, see the volume and base of each individual track in real time, and set when tracks come in and fade out. Using the mixer will allow you to have picture perfect sound quality, every single time.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 If you want to edit audio in an easier way, here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It is a video editor designed for people who want to enter a higher level of video editing. You can use FilmoraPro to do automatic audio sync. Equalize the highs and lows of your audio to normalize the volume of your clips and Reduce unwanted background sounds, like crowds or wind with this feature. It is a powerful audio editor for you. Download it now to have a try!
@@ -107,64 +84,17 @@ If you want to edit audio in an easier way, here we recommend using [Filmora](ht
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-game-day-to-hollywood-sports-video-success-story/"><u>[New] 2024 Approved  From Game Day to Hollywood  Sports Video Success Story</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-exclusive-guide-choosing-among-top-9-free-logo-creators/"><u>[New] Exclusive Guide  Choosing Among Top 9 Free Logo Creators</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-seamless-integration-of-snap-camera-for-enhanced-online-participation-for-2024/"><u>[New] Seamless Integration of Snap Camera for Enhanced Online Participation for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-streamlining-and-organizing-your-itunes-video-files/"><u>[Updated] In 2024, Streamlining and Organizing Your iTunes Video Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-techniques-for-ae-title-creation/"><u>2024 Approved  Expert Techniques for AE Title Creation</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/complete-hdd-recovery-framework/"><u>Complete HDD Recovery Framework</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-nokia-c12-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Nokia C12</u></a></li>
-<li><a href="https://facebook.techidaily.com/download-private-fb-memories-without-breaking-rules/"><u>Download Private FB Memories Without Breaking Rules</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-vivo-v27-pro-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Vivo V27 Pro?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-elevate-with-these-top-10-igtv-experts/"><u>In 2024, Elevate with These Top 10 IGTV Experts</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-how-to-record-video-on-google-hangouts/"><u>In 2024, How to Record Video on Google Hangouts</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-online-learning-campaign-comprehensive-insights-streamed-live/"><u>In 2024, Online Learning Campaign Comprehensive Insights Streamed Live</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/innovative-platforms-to-connect-visually-videochat-alternatives-to-omegle-for-2024/"><u>Innovative Platforms to Connect Visually Videochat Alternatives to Omegle for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/lenovo-t460-drivers-download-and-update-on-windows-11/"><u>Lenovo T460 Drivers Download & Update on Windows 11</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/liven-up-your-igtv-playlist-with-music-integration/"><u>Liven Up Your IGTV Playlist With Music Integration</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/mastering-m4a-sound-essential-tips-for-android-users/"><u>Mastering M4A Sound Essential Tips for Android Users</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-transforming-content-into-multilingual-masterpieces-a-filmora-based-approach-to-video-dubbing/"><u>New 2024 Approved Transforming Content Into Multilingual Masterpieces A Filmora-Based Approach to Video Dubbing</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-digital-bug-noises-easy-access-to-high-quality-online-audio-libraries-for-2024/"><u>New Digital Bug Noises Easy Access to High-Quality Online Audio Libraries for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-from-audio-to-articulation-the-top-10-software-choices-for-efficiently-transcribing-your-podcasts-for-2024/"><u>New From Audio to Articulation The Top 10 Software Choices for Efficiently Transcribing Your Podcasts for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-audio-tranquility-in-action-fading-and-pulsating-sounds-made-easy-in-adobe-after-effects/"><u>New In 2024, Audio Tranquility in Action Fading and Pulsating Sounds Made Easy in Adobe After Effects</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-avoiding-audible-distractions-silencing-audio-in-current-avi-updates/"><u>New In 2024, Avoiding Audible Distractions Silencing Audio in Current AVI Updates</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-mastering-audio-extraction-from-video-imovie-techniques-for-mac-users/"><u>New In 2024, Mastering Audio Extraction From Video IMovie Techniques for Mac Users</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-top-11-budget-friendly-audio-enhancement-software-options-for-your-pc-and-mac/"><u>New In 2024, Top 11 Budget-Friendly Audio Enhancement Software Options for Your PC and Mac</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-optimize-your-editing-process-leveraging-the-automatic-ducking-functionality-of-final-cut-pro-x-to-manage-sound-levels-efficiently/"><u>New Optimize Your Editing Process Leveraging the Automatic Ducking Functionality of Final Cut Pro X to Manage Sound Levels Efficiently</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-stop-background-noises-and-add-exclusive-audio-selections-in-movie-maker-for-windows/"><u>New Stop Background Noises & Add Exclusive Audio Selections in Movie Maker for Windows</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-modern-producers-choice-ranking-the-best-8-music-production-software-for-macwindows-for-2024/"><u>New The Modern Producers Choice Ranking the Best 8 Music Production Software for Mac/Windows for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-visual-harmony-in-audio-a-step-by-step-guide-for-creative-composers-photo-sonics-updated-edition-for-2024/"><u>New Visual Harmony in Audio A Step-by-Step Guide for Creative Composers Photo Sonics, Updated Edition for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/proven-leaders-in-speech-to-text-the-best-6-automatic-transcription-apps-for-2024/"><u>Proven Leaders in Speech to Text The Best 6 Automatic Transcription Apps for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/speak-in-style-play-to-win-transforming-your-virtual-identity-with-morphvox-for-streaming-games/"><u>Speak in Style, Play to Win Transforming Your Virtual Identity with Morphvox for Streaming Games</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-beat-makers-playbook-ranking-the-top-8-daw-applications-for-contemporary-urban-music/"><u>The Beat Makers Playbook Ranking the Top 8 DAW Applications for Contemporary Urban Music</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-future-of-audio-crafting-androids-most-innovative-digital-audio-workstations-for-todays-sound-engineers/"><u>The Future of Audio Crafting Androids Most Innovative Digital Audio Workstations for Todays Sound Engineers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-world-of-vocal-manipulators-an-overview-testimonials-and-substitutes/"><u>The World of Vocal Manipulators An Overview, Testimonials, and Substitutes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-dreamlight-valley-pc-issues-with-these-6-effective-fixes/"><u>Troubleshoot Dreamlight Valley PC Issues with These 6 Effective Fixes</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-comprehensive-alternatives-choosing-the-right-digital-recording-software/"><u>Updated 2024 Approved Comprehensive Alternatives Choosing the Right Digital Recording Software</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-decoding-soundscapes-discovering-the-top-7-audio-alterations-for-todays-producers-for-2024/"><u>Updated Decoding Soundscapes Discovering the Top 7 Audio Alterations for Todays Producers for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-examination-of-cambridge-sound-technologies-cxu-equipment-for-2024/"><u>Updated Examination of Cambridge Sound Technologies CXU Equipment for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-from-raw-audio-to-polished-masterpiece-editing-with-avidemux-2023-edition/"><u>Updated From Raw Audio to Polished Masterpiece Editing with Avidemux - 2023 Edition</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-from-silence-to-symphony-incorporating-music-into-animated-graphics-on-macos-for-2024/"><u>Updated From Silence to Symphony Incorporating Music Into Animated Graphics on macOS for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-use-audio-ducking-in-adobe-premiere-pro-on-mac/"><u>Updated How to Use Audio Ducking in Adobe Premiere Pro on Mac</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-use-voice-recorder-on-samsung-s10s9-for-2024/"><u>Updated How to Use Voice Recorder on Samsung S10/S9 for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-enhance-your-pc-audio-no-cost-methods-to-amplify-sound-on-windows-systems/"><u>Updated In 2024, Enhance Your PC Audio No-Cost Methods to Amplify Sound on Windows Systems</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-guideline-for-beginners-about-lexis-audio-editor/"><u>Updated In 2024, Guideline for Beginners About Lexis Audio Editor</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -172,3 +102,23 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-youtube-video-reverser-online/"><u>[New] 2024 Approved Best YouTube Video Reverser Online</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-navigating-and-adapting-youtubes-evolving-policy-landscape/"><u>[Updated] 2024 Approved Navigating and Adapting YouTube's Evolving Policy Landscape</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-polarr-mastery-manual-transforming-digital-imagery-with-ease/"><u>[Updated] Polarr Mastery Manual Transforming Digital Imagery with Ease</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y200-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo Y200 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-infuse-vibrancy-in-presentations-via-audio/"><u>In 2024, Infuse Vibrancy in Presentations via Audio</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/standout-80s-aesthetics-for-video-editing-pros-for-2024/"><u>Standout '80S Aesthetics for Video Editing Pros for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-remove-background-noise-online-useful-guideline/"><u>Updated 2024 Approved Remove Background Noise Online Useful Guideline</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-rhythm-rulers-the-ultimate-list-of-hit-identification-tools-revised/"><u>Updated 2024 Approved Rhythm Rulers The Ultimate List of Hit Identification Tools, Revised</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-audio-file-transformation-mp3-to-mp4-format-conversion-explained-for-2024/"><u>Updated Audio File Transformation MP3 to MP4 Format Conversion Explained for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-cutting-edge-ios-daw-apps-a-guide-to-the-8-best-choices-for-tablets-and-smartphones-for-2024/"><u>Updated Cutting-Edge iOS DAW Apps A Guide to the 8 Best Choices for Tablets and Smartphones for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-digital-de-drumming-guide-simplifying-the-silencing-of-percussion-in-music-files/"><u>Updated Digital De-Drumming Guide Simplifying the Silencing of Percussion in Music Files</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-essential-11-audio-focused-smartphone-applications-for-2024/"><u>Updated Essential 11 Audio-Focused Smartphone Applications for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-arm-support-now-live-upgrade-your-filmora-x-experience/"><u>Updated In 2024, ARM Support Now Live Upgrade Your Filmora X Experience</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-expert-tips-to-craft-dynamic-audio-dimensions-in-filmora-on-a-mac/"><u>Updated In 2024, Expert Tips to Craft Dynamic Audio Dimensions in Filmora on a Mac</u></a></li>
+</ul></div>
+

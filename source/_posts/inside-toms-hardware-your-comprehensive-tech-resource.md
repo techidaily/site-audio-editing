@@ -1,7 +1,7 @@
 ---
 title: "Inside Tom's Hardware: Your Comprehensive Tech Resource"
-date: 2024-09-09T01:08:32.593Z
-updated: 2024-09-10T01:08:32.593Z
+date: 2024-09-12T02:17:41.036Z
+updated: 2024-09-14T20:06:22.091Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/7618ed5212ad2fa17c4d0cff006f1dcb4d7c52766a583e2029f0351c0b405229.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Innovation Hub: The Inside Scoop From Tom's Hardware for Gadget Lovers
 
 Mini PC specialist Minisforum has launched a new device, claiming several firsts. The new[AtomMan X7 Ti](https://www.minisforum.com/page/x7ti/index.html?lang=en) becomes the first in the firm's AtomMan line, described as a high-end cutting-edge marque by Minisforum. It is also claimed to be the “first Intel Ultra 9 AI Mini PC with a 4-inch Touchscreen.” With the rising popularity of[extra screens in PCs](https://www.tomshardware.com/pc-components/cooling/hands-on-lian-lis-lcd-screen-fans-turn-heads-and-are-surprisingly-affordable-but-not-as-configurable-as-id-like) , integrating one into a compact desktop might be a popular idea.
@@ -27,32 +21,14 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  Moving inside, the star of the show is the new Intel Core Ultra 9 processor[185H](https://www.intel.com/content/www/us/en/products/sku/236849/intel-core-ultra-9-processor-185h-24m-cache-up-to-5-10-ghz/specifications.html) with a 16C/22T CPU running at up to 5.1 GHz, and onboard Arc GPU with eight Xe cores running at up to 2.35 GHz. This[Meteor Lake](https://www.tomshardware.com/news/intel-details-core-ultra-meteor-lake-architecture-launches-december-14) chip is cooled by the new Cold Wave cooling system featuring a large diameter fan, 3 copper heatpipes, and a phase-change module.
@@ -65,12 +41,6 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -79,14 +49,11 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -97,45 +64,24 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blue-screen-error.techidaily.com/fixed-cmusbdacsys-blue-screen-of-death-in-windows/"><u>[Fixed] CMUSBDAC.sys Blue Screen of Death in Windows</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mobile-mastery-using-phone-as-a-camera-for-recording/"><u>[New] 2024 Approved  Mobile Mastery  Using Phone as a Camera for Recording</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-engagement-with-tailored-templates-for-video-info/"><u>[New] In 2024, Boost Engagement with Tailored Templates for Video Info</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2023-how-to-share-twitter-videos-on-whatsapp-for-2024/"><u>[Updated] 2023 | How to Share Twitter Videos on WhatsApp for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-chorus-chronicles-a-guide-to-audio-selection-for-ig/"><u>[Updated] 2024 Approved  Chorus Chronicles  A Guide to Audio Selection for IG</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-easyrecorder-straightforward-windows-10-tool/"><u>2024 Approved  EasyRecorder - Straightforward Windows 10 Tool</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ering-competition-crafting-standout-youtube-advertising-banners-for-2024/"><u>Conquering Competition  Crafting Standout YouTube Advertising Banners for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-leading-video-conference-software-picks/"><u>In 2024, Leading Video-Conference Software Picks</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-unveiling-valheims-soil-secrets-premium-seed-guide/"><u>In 2024, Unveiling Valheim's Soil Secrets  Premium Seed Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-everlasting-titles-with-millions-of-viewers/"><u>In 2024, YouTube's Everlasting Titles with Millions of Viewers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-mp3-cutter-for-mac-which-is-the-best-mp3-cutter-on-mac/"><u>New MP3 Cutter for Mac - Which Is the Best MP3 Cutter on Mac?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-essence-of-clubhouse-uncovered-insights-into-its-core-values-user-experience-and-impact-on-digital-interactions/"><u>New The Essence of Clubhouse Uncovered Insights Into Its Core Values, User Experience, and Impact on Digital Interactions</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-speedy-route-to-flawless-sound-import-in-premiere-pro-updated-for-2024/"><u>New The Speedy Route to Flawless Sound Import in Premiere Pro (Updated ) for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-to-popular-radio-ambiance/"><u>New The Ultimate Guide to Popular Radio Ambiance</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-top-10-best-audio-mixer-software-for-free/"><u>New Top 10 Best Audio Mixer Software for FREE</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-unconventional-chat-services-excellence-list-security-functionality-and-pleasure-for-2024/"><u>New Unconventional Chat Services Excellence List Security, Functionality, and Pleasure for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restore-scanner-link-to-computer-in-windows-10/"><u>Restore Scanner Link to Computer in Windows 10</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/tuning-in-smoothly-learning-to-adjust-audio-volumes-on-audacity/"><u>Tuning In Smoothly Learning to Adjust Audio Volumes on Audacity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-ac1st16dll-file-not-found-issues/"><u>Ultimate Guide: Resolving 'Ac1st16.dll' File Not Found Issues</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-a-list-of-trustworthy-websites-for-procuring-creative-outro-harmonies-without-copyright-issues/"><u>Updated 2024 Approved A List of Trustworthy Websites for Procuring Creative Outro Harmonies Without Copyright Issues</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-best-online-locations-to-find-and-download-open-source-closing-music/"><u>Updated 2024 Approved Best Online Locations to Find and Download Open-Source Closing Music</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-curating-high-quality-instrumental-soundscape-for-videos-and-films/"><u>Updated 2024 Approved Curating High-Quality Instrumental Soundscape for Videos and Films</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-beat-decoding-utilizing-web-resources-for-rhythmic-analysis-of-songs/"><u>Updated Beat Decoding Utilizing Web Resources for Rhythmic Analysis of Songs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-best-audio-chat-applications-tailored-for-gaming-enthusiasts/"><u>Updated Best Audio Chat Applications Tailored for Gaming Enthusiasts</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-best-nature-sounds-apps-for-ios-and-android/"><u>Updated Best Nature Sounds Apps for iOS and Android</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-daw-10-best-digital-audio-workstation-for-windows-and-mac-for-2024/"><u>Updated DAW 10 Best Digital Audio Workstation for Windows and Mac for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-essential-audio-software-for-musicians-a-comprehensive-list-of-best-free-and-paid-options-2023/"><u>Updated Essential Audio Software for Musicians A Comprehensive List of Best Free & Paid Options 2023</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-essential-introduction-audio-tracks-the-top-8-for-digital-creators/"><u>Updated Essential Introduction Audio Tracks The Top 8 for Digital Creators</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-free-audio-workflow-with-audacity-tips-and-tricks-for-effective-recording-for-2024/"><u>Updated Free Audio Workflow with Audacity Tips and Tricks for Effective Recording for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-from-bland-visuals-to-dynamic-displays-adding-audio-elements-to-your-digital-videos-for-2024/"><u>Updated From Bland Visuals to Dynamic Displays Adding Audio Elements to Your Digital Videos for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-full-spectrum-insight-into-nero-audiowaveeditor/"><u>Updated Full Spectrum Insight Into Nero AudioWaveEditor</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-advanced-strategies-to-exclude-percussion-from-digital-song-archives/"><u>Updated In 2024, Advanced Strategies to Exclude Percussion From Digital Song Archives</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-auditory-decline-trends-in-adobe-rush-update-2023/"><u>Updated In 2024, Auditory Decline Trends in Adobe Rush Update 2023</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-bridging-aiff-and-mp3-techniques-for-high-quality-audio-conversion/"><u>Updated In 2024, Bridging AIFF and MP3 Techniques for High-Quality Audio Conversion</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-elevate-audio-output-simple-gratis-methods-to-increase-volume-on-windows/"><u>Updated In 2024, Elevate Audio Output Simple, Gratis Methods to Increase Volume on Windows</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-innovative-approaches-to-minimize-audio-and-video-file-size/"><u>Updated In 2024, Innovative Approaches to Minimize Audio and Video File Size</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-mastering-the-art-of-custom-ringtone-creation/"><u>Updated In 2024, Mastering the Art of Custom Ringtone Creation</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-premium-voice-communication-apps-revolutionizing-online-gaming/"><u>Updated In 2024, Premium Voice Communication Apps Revolutionizing Online Gaming</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-quick-fixes-to-keep-tiktok-sound-off-a-step-by-step-approach/"><u>Updated In 2024, Quick Fixes to Keep TikTok Sound Off A Step-by-Step Approach</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-single-file-soundscapes-uniting-diverse-audio-tracks-for-visuals/"><u>Updated In 2024, Single-File Soundscapes Uniting Diverse Audio Tracks for Visuals</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-soundscape-synthesis-techniques-to-alter-audio-tempo-and-tonal-range-in-adobe-rush/"><u>Updated In 2024, Soundscape Synthesis Techniques to Alter Audio Tempo & Tonal Range in Adobe Rush</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gopro-time-lapse-tips-create-epic-time-lapse-video/"><u>[New] GoPro Time Lapse Tips Create Epic Time Lapse Video</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-achieve-visual-harmony-optimal-sizing-for-instagram-videos/"><u>[Updated] Achieve Visual Harmony Optimal Sizing for Instagram Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-streamers-playbook-broadcasting-to-facebook-network/"><u>[Updated] In 2024, Streamer's Playbook Broadcasting to Facebook Network</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-recurring-breakdowns-in-pathfinders-wrath-of-the-righteous-adventure/"><u>Fixing the Recurring Breakdowns in Pathfinder's Wrath of the Righteous Adventure</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-affordable-drones-holy-stone-hs170-predator-mini-rc-helicopter-uncovered/"><u>Navigating Affordable Drones - Holy Stone HS170 Predator Mini RC Helicopter Uncovered</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-podcast-to-text-discovering-the-top-10-free-and-paid-conversion-tools/"><u>New 2024 Approved Podcast to Text Discovering the Top 10 Free & Paid Conversion Tools</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-elevate-your-music-production-the-best-six-free-digital-audio-workstations-for-those-starting-out/"><u>New Elevate Your Music Production The Best Six Free Digital Audio Workstations for Those Starting Out</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-essential-guide-to-top-10-budget-friendly-podcasting-software-free/"><u>New Essential Guide to Top 10 Budget-Friendly Podcasting Software (Free)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-ma-for-2024/"><u>New Ma for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-honor-90-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Honor 90</u></a></li>
+<li><a href="https://techtrends.techidaily.com/week-in-review-atandt-cybersecurity-incident-and-launch-of-samsungs-latest-smartphones/"><u>Week in Review: AT&T Cybersecurity Incident & Launch of Samsung's Latest Smartphones</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
