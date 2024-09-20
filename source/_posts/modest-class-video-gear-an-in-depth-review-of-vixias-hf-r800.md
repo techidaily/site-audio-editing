@@ -1,7 +1,7 @@
 ---
 title: "Modest-Class Video Gear: An In-Depth Review of VIXIA’s HF R800"
-date: 2024-09-10T02:51:25.084Z
-updated: 2024-09-14T21:58:00.840Z
+date: 2024-09-15T20:58:17.817Z
+updated: 2024-09-19T16:02:43.425Z
 categories:
   - BestProducts
 description: "This Article Describes Modest-Class Video Gear: An In-Depth Review of VIXIA’s HF R800"
@@ -89,6 +89,13 @@ Lifewire / Emily Isaacs
 
  Setting the Microsoft Sculpt up is simple. Simply lift the lid off of the battery compartment on the backside of the unit and remove the slip of paper that separates the two AAA batteries. Then, take the provided dongle from the compartment and attach it to the[USB port](https://www.lifewire.com/what-is-a-usb-port-818166) of your PC. If you’re planning on using the detached numpad, don’t forget to also remove the slip of paper from its backside to active it. Then the Sculpt is ready for use.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Battery and Features: Backlighting missing, and just one dongle to rule them all**
 
  Backlighting—we love it, but the Sculpt doesn’t have it. This is, in large part, thanks to its battery-powered design. It wouldn’t make a great deal of sense for the Sculpt to have backlighting since the two AAA[alkaline batteries](https://www.lifewire.com/best-aa-and-aaa-rechargeable-batteries-4134295) would drain significantly faster, but we sure did miss it. It’s important to note that our love of backlighting is also a matter of personal preference. If it’s important to you, you might want to consider a different model. If you can live without it, the Sculpt still has a lot to offer.
@@ -96,13 +103,6 @@ Lifewire / Emily Isaacs
  Encrypted keystrokes, wireless technology, a detached numpad, a magnetic riser, and an ergonomic design make this keyboard a surefire winner.
 
  One major drawback to the Sculpt’s design is the dongle that associates the keyboard to your PC is one of a kind. This is thanks to the AES 128-bit encryption technology the Sculpt uses to keep your keystrokes safe. Associated to the keyboard at the factory, there simply is no replacing it if it’s lost. While the Sculpt isn’t really travel-friendly due to its size, it would do best in an environment where it’s set up once and stays put so as to prevent losing this important piece of tech.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Price: Great for the features**
 
@@ -113,10 +113,10 @@ Lifewire / Emily Isaacs
  Lifewire / Emily Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Microsoft Sculpt Ergonomic Keyboard vs. Microsoft Surface Ergonomic Keyboard**
@@ -144,16 +144,10 @@ Lifewire / Emily Isaacs
  The Microsoft Sculpt Ergonomic Keyboard is a great mid-priced wireless keyboard with multiple customization options thanks to its detached numpad and magnetic riser. Combined with its AES 128-bit encryption technology, comfortable wrist pad, and handy function switch, it’s a great investment for the price. The intuitive, natural angles it creates will have your hands thanking you later.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -186,21 +180,19 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-highest-rated-nintendo-switch-battle-titles-max-156-for-2024/"><u>[New] Highest-Rated Nintendo Switch Battle Titles (Max 156) for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/assessing-windows-pc-energy-utilization-efficiency/"><u>Assessing Windows PC Energy Utilization Efficiency</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-advanced-livestream-software-arsenal/"><u>In 2024, Advanced Livestream Software Arsenal</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-amplify-your-storytelling-seamlessly-insert-music-into-youtube-videos/"><u>In 2024, Amplify Your Storytelling Seamlessly Insert Music Into YouTube Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-x-fold-2-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo X Fold 2 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-steps-for-integrating-soundtracks-into-mkv-format-mkv-v202-release/"><u>New 2024 Approved Steps for Integrating Soundtracks Into MKV Format (MKV v2.0.2 Release)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-dynamics-of-musical-tension-implementing-thematic-variations-to-elevate-film-scores/"><u>New 2024 Approved The Dynamics of Musical Tension Implementing Thematic Variations to Elevate Film Scores</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-audio-artistry-rendering-and-animating-auditory-data-in-roxio-media-creator/"><u>New Audio Artistry Rendering and Animating Auditory Data in Roxio Media Creator</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-steps-for-extracting-auditory-elements-from-mp4-files/"><u>New In 2024, Steps for Extracting Auditory Elements From MP4 Files</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-techniques-for-regulating-audio-loudness-in-video-based-streaming-with-vlc/"><u>New In 2024, Techniques for Regulating Audio Loudness in Video-Based Streaming with VLC</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-time-efficient-tips-to-purify-audio-from-static-interference-for-2024/"><u>New Time-Efficient Tips to Purify Audio From Static Interference for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/premier-windows-10-acoustic-maestro/"><u>Premier Windows 10 Acoustic Maestro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolve-your-stadia-headset-connection-woes-step-by-step-troubleshooting-tips/"><u>Resolve Your Stadia Headset Connection Woes: Step-by-Step Troubleshooting Tips</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/star-wars-squadrons-an-exciting-odyssey-into-the-heart-of-spectacular-interstellar-combat/"><u>Star Wars: Squadrons – An Exciting Odyssey Into the Heart of Spectacular Interstellar Combat</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-guide-to-custom-youtube-thumbnail-sizes/"><u>[New] In 2024, Step-by-Step Guide to Custom YouTube Thumbnail Sizes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-uncovering-old-social-media-narratives-on-laptops-and-mobile-devices-for-2024/"><u>[New] Uncovering Old Social Media Narratives on Laptops and Mobile Devices for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/battle-of-the-capture-tools-obs-studio-against-bandicam/"><u>Battle of the Capture Tools OBS Studio Against Bandicam</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/disneyplus-tightens-control-over-account-access-with-new-password-rules-starting-in-summer/"><u>Disney+ Tightens Control Over Account Access with New Password Rules Starting in Summer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-printer-software-for-epson-l3e-3150-compatible-with-win-1087-systems/"><u>Download Updated Printer Software for Epson L3e-3150 - Compatible with Win 10/8/7 Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6s-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-f5-pro-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco F5 Pro 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-top-tools-for-silencing-unwanted-sound-in-podcasts-and-recordings-for-2024/"><u>New Top Tools for Silencing Unwanted Sound in Podcasts and Recordings for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-and-simple-guide-to-running-chatgpt-on-linux-systems/"><u>Quick & Simple Guide to Running ChatGPT on Linux Systems</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/step-by-step-techniques-for-embedding-audio-into-videos/"><u>Step-By-Step Techniques for Embedding Audio Into Videos</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-digital-resonance-a-comprehensive-tutorial-for-echo-addition-in-windows-and-web-audio-applications/"><u>Updated 2024 Approved Digital Resonance A Comprehensive Tutorial for Echo Addition in Windows and Web Audio Applications</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-deciphering-the-newest-advances-in-nero-waveedito-for-2024/"><u>Updated Deciphering the Newest Advances in Nero WaveEdito for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-step-by-step-techniques-for-infusing-music-into-your-final-cut-pro-video-edits/"><u>Updated In 2024, Step-by-Step Techniques for Infusing Music Into Your Final Cut Pro Video Edits</u></a></li>
 </ul></div>
 
