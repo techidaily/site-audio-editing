@@ -1,7 +1,7 @@
 ---
 title: Updated Techniques for Excising Drum Sections in Online Music Editing
-date: 2024-09-16T07:32:53.786Z
-updated: 2024-09-20T03:28:11.920Z
+date: 2024-09-23T00:14:31.981Z
+updated: 2024-09-26T00:05:11.825Z
 tags: 
   - audio editing software
   - audio editing
@@ -58,6 +58,13 @@ For those who want to do more of the work, VST plugins for removing drums from m
 
 ![vst plugins](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-2.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 With VSTs, you are more flexible and able to deliver better results. They are often used in applications that support VST technology, including Cakewalk Sonar, Steinberg Cubase, Sound Forge Pro, Ableton Live, and many others. Some of the most common ones include:
 
 * AudioSourceRe
@@ -103,18 +110,24 @@ To start using the AI Vocal Remover feature, launch Filmora on your desktop. The
 
 ![launch filmora](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-4.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 2Import Your Song or Sound Track
 
 On the customer toolbar, select “Media” and then click on the “Files” icon. This will allow you to import the files you want to edit with Filmora.
 
 ![import song or soundtrack](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-5.JPG)
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 3Start the AI Vocal Remover Feature
 
@@ -123,23 +136,10 @@ Drag and drop the files you have imported to Filmora to the timeline so you can 
 ![start ai vocal remover](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-6.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -150,6 +150,13 @@ You may want to extract drums from your favorite songs for various reasons. Mayb
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -157,5 +164,22 @@ You may want to extract drums from your favorite songs for various reasons. Mayb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-joke-geniuses-at-your-service-free-of-charges/"><u>[New] Joke Geniuses at Your Service Free of Charges</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-capture-your-nintendo-switch-game-video/"><u>[Updated] In 2024, How To Capture Your Nintendo Switch Game Video</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-navigating-to-no-cost-and-risk-free-vlc-player-download-for-macos-for-2024/"><u>[Updated] Navigating to No-Cost & Risk-Free VLC Player Download for macOS for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-selecting-peak-performance-lipo-cells-for-drones-for-2024/"><u>[Updated] Selecting Peak Performance LiPo Cells for Drones for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-top-live-audio-alteration-systems-the-best/"><u>2024 Approved Top Live Audio Alteration Systems The Best</u></a></li>
+<li><a href="https://win-forum.techidaily.com/activate-your-revoappmanager-a-comprehensive-walkthrough-using-revouninstaller/"><u>Activate Your RevoAppManager - A Comprehensive Walkthrough Using RevoUninstaller</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/breaking-down-the-turing-test-and-its-possibility-of-outdoing/"><u>Breaking Down the Turing Test & Its Possibility of Outdoing</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/como-crear-una-copia-de-seguridad-perfecta-del-tu-dvd-antiguo-o-nuevo-en-solo-5-minutos-sin-comprometer-la-calidad/"><u>Cómo Crear Una Copia De Seguridad Perfecta Del Tu DVD (Antiguo O Nuevo) en Solo 5 Minutos - Sin Comprometer La Calidad</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-recover-an-iphone-app-that-has-gone-mia-a-step-by-step-tutorial/"><u>How To Recover An iPhone App That Has Gone MIA: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-t2x-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo T2x 5G</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-premier-digital-audio-editor/"><u>New Premier Digital Audio Editor</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-complete-audacity-guide-to-utilizing-autotune-effectively-for-2024/"><u>The Complete Audacity Guide to Utilizing Autotune Effectively for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-strategies-for-minimizing-large-scale-video-and-audio-data/"><u>Updated 2024 Approved Strategies for Minimizing Large-Scale Video and Audio Data</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-popularly-borrowed-beats-for-montage-crafting/"><u>Updated Popularly Borrowed Beats for Montage Crafting</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-silence-shift-a-comprehensive-look-at-how-to-strip-sound-from-digital-videos-on-the-web-for-2024/"><u>Updated The Silence Shift A Comprehensive Look at How to Strip Sound From Digital Videos on the Web for 2024</u></a></li>
+</ul></div>
 

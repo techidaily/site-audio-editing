@@ -1,7 +1,7 @@
 ---
 title: Updated The Essential Handbook to Audio Timeline Control Mastering Keyframe Creation and Editing in Adobe Premiere Pro (Mac)
-date: 2024-09-12T18:01:45.928Z
-updated: 2024-09-20T07:28:48.427Z
+date: 2024-09-24T23:24:40.790Z
+updated: 2024-09-26T07:48:45.629Z
 tags: 
   - audio editing software
   - audio editing
@@ -79,6 +79,13 @@ If you want, you can just right-click the track, go to the **Show Clip Keyframes
 
 ![Show Clip Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/show-clip-keyframes-adobe-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Apply Fade-in or Out options**
 
 Once you have clip keyframes in your track, you can easily do whatever you like. You can use the **Pen** tool or press the CMD key on your Mac to select the starting and the ending of the clip.
@@ -86,6 +93,13 @@ Once you have clip keyframes in your track, you can easily do whatever you like.
 Now, go to the audio segment from the timeline and simply place the audio level up (to fade-in) or down (to fade-out). You can set the audio levels for different segments the way you like to customize these operations in your audio track.
 
 ![Fade In and Out in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/fade-in-out-adobe-premiere-pro.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Pro Tip: Use Inbuilt Fade In/Out Transitions**
 
@@ -95,11 +109,25 @@ For this, you can just go to its **Effects** \> **Audio Transitions** option. To
 
 ![Crossfade Effects in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/crossfade-effects-adobe-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In the same way, you can also go to **Effects** \> **Audio Transitions** \> **Crossfade** and choose the “Constant Gain” feature. You can drag and drop the Contact Gain effect on any segment to implement the fade-in effect.
 
 That’s a wrap, everyone! I’m sure that after reading this post, you would be able to set up audio keyframes in Adobe Premiere Pro. Since adding keyframes in Premiere can be done automatically, it would save your time in audio editing and post-production. Mostly, the clip audio keyframing is used in Adobe to customize the sound at any desired segment. Apart from fade-in or out, there are tons of other effects that you can apply to your audio tracks with the help of keyframes. Go ahead and try the Adobe Premiere Pro keyframing feature and let us know about your experience in the comments.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -114,12 +142,20 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-leading-voice-to-text-programs/"><u>[New] Leading Voice to Text Programs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-easycapture-prox-diagnosis/"><u>[Updated] In 2024, EasyCapture ProX Diagnosis</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/cost-effective-power-play-investing-in-an-affordable-ibuypower-esports-gaming-pc/"><u>Cost-Effective Power Play: Investing in an Affordable iBUYPOWER Esports Gaming PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/definitive-guide-to-top-10-photographic-lenses/"><u>Definitive Guide to Top 10 Photographic Lenses</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/epic-gaming-recorded-an-analysis/"><u>Epic Gaming Recorded An Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-resolve-your-google-hangouts-microphone-issues-immediately/"><u>Quick Solutions: Resolve Your Google Hangouts Microphone Issues Immediately</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/rhythm-and-reel-leveraging-premiere-pro-features-for-time-synchronized-video-editing-for-2024/"><u>Rhythm and Reel Leveraging Premiere Pro Features for Time-Synchronized Video Editing for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/roku-streambar-review-roku-streaming-and-upgraded-sound-in-one/"><u>Roku Streambar Review: Roku Streaming and Upgraded Sound in One</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-easy-way-to-remove-vocals-from-an-audio-track-in-audacity/"><u>The Easy Way to Remove Vocals From an Audio Track in Audacity</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/ultimate-guide-to-accessing-copy-free-song-conclusions/"><u>Ultimate Guide to Accessing Copy-Free Song Conclusions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-synch-soundscape-to-compiled-visuals-in-windows/"><u>Updated 2024 Approved Synch Soundscape to Compiled Visuals in WINDOWS</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-exploring-the-essence-of-digital-audio-studios-debunking-myths-about-daw-technology-for-2024/"><u>Updated Exploring the Essence of Digital Audio Studios Debunking Myths About DAW Technology for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-echo-excellence-enhancing-windows-pc-sounds-with-online-acoustic-plugins/"><u>Updated In 2024, Echo Excellence Enhancing Windows PC Sounds with Online Acoustic Plugins</u></a></li>
+</ul></div>
 
