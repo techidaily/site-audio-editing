@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Sony Vegas Audio Editor A Step-by-Step Tutorial for Professionals
-date: 2024-08-03T01:22:22.956Z
-updated: 2024-08-04T01:22:22.956Z
+date: 2024-09-26T18:47:30.947Z
+updated: 2024-09-30T16:44:00.545Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a55
 
 # Sony Vegas Audio Editor: How to Edit Audio in Vegas Pro
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -31,9 +28,6 @@ Being the most commonly used professional video editing tool, Sony (Magix) Vegas
 
 **You May Also Like:** [How to Edit YouTube Audio >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Sony (Magix) Vegas Audio Editor: How to edit audio in Vegas Pro
 
 This tutorial is divided into 6 different sections that contain complete details about all possible audio track adjustments and customization options.
@@ -49,16 +43,10 @@ This tutorial is divided into 6 different sections that contain complete details
 
 First of all you need to import your desired audio file to timeline of Vegas Pro; it can be done by using drag and drop option directly. On Vegas timeline you will find so many sound adjustment options that appear on audio track header.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Track header](https://images.wondershare.com/edit-audio-in-vegas-pro-1.jpg)
 
 * Mute the Audio Track: Press M
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
 
 * Manage volume control for all events of loaded track: Use Volume Slider switch that is denoted by dB.
@@ -78,9 +66,6 @@ Those who want to control volume separately for different portions of audio file
 
 **Volume:** Check the deep blue line on selected event and then double click over it for addition of a marking point. Drag this point up or down for appropriate volume settings and use right click option for additional adjustments.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![Adjust audio volume](https://images.wondershare.com/edit-audio-in-vegas-pro-4.jpg)
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
@@ -93,32 +78,18 @@ Some professional settings to audio project can be made using fade in/out option
 
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
 
 #### Section 3: Speed up or Slow down
 
 If you want to change the speed of specific portions of your audio project then hold CTRL button and then start moving your curser over Trim Event handle. If you drag it to right side then it will directly speed up your audio clip and dragging to left side will automatically reduce speed.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![Speed up or down video](https://images.wondershare.com/edit-audio-in-vegas-pro-7.jpg)
 
 #### Section 4: Reverse audio clip
 
 One can easily reverse his selected audio clip; simply right click over it and then choose Reverse option from drop down menu; it will help to move audio frames in reverse order.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Reverse audio](https://images.wondershare.com/edit-audio-in-vegas-pro-8.jpg)
 
 #### Section 5: Noise Removal
@@ -137,9 +108,6 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **To an individual portion of the audio layer**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![To portion](https://images.wondershare.com/edit-audio-in-vegas-pro-10.jpg)
 
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
@@ -174,11 +142,31 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-ultimate-high-definition-slow-mo-cams/"><u>[Updated] 2024 Approved Ultimate High Definition Slow-Mo Cams</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-eliminating-odd-shades-a-step-by-step-guide-to-flawless-greenscreens-for-2024/"><u>[Updated] Eliminating Odd Shades A Step-by-Step Guide to Flawless Greenscreens for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/comedy-kings-the-most-popular-memes-for-2024/"><u>Comedy Kings The Most Popular Memes for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-the-gradual-diminishment-of-audio-fidelity-in-adobe-rush/"><u>In 2024, The Gradual Diminishment of Audio Fidelity in Adobe Rush</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-dell-xps-15-running-smoothly-with-updated-driver-instructions-for-windows/"><u>Keep Your Dell XPS 15 Running Smoothly with Updated Driver Instructions (For Windows)</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-advanced-siri-audio-replication-app-cross-platform-compatibility/"><u>New 2024 Approved Advanced Siri Audio Replication App – Cross-Platform Compatibility</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-audio-enhancement-in-your-windows-environment-maximizing-sound-on-budget-for-2024/"><u>New Audio Enhancement in Your Windows Environment - Maximizing Sound on Budget for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-innovative-methods-for-achieving-professional-level-dubbing-with-filmora-software-for-2024/"><u>New Innovative Methods for Achieving Professional-Level Dubbing with Filmora Software for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-eliminating-pc-game-lags-top-strategies/"><u>Ultimate Guide: Eliminating PC Game Lags – Top Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-step-by-step-apk-to-funimate-play/"><u>Your Step-by-Step APK to Funimate Play</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

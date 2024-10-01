@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Elevating Your Edit Workflow Using Audio Duck Features in PowerDirector to Enhance Audio Transitions
-date: 2024-08-03T01:25:19.876Z
-updated: 2024-08-04T01:25:19.876Z
+date: 2024-09-27T17:33:16.346Z
+updated: 2024-09-30T17:05:51.335Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
 # How to Use Audio Ducking to Fade Out Music in PowerDirector?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -31,9 +28,6 @@ _"Can you explain to us the simple method to execute **audio ducking**?”_
 
 I hope you're already aware of **the audio ducking** feature if you're into video editing or any music industry. The audio ducking is commonly to balance two audios. You can see the very typical application while balancing the background music with the person speaking there. So, the different voices would pop up and needs an adjustment according to the scenario. However, selecting the most straightforward process and genuine video editor is the user's responsibility to get the task done effectively. So, here, we would like to discuss the audio ducking function of **CyberLink PowerDirector** along with a suitable alternative - **Wondershare Filmora**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Part 1: How to Use Audio Ducking to Fade Out Music in PowerDirector?
 
 **CyberLink PowerDirector** is a video editing software with impeccable features, including Motion Tracking, Magic Movie Wizard, Encoding, Action Camera Tools, and so on. The **audio ducking** element in PowerDirector has automated the audio adjustment in terms of keyframes.
@@ -58,6 +52,13 @@ Doing so will automatically add the keyframes into the background music you’ve
 
 So, this was the entire process of **music ducking** keyframes automation in **CyberLink PowerDirector**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: An Alternative Solution to Audio Ducking on Mac
 
 If you’re looking for easiness, you must consider the following section for a suitable alternative!
@@ -72,10 +73,14 @@ The [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/downl
 
 All in all, the Wondershare Filmora is a remarkable video editor fulfilling the needs of endless people around the globe. It’s usually the first name in mind when it comes to innovation and simplicity.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here is a step-by-step tutorial after which you can compare the audio ducking easiness of Wondershare Filmora with CyberLink PowerDirector.
 
@@ -100,22 +105,27 @@ You are almost there whereby tick the “**Lower the volume of other clips”** 
 So, these simple steps are required to enable **audio ducking** in Wondershare Filmora. So easy! Along with it, you can also consider using the **Fade Out** and **Pitch** slider tab for versatile audio adjustment. However, you must only check for the **Ducking** tab, especially when you’re a beginner and don’t want to go for extreme changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Thus, with a discussion over two different ways to implement the **audio ducking** feature, it's time to state our final overview. No doubt, the PowerDirector audio ducking feature offers the simplistic way, but it lacks flexibility. Due to the keyframe setting's automation, you can't check for a specific part in the audio and adjust the volume as per your needs. However, this could have been done pretty quickly in Wondershare Filmora's video editor, making it the best alternative to CyberLink PowerDirector. Keeping it the top priority, begin your journey today!
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 | ![](https://www.google.com/favicon.ico) | ![](https://www.youtube.com/favicon.ico) | ![](https://www.google.com/favicon.ico) | ![](https://www.google.com/images/branding/product/ico/maps_32dp.ico) | ![](https://en.wikipedia.org/favicon.ico) | ![](https://www.amazon.com/favicon.ico) |
 | --------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -123,11 +133,33 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ace-trackers-our-top-five-games/"><u>[New] 2024 Approved Ace Trackers Our Top Five Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-video-reach-on-youtube-an-in-depth-guide-to-seo-techniques-for-2024/"><u>[New] Boosting Video Reach on YouTube An In-Depth Guide to SEO Techniques for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-epic-stories-academy-the-premier-8-list-for-2024/"><u>[Updated] Epic Stories Academy – The Premier 8 List for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-halt-youtube-suggested-content-now-in-2024/"><u>[Updated] Halt YouTube Suggested Content Now, In 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1723035435915-add-statistical-evidence-or-expert-testimonials-after-each-paragraph-discussing-treatment-efficacy/"><u>Add Statistical Evidence or Expert Testimonials After Each Paragraph Discussing Treatment Efficacy</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/enhance-your-data-skills-with-chatgpt-a-guide-to-6-essential-methods/"><u>Enhance Your Data Skills with ChatGPT: A Guide to 6 Essential Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-elevate-landscape-imaging-with-your-iphone-device/"><u>How to Elevate Landscape Imaging with Your iPhone Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-unveiling-past-moments-with-your-iphone/"><u>In 2024, Unveiling Past Moments with Your iPhone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-top-7-converting-audio-to-text-tools-for-2024/"><u>New Top 7 Converting Audio to Text Tools for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-top-8-animated-audio-tracks-for-creatives-free-downloads/"><u>New Top 8 Animated Audio Tracks for Creatives Free Downloads</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/podcast-editing-101-how-to-edit-a-podcast-for-2024/"><u>Podcast Editing 101 How to Edit a Podcast for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-essential-list-top-8-android-daws-revolutionizing-music/"><u>The Essential List Top 8 Android DAWs Revolutionizing Music</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-hidden-hazards-of-using-ai-as-your-therapeutic-companion-or-clinical-expert/"><u>The Hidden Hazards of Using AI as Your Therapeutic Companion or Clinical Expert</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-13plus-accessible-no-cost-audio-engineering-applications-for-all-platforms/"><u>Updated 2024 Approved 13+ Accessible No-Cost Audio Engineering Applications for All Platforms</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-ultimate-selection-8-pinnacle-soundscapes-from-cinema/"><u>Updated 2024 Approved The Ultimate Selection 8 Pinnacle Soundscapes From Cinema</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-how-to-reverse-audio-with-best-audio-reversers/"><u>Updated How to Reverse Audio with Best Audio Reversers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-step-into-the-future-our-curated-list-of-the-top-9-next-gen-ai-voice-systems-to-revolutionize-your-2023-experience/"><u>Updated In 2024, Step Into the Future Our Curated List of the Top 9 Next-Gen AI Voice Systems to Revolutionize Your 2023 Experience</u></a></li>
+</ul></div>
+

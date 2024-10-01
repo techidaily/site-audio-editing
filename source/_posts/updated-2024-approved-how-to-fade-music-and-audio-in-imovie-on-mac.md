@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Fade Music and Audio in iMovie on Mac?
-date: 2024-08-03T01:26:56.347Z
-updated: 2024-08-04T01:26:56.347Z
+date: 2024-09-28T17:26:36.654Z
+updated: 2024-09-30T20:59:09.700Z
 tags: 
   - audio editing software
   - audio editing
@@ -51,9 +51,6 @@ After adding the fade-in and fade-out effects to your video, let's check how to 
 
 There are two ways available to fade music and audio with iMovie. One is using the fade handles, and the other is using the audio inspector. Before using iMovie audio fade-out effects, please import your video and audio files to iMovie and start a new project.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Use Fade Handles to Add Fade in/Fade out Effect in iMovie
 
 Firstly, let's take a look at the video below to check how to fade audio in/out the audio in iMovie with fade handles.
@@ -64,31 +61,43 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
 
 #### Step 2. Move Pointer to Apply Fade Effects
 
 Move the pointer over a waveform, and drag the small gray fade handle at the left of the clip to adjust the fade audio in effect. Then drag the small fade handle at the right of the clip to adjust the fade-out effect.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iMovie fade in audio pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-in-pointer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 3. Playback to Check
 
 Move the playhead to the beginning part of the clips with fade effects to check the fade-in and fade-out effects. If everything works OK, uncheck "Show Waveforms" to hide the waveforms.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![imovie audio fade out pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-out-pointer.jpg)
 
 **Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Use the Audio Inspector to Apply Fade in/Fade Out Effect in iMovie
 
 To fade audios in and out in iMovie with the audio inspector, you can follow these steps:
@@ -97,9 +106,6 @@ To fade audios in and out in iMovie with the audio inspector, you can follow the
 
 Double-click the video clip, choose "Clip Adjustments" to open the Inspector, and then click the "Audio" tab.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![resize video](https://images.wondershare.com/topic/video-editing/imovie-audio-fade-effects.jpg "resize video")
 
 If there are two audio tracks, and you want to set the fade in and fade out in iMovie for the background music, you can double-click the background music clip to open the audio inspector. This inspector is a little different. If you don't know how to add background music to iMovie, you can refer to this post: [add background music in iMovie](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -114,9 +120,6 @@ If you manually adjust the effect, you can have a better effect.
 
 #### Step 3. Save the Audio Fade In and Out Effect
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
 
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
@@ -141,10 +144,20 @@ Import the video clip you want to add audio in and out effect. To do this, click
 
 Place the video onto the timeline. Double-click on it and then choose "Audio". In the tab, you can drag the slider bar to the right or left to manually set the fade in and fade out the length.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![fade aduio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg "resize video")
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 3. Save Your Video
 
@@ -162,11 +175,33 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-evolution-of-drone-remote-control-systems-syma-x8c/"><u>[New] 2024 Approved The Evolution of Drone Remote Control Systems – Syma X8C</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/a-step-by-step-guide-to-integrating-lame-mp3-encoder-with-audacity/"><u>A Step-by-Step Guide to Integrating Lame MP3 Encoder with Audacity</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-tones-in-seconds-5-best-online-generators-for-2024/"><u>Create Tones in Seconds 5 Best Online Generators for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/expert-approved-4k-video-editing-solutions-for-2024/"><u>Expert-Approved 4K Video Editing Solutions for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-black-screen-problem-in-halo-infinite-solutions-unveiled/"><u>Fixing the Black Screen Problem in Halo Infinite - Solutions Unveiled</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970157323-get-your-logitech-g933-up-and-running-freshest-drivers-available/"><u>Get Your Logitech G933 Up and Running: Freshest Drivers Available</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-top-10-best-audio-mixer-software-for-free/"><u>In 2024, Top 10 Best Audio Mixer Software for FREE</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/mastering-the-art-of-deleting-percussive-sounds-from-audio-tracks/"><u>Mastering the Art of Deleting Percussive Sounds From Audio Tracks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-numbers-with-ai-is-chatgpt-a-reliable-resource-for-math-problems/"><u>Navigating Numbers with AI: Is ChatGPT a Reliable Resource for Math Problems?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/navigating-through-key-microsoft-libraries-on-the-windows-platform/"><u>Navigating Through Key Microsoft Libraries on the Windows Platform</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-add-audio-to-avi-2023-update/"><u>New 2024 Approved How to Add Audio to AVI-2023 Update</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-art-of-gamers-vocal-disguise-selecting-the-ultimate-toolkit/"><u>New 2024 Approved The Art of Gamers Vocal Disguise Selecting the Ultimate Toolkit</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-tips-for-lowering-the-bit-rate-of-multimedia-content/"><u>New 2024 Approved Tips for Lowering the Bit Rate of Multimedia Content</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-melody-and-motion-crafting-music-video-beats-that-drive-visual-narratives-forward/"><u>New In 2024, Melody & Motion Crafting Music Video Beats That Drive Visual Narratives Forward</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-syncing-sound-with-sight-a-comprehensive-walkthrough-to-enhance-video-content/"><u>New In 2024, Syncing Sound with Sight A Comprehensive Walkthrough to Enhance Video Content</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-soundless-shift-how-to-remove-audio-from-video-projects-today/"><u>New In 2024, The Soundless Shift How to Remove Audio From Video Projects Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rapid-retrieval-speedy-downloads-for-usb-to-rs232-driver-software/"><u>Rapid Retrieval: Speedy Downloads for USB to RS232 Driver Software</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/zmovies-to-video-converter-effortlessly-save-videos-as-mp4-mov-or-avi-using-the-latest-zmovies-downloader-tool/"><u>ZMovies to Video Converter: Effortlessly Save Videos as MP4, MOV or AVI Using the Latest ZMovies Downloader Tool!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Updated Elevate Your Soundtracks Expert Edits Using Sony Vegas Pro Software for 2024
-date: 2024-08-03T01:21:48.576Z
-updated: 2024-08-04T01:21:48.576Z
+date: 2024-09-24T23:01:46.565Z
+updated: 2024-09-30T23:09:36.093Z
 tags: 
   - audio editing software
   - audio editing
@@ -43,10 +43,6 @@ This tutorial is divided into 6 different sections that contain complete details
 
 First of all you need to import your desired audio file to timeline of Vegas Pro; it can be done by using drag and drop option directly. On Vegas timeline you will find so many sound adjustment options that appear on audio track header.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![Track header](https://images.wondershare.com/edit-audio-in-vegas-pro-1.jpg)
 
 * Mute the Audio Track: Press M
@@ -66,23 +62,14 @@ Those who want to control volume separately for different portions of audio file
 
 **Mute:** A blue line is visible on timeline at your selected audio event, simply double click over it for addition of a specific point and then right click for mute adjustments. From appeared drop down menu you can select muted or not muted and the adjustments will be effective on right side of event point.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Mute audio to selected part](https://images.wondershare.com/edit-audio-in-vegas-pro-3.jpg)
 
 **Volume:** Check the deep blue line on selected event and then double click over it for addition of a marking point. Drag this point up or down for appropriate volume settings and use right click option for additional adjustments.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adjust audio volume](https://images.wondershare.com/edit-audio-in-vegas-pro-4.jpg)
 
 **Pan:** Pan Adjustments can be done using red lien control over event. Double click over it and move the point up or down to set pan at specific range. Use right click button for advanced options.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adjust audio pan ](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
 
 #### Section 2: Fade in and Fade Out
@@ -91,10 +78,6 @@ Some professional settings to audio project can be made using fade in/out option
 
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
 
 #### Section 3: Speed up or Slow down
@@ -129,9 +112,6 @@ If you want to add specific effects to your audio files then use two simple meth
 
 **Step 1:** First of all go to Track Description Box and then press the Track FX icon, an audio track FX will soon appear on your device screen. The three basic controls are always activated, that are Track Compressor, Track EQ and Track Noise Gate.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Audio track FX ](https://images.wondershare.com/edit-audio-in-vegas-pro-11.jpg)
 
 For additional personalization you need to use plug-in chain button from right corner.
@@ -140,25 +120,16 @@ For additional personalization you need to use plug-in chain button from right c
 
 **Step 2:** Now select any desired effect from list that can make your audio track more impressive and press Add; once applied then hit OK.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![audio preset templates](https://images.wondershare.com/edit-audio-in-vegas-pro-14.jpg)
 
 #### Recommendation
 
 The Vegas Pro is rated as a professional editing software tool due to its advanced user interface, high price range and availability on Mac devices only. If you are searching for some video editing tools that can work on Windows as well as Mac devices then [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is one of the best options for you all.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -171,11 +142,41 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-troubleshooting-sudden-facebook-live-hiccups/"><u>[New] In 2024, Troubleshooting Sudden Facebook Live Hiccups</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-record-your-webcam-with-vlc-for-2024/"><u>[New] Record Your Webcam with VLC for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-methodology-to-purging-your-youtube-watch-later-playlist-for-2024/"><u>[Updated] Methodology to Purging Your YouTube Watch Later Playlist for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-webcam-innovation-for-everyday-life/"><u>2024 Approved Webcam Innovation for Everyday Life</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-2042-performance-optimized-no-more-fps-dips-or-hitches-on-your-computer/"><u>Battlefield 2042 Performance Optimized: No More FPS Dips or Hitches on Your Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/demystifying-the-myth-the-enduring-strength-of-dual-p-cores-with-intels-latest-benchmark-achievements/"><u>Demystifying the Myth: The Enduring Strength of Dual P-Cores with Intel's Latest Benchmark Achievements</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/freedomforsounders-review-extraction-excellence-for-2024/"><u>FreedomForSounders Review Extraction Excellence for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-indicators-of-a-premium-audio-tool-suitable-for-macos-environments/"><u>In 2024, Indicators of a Premium Audio Tool Suitable for macOS Environments</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-crafting-original-soundscapes-a-guide-to-producing-music-video-tracks/"><u>New 2024 Approved Crafting Original Soundscapes A Guide to Producing Music Video Tracks</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-efficient-ways-to-extract-and-save-audio-tracks-from-video-files-across-multiple-devices/"><u>New 2024 Approved Efficient Ways to Extract and Save Audio Tracks From Video Files Across Multiple Devices</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-essential-windows-and-macos-daw-software-ranking-the-best/"><u>New 2024 Approved Essential Windows & macOS DAW Software Ranking the Best</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-exploring-the-best-9-voice-technology-innovations-that-promise-a-perfect-day/"><u>New In 2024, Exploring the Best 9 Voice Technology Innovations That Promise a Perfect Day</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-infuse-audio-magic-into-instagrams-tv-videos/"><u>New Infuse Audio Magic Into Instagrams TV Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-the-upside-to-asmrs-sensory-experience/"><u>Understanding the Upside to ASMR's Sensory Experience</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

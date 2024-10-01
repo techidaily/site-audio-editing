@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Fade In and Fade Out Audio in Adobe After Effects
-date: 2024-08-03T01:25:43.832Z
-updated: 2024-08-04T01:25:43.832Z
+date: 2024-09-25T17:09:02.574Z
+updated: 2024-09-30T18:07:24.389Z
 tags: 
   - audio editing software
   - audio editing
@@ -32,58 +32,68 @@ However, you will need to have at least basic video and sound editing skills to 
 
 ## Adding the Fade In and Fade Out Effects to Audio Files in AE
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Check audio waveform in After Effects
 
 Once you've created a new project in AE and you've imported the audio files you'd like to include in the soundtrack of the video you're making, you should place that audio file on the timeline. Click on the arrow located next to the audio file, then click on the Audio arrow that will be displayed under the file, and finally click on the Waveform arrow. This will enable you to see the waveform of the audio file you'd like to edit on the timeline and allow you to add Fade in and fade out effects with more precision. The file you added to your composition will be displayed as a layer in the Composition tab located in the lower-left region of the software's interface.
 
 ![fade out/in audio waveform after effects](https://images.wondershare.com/filmora/filmorapro/fade-out-in-audio-after-effects-waveform.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Add a keyframe to the audio file
 
 The next thing you will have to do is place the playhead at the exact location where you want the Fade In effect to start. In most cases, Fade effects are added at the starting point of the audio file, so you should position the playhead at the beginning of the timeline or zero seconds. You will be able to see a stopwatch next to the Audio Levels option located in the Composition tab. Click on it to add the first keyframe and assign a negative value to the Audio Level setting. -100db or -50db values will make the audio file silent, and you can pick either based on how long you want the Fade in effect to last. If you don't know how to use keyframes in After Effects, [this article will give you some info](https://www.schoolofmotion.com/blog/how-to-set-keyframes-after-effects).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![Add keyframe to fade out/in audio](https://images.wondershare.com/filmora/filmorapro/add-keyframe-fade-in-out-audio.jpg)
 
 You may also like: [15 Free After Effects Templates to Power up Your Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 3: Complete Fade out/in audio in After Effects
 
 Move the playhead to the location where you want the effect to end and add another keyframe by clicking on the 'Add or remove keyframe at current time' icon. Set the Audio Level value to 0db, and that is it. You've created the Fade in effect. Keep in mind that you can use more than two keyframes to fade in audio, enabling you to increase the audio level gradually. The process of creating the Fade effect requires you to add a keyframe that has a 0db value a few seconds before the clip ends and then add another keyframe at the very end of the audio file that has -50 or -100db audio level value.
 
 ![Complete fade out/in audio in After Effects](https://images.wondershare.com/filmora/filmorapro/complete-fade-iin-out-audio-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tips For Making Better Fade In and Fade Out Effects
 
 The process of creating a fade in or a fade out effect in AE is quite simple, but it is up to you to discover creative ways of using these effects. Here are a few tips that can help you use these audio effects more creatively.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Avoid Hard Cuts
 
 A high pitch sound at the very begging of a new sequence can ruin your soundtrack and ultimately the entire video, so in case you've cut an audio file at the location where the sound peaks, you can apply a fade in effect to make the transition between two audio files softer.
 
 You may also like: [How to Cut Video in After Effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 2\. Be Mindful of Audio Compression
 
 [Audio compression](https://theproaudiofiles.com/compression-techniques/) is a process that reduces loud sounds and amplifies quiet sounds, resulting from the audio file's dynamic range being compressed. In most cases, you won't notice the effects of audio compression, but if you compress an audio file too much, you might get some unwanted side effects if you add a fade out effect to that file. That's why it is best to rely on the default audio compression features a video or audio editing app offers.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Use the Fade In and Fade Out Effects Creatively
 
 Besides opening and closing scenes, you can also use the Fade in and fade out effects to mix two different tracks while the shot is still in progress. Fade out one track, make it look like a scene is ending, and then introduce a new theme that changes the mood of that scene. The important thing is to avoid reducing the audio level all the way to -100db because you might end up creating silence in a scene that disrupts the flow of an entire video.
@@ -94,9 +104,6 @@ Fading in or fading out audio files in Adobe After Effects doesn't require much 
 
 If you want to fade in/out audio easily, we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It is designed for people who wish to edit professional videos with simple-to-use features. Besides Fade in/out audio in Filmora, you can automatically sync audio to video. Download it now to have a try (free)!
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -105,11 +112,29 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebook-linking-method-for-youtube-video-content/"><u>[New] In 2024, Facebook Linking Method for YouTube Video Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-image-booster-intense-visual-upgrade/"><u>[New] Ultimate Image Booster Intense Visual Upgrade</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-key-to-stellar-zoom-calls-smart-use-of-filters/"><u>[Updated] The Key to Stellar Zoom Calls Smart Use of Filters</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-decoding-youtubes-payment-scheme/"><u>2024 Approved Decoding YouTube's Payment Scheme</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-xr-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone XR</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/content-creators-guide-to-thriving-in-a-digital-economy-on-vimeo/"><u>Content Creators' Guide to Thriving in a Digital Economy on Vimeo</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-elevate-your-biz-game-youtube-channels-that-succeeded/"><u>In 2024, Elevate Your Biz Game YouTube Channels That Succeeded</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-hottest-apps-for-personalizing-your-speaking-ai-experience-this-year-for-2024/"><u>The Hottest Apps for Personalizing Your Speaking AI Experience This Year for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-step-by-step-process-for-transforming-videos-through-dubbing-using-filmora-for-2024/"><u>The Ultimate Step-by-Step Process for Transforming Videos Through Dubbing Using Filmora for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/top-rated-voice-transformation-software-for-mobile/"><u>Top-Rated Voice Transformation Software for Mobile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformez-facilement-et-sans-cout-un-fichier-mp4-en-version-m4v-sur-internet-via-movavi/"><u>Transformez Facilement Et Sans Coût Un Fichier MP4 en Version M4V Sur Internet via Movavi</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-cadence-in-coding-envisioning-the-leading-luminaries-amongst-ai-music-architects/"><u>Updated 2024 Approved Cadence in Coding Envisioning the Leading Luminaries Amongst AI Music Architects</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-preserving-sound-integrity-altering-audio-tones-in-audacity/"><u>Updated 2024 Approved Preserving Sound Integrity Altering Audio Tones in Audacity</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-advanced-audio-editing-how-to-achieve-seamless-volume-automation-using-final-cut-pro-x-ducking-tools-for-2024/"><u>Updated Advanced Audio Editing How to Achieve Seamless Volume Automation Using Final Cut Pro X Ducking Tools for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-capturing-conversations-on-ios-an-exclusive-selection-of-the-best-audio-recorders/"><u>Updated In 2024, Capturing Conversations on iOS An Exclusive Selection of the Best Audio Recorders</u></a></li>
+</ul></div>
+

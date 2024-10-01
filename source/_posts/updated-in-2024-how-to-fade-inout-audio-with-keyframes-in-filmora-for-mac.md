@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Fade In/Out Audio with Keyframes in Filmora for Mac
-date: 2024-08-03T01:25:31.164Z
-updated: 2024-08-04T01:25:31.164Z
+date: 2024-09-28T16:16:22.751Z
+updated: 2024-09-30T23:26:54.756Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 
 # How to Fade In/Out Audio with Keyframes in Filmora for Mac
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -31,9 +28,6 @@ Not just professionals but beginners can also step into the planet of animation 
 
 If you have Mac, you would be familiar with Final Cut Pro X and its related audio functionalities. However, if you need a perfect alternative that could perform outstanding **audio keyframing**, we would like to suggest [**Wondershare Filmora for Mac**](https://tools.techidaily.com/wondershare/filmora/download/). Yes, adding an **audio keyframe** in Wondershare Filmora is easy and you do not need to search for an ultimate guide as we are here to fill up the space. Alongside, you will also learn how to perform some of the functions like **fade audio in/out**.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Add Audio Keyframes in Wondershare Filmora for Mac?
 
 Is adding an **audio keyframe** in Wondershare Filmora for Mac easy? Else is the interface too tough to follow? Keep your confusion aside and take a look at the below step-by-step guide on how to perform **audio keyframing** in Wondershare Filmora for Mac.
@@ -59,8 +53,12 @@ Now, click on the keyframe icon on the left side panel, make the volume adjustme
 To add the second **audio keyframe**, move the playhead to the desired spot, and once done, perform step 3 again.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Modify Audio Keyframes in Filmora for Mac?
 
 Not only adding an **audio keyframe** is possible in Wondershare Filmora for Mac, but modifying or **adjust the audio** keyframe is possible as well.
@@ -88,9 +86,12 @@ If you want to lower the volume of other clips in the video, you can use the “
 It’s not just one, but Filmora offers five attractive choices to modify the created **audio keyframe**.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Fade In/Out Audio with Keyframes in Filmora for Mac?
 
 Now that you are familiar with the method to add **Filmora keyframes** for audio and modifying them, here is a particular part of how you can **fade audio with keyframes**. As it is a special effect with audio keyframe, we have framed a special session with the two methods offered by Wondershare Filmora for Mac.
@@ -109,16 +110,24 @@ Now that you are familiar with the method to add **Filmora keyframes** for audio
 * Dragging the **fade audio in the** handle at the beginning of the clip will impose the effect and set its duration automatically. Pulling the **fade audio out** handle at the end of the clip will impose the fade-out effect.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 No doubt, Wondershare Filmora is the best choice to carry over your **audio keyframing** process. You can customize your creations as per your requirement or need, and Filmora comes in handy as well. Along with practical interpretation on adding an **audio keyframe** and fading audio with keywords, I hope we have resolved the need for an external guide to proceed with the editing process. It’s not just with the process of keyframing, but Wondershare Filmora can do wonders to your design, and so, with no delay, try it out today for free!
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -126,11 +135,30 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unlock-styling-secrets-with-a-diy-video-editing-guide/"><u>[New] Unlock Styling Secrets with a DIY Video Editing Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-enhance-productivity-mac-screen-capture-made-simple-using-shortcut-keys/"><u>[Updated] 2024 Approved Enhance Productivity Mac Screen Capture Made Simple Using Shortcut Keys</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-tools-for-image-deformation/"><u>[Updated] Innovative Tools for Image Deformation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/biomeutant-and-your-pc-top-solutions-to-stop-game-crashes-in-the-new-year/"><u>Biomeutant and Your PC: Top Solutions to Stop Game Crashes in the New Year</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-ways-to-create-and-share-audio-memos-on-ios-devices/"><u>Easy Ways to Create and Share Audio Memos on iOS Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-13-mini-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 13 mini Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-face-off-the-top-face-swap-apps-for-iphone-and-android-users/"><u>In 2024, Face Off The Top Face Swap Apps for iPhone and Android Users</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-navigating-the-art-of-copying-music-from-spotify-tips-and-tricks-for-2024/"><u>New Navigating the Art of Copying Music From Spotify Tips & Tricks for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-unveiling-10-innovative-audio-processing-platforms-for-scalable-performance/"><u>New Unveiling 10 Innovative Audio Processing Platforms for Scalable Performance</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/premier-percussive-pace-collaboration-software-for-videos-2023-edition/"><u>Premier Percussive Pace Collaboration Software for Videos, 2023 Edition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/skys-best-the-ultimate-hd-collection-websites-for-2024/"><u>Sky's Best - The Ultimate HD Collection Websites for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/techniques-for-audience-friendly-audio-declines-in-imovie-projects-for-2024/"><u>Techniques for Audience-Friendly Audio Declines in iMovie Projects for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-soundscapes-alliance-techniques-to-amalgamate-diverse-audio-for-seamless-videos/"><u>The Soundscapes Alliance Techniques to Amalgamate Diverse Audio for Seamless Videos</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-expert-recommendations-where-to-find-pure-environmental-noise-for-2024/"><u>Updated Expert Recommendations Where to Find Pure Environmental Noise for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-essential-guide-affordable-and-user-friendly-audio-noise-reduction-tools/"><u>Updated In 2024, Essential Guide Affordable & User-Friendly Audio Noise Reduction Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-transform-your-videos-top-free-and-paid-android-video-editing-apps/"><u>Updated Transform Your Videos Top Free and Paid Android Video Editing Apps</u></a></li>
+</ul></div>
+

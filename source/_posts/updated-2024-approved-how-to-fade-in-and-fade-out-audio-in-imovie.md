@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Fade in and Fade Out Audio in iMovie?
-date: 2024-08-03T01:26:07.156Z
-updated: 2024-08-04T01:26:07.156Z
+date: 2024-09-24T18:58:23.671Z
+updated: 2024-09-30T17:11:08.601Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,14 +18,6 @@ thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9f
 
 # How to Fade Music and Audio in iMovie on Mac?
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -41,9 +33,6 @@ Fade-in and fade-out effects can help you smooth the video, music, and audio tra
 
 Apart from fading in/fading out the audio, we also want to introduce the video fade-in and fade-out effects, which will help your video to get more attention. Watch the tutorial below to get detailed information about how to fade in/fade out your videos easily.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 **Related** **:** [How to Fade-in and Fade-out Video Clips](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -58,17 +47,10 @@ After adding the fade-in and fade-out effects to your video, let's check how to 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to Fade Music and Audio in iMovie on Mac
 
 There are two ways available to fade music and audio with iMovie. One is using the fade handles, and the other is using the audio inspector. Before using iMovie audio fade-out effects, please import your video and audio files to iMovie and start a new project.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Method 1: Use Fade Handles to Add Fade in/Fade out Effect in iMovie
 
 Firstly, let's take a look at the video below to check how to fade audio in/out the audio in iMovie with fade handles.
@@ -79,15 +61,19 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
 
 #### Step 2. Move Pointer to Apply Fade Effects
 
 Move the pointer over a waveform, and drag the small gray fade handle at the left of the clip to adjust the fade audio in effect. Then drag the small fade handle at the right of the clip to adjust the fade-out effect.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iMovie fade in audio pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-in-pointer.jpg)
 
 #### Step 3. Playback to Check
@@ -107,6 +93,13 @@ To fade audios in and out in iMovie with the audio inspector, you can follow the
 Double-click the video clip, choose "Clip Adjustments" to open the Inspector, and then click the "Audio" tab.
 
 ![resize video](https://images.wondershare.com/topic/video-editing/imovie-audio-fade-effects.jpg "resize video")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If there are two audio tracks, and you want to set the fade in and fade out in iMovie for the background music, you can double-click the background music clip to open the audio inspector. This inspector is a little different. If you don't know how to add background music to iMovie, you can refer to this post: [add background music in iMovie](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -128,14 +121,25 @@ Now, that's done! I hope the above information does help you to set the fade eff
 
 **Related:** [How to Get More iMovie Themes](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: An Easier Way to Fade Audio and Music on Mac
 
 Let watch the video below to check how to apply fade-in and fade-out effects in an easier way with [**Wondershare Filmora for Mac**](https://tools.techidaily.com/wondershare/filmora/download/). And download it now to try it by yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you want to quickly apply fade-in or fade-out effects, [iMovie's alternative for Mac](https://tools.techidaily.com/wondershare/filmora/download/) \- Wondershare Filmora can help you. It enables you to easily edit videos. After you've made your creation, it also allows you to directly upload the complete video file to YouTube and Vimeo for sharing. Check out the quick guide below to see how to add audio fade effects in Filmora.
 
@@ -147,9 +151,6 @@ Import the video clip you want to add audio in and out effect. To do this, click
 
 Place the video onto the timeline. Double-click on it and then choose "Audio". In the tab, you can drag the slider bar to the right or left to manually set the fade in and fade out the length.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![fade aduio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg "resize video")
 
 #### Step 3. Save Your Video
@@ -168,11 +169,29 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-the-unseen-windows-11-techniques/"><u>[Updated] The Unseen Windows 11 Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-sophisticated-screenshot-options-for-gamers/"><u>2024 Approved Sophisticated Screenshot Options for Gamers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-the-advantages-of-using-claude-ai-in-your-projects/"><u>Discovering the Advantages of Using Claude AI in Your Projects</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-reasons-for-youtubes-unavailability-or-malfunctions/"><u>Exploring Reasons for YouTube's Unavailability or Malfunctions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-hands-on-the-new-logitech-racing-gear-driver-programs-for-all-windows-versions/"><u>Get Your Hands on the New Logitech Racing Gear: Driver Programs for All Windows Versions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-m14-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy M14 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-perfecting-iphone-timelapse-techniques/"><u>In 2024, Perfecting iPhone Timelapse Techniques</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-stop-background-noises-and-add-exclusive-audio-selections-in-movie-maker-for-windows/"><u>New Stop Background Noises & Add Exclusive Audio Selections in Movie Maker for Windows</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-modern-producers-choice-ranking-the-best-8-music-production-software-for-macwindows-for-2024/"><u>New The Modern Producers Choice Ranking the Best 8 Music Production Software for Mac/Windows for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-beat-makers-playbook-ranking-the-top-8-daw-applications-for-contemporary-urban-music/"><u>The Beat Makers Playbook Ranking the Top 8 DAW Applications for Contemporary Urban Music</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-future-of-audio-crafting-androids-most-innovative-digital-audio-workstations-for-todays-sound-engineers/"><u>The Future of Audio Crafting Androids Most Innovative Digital Audio Workstations for Todays Sound Engineers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-essential-upgrades-and-add-ons-for-your-airpods-pro/"><u>Ultimate Selection: Essential Upgrades and Add-Ons for Your AirPods Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-decoding-the-best-music-arrangement-apps-iphone-and-android-guide/"><u>Updated 2024 Approved Decoding the Best Music Arrangement Apps IPhone & Android Guide</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-echo-identifiers-best-android-applications-for-locating-and-listening-to-popular-music-genres/"><u>Updated In 2024, Echo Identifiers Best Android Applications for Locating and Listening to Popular Music Genres</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unleash-the-power-of-reverse-how-to-edit-tiktok-videos-like-a-pro/"><u>Updated In 2024, Unleash the Power of Reverse How to Edit TikTok Videos Like a Pro</u></a></li>
+</ul></div>
+

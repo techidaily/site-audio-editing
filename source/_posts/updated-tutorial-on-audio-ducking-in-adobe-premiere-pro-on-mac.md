@@ -1,7 +1,7 @@
 ---
 title: Updated Tutorial on Audio Ducking in Adobe Premiere Pro on Mac
-date: 2024-09-22T08:48:11.461Z
-updated: 2024-09-25T20:40:03.390Z
+date: 2024-09-28T18:33:14.870Z
+updated: 2024-09-30T18:18:00.495Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,10 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -103,10 +103,16 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -124,16 +130,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-escalate-your-channel-with-a-swift-move-towards-youtube-partner-status/"><u>[New] In 2024, Escalate Your Channel with a Swift Move Towards YouTube Partner Status</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-quick-tips-effective-inshot-for-pclaptop-videos/"><u>[New] Quick Tips Effective Inshot for PC/Laptop Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/a-step-by-step-approach-to-correctly-orient-images-and-videos-in-asus-laptop-displays/"><u>A Step-by-Step Approach to Correctly Orient Images and Videos in ASUS Laptop Displays</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beyond-vlc-a-comprehensive-look-at-streaming-software/"><u>Beyond VLC A Comprehensive Look at Streaming Software</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-a-guide-to-mixing-sound-and-picture-in-quicktime-format/"><u>In 2024, A Guide to Mixing Sound and Picture in QuickTime Format</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-edge-40-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola Edge 40 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-hd-video-the-best-android-players/"><u>In 2024, Mastering HD Video The Best Android Players</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/quick-guide-to-infusing-new-flair-in-old-content-using-instagram-features/"><u>Quick Guide to Infusing New Flair in Old Content Using Instagram Features</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-elite-car-beat-merging-software-for-mac-platforms/"><u>Updated 2024 Approved Elite Car Beat Merging Software for Mac Platforms</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-effective-ways-to-shrink-large-scale-digital-media-downscale/"><u>Updated In 2024, Effective Ways to Shrink Large Scale Digital Media Downscale</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-silencing-audio-in-updated-mkv-files-a-comprehensive-guide-mkv-2023/"><u>Updated In 2024, Silencing Audio in Updated MKV Files - A Comprehensive Guide (MKV-2023)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-no-cash-all-fun-turning-twitter-vids-into-gifs-for-2024/"><u>[New] No Cash, All Fun Turning Twitter Vids Into GIFs for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ultimate-gamesnapper-strategies-for-captures/"><u>[Updated] 2024 Approved Ultimate GameSnapper Strategies for Captures</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enhancing-user-experience-recovering-lost-youtubefb-videos/"><u>[Updated] Enhancing User Experience Recovering Lost YouTube/FB Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-smartphone-tools-for-crafting-your-ideal-vocal-sound/"><u>2024 Approved Smartphone Tools for Crafting Your Ideal Vocal Sound</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/1723262353012-affordable-innovation-the-qualcomm-snapdragon-x-elite-pc-your-mini-desktop-is-here-for-preorder/"><u>Affordable Innovation: The Qualcomm Snapdragon X Elite PC - Your Mini Desktop Is Here for Preorder!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beating-error-0x800f081f-your-ultimate-guide-to-smooth-net-framework-35-implementation/"><u>Beating Error 0X800F081F - Your Ultimate Guide to Smooth .NET Framework 3.5 Implementation</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-itel-a60-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Itel A60 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/pc-guide-extract-twitters-funny-images-for-2024/"><u>PC Guide Extract Twitter's Funny Images for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-art-of-efficient-notetaking-via-chatgpt/"><u>The Art of Efficient Notetaking via ChatGPT</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/toms-tech-hub-expert-insights-into-hardware-solutions/"><u>Tom's Tech Hub: Expert Insights Into Hardware Solutions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-reverse-audio-best-audio-reversers/"><u>Updated Reverse Audio Best Audio Reversers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-top-7-digital-tools-for-seamless-audio-cutting-and-editing/"><u>Updated Top 7 Digital Tools for Seamless Audio Cutting and Editing</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-ultimate-mp3-generation-suite-seamless-free-conversion-of-mpa-audio-archives-to-mp3-format-for-2024/"><u>Updated Ultimate MP3 Generation Suite Seamless Free Conversion of MPA Audio Archives to MP3 Format for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-unlocking-sound-customization-adjusting-loudness-in-videoaudio-archives/"><u>Updated Unlocking Sound Customization Adjusting Loudness in Video/Audio Archives</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-upgraded-audio-methods-for-video-enhancement-the-current-state-of-practice/"><u>Updated Upgraded Audio Methods for Video Enhancement The Current State of Practice</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/voice-eradication-made-simple-a-comprehensive-guide-to-deleting-singers-from-audio-files-in-audacity-for-2024/"><u>Voice Eradication Made Simple A Comprehensive Guide to Deleting Singers From Audio Files in Audacity for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Gionee F3 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

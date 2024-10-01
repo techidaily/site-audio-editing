@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Step-by-Step Tutorial for Incorporating Soundtracks in Adobe After Effects
-date: 2024-08-03T01:23:27.328Z
-updated: 2024-08-04T01:23:27.328Z
+date: 2024-09-25T00:03:40.334Z
+updated: 2024-09-30T17:14:15.054Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,18 +28,12 @@ Working with audio files in Adobe After Effects would be challenging since it is
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add Audio in After Effects
 
 1\. Start the program and open a new project.
 
 2\. Import the files in the project panel. Mute the video sound if neccesary
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![add audio in after effects](https://images.wondershare.com/filmora/article-images/add-audio-in-after-effects.jpg)
 
 3\. Import the audio file to the project file as well (that is required to be added).
@@ -57,8 +51,12 @@ Working with audio files in Adobe After Effects would be challenging since it is
 Check this video tutorial to know the details on adding, adjusting audio in After Effects
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5 Best Audio Editing Software to Add Audio to Video
 
 #### 1\. [WavePad from NCH Software](https://www.nch.com.au/wavepad/index.html)
@@ -85,30 +83,50 @@ Download and install the official software of Wondershare Filmora on your device
 
 ![click on new project](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Import Audio File**
 
 Once a new project starts, tap on 'File' followed by "Import Media." Select the option of "Import Media Files" to proceed to the next screen. Add in the required audio successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import your audio file](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-2.jpg)
 
 **Step 3: Drag Audio to Timeline**
 
 To perform different edits across the audio, the user needs to drag the audio on the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![drag audio file to timeline](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4: Export Audio File**
 
 Once you are done editing the audio, you can easily save it across your device. For that, tap on "Export" to open a new window. Across the "Local" section, select "MP3" from the list of formats and figuratively set all the other settings before tapping on "Export."
 
 ![click on export button](https://static.wondershare.com/images-filmora/images/article/add-audio-to-after-effects-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 3\.  FL Studio 12.1.2
 
@@ -122,9 +140,6 @@ Here you will get a mix of simplicity and professionalism. It is easy to get use
 
 Wavosaur is an old tool that doesn’t run on most modern computers and laptops. But it does offer many features and methods of processing for audio clips.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -133,11 +148,25 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/1716069467051-new-in-2024-effortlessly-create-a-cross-platform-conversation-space-on-skype-a-detailed-manual-for-users-of-all-os-platforms/"><u>[New] In 2024, Effortlessly Create a Cross-Platform Conversation Space on Skype A Detailed Manual for Users of All OS Platforms.</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-cutting-edge-convenience-smartwatch-mac-access/"><u>[Updated] In 2024, Cutting-Edge Convenience Smartwatch, Mac Access</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-staying-serene-in-meetings-master-the-art-of-quieting-others-in-google-video-conversations-for-2024/"><u>[Updated] Staying Serene in Meetings Master the Art of Quieting Others in Google Video Conversations for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/becoming-a-star-spectator-on-the-social-stage/"><u>Becoming a Star Spectator on the Social Stage</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-infinix-note-30i-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Infinix Note 30i Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-three-easy-cost-free-strategies-to-improve-audio-quality-in-your-digital-projects/"><u>New 2024 Approved Three Easy, Cost-Free Strategies to Improve Audio Quality in Your Digital Projects</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-preferred-playlists-and-music-packages-for-effortless-background-entertainment/"><u>New In 2024, Preferred Playlists and Music Packages for Effortless Background Entertainment</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-streamlining-sound-rate-controls-a-guide-to-faster-tempo-tweaks/"><u>New In 2024, Streamlining Sound Rate Controls A Guide to Faster Tempo Tweaks</u></a></li>
+<li><a href="https://facebook.techidaily.com/revamp-your-profile-by-clearing-fb-watch-history/"><u>Revamp Your Profile by Clearing FB Watch History</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-sonic-silence-sprint-time-efficient-techniques-for-sound-polishing-without-delay/"><u>Updated In 2024, Sonic Silence Sprint Time-Efficient Techniques for Sound Polishing Without Delay</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/1726028678116-windows-10/"><u>Windows 10で最適なビデオキャプチャテクニック４選：高解像度版</u></a></li>
+</ul></div>
+
