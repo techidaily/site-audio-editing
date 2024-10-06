@@ -1,7 +1,7 @@
 ---
 title: "Modest-Class Video Gear: An In-Depth Review of VIXIA’s HF R800"
-date: 2024-09-27T02:34:26.396Z
-updated: 2024-10-01T02:58:09.933Z
+date: 2024-10-04T01:12:53.242Z
+updated: 2024-10-06T00:11:58.723Z
 categories:
   - BestProducts
 description: "This Article Describes Modest-Class Video Gear: An In-Depth Review of VIXIA’s HF R800"
@@ -41,9 +41,23 @@ Lifewire / Emily Isaacs
 
 4.4
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Microsoft Sculpt Ergonomic Keyboard
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/kImh0m4twEbigZ9dAMqYCtAxbnk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_HeroSquare-518c472b5b5341fe8c0cf05954c8cc94.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -65,13 +79,6 @@ Lifewire / Emily Isaacs
 
  You can tell Microsoft put a considerable amount of thought into the Sculpt Ergonomic Keyboard’s design. From the manta ray style folds, which keep shoulders and hands at a relaxed, comfortable angle, to the detached numpad and magnetized risers for increased customization options when you want them, the Sculpt is quite the package. As with anything new, it took a period of adjustment, but we found it relatively quick thanks to the intuitive, easy-to-use design.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Made for comfort**
 
  The Sculpt is an ergonomic keyboard with a split design akin to that of a manta ray. The two halves of the keyboard sweep outwards and downwards creating an empty, raised space in the center of its swoop design. Its keys vary in size, with those nearest to the split being slightly wider than those on the outer edges of the keyboard. It’s largely made with plastic and has a bit of a clacky sound as you type. The Sculpt employs a standard layout with a fabric wrist pad at the front for extra comfort. This intuitive, split design combined with the wrist pad help your wrists, hands, and shoulders sit at a neutral, natural angle in order to[alleviate repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) that frequent typists are prone to over time.
@@ -86,18 +93,18 @@ Lifewire / Emily Isaacs
 
  Often, keyboards include a next track or previous track multimedia feature, which the Sculpt was decidedly lacking. This was a disappointment, but otherwise, the functions are good inclusions and easy to use. If this extra functionality isn't your thing, you simply flip this switch to the gray position and these F1-F12 keys retain their standard functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: Batteries required**
 
  The Microsoft Sculpt arrives in a box with the Sculpt itself, a detached numpad, a setup guide, a registration number, and a product guide. Microsoft provides a magnetic riser that can attach to the bottom of the wrist pad as an additional setup option. It also includes a warning packet on lithium batteries since the detached numpad is powered by a 3V lithium CR2430 battery.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/MTaN1qUX3urJwcwQ_tv5g532Af4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_03-ec82ba429b58431eabefb1f147f474b9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -117,14 +124,14 @@ Lifewire / Emily Isaacs
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/BarmRhIEQlGkF0UEDLP9peOh3co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_05-646724c396184c12836f3f2ce2ced675.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Emily Isaacs
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Microsoft Sculpt Ergonomic Keyboard vs. Microsoft Surface Ergonomic Keyboard**
 
@@ -137,13 +144,6 @@ Lifewire / Emily Isaacs
 [Microsoft Surface Ergonomic Keyboard Review](https://www.lifewire.com/microsoft-surface-ergonomic-keyboard-review-4780282)
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/vn9L7kezNDVwJaDwHzeLbefGfDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_04-df81d8c1ef3c4387ab900dfa381e1e0f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -187,18 +187,18 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-crafting-excellent-micro-photography-videos-step-by-step/"><u>[New] 2024 Approved Crafting Excellent Micro Photography Videos Step by Step</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fcp-no-cost-access-a-guide/"><u>[Updated] FCP No-Cost Access A Guide</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhance-video-playback-with-av1-on-youtube/"><u>2024 Approved Enhance Video Playback with AV1 on YouTube</u></a></li>
-<li><a href="https://extra-information.techidaily.com/5-best-hd-hunting-recorders-reviewed/"><u>5 Best HD Hunting Recorders Reviewed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/ace-titles-our-picks-for-the-very-best-adventurous-players/"><u>Ace Titles Our Picks for the Very Best Adventurous Players</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/elevate-your-servers-speed-and-capacity-discover-microns-mrdimms-for-the-new-intel-xeon-processors/"><u>Elevate Your Server's Speed and Capacity: Discover Micron's MRDIMMs for the New Intel Xeon Processors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-13-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone 13 Factory Reset? | Stellar</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-social-sphere-selecting-the-best-marketing-focused-podcasts-for-todays-businesses/"><u>Updated In 2024, The Social Sphere Selecting the Best Marketing-Focused Podcasts for Todays Businesses</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-navigating-the-soundscape-of-premiere-pro-simple-strategies-for-audio-layer-management/"><u>Updated Navigating the Soundscape of Premiere Pro Simple Strategies for Audio Layer Management</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-strategies-for-slowing-music-beats-while-preserving-harmonic-quality-for-2024/"><u>Updated Strategies for Slowing Music Beats While Preserving Harmonic Quality for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-selection-of-secure-online-video-communication-sites/"><u>Updated The Ultimate Selection of Secure Online Video Communication Sites</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/visually-captivating-a-comprehensive-strategy-to-enthrall-listeners-with-podcast-covers-for-2024/"><u>Visually Captivating A Comprehensive Strategy to Enthrall Listeners with Podcast Covers for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-earnings-expertise-on-streaming-services-the-ultimate-guide/"><u>[Updated] In 2024, Earnings Expertise on Streaming Services The Ultimate Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-subscriber-supremacy-youtubes-front-runners/"><u>[Updated] Subscriber Supremacy YouTube's Front-Runners</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/abbyy5/"><u>「高度な文書処理自動化へ：ABBYYによる5段階ルート」</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-mastering-sonic-modifications-the-5-most-popular-tools/"><u>2024 Approved Mastering Sonic Modifications The 5 Most Popular Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-quick-subscribe-does-it-really-amplify-watch-time/"><u>2024 Approved Quick-Subscribe Does It Really Amplify Watch Time?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-ultimate-mp3-generation-suite-seamless-free-conversion-of-mpa-audio-archives-to-mp3-format/"><u>2024 Approved Ultimate MP3 Generation Suite Seamless Free Conversion of MPA Audio Archives to MP3 Format</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-guides-to-choosing-perfect-hardware-by-toms-experts/"><u>Expert Guides to Choosing Perfect Hardware by Tom's Experts</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-10-essential-sites-for-downloading-montage-soundscapes/"><u>In 2024, 10 Essential Sites for Downloading Montage Soundscapes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-software-for-your-logitech-k350-step-by-step-guide-and-drivers/"><u>Install Software for Your Logitech K350: Step-by-Step Guide & Drivers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-audio-treasure-trove-for-budget-friendly-video-editing-for-2024/"><u>New Audio Treasure Trove for Budget-Friendly Video Editing for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-edited-essence-unlocking-techniques-for-visual-impact-for-2024/"><u>The Edited Essence Unlocking Techniques for Visual Impact for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-digital-sound-tuner-scaling-volume-speed-and-tonality-remotely/"><u>Updated 2024 Approved The Digital Sound Tuner Scaling Volume, Speed & Tonality Remotely</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-preventing-phasing-issues-in-studio-monitoring/"><u>Updated In 2024, The Ultimate Guide to Preventing Phasing Issues in Studio Monitoring</u></a></li>
 </ul></div>
 

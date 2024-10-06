@@ -1,7 +1,7 @@
 ---
 title: New Fading Audio in Adobe Rush for 2024
-date: 2024-08-10T02:21:27.319Z
-updated: 2024-08-11T02:21:27.319Z
+date: 2024-10-05T05:04:49.279Z
+updated: 2024-10-05T18:26:03.690Z
 tags: 
   - audio editing software
   - audio editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f
 
 # Fading Audio in Adobe Rush
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -35,16 +32,10 @@ The importance of music and atmospheric sounds is often underrated in social med
 
 Wondershare[Filmora](https://tools.techidaily.com/wondershare/filmora/download/), on the other hand, offers all tools you're going to need to produce a YouTube video including the fade in and fade out audio effects at a more affordable price. Here's how you can fade audio in Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/fade-audio-in-filmora-9.jpg)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fading Audio in Wondershare Filmora
 
 #### 1\. Import video and audio files into Filmora
@@ -55,12 +46,20 @@ Most video clips contain an audio track, but in some cases, you might want to re
 
 Alternatively, you can just drag and drop an audio file from the folder to the Media Panel. Filmora also features a rich library of royalty-free music you can use to select a soundtrack for your video. Drag and drop the video or audio file into the timeline from the Media Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-track.JPG)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 2\. Fading audio in Filmora
 
@@ -70,17 +69,27 @@ Clicking on the Edit button, located at the end of the software's toolbar will g
 
 ![](https://images.wondershare.com/filmora/article-images/filmora-9-audio-panel.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Fade in and Fade out sliders are located at the top of the Audio panel and you can drag the handle on the slider or you can insert new Fade in or Fade out values manually in the boxes next to the sliders. You can click play and decide if you like the effect you created before you click OK to confirm the changes.
 
 **Method 2: Directly from Timeline**
 
 In case you want to fade an audio quickly you can do so directly from the timeline. Just click on the handle at the beginning or the end of the audio file and then drag it to adjust the duration of the effect. Both of Fade in or Fade out handles can be easily moved directly on the timeline, even if you set their values from the Audio Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/fading-audio-in-filmora-9-timeline.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Filmora features a lot of sound effects, like the Phone Ring, Explosion or Car Horn that can be combined with the Fade in or Fade out effect to create a better soundtrack for your video. When ready, click on the Export button and proceed to choose the video's resolution, file format or export destination. The software also lets you export MP3 files, which enables you to save all the changes you make while editing an audio file.
 
@@ -88,10 +97,20 @@ Filmora features a lot of sound effects, like the Phone Ring, Explosion or Car H
 
 Even though Adobe Rush is an app aimed at YouTubers and social media video creators, fading in or out of an audio is still not an option. On the other hand, fading an audio in Filmora is a quick and simple process. Gradually introducing a new music theme or slowly fading the sound as a scene ends can make a social media video sound more professional, and it can help content creators to transition from one scene to the other more smoothly. Do you use Fade in or Fade out effects in your videos often? Leave a comment below and share your experiences with us.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -99,12 +118,29 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-digital-decoder-masterful-online-tv-recording-methods/"><u>[Updated] Digital Decoder Masterful Online TV Recording Methods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-must-have-gear-for-road-trip-documentaries/"><u>[Updated] Must-Have Gear for Road Trip Documentaries</u></a></li>
+<li><a href="https://facebook.techidaily.com/crafting-a-personalized-facebook-profile-photo/"><u>Crafting a Personalized Facebook Profile Photo</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-secure-your-connection-while-using-chatgpt-via-vpn/"><u>How to Secure Your Connection While Using ChatGPT via VPN</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-ways-to-disengage-music-elements-from-multimedia-projects/"><u>In 2024, Ways to Disengage Music Elements From Multimedia Projects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-text-adventure-gaming-using-chatgpt-a-comprehensive-guide-to-crafting-detailed-rpg-worlds-and-characters/"><u>Master the Art of Text Adventure Gaming Using ChatGPT: A Comprehensive Guide to Crafting Detailed RPG Worlds and Characters</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/mastering-youtube-on-facebook-the-art-of-video-creation-for-2024/"><u>Mastering YouTube on Facebook The Art of Video Creation for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-capturing-perfect-sound-a-comprehensive-guide-for-advanced-mac-users/"><u>New 2024 Approved Capturing Perfect Sound A Comprehensive Guide for Advanced Mac Users</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-remove-audio-from-mkv-2023-update/"><u>New 2024 Approved How to Remove Audio From MKV-2023 Update</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-mastering-sound-design-adding-audio-enhancements-to-videos-seamlessly/"><u>New 2024 Approved Mastering Sound Design Adding Audio Enhancements to Videos Seamlessly</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-silent-screen-surgeons-techniques-for-audio-nullification-in-online-films-and-gigs/"><u>New 2024 Approved Silent Screen Surgeons Techniques for Audio Nullification in Online Films and Gigs</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-from-words-to-music-audio-conversion-of-textual-content-on-various-platforms/"><u>New From Words to Music Audio Conversion of Textual Content on Various Platforms</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-a-symphony-in-one-merging-audio-files-for-a-unified-videography-narrative/"><u>New In 2024, A Symphony in One Merging Audio Files for a Unified Videography Narrative</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-15-color-grading-plugins-for-action-cam-video/"><u>Ultimate 15 Color Grading Plugins for Action Cam Video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-golden-rule-for-profit-partnership-for-2024/"><u>YouTube's Golden Rule for Profit Partnership for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Audew's Travel-Friendly Air Compressor Examined: Perfect Blend of Size, Efficiency & Ruggedness"
-date: 2024-09-27T19:33:19.242Z
-updated: 2024-09-30T19:07:07.896Z
+date: 2024-09-29T19:56:51.810Z
+updated: 2024-10-06T01:38:27.888Z
 categories:
   - BestProducts
 description: "This Article Describes Audew's Travel-Friendly Air Compressor Examined: Perfect Blend of Size, Efficiency & Ruggedness"
@@ -42,6 +42,13 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C9 AC1900](https://www.lifewire.com/thmb/5L4k_oD-GKPyliYY-jL-tLQH-Uk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAC1900_HeroSquare-68c63e89f59a47a2944b2a73434417e9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Erika Rawes
 
 [View On Amazon](https://www.amazon.com/dp/B00PDLRHFW/?tag=lifewire-onsite-prod-20&ascsubtag=5025101%7Cnb196585ced2341b2b2b5f702b47e2cf321%7CB00PDLRHFW) [View On Walmart](https://www.walmart.com/ip/TP-LINK-Archer-C9-AC1900-Wireless-Dual-Band-Gigabit-Router/42121251) [View On B&H Photo Video](https://www.bhphotovideo.com/c/replacement%5Ffor/1117107-REG/tp%5Flink%5Farcher%5Fc9%5Fac1900%5Fdual%5Fband%5Fwireless.html)
@@ -64,6 +71,13 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C9 AC1900 is a budget-friendly router, so it doesn’t include too many of the features you see in newer, more expensive models. It doesn’t include[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) control or MU-MIMO technology, but it’s supposed to provide a long signal range for larger homes, as well as support fast enough speeds for online gaming and 4K media. I tested the TP-Link AC1900 alongside several other[long range routers](https://www.lifewire.com/best-long-range-routers-4122554) to see how well it performs in the real world.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Fingerprints galore**
 
  The Archer AC1900 definitely isn’t the most attractive router I’ve seen. The version I tested is black, but TP-Link also makes the C9 in white. The gloss finish gives the AC1900 a cheap look, and it, unfortunately, shows each and every smudge and fingerprint when you touch the surface. The indicator lights sit on the front face, and you can easily see the network status with a quick glance.
@@ -81,10 +95,10 @@ Lifewire / Erika Rawes
  Setup is simple, and you can use the Tether app or the TP-Link site. There’s a QR code in the quick setup leaflet, so you can easily find the app. As it goes with most routers, you’ll find a temporary network name, password, and login info on the label. The app walks you through the setup process step-by-step, guiding you through creating your 2.4 and 5 GHz networks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Connectivity: Decent speeds, long range**
@@ -97,20 +111,13 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C9 AC1900](https://www.lifewire.com/thmb/gPQRxhQBJ13ETuiP-7-Vy9eGcss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAC1900_05-4ddd14a5299f45279789011ce3b9e8ea.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Key features: Guest network and parental controls**
@@ -135,16 +142,16 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: A budget router**
 
  The Archer C9 AC1900 is an older model, so it’s not as readily available as it was a couple of years back. You can typically find it for around $120, which is a good price for a long-range router with its feature set.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **TP-Link Archer C9 AC1900 vs. ASUS RT-AC1900**
 
@@ -155,13 +162,6 @@ Lifewire / Erika Rawes
  **A reliable budget router that will help prevent drop-offs.**
 
  The TP-Link Archer C9 AC1900 is a good option for those who want a reasonably fast and stable network connection, but don’t want to pay a lot of cash for extra bells and whistles.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -199,19 +199,15 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-leading-psp-ios-game-simulators-our-2023s-choices/"><u>[New] 2024 Approved Leading PSP iOS Game Simulators - Our 2023'S Choices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unlocking-enigmas-ranked-puzzle-experiences-explored/"><u>[New] Unlocking Enigmas Ranked Puzzle Experiences Explored</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-7-key-tools-to-convert-youtube-videos-easily/"><u>[Updated] 7 Key Tools to Convert YouTube Videos Easily</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-comprehensive-obs-playbook-for-ps4-gamers/"><u>[Updated] The Comprehensive OBS Playbook for PS4 Gamers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-unison-video-visionaries-finding-your-cms/"><u>[Updated] Unison Video Visionaries Finding Your CMS</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-reduced-clarity-of-audio-outputs-in-the-latest-adobe-rush-release/"><u>2024 Approved Reduced Clarity of Audio Outputs in the Latest Adobe Rush Release</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamlined-screens-on-chrome-os/"><u>2024 Approved Streamlined Screens on Chrome OS</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-unveiling-the-best-locations-for-finding-top-quality-insta-tones-and-crafting-excellent-alarms/"><u>2024 Approved Unveiling the Best Locations for Finding Top-Quality Insta Tones and Crafting Excellent Alarms</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-motorola-edge-40-pro-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Motorola Edge 40 Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-harmonizing-visuals-with-auditory-elements-effective-strategies-for-music-integration-in-final-cut-pro/"><u>New In 2024, Harmonizing Visuals with Auditory Elements Effective Strategies for Music Integration in Final Cut Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-mp3-dissection-and-reassembly-utility-for-online-users/"><u>New In 2024, MP3 Dissection & Reassembly Utility for Online Users</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-complete-pexels-primer-knowledge-essential-for-graphic-designers-and-marketers-for-2024/"><u>New The Complete Pexels Primer Knowledge Essential for Graphic Designers and Marketers for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-amd-radeon-software-failure-step-by-step-guide/"><u>Solving the Issue of AMD Radeon Software Failure: Step-by-Step Guide</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-way-to-reduce-audio-noise-with-the-right-tools-offlineonline-for-2024/"><u>The Way To Reduce Audio Noise With The Right Tools (Offline/Online) for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/roven-youtube-seo-methods-for-video-rankings/"><u>[New] Proven YouTube SEO Methods for Video Rankings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-playbook-youtube-gaming-success/"><u>[New] The Ultimate Playbook YouTube Gaming Success</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-sync-zoom-meeting-times-across-mobile-and-desktop-calendars-for-2024/"><u>[Updated] Sync Zoom Meeting Times Across Mobile & Desktop Calendars for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-io-scanner-insiders-handbook/"><u>[Updated] The Ultimate IO Scanner Insider's Handbook</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-underwater-realms-and-share-with-the-insta360-x2/"><u>Explore Underwater Realms & Share With the Insta360 X2</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/from-dream-to-documentation-essential-ways-to-record-your-sims-epic-quests-in-sims-4/"><u>From Dream to Documentation Essential Ways to Record Your Sims' Epic Quests in Sims 4</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-aural-journey-illustrating-sound-patterns-with-waveform-graphics-and-dynamic-animations-in-nle-essential-for-2024/"><u>New Aural Journey Illustrating Sound Patterns with Waveform Graphics and Dynamic Animations in NLE Essential for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-uncovering-resources-for-realistic-bellow-and-exasperation-effects/"><u>New Uncovering Resources for Realistic Bellow and Exasperation Effects</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-freely-accessible-comedy-soundtracks-5-recommended-sources-for-video-editors/"><u>Updated 2024 Approved Freely Accessible Comedy Soundtracks 5 Recommended Sources for Video Editors</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-how-to-seamlessly-convert-your-podcast-into-the-universal-mp3-format/"><u>Updated 2024 Approved How to Seamlessly Convert Your Podcast Into the Universal MP3 Format</u></a></li>
 </ul></div>
 
