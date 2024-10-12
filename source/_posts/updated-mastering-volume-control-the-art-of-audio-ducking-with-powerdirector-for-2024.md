@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Volume Control The Art of Audio Ducking with PowerDirector for 2024
-date: 2024-10-04T21:48:29.112Z
-updated: 2024-10-05T19:10:22.202Z
+date: 2024-10-10T00:03:32.518Z
+updated: 2024-10-11T23:49:09.703Z
 tags: 
   - audio editing software
   - audio editing
@@ -53,10 +53,10 @@ Doing so will automatically add the keyframes into the background music you’ve
 So, this was the entire process of **music ducking** keyframes automation in **CyberLink PowerDirector**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: An Alternative Solution to Audio Ducking on Mac
@@ -76,10 +76,10 @@ All in all, the Wondershare Filmora is a remarkable video editor fulfilling the 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Here is a step-by-step tutorial after which you can compare the audio ducking easiness of Wondershare Filmora with CyberLink PowerDirector.
@@ -105,10 +105,10 @@ You are almost there whereby tick the “**Lower the volume of other clips”** 
 So, these simple steps are required to enable **audio ducking** in Wondershare Filmora. So easy! Along with it, you can also consider using the **Fade Out** and **Pitch** slider tab for versatile audio adjustment. However, you must only check for the **Ducking** tab, especially when you’re a beginner and don’t want to go for extreme changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -118,14 +118,14 @@ Thus, with a discussion over two different ways to implement the **audio ducking
 | ![](https://www.google.com/favicon.ico) | ![](https://www.youtube.com/favicon.ico) | ![](https://www.google.com/favicon.ico) | ![](https://www.google.com/images/branding/product/ico/maps_32dp.ico) | ![](https://en.wikipedia.org/favicon.ico) | ![](https://www.amazon.com/favicon.ico) |
 | --------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- |
 
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
 
@@ -142,20 +142,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-elevating-your-presence-a-guide-to-discord-broadcasts/"><u>[New] 2024 Approved Elevating Your Presence A Guide to Discord Broadcasts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-champions-tech-the-ultimate-gaming-toolkit/"><u>[New] In 2024, Champion's Tech The Ultimate Gaming Toolkit</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-starting-with-nfts-your-no-stress-guide/"><u>[New] Starting with NFTs Your No-Stress Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-accessing-disguised-user-responses-on-yt/"><u>2024 Approved Accessing Disguised User Responses on YT</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-screen-driver-crash-in-windows-11/"><u>Addressing Screen Driver Crash in Windows 11</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/all-about-razers-hd-webcam-full-analysis/"><u>All About Razer's HD Webcam Full Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/end-of-android-auto-compatibility-affected-devices-list/"><u>End of Android Auto Compatibility: Affected Devices List</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/facebook-ad-evolution-the-hottest-trends-to-watch-for-2024/"><u>Facebook Ad Evolution The Hottest Trends to Watch for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-leading-audio-processors-for-cutting-the-clutter-of-unwanted-echoes/"><u>In 2024, Leading Audio Processors for Cutting the Clutter of Unwanted Echoes</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/innovations-and-standouts-10-premier-podcast-hosting-providers/"><u>Innovations and Standouts 10 Premier Podcast Hosting Providers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-best-audio-editing-apps-for-iphone-and-ipad/"><u>New 2024 Approved Best Audio Editing Apps for iPhone and iPad</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-essential-sound-editing-apps-for-mobile-iphone-and-ipad-edition-2023-edition/"><u>New 2024 Approved Essential Sound Editing Apps for Mobile IPhone & iPad Edition, 2023 Edition</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-hunt-for-emotional-throat-clearing-audio/"><u>New In 2024, Hunt for Emotional Throat-Clearing Audio</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-imovie-essentials-integrating-audio-elements-in-your-projects/"><u>New In 2024, IMovie Essentials Integrating Audio Elements in Your Projects</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722959015530-they-allow-for-high-rates-of-heat-transfer-and-compact-designs/"><u>They Allow for High Rates of Heat Transfer and Compact Designs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-masterclass-analyzing-the-updated-lg-bp550/"><u>[New] Masterclass Analyzing the Updated LG BP550</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-whipped-watchers-guide-complete-review-of-frozen-food-filming-tech/"><u>[Updated] In 2024, Whipped Watcher's Guide Complete Review of Frozen Food Filming Tech</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-convert-and-download-4k-video-in-mp4-format/"><u>How to Convert and Download 4K Video in MP4 Format</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-itel-p40plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Itel P40+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-bite-size-broadcasting-battle-which-platform-dominates-in-shorter-videos/"><u>In 2024, Bite-Size Broadcasting Battle Which Platform Dominates in Shorter Videos?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-unlocking-audio-content-effective-strategies-for-transferring-podcast-episodes-onto-computers/"><u>In 2024, Unlocking Audio Content Effective Strategies for Transferring Podcast Episodes Onto Computers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-mastering-amr-files-comprehensive-amr-file-conversion-handbook/"><u>New 2024 Approved Mastering AMR Files Comprehensive AMR File Conversion Handbook</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-crafting-captivating-audio-representations-syncopated-waveform-graphics-and-transformative-animation-in-adobe-premiere-pro/"><u>New Crafting Captivating Audio Representations Syncopated Waveform Graphics and Transformative Animation in Adobe Premiere Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-cutting-edge-of-audio-production-adding-professional-voiceovers-to-your-vids/"><u>New In 2024, The Cutting-Edge of Audio Production Adding Professional Voiceovers to Your Vids</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-mastering-the-art-of-silencing-sound-in-windows-10-videos-for-2024/"><u>New Mastering the Art of Silencing Sound in Windows 10 Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/resolve-ipadiphone-fb-video-playback-delays/"><u>Resolve iPad/iPhone FB Video Playback Delays</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/understanding-the-speed-and-performance-of-tp-link-archer-c80-top-sub-100-routers/"><u>Understanding the Speed & Performance of TP-Link Archer C80 - Top Sub-$100 Routers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/unveiling-the-best-music-production-software-how-does-magix-samplitude-stack-up-in-2024/"><u>Unveiling the Best Music Production Software How Does MAGIX Samplitude Stack Up, In 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mastering-the-art-of-silencing-sound-in-windows-10-videos-for-2024/"><u>Updated Mastering the Art of Silencing Sound in Windows 10 Videos for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-engineers-choice-selecting-premium-websites-for-advanced-mp3-editing-techniques-for-2024/"><u>Updated The Engineers Choice Selecting Premium Websites for Advanced MP3 Editing Techniques for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-you-need-to-know-before-investing-in-a-refurbished-portable-pc/"><u>What You Need to Know Before Investing in a Refurbished Portable PC</u></a></li>
 </ul></div>
 

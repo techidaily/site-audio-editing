@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Ultimate Guide to Real-Time Audio Leveling with Final Cut Pro Xs AutoDuck Feature
-date: 2024-09-30T17:37:09.315Z
-updated: 2024-10-05T18:58:41.252Z
+date: 2024-10-07T18:52:03.921Z
+updated: 2024-10-11T23:38:38.000Z
 tags: 
   - audio editing software
   - audio editing
@@ -75,10 +75,10 @@ You can now copy the modified music clip, go to the timeline, and paste it at th
 ![Audio Ducking Media Final Cut Pro](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: The Best FCPX Alternative for Mac to Perform Automatic Audio Ducking
@@ -87,6 +87,13 @@ As you can see, it is pretty tough to do audio ducking in Final Cut Pro as there
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ideally, you can perform audio ducking on voiceover or another soundtrack in Wondershare Filmora. To perform music ducking via Wondershare Filmora on Mac, you can follow these steps:
 
 #### Step 1: Import the Video Clip or Record Your Audio
@@ -94,6 +101,13 @@ Ideally, you can perform audio ducking on voiceover or another soundtrack in Won
 To begin with, just launch Wondershare Filmora on your Mac and just drag-and-drop your media files to the application. You can also go to its menu and choose to import media files.
 
 ![Filmora Import Media File](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once your video is imported, you can drag it to the timeline at the bottom to work on it. If you want, you can click on the voiceover icon (adjacent to the preview section) to record dialogues right away.
 
@@ -110,16 +124,10 @@ Great! Now, on the timeline of Filmora, you can see your video and the music tra
 ![Filmora Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Afterward, right-click the audio track and select the “Adjust Audio” option from the context menu.
@@ -136,29 +144,9 @@ That’s it! After performing audio ducking on Filmora, you can preview the resu
 
 ![Filmora Export](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 There you go! After following this guide, you can easily learn how to do audio ducking in Final Cut Pro X easily. Since there is no inbuilt FCPX audio ducking option, you can use a third-party tool like FCPX AutoDuck. Apart from that, if you are looking for a better alternative to do sound ducking, then simply use Wondershare Filmora. It is a user-friendly and resourceful application that would let you perform automatic music ducking like a pro.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -175,24 +163,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-who-takes-the-crown-in-2024-av1-or-vp9/"><u>[New] Who Takes The Crown, In 2024 AV1 or VP9?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-choices-17-tools-to-remove-picture-margins/"><u>[Updated] Expert Choices 17 Tools to Remove Picture Margins</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-flawless-soundscapes-in-the-world-of-social-media-videos/"><u>[Updated] Flawless Soundscapes in the World of Social Media Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-highest-rated-vehicle-tracking-cameras-overview/"><u>2024 Approved Highest Rated Vehicle Tracking Cameras Overview</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-ice-cream-recording-tech-deep-dive-analysis/"><u>2024 Approved Ice Cream Recording Tech Deep Dive Analysis</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-14-pro-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 14 Pro to Samsung | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-unsung-heroes-of-canvas-open-source-paintings/"><u>In 2024, The Unsung Heroes of Canvas Open-Source Paintings</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-say-goodbye-to-crooked-videos-10-best-online-rotation-tools-for-2024/"><u>New Say Goodbye to Crooked Videos 10 Best Online Rotation Tools for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-checklist-for-virtual-vigilance-safeguarding-during-online-interactions-for-2024/"><u>New The Ultimate Checklist for Virtual Vigilance Safeguarding During Online Interactions for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/prime-11-mobile-audio-processing-software-for-creatives/"><u>Prime 11 Mobile Audio Processing Software for Creatives</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/sound-innovators-choice-the-best-free-audio-mixer-platforms-ranked/"><u>Sound Innovators Choice The Best FREE Audio Mixer Platforms Ranked!</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/thrifty-tips-for-hosting-webinars-on-youtube-for-2024/"><u>Thrifty Tips for Hosting Webinars on YouTube for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-composing-for-cinema-adding-musical-layers-to-video-content/"><u>Updated 2024 Approved Composing for Cinema Adding Musical Layers to Video Content</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-efficient-sound-management-cutting-down-video-audio-in-imovie-across-mac-and-iphone/"><u>Updated 2024 Approved Efficient Sound Management Cutting Down Video Audio in iMovie Across Mac and iPhone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-looking-forward-to-making-up-your-career-in-video-editing-land-in-here-to-learn-about-the-credibility-of-some-popular-video-editing-co/"><u>Updated 2024 Approved Looking Forward to Making up Your Career in Video Editing? Land in Here to Learn About the Credibility of some Popular Video Editing Courses</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-speedy-guide-to-mute-vocals-in-recording-software-audacity-edition/"><u>Updated 2024 Approved Speedy Guide to Mute Vocals in Recording Software – Audacity Edition</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-unveiling-the-rhythm-discovering-song-titles-via-iphones-sound-analysis/"><u>Updated 2024 Approved Unveiling the Rhythm Discovering Song Titles via iPhones Sound Analysis</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-expert-picks-best-voice-isolation-technologies-for-music-creators-for-2024/"><u>Updated Expert Picks Best Voice Isolation Technologies for Music Creators for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-15-aesthetic-background-music-for-youtube-video/"><u>Updated In 2024, 15 Aesthetic Background Music For YouTube Video</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-sound-seekers-sanctuary-download-and-listen-to-songs/"><u>[New] 2024 Approved Sound Seeker's Sanctuary Download & Listen To Songs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-shape-individualistic-online-humorous-pieces/"><u>[New] Shape Individualistic Online Humorous Pieces</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-assessing-mr-beasts-monetary-trajectory/"><u>[Updated] Assessing Mr. Beast’s Monetary Trajectory</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-enhance-youtube-video-speed-fast-render-and-upload-techniques-for-2024/"><u>[Updated] Enhance YouTube Video Speed - Fast Render and Upload Techniques for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-perfect-your-tiktok-performance-with-voiceover-for-2024/"><u>[Updated] Perfect Your TikTok Performance with Voiceover for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-still-moments-from-clips-on-windows-11/"><u>Capturing Still Moments From Clips on Windows 11</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-synchronize-your-scenes-editing-videos-in-step-with-the-music-in-adobe-premiere-pro/"><u>In 2024, Synchronize Your Scenes Editing Videos in Step With the Music in Adobe Premiere Pro</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-visual-storytelling-planning-strategy-on-instavideo-for-2024/"><u>Mastering Visual Storytelling Planning Strategy on InstaVideo for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mov-to-aac-conversion-tool-quick-and-easy-free-upload/"><u>MOV to AAC Conversion Tool - Quick & Easy Free Upload</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-behind-the-scenes-a-detailed-guide-to-setting-up-and-recording-with-garageband/"><u>New 2024 Approved Behind the Scenes A Detailed Guide to Setting Up and Recording with GarageBand</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-decibel-diplomacy-a-detailed-exploration-of-audio-normalization-in-media/"><u>New 2024 Approved Decibel Diplomacy A Detailed Exploration of Audio Normalization in Media</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-top-7-converting-audio-to-text-tools/"><u>New 2024 Approved Top 7 Converting Audio to Text Tools</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-exploring-the-best-a-ranked-list-of-6-top-transcription-automation-tools-for-2024/"><u>New Exploring the Best A Ranked List of 6 Top Transcription Automation Tools for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-ultimate-collection-s-best-podcasts-on-leveraging-social-media-for-marketing-success/"><u>New In 2024, The Ultimate Collection S Best Podcasts on Leveraging Social Media for Marketing Success</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1725288249006-winxvideo-ai/"><u>Winxvideo AI: 원격 영상 품질 제공자로 영화 비디오를 개선하세요</u></a></li>
 </ul></div>
 

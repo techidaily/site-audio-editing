@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Advanced Editing Strategies Employing PowerDirectors Audio Duck Feature for Seamless Volume Adjustments
-date: 2024-09-22T09:46:15.973Z
-updated: 2024-09-26T02:49:20.773Z
+date: 2024-10-08T23:42:30.700Z
+updated: 2024-10-12T03:39:31.250Z
 tags: 
   - audio editing software
   - audio editing
@@ -53,10 +53,10 @@ Doing so will automatically add the keyframes into the background music you’ve
 So, this was the entire process of **music ducking** keyframes automation in **CyberLink PowerDirector**.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: An Alternative Solution to Audio Ducking on Mac
@@ -98,16 +98,10 @@ You are almost there whereby tick the “**Lower the volume of other clips”** 
 So, these simple steps are required to enable **audio ducking** in Wondershare Filmora. So easy! Along with it, you can also consider using the **Fade Out** and **Pitch** slider tab for versatile audio adjustment. However, you must only check for the **Ducking** tab, especially when you’re a beginner and don’t want to go for extreme changes.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -118,19 +112,19 @@ Thus, with a discussion over two different ways to implement the **audio ducking
 | --------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- |
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -148,20 +142,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-prime-virtual-locations-for-elevating-your-mp3-audio-levels/"><u>2024 Approved Prime Virtual Locations for Elevating Your MP3 Audio Levels</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-gionee-f3-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Gionee F3 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-conquering-computer-storage-a-comprehensive-approach-to-obtaining-podcasts/"><u>In 2024, Conquering Computer Storage A Comprehensive Approach to Obtaining Podcasts</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-discord-gifs-how-to-put-gifs-on-discord-an-ultimate-guide/"><u>In 2024, Discord GIFs How to Put GIFs on Discord - An Ultimate Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-samsung-ue590-unveiled-ultra-hd-4k-and-freesync-edition/"><u>In 2024, Samsung UE590 Unveiled Ultra HD 4K & FreeSync Edition</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-lenovo-thinkphone-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Lenovo ThinkPhone Phone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-your-guide-to-the-top-6-fee-free-digital-soundscape-editors-on-the-web/"><u>In 2024, Your Guide to the Top 6 Fee-Free Digital Soundscape Editors on the Web</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-retrieve-humming-noise-impressions/"><u>New 2024 Approved Retrieve Humming Noise Impressions</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-how-to-use-morphvox-voice-changer-for-online-games/"><u>New In 2024, How to Use Morphvox Voice Changer for Online Games?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-technique-master-the-complete-ipad-factory-reset/"><u>Ultimate Troubleshooting Technique: Master the Complete iPad Factory Reset</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-creating-synchronized-media-incorporating-video-into-audio-streams/"><u>Updated 2024 Approved Creating Synchronized Media Incorporating Video Into Audio Streams</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-elevate-your-editing-game-learning-to-disconnect-video-and-sound-in-imovie-macos-edition-for-2024/"><u>Updated Elevate Your Editing Game Learning to Disconnect Video and Sound in iMovie (macOS Edition) for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-best-11-android-apps-for-audio-editing/"><u>Updated In 2024, Best 11 Android Apps for Audio Editing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/zero-display-fresh-pcie/"><u>Zero Display, Fresh PCIe</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-thunder-gods-fury-new-age-begins/"><u>[New] 2024 Approved Thunder God's Fury New Age Begins</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inverted-video-playback-on-android-made-simple/"><u>[Updated] Inverted Video Playback on Android Made Simple</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-leading-free-switch-game-reproducers/"><u>[Updated] Leading Free Switch Game Reproducers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-mastering-marketing-magic-20-keywords-for-profound-impact/"><u>[Updated] Mastering Marketing Magic 20 Keywords for Profound Impact</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/creating-synchronized-media-incorporating-video-into-audio-streams-for-2024/"><u>Creating Synchronized Media Incorporating Video Into Audio Streams for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-asus-rog-phone-7-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Asus ROG Phone 7 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-method-for-incorporating-linktree-in-tiktok-profiles/"><u>In 2024, Optimal Method for Incorporating Linktree in TikTok Profiles</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-quick-fixes-for-audio-extraction-in-imovie-using-your-apple-device/"><u>New 2024 Approved Quick Fixes for Audio Extraction in iMovie Using Your Apple Device</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-essential-directory-of-fee-free-high-quality-audio-player-applications-for-android-and-ios-devices/"><u>New 2024 Approved The Essential Directory of Fee-Free, High-Quality Audio Player Applications for Android and iOS Devices</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-6-best-automatic-transcription-software/"><u>New 6 Best Automatic Transcription Software</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-add-music-to-video-online-for-free-6-ways/"><u>New In 2024, Add Music to Video Online for Free 6 Ways</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-innovative-insights-a-curated-list-s-pivotal-social-media-and-marketing-podcasts/"><u>New In 2024, Innovative Insights A Curated List S Pivotal Social Media and Marketing Podcasts</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-integrating-audio-into-digital-videos-a-comprehensive-guide/"><u>New Integrating Audio Into Digital Videos A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-video-from-mkv-to-mp4-on-windows-pcs/"><u>Optimizing Video: From MKV to MP4 on Windows PCs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/what-to-do-when-your-amd-radeon-drivers-wont-open-an-easy-fix-guide/"><u>What to Do When Your AMD Radeon Drivers Won't Open: An Easy Fix Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AeonY's Portable Solar Energy System: A Detailed Look at Its Performance with Fragile Healthcare Equipment"
-date: 2024-10-02T23:20:29.525Z
-updated: 2024-10-06T03:54:39.817Z
+date: 2024-10-04T21:13:38.702Z
+updated: 2024-10-11T16:37:35.161Z
 categories:
   - BestProducts
 description: "This Article Describes AeonY's Portable Solar Energy System: A Detailed Look at Its Performance with Fragile Healthcare Equipment"
@@ -39,10 +39,10 @@ Lifewire / Jeremy Laukkonen
 4.3
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Extollo LANSocket 1500 Powerline Adapter
@@ -75,19 +75,6 @@ Lifewire / Jeremy Laukkonen
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/RdkUagNDw_OXvrfwGOGMOW0T13A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215_06-4afb73694c464ec8a21e45d7f8ad3327.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jeremy Laukkonen
 
 ## **Design: Big, bulky, and basic, with a filtered pass-through**
@@ -106,6 +93,13 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Pain-free plug and play**
 
  Home networking is a complicated subject, but setting up a pair of LANSocket 1500 adapters is about as simple as it gets. The kit includes two adapters and two[Ethernet cables](https://www.lifewire.com/what-is-an-ethernet-cable-817548) , which is really all you need to set up your[powerline network](https://www.lifewire.com/powerline-home-networking-and-homeplug-817720) .
@@ -120,20 +114,27 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Connectivity: MIMO with beamforming**
 
  The Extollo LANSocket 1500 powerline adapters use the HomePlug AV2 specification, which includes support for[multi-in, multi-out (MIMO)](https://www.lifewire.com/mimo-wifi-routers-818332) with beamforming, which increases both speed and the allowable distance between adapters. This is a significant improvement over the HomePlug AV specification, which is slower and requires you to place your adapters more closely together.
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/B7pek1jOL0gtn-sl7QsuHcO3_CU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-03-04f860db31f049e1a2ecb40196f7aaf7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Network Performance: Blazing fast and low latency**
 
@@ -149,13 +150,6 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Software: Runs on an embedded Linux distribution**
 
  The LANSocket 1500 runs on an embedded Linux distribution, which plays a big part in how powerful these adapters really are. This is something you probably won’t ever have to worry about, since these devices are plug and play without a lot of hassle, but the use of Linux does open up some security holes.
@@ -170,18 +164,18 @@ Lifewire / Jeremy Laukkonen
 
  The embedded Linux distro does open up some security concerns, but they can be mostly erased if you connect through a firewalled router. You can find cheaper options, but the bottom line is that you won’t find a cheaper alternative that provides the same high speed, low latency, video buffering, and pass-through socket that you get with the LANSocket 1500.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Decent price for such good performance**
 
  The Extollo LANSocket 1500 has an MSRP of $90 for a set of two. That places these adapters right in the same general price range as other similar devices. You can find HomePlug AV2 compatible adapters for a little less, but they typically don’t perform quite as well.
 
  Since the LANSocket 1500 adapters are so easy to use, and provide such a high level of performance, it’s our judgment that they’re worth the $10 or so premium you’ll typically pay compared to similar competitors.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: Wins on transfer speeds with some security concerns**
 
@@ -235,15 +229,20 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-idea-to-internet-fame-becoming-a-vtuber-in-2024/"><u>[New] From Idea to Internet Fame Becoming a VTuber, In 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/15-melodic-matchmakers-tailoring-audio-to-each-videos-characteristic-mood-for-2024/"><u>15 Melodic Matchmakers Tailoring Audio to Each Videos Characteristic Mood for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-10t-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme 10T 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/eradicate-trash-blockage-with-error-code-36-fix/"><u>Eradicate Trash Blockage with Error Code 36 Fix</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-note-30-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Note 30</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-art-of-unifying-diverse-sound-files-in-final-projects/"><u>New 2024 Approved The Art of Unifying Diverse Sound Files in Final Projects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/thrifty-choices-for-virtual-reality-heads-for-2024/"><u>Thrifty Choices for Virtual Reality Heads for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-essential-factors-for-choosing-the-perfect-ai-chatbot-platform/"><u>Top 7 Essential Factors for Choosing the Perfect AI Chatbot Platform</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-innovative-approaches-to-infusing-sound-into-avi-files-post-update/"><u>Updated Innovative Approaches to Infusing Sound Into AVI Files Post-Update</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-top-audio-extraction-solutions-navigating-the-2023-landscape-for-clearer-sounds-from-videos-for-2024/"><u>Updated Top Audio Extraction Solutions Navigating the 2023 Landscape for Clearer Sounds From Videos for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-insiders-guide-to-ultimate-audio-equipment/"><u>[New] In 2024, The Insider's Guide to Ultimate Audio Equipment</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/expert-secrets-to-exceptional-tiktok-videos/"><u>Expert Secrets to Exceptional TikTok Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-missing-network-connections-on-windows-11-devices/"><u>How to Resolve Missing Network Connections on Windows 11 Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-samsung-galaxy-a05s-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Samsung Galaxy A05s Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfect-pairing-sound-and-imagery-in-media-production/"><u>In 2024, Perfect Pairing Sound & Imagery in Media Production</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/navigating-the-tech-world-efficiently-expert-tips-from-toms-hardware/"><u>Navigating the Tech World Efficiently - Expert Tips From Tom's Hardware</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oppo-reno-11-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Oppo Reno 11 Pro 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-inaccessible-camera-problem-on-snap-effective-tips/"><u>Troubleshoot Inaccessible Camera Problem on Snap: Effective Tips</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-speech-recognition-to-mp3-seamless-integration-across-devices-and-oses-for-2024/"><u>Updated Speech Recognition to MP3 Seamless Integration Across Devices and OSes for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-strategies-for-detaching-soundtracks-from-footage/"><u>Updated Strategies for Detaching Soundtracks From Footage</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-superior-audio-format-changer-instant-mp3-creation-with-zero-hassle/"><u>Updated Superior Audio Format Changer Instant MP3 Creation with Zero Hassle</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-top-10-free-browser-based-daws-for-creatives-for-2024/"><u>Updated Top 10 Free Browser-Based DAWs for Creatives for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-turn-off-sounds-and-import-unique-music-for-windows-movie-editor-for-2024/"><u>Updated Turn Off Sounds & Import Unique Music for Windows Movie Editor for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-unveiling-the-ultimate-collection-of-free-mobile-audio-visualizing-apps-for-ios-and-android/"><u>Updated Unveiling the Ultimate Collection of FREE Mobile Audio-Visualizing Apps for iOS and Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/whos-leading-in-screen-capture-tech-obs-studios-vs-bandicam/"><u>Who's Leading in Screen Capture Tech OBS Studios Vs. Bandicam</u></a></li>
 </ul></div>
 
