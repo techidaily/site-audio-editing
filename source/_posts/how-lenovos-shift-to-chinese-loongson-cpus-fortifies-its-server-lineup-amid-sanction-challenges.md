@@ -1,7 +1,7 @@
 ---
 title: How Lenovo's Shift to Chinese Loongson CPUs Fortifies Its Server Lineup Amid Sanction Challenges
-date: 2024-10-06T00:36:48.933Z
-updated: 2024-10-11T16:49:57.416Z
+date: 2024-10-10T20:23:08.162Z
+updated: 2024-10-18T01:46:16.154Z
 tags:
   - desktop
 categories:
@@ -56,29 +56,31 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-comprehensible-guide-to-high-quality-audios-on-youtube/"><u>[Updated] 2024 Approved Comprehensible Guide to High-Quality Audios on YouTube</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-rated-sony-a7s-ii-memory-accessory/"><u>[Updated] In 2024, Top-Rated Sony A7S II Memory Accessory</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-essential-new-tiktok-hits-and-challenges/"><u>2024 Approved Essential New TikTok Hits & Challenges</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-scooping-strategies-review-rundown/"><u>2024 Approved SCOOPING STRATEGIES Review Rundown</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-finding-your-fanbase-obs-or-twitch-studio/"><u>In 2024, Finding Your Fanbase OBS or Twitch Studio</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-webcam-recording-made-simple-for-laptops-and-chromebooks/"><u>In 2024, Webcam Recording Made Simple for Laptops & Chromebooks</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mastery-over-cloud-expenses-cheapest-options-showcased/"><u>Mastery Over Cloud Expenses Cheapest Options Showcased</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-methods-for-diminishing-delay-effects-in-audio-production/"><u>New 2024 Approved Methods for Diminishing Delay Effects in Audio Production</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-art-of-syncing-sound-enhancing-video-quality-through-dynamic-audio-editing-in-final-cut-pro-x/"><u>New 2024 Approved The Art of Syncing Sound Enhancing Video Quality Through Dynamic Audio Editing in Final Cut Pro X</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-composing-accompaniment-for-film-scenes-for-2024/"><u>New Composing Accompaniment for Film Scenes for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-essential-sound-editing-apps-for-mobile-iphone-and-ipad-edition-2023-edition/"><u>New Essential Sound Editing Apps for Mobile IPhone & iPad Edition, 2023 Edition</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-expert-recommendations-for-high-quality-music-video-designs-for-2024/"><u>New Expert Recommendations for High-Quality Music Video Designs for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-how-to-add-music-audio-to-a-gif-on-mac-for-2024/"><u>New How to Add Music/ Audio to a GIF on Mac for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-10-best-websites-to-download-ding-sound-effect-easily/"><u>New In 2024, 10 Best Websites to Download Ding Sound Effect Easily</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-crafting-cinematic-lyrics-with-advanced-afx-templates/"><u>New In 2024, Crafting Cinematic Lyrics with Advanced AFX Templates</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/top-10-speedy-gaming-apps-for-mobile-and-desktop/"><u>Top 10 Speedy Gaming Apps for Mobile and Desktop</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-fostering-creativity-for-impressive-mac-produced-tiktok-beginnings/"><u>[New] Fostering Creativity for Impressive Mac-Produced TikTok Beginnings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-privacy-preservation-through-invisible-modifications/"><u>[New] In 2024, Privacy Preservation Through Invisible Modifications</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-experiences-top-15plus-virtual-reality-tales-on-cardboard/"><u>[Updated] Exclusive Experiences Top 15+ Virtual Reality Tales on Cardboard</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-selecting-excellent-audio-mixers-specifically-designed-for-mac-platforms/"><u>2024 Approved Selecting Excellent Audio Mixers Specifically Designed for Mac Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-workout-routine-expert-tips-on-creating-impactful-chatgpt-queries-for-fitness-enthusiasts/"><u>Boost Your Workout Routine: Expert Tips on Creating Impactful ChatGPT Queries for Fitness Enthusiasts</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/essential-links-for-obtaining-high-quality-ding-sound-samples/"><u>Essential Links for Obtaining High-Quality Ding Sound Samples</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/how-to-do-noise-reduction-in-audacity-and-filmorapro-easily-for-2024/"><u>How to Do Noise Reduction in Audacity and FilmoraPro Easily for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-infinix-note-30i-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Infinix Note 30i Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-live-from-anywhere-reach-anyone-streaming-techniques-for-iphonesipads/"><u>In 2024, Live From Anywhere, Reach Anyone Streaming Techniques for iPhones/iPads</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-tailoring-auditory-experiences-to-your-videos-with-ease-and-precision/"><u>In 2024, Tailoring Auditory Experiences to Your Videos with Ease and Precision</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-the-ultimate-list-8-online-locations-for-free-3d-text-psdfiles/"><u>In 2024, The Ultimate List 8 Online Locations for Free 3D Text PSDFiles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigate-faster-with-ease-learning-minecrafts-teleport-command-techniques/"><u>Navigate Faster with Ease: Learning Minecraft's Teleport Command Techniques</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-most-popular-websites-offering-montage-audio-archives-for-2024/"><u>New Most Popular Websites Offering Montage Audio Archives for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-process-of-deleting-voice-components-from-mp4-media-for-2024/"><u>New The Process of Deleting Voice Components From MP4 Media for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-unveiling-the-premier-anime-character-recasting-stars-for-2024/"><u>New Unveiling the Premier Anime Character Recasting Stars for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-relinking-issues-in-granblue-fantasy-windows-pc-version/"><u>Resolving 'Relinking' Issues in Granblue Fantasy Windows PC Version</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-core-of-vimeo-empowering-video-artists-and-audiences-for-2024/"><u>The Core of Vimeo Empowering Video Artists & Audiences for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/top-5-sources-for-legal-comedy-soundtracks-online-for-2024/"><u>Top 5 Sources for Legal Comedy Soundtracks Online for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mastering-frequency-adjustment-in-audacity-without-compromising-sound-fidelity/"><u>Updated Mastering Frequency Adjustment in Audacity Without Compromising Sound Fidelity</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

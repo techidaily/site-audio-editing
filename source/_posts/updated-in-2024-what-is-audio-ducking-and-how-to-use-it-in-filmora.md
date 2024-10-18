@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, What Is Audio Ducking and How to Use It in Filmora
-date: 2024-10-10T18:26:05.113Z
-updated: 2024-10-11T23:48:36.542Z
+date: 2024-10-12T00:16:30.639Z
+updated: 2024-10-17T20:40:34.461Z
 tags: 
   - audio editing software
   - audio editing
@@ -40,6 +40,13 @@ In most cases, it is achieved through a side-chain compression technique. A cont
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When Do You Need to Implement Audio Ducking?
 
 Since the concept of audio ducking is pretty useful, it can be implemented in different ways during the video editing process. While you can apply the process to any video, here are some of the major instances where it is used.
@@ -57,10 +64,10 @@ While creating make-up video tutorials, most of us use a background track to kee
 Ideally, if you are creating any other tutorial video for your audience, then audio ducking can be useful. From making video game tutorials to coming up with video lectures on a crucial topic, the concept would come in handy time and time again.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the Audio Ducking Feature in Filmora?
@@ -75,13 +82,6 @@ To implement audio ducking in your videos, you can use a reliable editing tool l
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To learn how to implement audio ducking in your videos using Filmora, you can go through these basic steps:
 
 #### Step 1\.  Import Your Videos on Filmora
@@ -90,34 +90,28 @@ To begin with, you have to install Wondershare Filmora on your computer and laun
 
 ![Import Files](https://images.wondershare.com/filmora/article-images/import-video-audio-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2\.  Import An Audio or Record Voiceovers
 
 Let's suppose that your video already has an audio track in the background, and now you wish to add another audio component. Most of the people would like to record their voices in the video. For this, you can click on the voiceover (mic) icon at the bottom of the preview panel. This will open a dedicated window so that you can start recording your voice for the video.
 
 ![Record Voiceover for Audio Ducking](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Apart from that, you can also go to the "Import" feature to add any other audio component to the project. Besides that, Wondershare Filmora also has a wide range of royalty-free audio files that you can easily add to your projects.
 
 ![Royalty-free Audio files for Audio Ducking](https://images.wondershare.com/filmora/article-images/royalty-free-audio-files.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 3\.  Apply Audio Ducking to Your Video
@@ -159,24 +153,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-channel-upgrade-made-simple-embrace-tubebuddy-techniques/"><u>[New] Channel Upgrade Made Simple - Embrace TubeBuddy Techniques</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-obs-mastered-functioning-camera-now/"><u>[Updated] 2024 Approved OBS Mastered Functioning Camera Now</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-a-concise-guide-to-speedy-mac-screen-capture/"><u>[Updated] A Concise Guide to Speedy Mac Screen Capture</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-electorate-engagement-experience-top-gaming-selections/"><u>[Updated] In 2024, Electorate Engagement Experience Top Gaming Selections</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-the-art-of-screen-sharing-in-zoom/"><u>[Updated] Mastering the Art of Screen Sharing in Zoom</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-perfecting-vlog-shots-how-to-use-a-tripod-like-a-pro-for-2024/"><u>[Updated] Perfecting Vlog Shots How to Use a Tripod Like a Pro for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/a-beginners-roadmap-enabling-and-using-hyper-v-technology-on-windows-10/"><u>A Beginner's Roadmap: Enabling and Using Hyper-V Technology on Windows 10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/analyzing-security-in-browser-ai-plugins/"><u>Analyzing Security in Browser AI Plugins</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/cyberpowerpc-gamer-xtreme-assessed-budget-friendly-and-open-for-upgrades/"><u>CyberPowerPC Gamer Xtreme Assessed – Budget-Friendly and Open for Upgrades</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/how-lenovos-shift-to-chinese-loongson-cpus-fortifies-its-server-lineup-amid-sanction-challenges/"><u>How Lenovo's Shift to Chinese Loongson CPUs Fortifies Its Server Lineup Amid Sanction Challenges</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-from-memory-to-moments-securely-uploading-photos-to-snapchat/"><u>In 2024, From Memory to Moments Securely Uploading Photos to Snapchat</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/1723262388179-the-epic-showdown-amds-epyc-processors-vs-nvidias-arm-powered-grace-who-wins-on-performance-double-the-speed-revealed/"><u>The Epic Showdown: AMD's EPYC Processors Vs. Nvidia's ARM-Powered Grace - Who Wins on Performance? Double the Speed Revealed</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-guide-to-turn-off-ig-predictions-for-2024/"><u>The Guide to Turn Off IG Predictions for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-professionals-method-for-removing-unwanted-sounds-from-media-projects-using-premiere-pro/"><u>Updated In 2024, The Professionals Method for Removing Unwanted Sounds From Media Projects Using Premiere Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-real-time-audio-leveling-with-final-cut-pro-xs-autoduck-feature/"><u>Updated In 2024, The Ultimate Guide to Real-Time Audio Leveling with Final Cut Pro Xs AutoDuck Feature</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-prime-collection-of-popular-pop-melodies-for-video-scores-for-2024/"><u>Updated Prime Collection of Popular Pop Melodies for Video Scores for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-premier-list-of-8-modern-daws-elevating-hip-hop-and-rap-music-mixing-for-2024/"><u>Updated The Premier List of 8 Modern DAWs Elevating Hip-Hop and Rap Music Mixing for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-compendium-of-selecting-premium-audio-formats-for-2024/"><u>Updated The Ultimate Compendium of Selecting Premium Audio Formats for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-top-7-sonic-alterations-mastering-the-art-of-digital-audio-transformation-for-2024/"><u>Updated Top 7 Sonic Alterations Mastering the Art of Digital Audio Transformation for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-video-voyages-venturing-into-the-vlog-profit-world/"><u>[New] 2024 Approved Video Voyages Venturing Into the Vlog Profit World</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-choosing-the-clearer-display-ultrawide-vs-uhd-4k-explored/"><u>[New] Choosing the Clearer Display UltraWide vs UHD 4K Explored</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-see-whats-new-in-movavi-plus-the-2024-edition-highlights/"><u>[New] See What’s New in Movavi Plus The 2024 Edition Highlights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-market-victory-through-unwrapped-strategy/"><u>2024 Approved Market Victory Through Unwrapped Strategy</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/5-innovative-yt-tales-share-your-life-journey/"><u>5 Innovative YT Tales Share Your Life Journey</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/digital-music-layering-and-editing-suite-for-2024/"><u>Digital Music Layering & Editing Suite for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-sounds-of-success-unveiling-the-top-8-cinematic-audio-wonders/"><u>In 2024, Sounds of Success Unveiling the Top 8 Cinematic Audio Wonders</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-three-effective-methods-for-converting-youtube-audio-to-mp3-securely/"><u>In 2024, Three Effective Methods for Converting YouTube Audio to MP3 Securely</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/live-streamer-showdown-pick-your-champion-between-wirecast-and-obs-for-2024/"><u>Live Streamer Showdown Pick Your Champion Between Wirecast and OBS for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-10plus-free-online-audio-to-text-converters-for-2024/"><u>New 10+ Free Online Audio to Text Converters for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-behind-the-scenes-sound-management-expert-insights-into-using-ducking-effects/"><u>New 2024 Approved Behind-the-Scenes Sound Management Expert Insights Into Using Ducking Effects</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-clearer-screen-cleaner-sound-techniques-for-dampening-background-audio-in-digital-videos/"><u>New Clearer Screen, Cleaner Sound Techniques for Dampening Background Audio in Digital Videos</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-effortless-auditory-upgrades-for-your-videography-the-ultimate-guide-for-2024/"><u>New Effortless Auditory Upgrades for Your Videography The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ifunny-meme-journey-downloading-made-easy-for-2024/"><u>The iFunny Meme Journey Downloading Made Easy for 2024</u></a></li>
 </ul></div>
 

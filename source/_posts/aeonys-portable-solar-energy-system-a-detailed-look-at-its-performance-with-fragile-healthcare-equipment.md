@@ -1,7 +1,7 @@
 ---
 title: "AeonY's Portable Solar Energy System: A Detailed Look at Its Performance with Fragile Healthcare Equipment"
-date: 2024-10-04T21:13:38.702Z
-updated: 2024-10-11T16:37:35.161Z
+date: 2024-10-12T22:27:16.285Z
+updated: 2024-10-18T02:10:54.670Z
 categories:
   - BestProducts
 description: "This Article Describes AeonY's Portable Solar Energy System: A Detailed Look at Its Performance with Fragile Healthcare Equipment"
@@ -38,16 +38,16 @@ Lifewire / Jeremy Laukkonen
 
 4.3
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Extollo LANSocket 1500 Powerline Adapter
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/KabMCV8f8k1Pxtd-vhM86zkedrw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-HeroSquare-41f20e9c72b84bfd92f578807ae1edaf.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -93,13 +93,6 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: Pain-free plug and play**
 
  Home networking is a complicated subject, but setting up a pair of LANSocket 1500 adapters is about as simple as it gets. The kit includes two adapters and two[Ethernet cables](https://www.lifewire.com/what-is-an-ethernet-cable-817548) , which is really all you need to set up your[powerline network](https://www.lifewire.com/powerline-home-networking-and-homeplug-817720) .
@@ -114,26 +107,26 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Connectivity: MIMO with beamforming**
 
  The Extollo LANSocket 1500 powerline adapters use the HomePlug AV2 specification, which includes support for[multi-in, multi-out (MIMO)](https://www.lifewire.com/mimo-wifi-routers-818332) with beamforming, which increases both speed and the allowable distance between adapters. This is a significant improvement over the HomePlug AV specification, which is slower and requires you to place your adapters more closely together.
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/B7pek1jOL0gtn-sl7QsuHcO3_CU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-03-04f860db31f049e1a2ecb40196f7aaf7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jeremy Laukkonen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Network Performance: Blazing fast and low latency**
@@ -147,6 +140,13 @@ Lifewire / Jeremy Laukkonen
  It’s important to note that your personal experience with the LANSocket 1500, or with any powerline adapter, will be dependent on the age and quality of the wiring in your home. Old wiring, damaged wiring, and situations where ground wires aren’t present will all have a negative impact on speeds. If you experience significantly low speeds, try switching the adapters to different outlets.
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/s7sBTQQEDT14u1i6nHyeA6O4hEw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-05-d60cab3cba9446c1b398076a39432b70.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
@@ -164,18 +164,18 @@ Lifewire / Jeremy Laukkonen
 
  The embedded Linux distro does open up some security concerns, but they can be mostly erased if you connect through a firewalled router. You can find cheaper options, but the bottom line is that you won’t find a cheaper alternative that provides the same high speed, low latency, video buffering, and pass-through socket that you get with the LANSocket 1500.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Decent price for such good performance**
 
  The Extollo LANSocket 1500 has an MSRP of $90 for a set of two. That places these adapters right in the same general price range as other similar devices. You can find HomePlug AV2 compatible adapters for a little less, but they typically don’t perform quite as well.
 
  Since the LANSocket 1500 adapters are so easy to use, and provide such a high level of performance, it’s our judgment that they’re worth the $10 or so premium you’ll typically pay compared to similar competitors.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Wins on transfer speeds with some security concerns**
 
@@ -229,20 +229,15 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-insiders-guide-to-ultimate-audio-equipment/"><u>[New] In 2024, The Insider's Guide to Ultimate Audio Equipment</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/expert-secrets-to-exceptional-tiktok-videos/"><u>Expert Secrets to Exceptional TikTok Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-missing-network-connections-on-windows-11-devices/"><u>How to Resolve Missing Network Connections on Windows 11 Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-samsung-galaxy-a05s-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Samsung Galaxy A05s Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-perfect-pairing-sound-and-imagery-in-media-production/"><u>In 2024, Perfect Pairing Sound & Imagery in Media Production</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/navigating-the-tech-world-efficiently-expert-tips-from-toms-hardware/"><u>Navigating the Tech World Efficiently - Expert Tips From Tom's Hardware</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oppo-reno-11-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Oppo Reno 11 Pro 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-inaccessible-camera-problem-on-snap-effective-tips/"><u>Troubleshoot Inaccessible Camera Problem on Snap: Effective Tips</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-speech-recognition-to-mp3-seamless-integration-across-devices-and-oses-for-2024/"><u>Updated Speech Recognition to MP3 Seamless Integration Across Devices and OSes for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-strategies-for-detaching-soundtracks-from-footage/"><u>Updated Strategies for Detaching Soundtracks From Footage</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-superior-audio-format-changer-instant-mp3-creation-with-zero-hassle/"><u>Updated Superior Audio Format Changer Instant MP3 Creation with Zero Hassle</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-top-10-free-browser-based-daws-for-creatives-for-2024/"><u>Updated Top 10 Free Browser-Based DAWs for Creatives for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-turn-off-sounds-and-import-unique-music-for-windows-movie-editor-for-2024/"><u>Updated Turn Off Sounds & Import Unique Music for Windows Movie Editor for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-unveiling-the-ultimate-collection-of-free-mobile-audio-visualizing-apps-for-ios-and-android/"><u>Updated Unveiling the Ultimate Collection of FREE Mobile Audio-Visualizing Apps for iOS and Android</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/whos-leading-in-screen-capture-tech-obs-studios-vs-bandicam/"><u>Who's Leading in Screen Capture Tech OBS Studios Vs. Bandicam</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-leverage-loops-for-stirring-instagram-engagement-and-likes/"><u>[New] 2024 Approved Leverage Loops for Stirring Instagram Engagement & Likes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-content-with-these-25-powerful-instagram-tags-for-2024/"><u>[Updated] Elevate Your Content with These 25 Powerful Instagram Tags for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-fbx-gameplay-snapshot-techniques/"><u>2024 Approved FBX Gameplay Snapshot Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-game-over-top-10-reasons-games-crash-and-how-to-prevent-them/"><u>Avoid Game Over: Top 10 Reasons Games Crash and How to Prevent Them</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-serenade-supreme-top-10-tunes-for-a-forever-commitment/"><u>In 2024, Serenade Supreme Top 10 Tunes for a Forever Commitment</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/mastering-autotune-a-comprehensive-guide-to-using-plugins-within-audacity-for-2024/"><u>Mastering AutoTune A Comprehensive Guide to Using Plugins Within Audacity for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-a-comprehensive-selection-of-free-must-hear-game-sounds-for-2024/"><u>New A Comprehensive Selection of Free, Must-Hear Game Sounds for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-audiovisual-allure-designing-engaging-podcast-covers-that-echo-across-platforms-for-2024/"><u>New Audiovisual Allure Designing Engaging Podcast Covers that Echo Across Platforms for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-amplify-visual-audio-levels-enhancing-video-clarity-and-audibility/"><u>New In 2024, Amplify Visual Audio Levels Enhancing Video Clarity and Audibility</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simplified-steps-to-reset-wacom-drivers-across-win-operating-systems/"><u>Simplified Steps to Reset Wacom Drivers Across WIN Operating Systems</u></a></li>
 </ul></div>
 
