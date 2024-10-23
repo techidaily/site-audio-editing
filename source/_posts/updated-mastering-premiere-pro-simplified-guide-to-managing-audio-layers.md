@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Premiere Pro Simplified Guide to Managing Audio Layers
-date: 2024-10-13T17:50:33.390Z
-updated: 2024-10-17T22:10:22.279Z
+date: 2024-10-22T20:46:19.936Z
+updated: 2024-10-23T19:26:40.857Z
 tags: 
   - audio editing software
   - audio editing
@@ -50,13 +50,6 @@ You can even look at meters while the main window is closed, which is helpful if
 
 You can see the sequence in real time as it is being played, see the peaks and valleys of the sound, and ensure that you can control the volume for every track. You’ll have total control over the sound, and the playback.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Change the Audio Track Mixer Settings
 
 If you are the type of person that likes to work with the sound as it happens, then you can. Recording and mixing on the fly is easy if [you can avoid some mistakes](https://www.audio-issues.com/music-mixing/mixing-mistakes-top-ten/).
@@ -66,10 +59,16 @@ Using mono tracks allows you to alter the sound for left and right settings, whi
 ![ Audio Track Mixer Settings](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The audio files are edited both in the audio interface and in a timeline, where it is either imported or directly recorded. Then their waveforms can be viewed, the volume and sounds can be adjusted, and [larger audio mixes can be divided into sub-mixes](https://www.izotope.com/en/blog/mixing/5-approaches-to-submixes.html).
@@ -77,10 +76,10 @@ The audio files are edited both in the audio interface and in a timeline, where 
 All your changes will happen on the timeline, and you’ll be able to listen to the new track instantly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Using Audio Track Mixer for Your next Project
@@ -92,10 +91,10 @@ Instead of wasting hours staring at the computer screen, using the Audio Track M
 Use the track mixer to manage and customize your sounds, see the volume and base of each individual track in real time, and set when tracks come in and fade out. Using the mixer will allow you to have picture perfect sound quality, every single time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -103,6 +102,13 @@ Use the track mixer to manage and customize your sounds, see the volume and base
 If you want to edit audio in an easier way, here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It is a video editor designed for people who want to enter a higher level of video editing. You can use FilmoraPro to do automatic audio sync. Equalize the highs and lows of your audio to normalize the volume of your clips and Reduce unwanted background sounds, like crowds or wind with this feature. It is a powerful audio editor for you. Download it now to have a try!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -119,20 +125,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-facebook-video-management-made-simple-select-the-best-firefox-tools-and-extensions/"><u>[New] Facebook Video Management Made Simple Select the Best Firefox Tools & Extensions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-bifrost-betrayal-gods-at-war/"><u>[Updated] 2024 Approved Bifrost Betrayal Gods at War</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-get-into-the-game-starting-an-apple-powered-sports-network/"><u>[Updated] 2024 Approved Get Into the Game Starting an Apple-Powered Sports Network</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2023s-favorite-retro-tempo-tunes-compilation/"><u>2023S Favorite Retro-Tempo Tunes Compilation</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-focused-footage-freedom-techniques-for-audio-eradication-across-various-video-formats-mp4-mkv-avi-mov-wmv/"><u>2024 Approved Focused Footage Freedom Techniques for Audio Eradication Across Various Video Formats (MP4, MKV, AVI, MOV, WMV)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-the-ultimate-breakthrough-in-video-derived-audio-extraction/"><u>2024 Approved The Ultimate Breakthrough in Video-Derived Audio Extraction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/como-convertir-audiovideo-ogg-al-codec-ogv-facilmente-y-sin-costo-por-medio-de-movavi/"><u>Cómo Convertir Audio/Video OGG Al Códec OGV Fácilmente Y Sin Costo Por Medio De Movavi</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/experience-flawless-gameplay-on-call-of-duty-black-ops-cold-war-error-fix-for-27711/"><u>Experience Flawless Gameplay on Call of Duty: Black Ops - Cold War (Error Fix for 27711)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-12-pro-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 12 Pro 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-pair-phonetablet-and-computer-calendars-for-seamless-zoom-scheduling/"><u>In 2024, Pair Phone/Tablet & Computer Calendars for Seamless Zoom Scheduling</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-practices-for-detaching-soundtracks-in-film-clips/"><u>New In 2024, Practices for Detaching Soundtracks in Film Clips</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-steps-for-integrating-soundtracks-into-mkv-format-mkv-v202-release/"><u>New Steps for Integrating Soundtracks Into MKV Format (MKV v2.0.2 Release)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/opt-for-basic-or-advanced-chatgpt-functionality/"><u>Opt for Basic or Advanced ChatGPT Functionality</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/step-by-step-tutorial-fix-issues-in-photoviewer-v8-with-stellar-repair-techniques/"><u>Step-by-Step Tutorial: Fix Issues in PhotoViewer v8 with Stellar Repair Techniques</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-enhancing-accessibility-documenting-computer-audio-in-audacity/"><u>Updated 2024 Approved Enhancing Accessibility Documenting Computer Audio in Audacity</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-strategies-for-engaging-elite-videography-talent/"><u>[New] Strategies for Engaging Elite Videography Talent</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-psychology-of-crafting-engaging-podcast-intros/"><u>[New] The Psychology of Crafting Engaging Podcast Intros</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-vocal-excellence-in-action-tweaking-sound-for-instagram-content/"><u>[Updated] 2024 Approved Vocal Excellence in Action Tweaking Sound for Instagram Content</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-best-choices-for-stronger-phone-connectivity-boosters/"><u>2024'S Best Choices for Stronger Phone Connectivity Boosters</u></a></li>
+<li><a href="https://win-help.techidaily.com/comment-remplacer-avec-elegance-le-logiciel-wd-smartware-sur-windows-solutions-de-haut-vol-pour-10-et-11-os/"><u>Comment Remplacer Avec Élégance Le Logiciel WD Smartware Sur Windows: Solutions De Haut Vol Pour 10 Et 11 OS</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/discover-components-fast-and-easy-search-hub/"><u>Discover Components Fast and Easy Search Hub</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-multitask-views-how-to-control-picture-in-picture-on-iphones-for-2024/"><u>Mastering Multitask Views How to Control Picture in Picture on iPhones for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-10-leading-alternatives-for-interacting-and-networking-in-cyberspace/"><u>New 10 Leading Alternatives for Interacting and Networking in Cyberspace</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-10-clever-techniques-to-brighten-up-phone-conversations-with-a-playful-twist/"><u>New 2024 Approved 10 Clever Techniques to Brighten Up Phone Conversations with a Playful Twist</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-harmonious-beginnings-inclusive-vocal-modification-software-options-for-novices-and-pros/"><u>New 2024 Approved Harmonious Beginnings Inclusive Vocal Modification Software Options for Novices & Pros</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-art-of-syncing-sound-enhancing-video-quality-through-dynamic-audio-editing-in-final-cut-pro-x/"><u>New 2024 Approved The Art of Syncing Sound Enhancing Video Quality Through Dynamic Audio Editing in Final Cut Pro X</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-essential-sound-editing-apps-for-mobile-iphone-and-ipad-edition-2023-edition/"><u>New Essential Sound Editing Apps for Mobile IPhone & iPad Edition, 2023 Edition</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-compilation-of-top-spots-for-acquiring-unrestricted-outro-pieces/"><u>New In 2024, Compilation of Top Spots for Acquiring Unrestricted Outro Pieces</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-exclusive-voip-services-designed-for-the-modern-game-player/"><u>New In 2024, Exclusive VoIP Services Designed for the Modern Game Player</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-step-by-step-an-essential-tutorial-on-editing-your-first-podcast/"><u>New In 2024, Step-by-Step An Essential Tutorial on Editing Your First Podcast</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-offline-canon-printer-immediately/"><u>Revive Offline Canon Printer Immediately</u></a></li>
 </ul></div>
 

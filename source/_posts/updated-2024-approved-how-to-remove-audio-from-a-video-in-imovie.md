@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Remove Audio From a Video in iMovie?
-date: 2024-10-10T23:56:16.597Z
-updated: 2024-10-17T20:31:20.488Z
+date: 2024-10-16T17:48:29.853Z
+updated: 2024-10-23T20:59:04.991Z
 tags: 
   - audio editing software
   - audio editing
@@ -51,10 +51,16 @@ From all the available options at the bottom panel, just tap on the sound icon. 
 Once you have muted the sound in the video, just tap on the “Done” button to save the changes. After working on the project, you can tap on the share icon from the bottom and simply save the modified video on your iPad/iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Pro Tip: How to Mute Background Noise in iMovie
@@ -62,10 +68,10 @@ Once you have muted the sound in the video, just tap on the “Done” button to
 If you want, you can instantly use iMovie to remove audio from a part of the clip on your iOS device. To do this, just locate your video on the device and open it. Now, tap on the “Edit” button on the top to get different options. From here, you can tap on the sound icon from the top to mute the audio component in the video.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Remove Audio from a Video in iMovie on Mac?
@@ -93,10 +99,10 @@ I’m sure that after reading this post, you would be able to remove audio from 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -114,15 +120,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-dive-into-vibrant-visuals-gopro-studio-color-correction/"><u>[Updated] 2024 Approved Dive Into Vibrant Visuals GoPro Studio Color Correction</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-mastering-fb-story-sharing-a-four-step-guide/"><u>[Updated] Mastering FB Story Sharing A Four-Step Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/discover-the-leading-tools-for-fb-video-downloads-in-minutes-for-2024/"><u>Discover the Leading Tools for FB Video Downloads in Minutes for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-pro-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Passcode Screen?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nubia-red-magic-8s-proplus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nubia Red Magic 8S Pro+ to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-your-phones-potential-with-ios-11-camera-tips/"><u>In 2024, Unlock Your Phone's Potential with iOS 11 Camera Tips</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/1722890929434-top-rated-television-streaming-services/"><u>Top-Rated Television Streaming Services</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-mastering-microphone-use-in-microsoft-powerpoint-windows-and-macos-guide/"><u>Updated Mastering Microphone Use in Microsoft PowerPoint Windows & macOS Guide</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-professional-techniques-for-effective-voice-recording-on-galaxy-s10s9-devices-for-2024/"><u>Updated Professional Techniques for Effective Voice Recording on Galaxy S10/S9 Devices for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-list-of-windows-compatible-daws-a-guide-to-the-best-free-and-paid-options-for-2024/"><u>Updated The Ultimate List of Windows-Compatible DAWs A Guide to the Best Free & Paid Options for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-innovating-image-vision-mastering-hdr-in-photoshop/"><u>[Updated] In 2024, Innovating Image Vision Mastering HDR in Photoshop</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-from-beginner-to-b-girlboy-selecting-the-best-beat-backdrops-and-background-music-for-rapping/"><u>2024 Approved From Beginner to B-Girl/Boy Selecting the Best Beat Backdrops and Background Music for Rapping</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-vr-selection-top-8-must-have-titles/"><u>2024 Approved Ultimate VR Selection Top 8 Must-Have Titles</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/vating-content-at-your-fingertips-download-youtube-for-ios-for-2024/"><u>Captivating Content at Your Fingertips Download YouTube for iOS for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/dividedimage-synopsis/"><u>DividedImage Synopsis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-gaming-experience-combat-frame-rate-drop-issues-in-resident-evil-village-for-pc-gamers-resolved/"><u>Enhancing Gaming Experience: Combat Frame Rate Drop Issues in Resident Evil Village for PC Gamers - Resolved!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lightrooms-ultimate-guide-to-premium-luts/"><u>LightRoom's Ultimate Guide to Premium LUTs</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-innovations-in-audio-production-adding-subtle-fading-techniques-to-your-toolkit/"><u>New In 2024, Innovations in Audio Production Adding Subtle Fading Techniques to Your Toolkit</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/quiet-the-screenplay-removing-audible-aspects-from-mp4mkvavimov-and-wmv-videos-for-2024/"><u>Quiet the Screenplay Removing Audible Aspects From MP4/MKV/AVI/MOV and WMV Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-when-your-windows-11-start-button-is-unresponsive/"><u>Solution Steps When Your Windows 11 Start Button Is Unresponsive</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-easy-way-to-screen-record-your-ultimate-guide-on-mi-11/"><u>The Easy Way to Screen Record - Your Ultimate Guide on Mi 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-spark-20-proplus-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Spark 20 Pro+ Device</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-secrets-of-sound-regulation-mastering-audio-levels-in-davinci-resolve-for-2024/"><u>Updated The Secrets of Sound Regulation Mastering Audio Levels in DaVinci Resolve for 2024</u></a></li>
 </ul></div>
 

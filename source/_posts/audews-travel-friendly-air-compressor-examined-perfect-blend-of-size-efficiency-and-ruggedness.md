@@ -1,7 +1,7 @@
 ---
 title: "Audew's Travel-Friendly Air Compressor Examined: Perfect Blend of Size, Efficiency & Ruggedness"
-date: 2024-10-10T18:25:13.167Z
-updated: 2024-10-18T01:27:39.723Z
+date: 2024-10-19T16:35:33.385Z
+updated: 2024-10-23T20:26:56.467Z
 categories:
   - BestProducts
 description: "This Article Describes Audew's Travel-Friendly Air Compressor Examined: Perfect Blend of Size, Efficiency & Ruggedness"
@@ -38,13 +38,6 @@ Lifewire / Erika Rawes
 
 3
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## TP-Link Archer C9 Wireless Router
 
 ![TP-Link Archer C9 AC1900](https://www.lifewire.com/thmb/5L4k_oD-GKPyliYY-jL-tLQH-Uk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAC1900_HeroSquare-68c63e89f59a47a2944b2a73434417e9.jpg)
@@ -72,10 +65,10 @@ Lifewire / Erika Rawes
  The TP-Link Archer C9 AC1900 is a budget-friendly router, so it doesn’t include too many of the features you see in newer, more expensive models. It doesn’t include[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) control or MU-MIMO technology, but it’s supposed to provide a long signal range for larger homes, as well as support fast enough speeds for online gaming and 4K media. I tested the TP-Link AC1900 alongside several other[long range routers](https://www.lifewire.com/best-long-range-routers-4122554) to see how well it performs in the real world.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Design: Fingerprints galore**
@@ -94,6 +87,13 @@ Lifewire / Erika Rawes
 
  Setup is simple, and you can use the Tether app or the TP-Link site. There’s a QR code in the quick setup leaflet, so you can easily find the app. As it goes with most routers, you’ll find a temporary network name, password, and login info on the label. The app walks you through the setup process step-by-step, guiding you through creating your 2.4 and 5 GHz networks.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Connectivity: Decent speeds, long range**
 
  The Archer C9 AC1900 is an 801.11ac router. It can reach up to 1300 Mbps on the 5 GHz band and up to 600 Mbps on the 2.4 GHz band for a total of 1900 Mbps. The C9 has[beamforming](https://www.lifewire.com/what-is-wi-fi-beamforming-4171262) , which promotes a more concentrated signal and a longer range. It has four separate gigabit LAN ports for hardwiring devices.
@@ -105,13 +105,20 @@ Lifewire / Erika Rawes
 ![TP-Link Archer C9 AC1900](https://www.lifewire.com/thmb/gPQRxhQBJ13ETuiP-7-Vy9eGcss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAC1900_05-4ddd14a5299f45279789011ce3b9e8ea.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Key features: Guest network and parental controls**
 
@@ -133,37 +140,11 @@ Lifewire / Erika Rawes
 
 ![The TP-Link Archer C9 AC1900 is a budget-friendly router, so it doesn’t include too many of the features you see in newer, more expensive models. It doesn’t include Alexa control or MU-MIMO technology, but it’s supposed to provide a long signal range for larger homes, as well as support fast enough speeds for online gaming and 4K media. I tested the TP-Link AC1900 alongside several other long range routers to see how well it performs in the real world. Design: Fingerprints galore The Archer AC1900 definitely isn’t the most attractive router I’ve seen. The version I tested is black, but TP-Link also makes the C9 in white. The gloss finish gives the AC1900 a cheap look, and it unfortunately shows each and every smudge and fingerprint when you touch the surface. The indicator lights sit on the front face, and you can easily see the network status with a quick glance. The C9 has a slate grey plastic border, which goes around the top perimeter, angles outward, and serves as a stand for the router. The stand allows you to position the AC1900 horizontally or vertically. However, you’ll have to move your cabling under the stand to place the router in a horizontal position, so you can’t easily move it between the two orientations without disconnecting your cables. The Archer C9 has three removable antennas you can swivel and adjust. Although they’re a necessary evil, the antennas are extremely long (almost six inches), so the router looks oddly tall when in the vertical position with the antennas extended. Most of the ports are positioned on the rear, with the exception of the second USB port that sits along the side next to the Wi-Fi button. Setup: Takes less than 10 minutes Setup is simple, and you can use the Tether app or the TP-Link site. There’s a QR code in the quick setup leaflet, so you can easily find the app. As it goes with most routers, you’ll find a temporary network name, password, and login info on the label. The app walks you through the setup process step-by-step, guiding you through creating your 2.4 and 5 GHz networks. Connectivity: Decent speeds, long range The Archer C9 AC1900 is an 801.11ac router. It can reach up to 1300 Mbps on the 5 GHz band and up to 600 Mbps on the 2.4 GHz band for a total of 1900 Mbps. The C9 has beamforming, which promotes a more concentrated signal and a longer range. It has four separate gigabit LAN ports for hardwiring devices. In my test home, my ISP speeds are 500 Mbps. On the 5 GHz band, my laptop’s Wi-Fi speed clocked in at 290 Mbps when sitting in the same room as the router. In the back corner of my office, which is often a dead zone, my laptop clocked 66 Mbps on the 2.4 GHz band. As I traveled far away from the router, I was able to maintain a signal, but the speed slowed down quite a bit. In the backyard, another area where I often experience drop offs, the speed came in at 39 Mbps. I repeated the Ookla speed test numerous times, and the results remained around the same in each room. I was able to get slightly higher speeds on an iPhone 11, but overall the router performed extremely well at close proximity, but not so well at a distance. Key features: Guest network and parental controls The C9 has two USB ports (one USB 2.0 and one USB 3.0), so you can share printers or storage over the network. Although this is somewhat of a basic router, it has some modern perks. It supports the most recent Internet Protocol version, IPv6. You can also create a guest network, so you don’t have to share your main network credentials with visitors. The C9 does feature parental controls, but they aren’t exactly comprehensive. Software: TP-Link Tether app You can control the router’s functions from the companion app, Tether. In the app, you can do things like set parental time limits on devices, create a guest network, block devices from the network, and perform basic network maintenance. I also recently tested the TP-Link Archer AX6000, which uses the Tether app as well. The app interface changes based on which router you’re using. With the Archer AX6000, I had more options visible because it’s a more feature-rich unit. I was impressed with the app’s ability to remove those features from the interface with the C9, instead of leaving them in place for me to click on and get that “not available with this model” message. The TP-Link site gives you access to more advanced features, like USB settings for file and printer sharing, more advanced parental controls (blocking sites), access control, DHCP settings, and forwarding and security features. Price: A budget router The Archer C9 AC1900 is an older model, so it’s not as readily available as it was a couple of years back. You can typically find it for around $120, which is a good price for a long range router with its feature set. TP-Link Archer C9 AC1900 vs. ASUS RT-AC1900 The ASUS RT-AC1900 typically sells for closer to $150, but you can find it refurbished or on sale for around the same price as the Archer AC1900. The two routers look similar at first glance—they both have three very long antennas protruding from the top. They have similar specifications, including a dual-core processor, AC1900 speed, and dual-bands, and a long range. But, the ASUS RT-AC1900 offers a few perks, like TrendMicro security and NVIDIA GameStream technology.](https://www.lifewire.com/thmb/m3x5QNiGd-1noZGGAsTWcydG09U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAC1900_03-3c172ddeb5b34d9a98b7ac1e91b9c73f.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
 
 ## **Price: A budget router**
 
  The Archer C9 AC1900 is an older model, so it’s not as readily available as it was a couple of years back. You can typically find it for around $120, which is a good price for a long-range router with its feature set.
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **TP-Link Archer C9 AC1900 vs. ASUS RT-AC1900**
 
@@ -174,6 +155,19 @@ Lifewire / Erika Rawes
  **A reliable budget router that will help prevent drop-offs.**
 
  The TP-Link Archer C9 AC1900 is a good option for those who want a reasonably fast and stable network connection, but don’t want to pay a lot of cash for extra bells and whistles.
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -211,22 +205,22 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-live-streaming-war-confronting-the-titans-wirecast-and-obs/"><u>[Updated] In 2024, Live Streaming War Confronting the Titans, Wirecast & OBS</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-perfect-your-posts-instagram-video-edits-with-borders/"><u>2024 Approved Perfect Your Posts Instagram Video Edits with Borders</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-xcom-2-game-crashes-in-windows-a-comprehensive-guide/"><u>Fixing the 'XCOM 2' Game Crashes in Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-file-flow-fixtures-easy-moves-for-your-machine/"><u>In 2024, File Flow Fixtures Easy Moves for Your Machine</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-the-ultimate-guide-to-sound-modification-tools-from-introduction-to-alternatives/"><u>In 2024, The Ultimate Guide to Sound Modification Tools From Introduction to Alternatives</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-top-10-video-chat-sites-to-meet-funny-strangers/"><u>In 2024, Top 10 Video Chat Sites to Meet Funny Strangers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/leading-edge-mp3-sync-service-at-no-cost-for-2024/"><u>Leading Edge MP3 Sync Service at No Cost for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-discover-top-9-podcast-microphone-models-designed-for-expert-level-use/"><u>New 2024 Approved Discover Top 9 Podcast Microphone Models Designed for Expert Level Use</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-how-to-reverse-audio-with-best-audio-reversers/"><u>New How to Reverse Audio with Best Audio Reversers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-how-to-separate-audio-from-video-in-imovie-on-mac-in-2024/"><u>New How to Separate Audio From Video in iMovie on Mac, In 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-best-audio-libraries-top-10-sites-for-high-quality-video-soundtracks/"><u>New In 2024, Best Audio Libraries Top 10 Sites for High-Quality Video Soundtracks</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-how-to-balance-your-stream-sound-with-obs-audio-ducking/"><u>New In 2024, How to Balance Your Stream Sound with OBS Audio Ducking?</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-minecraft-stalling-issues-proven-techniques-to-enhance-your-gaming/"><u>Overcome Minecraft Stalling Issues: Proven Techniques to Enhance Your Gaming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-diy-techniques-to-convert-dvd-content-into-avi-video-without-spending-a-dime/"><u>Top 5 DIY Techniques to Convert DVD Content Into AVI Video Without Spending a Dime</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/top-budget-friendly-4k-capture-devices-for-2024/"><u>Top Budget-Friendly 4K Capture Devices for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/topas-reproductores-de-flujo-multimedia-en-video-libre-y-sin-coste-unete-a-la-lista/"><u>Topas Reproductores De Flujo Multimedia en Vídeo Libre Y Sin Coste: ¡Únete a La Lista!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-budget-friendly-obs-optimization-techniques/"><u>[New] In 2024, Budget-Friendly OBS Optimization Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-viral-loop-creations-instagrams-boomerang-guide/"><u>[Updated] In 2024, Viral Loop Creations Instagram's Boomerang Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-six-steps-to-a-color-rich-photographic-world/"><u>[Updated] Six Steps to a Color-Rich Photographic World</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-potential-how-to-excel-on-spotify-ads/"><u>Harnessing Potential How to Excel on Spotify Ads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-secrets-to-subtle-sound-diminishment-in-lumafusion/"><u>In 2024, The Secrets to Subtle Sound Diminishment in Lumafusion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-360-eye-exploration-test/"><u>In 2024, Ultimate 360° Eye Exploration Test</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-navigating-the-best-no-cost-podcast-software-a-comprehensive-list-for-mobile-users-for-2024/"><u>New Navigating the Best No-Cost Podcast Software A Comprehensive List for Mobile Users for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-source-directory-10-websites-offering-high-definition-video-wallpapers-and-backgrounds-for-2024/"><u>New The Ultimate Source Directory 10 Websites Offering High-Definition Video Wallpapers and Backgrounds for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-voicechanger-your-guide-to-tailoring-communication-on-skype-platforms-for-2024/"><u>New VoiceChanger Your Guide to Tailoring Communication on Skype Platforms for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/professional-tips-for-ios-screen-capture-techniques-for-2024/"><u>Professional Tips for iOS Screen Capture Techniques for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/swift-buy-cinematic-clarity-package/"><u>Swift Buy: Cinematic Clarity Package</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-sign-in-errors-with-user-profile-services/"><u>Troubleshooting Windows 11 Sign-In Errors with User Profile Services</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-premier-free-online-confluence-of-mp3-files-2023-reviewed/"><u>Updated 2024 Approved The Premier Free Online Confluence of MP3 Files 2023 Reviewed</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-top-10-audio-recording-software-to-capture-your-voice-easily/"><u>Updated 2024 Approved Top 10 Audio Recording Software to Capture Your Voice Easily</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-audiophiles-manual-to-volume-control-on-digital-media-updated-for-2024/"><u>Updated Audiophiles Manual to Volume Control on Digital Media – Updated for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-disable-auditory-output-and-insert-novel-audio-elements-in-microsofts-video-creator/"><u>Updated Disable Auditory Output & Insert Novel Audio Elements in Microsofts Video Creator</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-expert-endorsed-the-best-9-podcast-microphones-to-elevate-your-audio-level-9-for-2024/"><u>Updated Expert-Endorsed The Best 9 Podcast Microphones to Elevate Your Audio (Level 9) for 2024</u></a></li>
 </ul></div>
 
