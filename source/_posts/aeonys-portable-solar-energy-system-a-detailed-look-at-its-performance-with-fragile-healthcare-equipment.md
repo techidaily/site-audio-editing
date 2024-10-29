@@ -1,7 +1,7 @@
 ---
 title: "AeonY's Portable Solar Energy System: A Detailed Look at Its Performance with Fragile Healthcare Equipment"
-date: 2024-10-21T16:25:35.350Z
-updated: 2024-10-23T20:16:02.377Z
+date: 2024-10-27T16:26:40.474Z
+updated: 2024-10-29T16:11:18.834Z
 categories:
   - BestProducts
 description: "This Article Describes AeonY's Portable Solar Energy System: A Detailed Look at Its Performance with Fragile Healthcare Equipment"
@@ -42,13 +42,6 @@ Lifewire / Jeremy Laukkonen
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/KabMCV8f8k1Pxtd-vhM86zkedrw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-HeroSquare-41f20e9c72b84bfd92f578807ae1edaf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Jeremy Laukkonen
 
 [View On Amazon](https://www.amazon.com/Extollo-Powerline-LANSocket-1500-HomePlug/dp/B00Y3XRRI8/?tag=lifewire-onsite-prod-20&ascsubtag=4778158%7Cneae2cae292c94a2b9373551f10cd366c17%7CB00Y3XRRI8)
@@ -76,20 +69,19 @@ Lifewire / Jeremy Laukkonen
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/RdkUagNDw_OXvrfwGOGMOW0T13A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215_06-4afb73694c464ec8a21e45d7f8ad3327.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Design: Big, bulky, and basic, with a filtered pass-through**
 
@@ -105,6 +97,13 @@ Lifewire / Jeremy Laukkonen
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/Ahhqweppp7LoE4s2gervkZuyOS8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-04-e086de486a5a4e16ac16cff8ae813b22.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Jeremy Laukkonen
 
 ## **Setup Process: Pain-free plug and play**
@@ -119,14 +118,14 @@ Lifewire / Jeremy Laukkonen
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/BvO_NJ8pdby7NqO2Fq-orJ_NbFI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-02-40358222569c4a55b4d04e7aadf01af7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Connectivity: MIMO with beamforming**
 
@@ -135,6 +134,13 @@ Lifewire / Jeremy Laukkonen
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/B7pek1jOL0gtn-sl7QsuHcO3_CU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-03-04f860db31f049e1a2ecb40196f7aaf7.jpg)
 
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Network Performance: Blazing fast and low latency**
 
@@ -164,18 +170,18 @@ Lifewire / Jeremy Laukkonen
 
  The embedded Linux distro does open up some security concerns, but they can be mostly erased if you connect through a firewalled router. You can find cheaper options, but the bottom line is that you won’t find a cheaper alternative that provides the same high speed, low latency, video buffering, and pass-through socket that you get with the LANSocket 1500.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Decent price for such good performance**
 
  The Extollo LANSocket 1500 has an MSRP of $90 for a set of two. That places these adapters right in the same general price range as other similar devices. You can find HomePlug AV2 compatible adapters for a little less, but they typically don’t perform quite as well.
 
  Since the LANSocket 1500 adapters are so easy to use, and provide such a high level of performance, it’s our judgment that they’re worth the $10 or so premium you’ll typically pay compared to similar competitors.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: Wins on transfer speeds with some security concerns**
 
@@ -229,24 +235,22 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-best-mobile-and-desktop-apps-adjusting-audio-playback-speed-for-2024/"><u>[New] Best Mobile & Desktop Apps Adjusting Audio Playback Speed for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-talecraft-triumphs-the-leading-academies-in-narrative-arts/"><u>[New] In 2024, Talecraft Triumphs The Leading Academies in Narrative Arts</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-ultimate-checklist-for-recording-whatsapp-discussions/"><u>[New] The Ultimate Checklist for Recording WhatsApp Discussions</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-advanced-dynamic-typographic-options/"><u>[Updated] In 2024, Advanced Dynamic Typographic Options</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-symphony-of-screens-adding-music-to-online-chronicles/"><u>[Updated] In 2024, Symphony of Screens Adding Music to Online Chronicles</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlined-guide-5-efficient-windows-11-audio-recording-tips/"><u>2024 Approved Streamlined Guide 5 Efficient Windows 11 Audio Recording Tips</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/leading-5-high-quality-webcams-with-audio-support-for-2024/"><u>Leading 5 High-Quality Webcams with Audio Support for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/new-feature-alert-transfer-images-from-smartphone-to-windows-11-effortlessly/"><u>New Feature Alert: Transfer Images From Smartphone to Windows 11 Effortlessly</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-best-free-online-daw-software-your-2023-guide-to-browser-based-recording-for-2024/"><u>New The Best Free Online DAW Software Your 2023 Guide to Browser-Based Recording for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-step-by-step-process-for-transforming-videos-through-dubbing-using-filmora/"><u>New The Ultimate Step-by-Step Process for Transforming Videos Through Dubbing Using Filmora</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-essential-handbook-to-audio-timeline-control-mastering-keyframe-creation-and-editing-in-adobe-premiere-pro-mac/"><u>The Essential Handbook to Audio Timeline Control Mastering Keyframe Creation and Editing in Adobe Premiere Pro (Mac)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-analyzing-auditory-excellence-the-revised-assessment-of-the-cambridge-cxu-equipment-2023-edition/"><u>Updated 2024 Approved Analyzing Auditory Excellence The Revised Assessment of the Cambridge CXU Equipment, 2023 Edition</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-essential-tips-for-capturing-sound-with-your-samsung-s10s9/"><u>Updated 2024 Approved Essential Tips for Capturing Sound with Your Samsung S10/S9</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-seek-out-wolfs-vocalization-echo/"><u>Updated 2024 Approved Seek Out Wolfs Vocalization Echo</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-audiovisual-masterpieces-unveiled-top-5-music-visualizations-for-every-taste/"><u>Updated Audiovisual Masterpieces Unveiled Top 5 Music Visualizations for Every Taste</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-merge-video-and-audio/"><u>Updated How to Merge Video and Audio</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-premier-audio-harvesting-technique-for-videos-mastering-sound-retrieval/"><u>Updated In 2024, Premier Audio Harvesting Technique for Videos Mastering Sound Retrieval</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-computers-performance-with-our-prime-day-special-on-high-speed-nvme-ssd-drives/"><u>Upgrade Your Computer's Performance with Our Prime Day Special on High-Speed NVMe SSD Drives!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-diving-deeper-into-webcam-possibilities/"><u>[New] Diving Deeper Into Webcam Possibilities</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ow-cost-leverage-to-youtube-lore-sponsorship-hacks-for-small-spheres/"><u>[New] Low-Cost Leverage to YouTube Lore Sponsorship Hacks for Small Spheres</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-essential-mac-live-streaming-apps/"><u>2024 Approved Top 5 Essential Mac Live Streaming Apps</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/1726027305651-6/"><u>流行中国音楽ダウンロード経験豊かなファン選んだ最高の6カ所:おすすめリストあります！</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/digiarty-18th-anniversary-special-project-a-milestone-celebration/"><u>DigiArty 18Th Anniversary Special Project: A Milestone Celebration</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-proven-choices-selecting-the-top-6-costless-cloud-based-sound-editors-for-2024/"><u>New Proven Choices Selecting the Top 6 Costless Cloud-Based Sound Editors for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/optimizing-lengthy-videos-for-seamless-sharing-on-whatsapp/"><u>Optimizing Lengthy Videos for Seamless Sharing on WhatsApp</u></a></li>
+<li><a href="https://techtrends.techidaily.com/platinum-vs-wonderfox-in-depth-comparison-and-review-of-winx-dvd-ripper-pros-and-cons/"><u>Platinum Vs WonderFox: In-Depth Comparison & Review of WinX DVD Ripper Pros & Cons</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-problems-troubleshooting-steps-when-multiversus-wont-start-on-windows/"><u>Solve Your Problems: Troubleshooting Steps When MultiVersus Won't Start on Windows</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/top-10-free-audio-capture-tools-for-excellent-podcasts-updated-for-2024/"><u>Top 10 Free Audio Capture Tools for Excellent Podcasts (Updated) for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-harmonizing-visuals-and-audio-the-step-by-step-guide-to-fade-inout-techniques-in-adobe-after-effects/"><u>Updated 2024 Approved Harmonizing Visuals & Audio The Step-by-Step Guide to Fade In/Out Techniques in Adobe After Effects</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-how-to-fade-in-and-fade-out-audio-in-imovie/"><u>Updated 2024 Approved How to Fade in and Fade Out Audio in iMovie?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-audiophiles-handbook-advanced-imovie-audio-editing-mastery/"><u>Updated Audiophiles Handbook Advanced iMovie Audio Editing Mastery</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-how-can-you-use-suspense-music-to-master-film-score/"><u>Updated How Can You Use Suspense Music to Master Film Score</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-audio-fur-phenomenon-sample/"><u>Updated In 2024, Audio Fur Phenomenon Sample</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-silencing-the-stridor-techniques-for-defeating-hiss-in-professional-recordings/"><u>Updated In 2024, Silencing the Stridor Techniques for Defeating Hiss in Professional Recordings</u></a></li>
 </ul></div>
 

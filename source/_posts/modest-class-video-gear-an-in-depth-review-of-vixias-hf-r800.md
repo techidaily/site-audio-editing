@@ -1,7 +1,7 @@
 ---
 title: "Modest-Class Video Gear: An In-Depth Review of VIXIA’s HF R800"
-date: 2024-10-22T16:42:55.442Z
-updated: 2024-10-23T17:37:59.730Z
+date: 2024-10-28T16:14:02.734Z
+updated: 2024-10-29T16:33:28.158Z
 categories:
   - BestProducts
 description: "This Article Describes Modest-Class Video Gear: An In-Depth Review of VIXIA’s HF R800"
@@ -46,10 +46,10 @@ Lifewire / Emily Isaacs
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/kImh0m4twEbigZ9dAMqYCtAxbnk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_HeroSquare-518c472b5b5341fe8c0cf05954c8cc94.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
@@ -72,18 +72,18 @@ Lifewire / Emily Isaacs
 
  You can tell Microsoft put a considerable amount of thought into the Sculpt Ergonomic Keyboard’s design. From the manta ray style folds, which keep shoulders and hands at a relaxed, comfortable angle, to the detached numpad and magnetized risers for increased customization options when you want them, the Sculpt is quite the package. As with anything new, it took a period of adjustment, but we found it relatively quick thanks to the intuitive, easy-to-use design.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Made for comfort**
 
  The Sculpt is an ergonomic keyboard with a split design akin to that of a manta ray. The two halves of the keyboard sweep outwards and downwards creating an empty, raised space in the center of its swoop design. Its keys vary in size, with those nearest to the split being slightly wider than those on the outer edges of the keyboard. It’s largely made with plastic and has a bit of a clacky sound as you type. The Sculpt employs a standard layout with a fabric wrist pad at the front for extra comfort. This intuitive, split design combined with the wrist pad help your wrists, hands, and shoulders sit at a neutral, natural angle in order to[alleviate repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) that frequent typists are prone to over time.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/Cgdvz2K5QV0PheSGAjQNXTdhKP4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_02-e457e23b0c0848dbaad1197549efcc47.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -103,13 +103,6 @@ Lifewire / Emily Isaacs
 
  Setting the Microsoft Sculpt up is simple. Simply lift the lid off of the battery compartment on the backside of the unit and remove the slip of paper that separates the two AAA batteries. Then, take the provided dongle from the compartment and attach it to the[USB port](https://www.lifewire.com/what-is-a-usb-port-818166) of your PC. If you’re planning on using the detached numpad, don’t forget to also remove the slip of paper from its backside to active it. Then the Sculpt is ready for use.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Battery and Features: Backlighting missing, and just one dongle to rule them all**
 
  Backlighting—we love it, but the Sculpt doesn’t have it. This is, in large part, thanks to its battery-powered design. It wouldn’t make a great deal of sense for the Sculpt to have backlighting since the two AAA[alkaline batteries](https://www.lifewire.com/best-aa-and-aaa-rechargeable-batteries-4134295) would drain significantly faster, but we sure did miss it. It’s important to note that our love of backlighting is also a matter of personal preference. If it’s important to you, you might want to consider a different model. If you can live without it, the Sculpt still has a lot to offer.
@@ -118,13 +111,6 @@ Lifewire / Emily Isaacs
 
  One major drawback to the Sculpt’s design is the dongle that associates the keyboard to your PC is one of a kind. This is thanks to the AES 128-bit encryption technology the Sculpt uses to keep your keystrokes safe. Associated to the keyboard at the factory, there simply is no replacing it if it’s lost. While the Sculpt isn’t really travel-friendly due to its size, it would do best in an environment where it’s set up once and stays put so as to prevent losing this important piece of tech.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Great for the features**
 
  Ergonomic keyboards tend to cost anywhere from $50-$200\. Generally retailing for around $90 on Amazon or $129.95 MSRP, the Sculpt sits in the middle. Its features are nice for the price, too. Encrypted keystrokes, wireless technology, a detached numpad, a magnetic riser, and an ergonomic design with a wrist pad for extra comfort makes this keyboard surefire winner in our books.
@@ -132,6 +118,13 @@ Lifewire / Emily Isaacs
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/BarmRhIEQlGkF0UEDLP9peOh3co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_05-646724c396184c12836f3f2ce2ced675.jpg)
 
  Lifewire / Emily Isaacs
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Microsoft Sculpt Ergonomic Keyboard vs. Microsoft Surface Ergonomic Keyboard**
 
@@ -144,6 +137,13 @@ Lifewire / Emily Isaacs
 [Microsoft Surface Ergonomic Keyboard Review](https://www.lifewire.com/microsoft-surface-ergonomic-keyboard-review-4780282)
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/vn9L7kezNDVwJaDwHzeLbefGfDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_04-df81d8c1ef3c4387ab900dfa381e1e0f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -187,20 +187,18 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-navigating-to-past-facebook-stories-a-step-by-step-mobile-and-laptop-guide/"><u>[Updated] Navigating to Past Facebook Stories A Step-by-Step Mobile & Laptop Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/discover-how-windows-11-revamps-the-classic-task-manager-experience/"><u>Discover How Windows 11 Revamps the Classic Task Manager Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-garmin-venu-revolutionizing-all-day-activity-monitoring-and-health-management/"><u>Expert Analysis of the Garmin Venu: Revolutionizing All-Day Activity Monitoring and Health Management</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-vivo-y78t-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Vivo Y78t</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-updated-graphics-card-drivers-for-gigabyte-gc-wb867d/"><u>Install Updated Graphics Card Drivers for Gigabyte GC-WB867D</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-settings-how-to-disable-emergency-and-child-abduction-alarms-easily/"><u>IPhone Settings: How To Disable Emergency and Child Abduction Alarms Easily</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-a-comparative-review-of-top-6-chrome-devices-offering-advanced-voice-manipulation-features-filmmagicworkshop/"><u>New 2024 Approved A Comparative Review of Top 6 Chrome Devices Offering Advanced Voice Manipulation Features - FilmMagicWorkshop</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-discovering-new-wave-top-7-high-quality-transition-sounds-for-creatives/"><u>New 2024 Approved Discovering New Wave Top 7 High-Quality Transition Sounds for Creatives</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-beat-centric-editing-mastery-the-ultimate-guide-to-audio-and-video-coordination-in-final-cut-pro-x/"><u>New Beat-Centric Editing Mastery The Ultimate Guide to Audio and Video Coordination in Final Cut Pro X</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-effortless-auditory-upgrades-for-your-videography-the-ultimate-guide-for-2024/"><u>New Effortless Auditory Upgrades for Your Videography The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-audiovisual-mastery-on-a-budget-the-ultimate-list-of-free-audio-mixers/"><u>New In 2024, Audiovisual Mastery on a Budget The Ultimate List of Free Audio Mixers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-no-cost-voice-shaping-secrets-revealed-comprehensive-guide-to-professional-video-voice-edits-using-filmora/"><u>New In 2024, No-Cost Voice Shaping Secrets Revealed Comprehensive Guide to Professional Video Voice Edits Using Filmora</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-step-by-step-silencing-audio-in-iphone-videos/"><u>New In 2024, Step-by-Step Silencing Audio in iPhone Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-pathway-to-personalizing-windows-11-fax-cover-pages/"><u>The Pathway to Personalizing Windows 11 Fax Cover Pages</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-passionate-communicator-evaluation-revision-viii/"><u>[New] 2024 Approved Passionate Communicator Evaluation - Revision VIII</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-effortless-visual-transitions-using-instagram-chroma-keying-for-2024/"><u>[New] Effortless Visual Transitions Using Instagram Chroma Keying for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-innovative-iphone-macro-tactics-for-professional-results/"><u>[New] Innovative iPhone Macro Tactics for Professional Results</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-master-the-art-of-seamless-video-compatibility/"><u>[New] Master the Art of Seamless Video Compatibility</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-ad-free-android-video-maker/"><u>[Updated] Ultimate Ad-Free Android Video Maker</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-rhythm-ranch-a-curated-collection-of-dj-sounds/"><u>2024 Approved Rhythm Ranch A Curated Collection of DJ Sounds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/finnish-innovation-shines-next-gen-vr-glasses-set-to-challenge-the-mighty-apple-vision-pro-perfect-for-professionals/"><u>Finnish Innovation Shines: Next-Gen VR Glasses Set to Challenge the Mighty Apple Vision Pro, Perfect for Professionals!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-repair-smbus-connectivity-issues-with-synaptics-devices-under-windows-10/"><u>How to Repair SMBus Connectivity Issues with Synaptics Devices Under Windows 10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-a58-4g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo A58 4G FRP?</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-graphics-milestone-for-amd-will-fsr-3-challenge-nvidias-dlss-35/"><u>New Graphics Milestone for AMD, Will FSR 3 Challenge NVIDIA’s DLSS 3.5?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-how-to-add-video-to-audio-for-2024/"><u>New How to Add Video to Audio for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-a-curated-list-of-8-exceptional-downloads-realistic-and-authentic-rain-audio-samples/"><u>New In 2024, A Curated List of 8 Exceptional Downloads Realistic and Authentic Rain Audio Samples</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-audio-architects-guide-to-stripping-down-beats-online/"><u>New In 2024, The Audio Architects Guide to Stripping Down Beats Online</u></a></li>
 </ul></div>
 

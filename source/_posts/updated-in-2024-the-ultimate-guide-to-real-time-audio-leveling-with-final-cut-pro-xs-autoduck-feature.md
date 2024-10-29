@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Ultimate Guide to Real-Time Audio Leveling with Final Cut Pro Xs AutoDuck Feature
-date: 2024-10-19T18:39:14.692Z
-updated: 2024-10-23T17:43:36.954Z
+date: 2024-10-26T16:07:14.428Z
+updated: 2024-10-29T16:32:55.726Z
 tags: 
   - audio editing software
   - audio editing
@@ -81,10 +81,10 @@ As you can see, it is pretty tough to do audio ducking in Final Cut Pro as there
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ideally, you can perform audio ducking on voiceover or another soundtrack in Wondershare Filmora. To perform music ducking via Wondershare Filmora on Mac, you can follow these steps:
@@ -109,27 +109,20 @@ Great! Now, on the timeline of Filmora, you can see your video and the music tra
 
 ![Filmora Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Afterward, right-click the audio track and select the “Adjust Audio” option from the context menu.
 
 ![Filmora Adjust Audio](https://images.wondershare.com/filmora/article-images/right-click-adjust-audio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This will open a dedicated Audio Mixer window on the screen. Just go to the Audio tab and enable the “Ducking” option to lower the volume of other audio tracks. You can also select the desired level for music ducking to implement.
 
 ![Filmora Audio Ducking](https://images.wondershare.com/filmora/guide/audio-ducking-lower-other-clips.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 3: Export the Edited Video
 
@@ -138,15 +131,34 @@ That’s it! After performing audio ducking on Filmora, you can preview the resu
 ![Filmora Export](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 There you go! After following this guide, you can easily learn how to do audio ducking in Final Cut Pro X easily. Since there is no inbuilt FCPX audio ducking option, you can use a third-party tool like FCPX AutoDuck. Apart from that, if you are looking for a better alternative to do sound ducking, then simply use Wondershare Filmora. It is a user-friendly and resourceful application that would let you perform automatic music ducking like a pro.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -163,18 +175,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/elebrating-beauty-innovators-youtubes-elite-list/"><u>[New] Celebrating Beauty Innovators YouTube's Elite List</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-adding-melodies-to-timelines-a-stepwise-guide-iosandroid-for-2024/"><u>[Updated] Adding Melodies to Timelines A Stepwise Guide (iOS/Android) for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-advanced-tactics-for-maximizing-the-use-of-virtual-boards-during-zoom-sessions-desktopiosandroid/"><u>[Updated] Advanced Tactics for Maximizing the Use of Virtual Boards During Zoom Sessions (Desktop/iOS/Android)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-customizing-youtubes-direct-subscribe-link-for-2024/"><u>[Updated] Customizing YouTube's Direct Subscribe Link for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-infinix-hot-40-pro-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Infinix Hot 40 Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-preferred-destinations-for-zero-price-guitar-backdrop-images-and-song-selections/"><u>In 2024, Preferred Destinations for Zero-Price Guitar Backdrop Images and Song Selections</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-the-silence-shift-a-comprehensive-look-at-how-to-strip-sound-from-digital-videos-on-the-web/"><u>In 2024, The Silence Shift A Comprehensive Look at How to Strip Sound From Digital Videos on the Web</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-the-ultimate-list-of-iphone-and-ipad-audio-cutting-software/"><u>In 2024, The Ultimate List of iPhone and iPad Audio Cutting Software</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/navigating-audio-segmentation-easy-ways-to-split-your-mp3s-and-aacs/"><u>Navigating Audio Segmentation Easy Ways to Split Your MP3s and AACs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-unlocking-new-sounds-a-journey-to-discovering-personal-vocal-change/"><u>New 2024 Approved Unlocking New Sounds A Journey to Discovering Personal Vocal Change</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-seamless-sound-sync-a-step-by-step-guide-to-premiere-pro-audio-management/"><u>New In 2024, Seamless Sound Sync A Step-by-Step Guide to Premiere Pro Audio Management</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Xiaomi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rafting-journeys-a-comprehensive-guide-for-aspiring-travel-content-creators/"><u>[New] Crafting Journeys A Comprehensive Guide for Aspiring Travel Content Creators</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-perfect-inversion-youtube-reverse-guidebook/"><u>2024 Approved The Perfect Inversion YouTube Reverse Guidebook</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-winsplit-display-issues-now/"><u>Fixing WinSplit Display Issues Now!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-oneplus-nord-ce-3-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on OnePlus Nord CE 3 5G?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instas-power-players-a-guide-to-your-niches-movers-and-shakers-for-2024/"><u>Insta’s Power Players A Guide to Your Niche's Movers & Shakers for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-from-silence-to-symphony-adding-music-to-your-online-videos-effortlessly/"><u>New 2024 Approved From Silence to Symphony Adding Music to Your Online Videos Effortlessly</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-audiophiles-linux-playbook-the-best-free-tools-for-cutting-edge-audio-recording/"><u>New Audiophiles Linux Playbook The Best Free Tools for Cutting-Edge Audio Recording</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-echo-excellence-enhancing-windows-pc-sounds-with-online-acoustic-plugins/"><u>New In 2024, Echo Excellence Enhancing Windows PC Sounds with Online Acoustic Plugins</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-magix-movie-editor-secrets-perfecting-audio-fusion-in-your-clips/"><u>New In 2024, Magix Movie Editor Secrets Perfecting Audio Fusion in Your Clips</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-leading-lineup-best-no-charges-music-transformation-apps-for-iphoneandroid-enthusiasts/"><u>New In 2024, The Leading Lineup Best No-Charges Music Transformation Apps for iPhone/Android Enthusiasts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/revolutionizing-the-way-you-engage-early-on-in-listening-for-2024/"><u>Revolutionizing the Way You Engage Early on in Listening for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/ring-sound-repeat-a-comprehensible-guide-to-personalization-on-android-devices-for-2024/"><u>Ring, Sound, Repeat A Comprehensible Guide to Personalization on Android Devices for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-itel-a60-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Itel A60 Android SIM Unlock APK</u></a></li>
 </ul></div>
 

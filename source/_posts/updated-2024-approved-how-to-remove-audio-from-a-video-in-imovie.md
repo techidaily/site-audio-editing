@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Remove Audio From a Video in iMovie?
-date: 2024-10-16T17:48:29.853Z
-updated: 2024-10-23T20:59:04.991Z
+date: 2024-10-22T16:40:14.308Z
+updated: 2024-10-29T16:14:34.490Z
 tags: 
   - audio editing software
   - audio editing
@@ -51,16 +51,10 @@ From all the available options at the bottom panel, just tap on the sound icon. 
 Once you have muted the sound in the video, just tap on the “Done” button to save the changes. After working on the project, you can tap on the share icon from the bottom and simply save the modified video on your iPad/iPhone.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Pro Tip: How to Mute Background Noise in iMovie
@@ -68,10 +62,10 @@ Once you have muted the sound in the video, just tap on the “Done” button to
 If you want, you can instantly use iMovie to remove audio from a part of the clip on your iOS device. To do this, just locate your video on the device and open it. Now, tap on the “Edit” button on the top to get different options. From here, you can tap on the sound icon from the top to mute the audio component in the video.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Remove Audio from a Video in iMovie on Mac?
@@ -99,10 +93,10 @@ I’m sure that after reading this post, you would be able to remove audio from 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -120,18 +114,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-innovating-image-vision-mastering-hdr-in-photoshop/"><u>[Updated] In 2024, Innovating Image Vision Mastering HDR in Photoshop</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-from-beginner-to-b-girlboy-selecting-the-best-beat-backdrops-and-background-music-for-rapping/"><u>2024 Approved From Beginner to B-Girl/Boy Selecting the Best Beat Backdrops and Background Music for Rapping</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-vr-selection-top-8-must-have-titles/"><u>2024 Approved Ultimate VR Selection Top 8 Must-Have Titles</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/vating-content-at-your-fingertips-download-youtube-for-ios-for-2024/"><u>Captivating Content at Your Fingertips Download YouTube for iOS for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/dividedimage-synopsis/"><u>DividedImage Synopsis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-gaming-experience-combat-frame-rate-drop-issues-in-resident-evil-village-for-pc-gamers-resolved/"><u>Enhancing Gaming Experience: Combat Frame Rate Drop Issues in Resident Evil Village for PC Gamers - Resolved!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/lightrooms-ultimate-guide-to-premium-luts/"><u>LightRoom's Ultimate Guide to Premium LUTs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-innovations-in-audio-production-adding-subtle-fading-techniques-to-your-toolkit/"><u>New In 2024, Innovations in Audio Production Adding Subtle Fading Techniques to Your Toolkit</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/quiet-the-screenplay-removing-audible-aspects-from-mp4mkvavimov-and-wmv-videos-for-2024/"><u>Quiet the Screenplay Removing Audible Aspects From MP4/MKV/AVI/MOV and WMV Videos for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-when-your-windows-11-start-button-is-unresponsive/"><u>Solution Steps When Your Windows 11 Start Button Is Unresponsive</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-easy-way-to-screen-record-your-ultimate-guide-on-mi-11/"><u>The Easy Way to Screen Record - Your Ultimate Guide on Mi 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-spark-20-proplus-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Spark 20 Pro+ Device</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-secrets-of-sound-regulation-mastering-audio-levels-in-davinci-resolve-for-2024/"><u>Updated The Secrets of Sound Regulation Mastering Audio Levels in DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-crafting-full-sphere-videos-on-iphone-ideal-for-facebook/"><u>[Updated] 2024 Approved Crafting Full-Sphere Videos on iPhone, Ideal for Facebook</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-discovering-the-magic-of-augmented-realms-for-2024/"><u>[Updated] Discovering the Magic of Augmented Realms for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-from-game-day-to-hollywood-sports-video-success-story/"><u>[Updated] In 2024, From Game Day to Hollywood Sports Video Success Story</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-how-to-make-the-most-out-of-spotifys-advertising-features/"><u>2024 Approved How to Make the Most Out of Spotify's Advertising Features</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210735665-9781662479175-a-prosecutors-analysis-of-personal-supernatural-experiences/"><u>A Prosecutor's Analysis of Personal Supernatural Experiences | Free Book</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhanced-mobile-device-management-on-android-leveraging-advanced-tools/"><u>Enhanced Mobile Device Management on Android: Leveraging Advanced Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-action-cam-showdown-which-holds-the-crown-gopro-or-yi/"><u>In 2024, Action Cam Showdown Which Holds the Crown - GoPro or Yi?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-x100-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo X100 Pro?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-motorola-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Motorola Devices</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/mp4-file-optimization-removing-unwanted-audio-tracks/"><u>MP4 File Optimization Removing Unwanted Audio Tracks</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-mastering-sound-visualization-merging-waveforms-for-audio-sight-and-animated-display-using-premiere-pro/"><u>New 2024 Approved Mastering Sound Visualization Merging Waveforms for Audio Sight & Animated Display Using Premiere Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-discover-5-trustworthy-websites-offering-humorous-background-sounds-legally/"><u>New Discover 5 Trustworthy Websites Offering Humorous Background Sounds Legally</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/precision-in-perception-eliminating-background-buzz-with-audacitys-tools/"><u>Precision in Perception Eliminating Background Buzz with Audacitys Tools</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-from-silence-to-symphony-adding-soundtracks-to-kinemaster/"><u>Updated 2024 Approved From Silence to Symphony Adding Soundtracks to KineMaster</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-5-premium-android-audio-editors-your-must-have-tools-for-perfect-sound/"><u>Updated 5 Premium Android Audio Editors Your Must-Have Tools for Perfect Sound</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-aural-journey-illustrating-sound-patterns-with-waveform-graphics-and-dynamic-animations-in-nle-essential/"><u>Updated In 2024, Aural Journey Illustrating Sound Patterns with Waveform Graphics and Dynamic Animations in NLE Essential</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-updated-guide-to-video-audio-integration-for-filmmakers/"><u>Updated In 2024, The Updated Guide to Video-Audio Integration for Filmmakers</u></a></li>
 </ul></div>
 
