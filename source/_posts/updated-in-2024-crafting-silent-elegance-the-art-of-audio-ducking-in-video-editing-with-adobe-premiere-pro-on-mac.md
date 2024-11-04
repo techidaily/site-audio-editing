@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac
-date: 2024-09-25T05:15:41.383Z
-updated: 2024-09-26T06:48:28.782Z
+date: 2024-10-31T05:08:09.873Z
+updated: 2024-11-03T16:45:21.812Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,10 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -70,10 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -103,16 +103,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -130,16 +124,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-from-basic-to-bold-invest-in-excellent-cam-add-ons/"><u>[New] From Basic to Bold Invest in Excellent Cam Add-Ons</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-navigating-the-finest-converters-top-5-tiktok-to-gif-apps/"><u>[New] In 2024, Navigating the Finest Converters Top 5 TikTok-to-GIF Apps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-leading-screen-recording-programs-for-mac-os/"><u>[Updated] 2024 Approved Leading Screen Recording Programs for Mac OS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-legal-ways-to-download-c-span-videos/"><u>2024 Approved Navigating Legal Ways to Download C-Span Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-termination-error-a-guide-for-windows-users/"><u>Bypassing Termination Error: A Guide for Windows Users</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-seek-out-dreaded-howl-effect/"><u>In 2024, Seek Out Dreaded Howl Effect</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-preferred-playlists-and-music-packages-for-effortless-background-entertainment/"><u>New In 2024, Preferred Playlists and Music Packages for Effortless Background Entertainment</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-5-low-cost-solar-panels-powering-your-tech-for-2024/"><u>Top 5 Low-Cost Solar Panels Powering Your Tech for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-ie-display-issues-fix-page-not-showing-problems/"><u>Troubleshooting IE Display Issues - Fix Page Not Showing Problems</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-find-moan-sound-effect/"><u>Updated 2024 Approved Find Moan Sound Effect</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-sonic-silence-sprint-time-efficient-techniques-for-sound-polishing-without-delay/"><u>Updated In 2024, Sonic Silence Sprint Time-Efficient Techniques for Sound Polishing Without Delay</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-case-study-how-to-grow-on-youtube-to-have-millions-of-subs/"><u>[Updated] 2024 Approved Case Study How to Grow on YouTube to Have Millions of Subs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-m34-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Samsung Galaxy M34 PC | Dr.fone</u></a></li>
+<li><a href="https://discover-best.techidaily.com/effortlessly-convert-web-links-to-premium-mp4-format-discover-our-best-3-methods/"><u>Effortlessly Convert Web Links to Premium MP4 Format: Discover Our Best 3 Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-how-to-make-an-audio-book-with-ease-a-complete-guide/"><u>In 2024, How to Make an Audio Book with Ease A Complete Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-perfecting-your-videos-the-power-of-proper-thumbnails/"><u>In 2024, Perfecting Your Videos The Power of Proper Thumbnails</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-best-9-ai-voice-generators-that-will-save-your-day/"><u>New 2024 Approved Best 9 AI Voice Generators That Will Save Your Day</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-essential-tips-for-embedding-music-in-mobile-video-content/"><u>New 2024 Approved Essential Tips for Embedding Music in Mobile Video Content</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-speech-recognition-to-mp3-seamless-integration-across-devices-and-oses/"><u>New 2024 Approved Speech Recognition to MP3 Seamless Integration Across Devices and OSes</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-voice-transformation-wizardry-on-a-budget-comprehensive-filmora-edition-for-audio-customization/"><u>New 2024 Approved Voice Transformation Wizardry on a Budget Comprehensive Filmora Edition for Audio Customization</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-cutting-edge-ios-daw-apps-a-guide-to-the-8-best-choices-for-tablets-and-smartphones/"><u>New Cutting-Edge iOS DAW Apps A Guide to the 8 Best Choices for Tablets and Smartphones</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-elite-costless-mp3-collision-system-2023s-recommended-choices/"><u>New In 2024, Elite Costless MP3 Collision System 2023S Recommended Choices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-mp4-en-naar-mpeg-bewerkt-veranderen-voor-gratis-expertiseverlend-movavi/"><u>Online MP4-En Naar MPEG Bewerkt Veranderen Voor Gratis - Expertiseverlend Movavi</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-nvpcfsys-bsod-issue-step-by-step-guide/"><u>Solving the nvpcf.sys BSoD Issue: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-elite-circle-of-seo-experts-based-in-belfast-comprehensive-strategies-and-solutions-by-seo-pros/"><u>The Elite Circle of SEO Experts Based in Belfast: Comprehensive Strategies and Solutions by SEO Pros</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-functionality-of-unmanned-aerial-vehicles-explored/"><u>The Functionality of Unmanned Aerial Vehicles Explored</u></a></li>
 </ul></div>
 

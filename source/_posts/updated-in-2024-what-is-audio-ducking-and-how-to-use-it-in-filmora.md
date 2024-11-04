@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, What Is Audio Ducking and How to Use It in Filmora
-date: 2024-10-23T16:15:37.402Z
-updated: 2024-10-29T16:37:21.757Z
+date: 2024-10-28T16:38:17.548Z
+updated: 2024-11-04T09:30:44.122Z
 tags: 
   - audio editing software
   - audio editing
@@ -68,13 +68,6 @@ To implement audio ducking in your videos, you can use a reliable editing tool l
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To learn how to implement audio ducking in your videos using Filmora, you can go through these basic steps:
 
 #### Step 1\.  Import Your Videos on Filmora
@@ -84,10 +77,10 @@ To begin with, you have to install Wondershare Filmora on your computer and laun
 ![Import Files](https://images.wondershare.com/filmora/article-images/import-video-audio-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 2\.  Import An Audio or Record Voiceovers
@@ -100,13 +93,6 @@ Apart from that, you can also go to the "Import" feature to add any other audio 
 
 ![Royalty-free Audio files for Audio Ducking](https://images.wondershare.com/filmora/article-images/royalty-free-audio-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 3\.  Apply Audio Ducking to Your Video
 
 After adding the second audio component, you can view it under the video timeline on Filmora. Now, you need to select the audio track you wish to amplify (like your voiceover) and not the track that already has a prominent volume.
@@ -114,15 +100,28 @@ After adding the second audio component, you can view it under the video timelin
 ![Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once you have selected the audio you wish to amplify, right-click to get its context menu. Just select the “Adjust Audio” feature from all the available options.
 
 ![Adjust Audio Ducking](https://images.wondershare.com/filmora/article-images/right-click-adjust-audio.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This will launch a dedicated window on the screen with various audio options to apply. Go to the "Ducking" option here and enable the "Lower the volume of other clips" feature. You can also use a slider here to adjust how much you wish to lower the volume of other clips in the project.
 
@@ -135,6 +134,13 @@ That’s it! Once you have selected the value, click on the "OK" button. You can
 After reading this post, I'm sure that you will know more about audio ducking and how we can implement it. Since many content creators encounter issues while working on their videos, audio ducking would certainly be a helpful feature. With an application like Wondershare Filmora, you can easily implement audio ducking on multiple files and further edit your videos like a pro!
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -153,15 +159,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-top-5-best-3d-intro-makers-for-youtube/"><u>[New] In 2024, Top 5 Best 3D Intro Makers for YouTube</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-best-hd-visual-recorders-available/"><u>2024 Approved Best HD Visual Recorders Available</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/creative-filmmaking-on-a-budget-using-smartphones-as-webcams-for-2024/"><u>Creative Filmmaking on a Budget Using Smartphones as Webcams for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/duration-calculation-a-20-megabit-video-for-2024/"><u>Duration Calculation A 20 Megabit Video for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-intricacies-of-omegle-a-comprehensive-guide-to-its-functioning-and-safety-measures/"><u>The Intricacies of Omegle A Comprehensive Guide to Its Functioning and Safety Measures</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-perfect-match-for-all-audio-lovers-top-10-free-video-to-audio-conversion-services/"><u>The Perfect Match for All Audio Lovers Top 10 Free Video to Audio Conversion Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/total-control-over-youtube-playback-silence-previews-for-2024/"><u>Total Control Over YouTube Playback Silence Previews for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-ai-power-for-all-the-gpt-4-journey-explained/"><u>Unlocking AI Power for All: The GPT-4 Journey Explained</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-exploring-the-best-free-hd-online-resources-for-wallpapers-and-video-backgrounds/"><u>Updated 2024 Approved Exploring the Best Free HD Online Resources for Wallpapers and Video Backgrounds</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-make-an-audio-book-with-ease-a-complete-guide/"><u>Updated How to Make an Audio Book with Ease A Complete Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-complete-insight-the-full-picture-of-bublcam-360/"><u>[New] 2024 Approved Complete Insight The Full Picture of Bublcam 360</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-top-10-strategies-for-youtube-musicians-make-the-perfect-reaction-video/"><u>[Updated] 2024 Approved Top 10 Strategies for YouTube Musicians Make the Perfect Reaction Video</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-designing-powerful-youtube-screens-a-step-by-step-guide/"><u>2024 Approved Designing Powerful YouTube Screens A Step-by-Step Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-meizu-21-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Meizu 21 Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-installation-guide-epson-wf-2750-printing-software/"><u>Download & Installation Guide: Epson WF-2750 Printing Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-exploring-dynamic-visuals-timelapses-with-ipad/"><u>In 2024, Exploring Dynamic Visuals Timelapses with iPad</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-15-pro-max-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 15 Pro Max Lock Screen</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-silent-capture-effective-strategies-to-remove-noise-from-iphone-videos-for-2024/"><u>New Silent Capture Effective Strategies to Remove Noise From iPhone Videos for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/ripara-system-configuration-in-windows-student-what-is-the-value-of-sin67circ-to-four-decimal-places/"><u>Ripara System Configuration in Windows # Student: What Is the Value of $ Sin(67^ circ)$ to Four Decimal Places?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/top-10-digital-audio-workstation-tools-free-vs-paid-options-for-2024/"><u>Top 10 Digital Audio Workstation Tools Free vs Paid Options for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-discovering-the-best-8-android-compatible-daws-for-musicians-and-producers-for-2024/"><u>Updated Discovering the Best 8 Android-Compatible DAWs for Musicians and Producers for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-crafting-silent-elegance-the-art-of-audio-ducking-in-video-editing-with-adobe-premiere-pro-on-mac/"><u>Updated In 2024, Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-navigating-through-the-top-choices-for-mac-mp3-metadata-manipulators/"><u>Updated In 2024, Navigating Through the Top Choices for Mac MP3 Metadata Manipulators</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Audio Cutting 101 Disconnecting Sounds From Your iPhone/Mac Videos
-date: 2024-09-23T20:59:56.126Z
-updated: 2024-09-30T22:46:46.836Z
+date: 2024-10-30T23:20:52.807Z
+updated: 2024-11-03T16:03:22.329Z
 tags: 
   - audio editing software
   - audio editing
@@ -41,16 +41,16 @@ Part1\. [Steps to cut the audio from videos on Mac](#cut-audi-on-mac)
 Part2\. [Steps to cut the audio from videos on iPhone](#cut-audio-on-iphone)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Steps to cut the audio from videos on Mac
@@ -62,6 +62,13 @@ Step 1: Import Video to Filmora
 Import the video to your Filmora. You can also directly drag the video into the Filmora interface.
 
 ![1index introduction](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/1.index-introduction.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Mute the audio
 
@@ -75,27 +82,20 @@ Click the "export" button on the interface and select the desired video format
 
 ![export to format mac](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps to cut the audio from videos on iPhone
 
 If you want to do the mute on an iPhone, you will need to also follow some steps to get it done on your iMovie.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Open the iMovie
 
 Opening the iMovie app goes beyond just clicking it to open, you also have to follow up this process by clicking the continue button that pops up. If the app has opened and you can see an inviting interface, move to the next step.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Select a video you want
 
@@ -113,13 +113,6 @@ Muting the audio becomes straightforward when you have moved it to the interface
 
 Don't forget to save it when you are done editing by clicking on the "done button" that is visible at the left corner positioned at the top of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Section 2. Requirements to extract the music of the video and save
 
 There are some times when you just want to extract the audio leaving out the video. Maybe the song accompanying the video is excellent but the video quality is bad, or maybe the video is not as great as the song. Whatever the reason may be, you can extract the music of your video and save it using. The two best apps to do this are Filmora and MP3 Converter -Audio Extractor. Below are the steps to extract audio using Filmora
@@ -127,6 +120,13 @@ There are some times when you just want to extract the audio leaving out the vid
 Step1\. import the video into the Filmora
 
 ![](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/1.index-introduction.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Another way to import a video is to drag and drop the video into the program. Using any of these two steps allows your video to be listed in the media library
 
@@ -140,6 +140,13 @@ Step 3\. Edit the extracted audio by doubling clicking on it. When you do, the a
 
 ![8audio balance](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/8.audio-balance.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4\. If the audio has some sounds you would like to take out, place your cursor at the exact place you want the deletion to start. Next, press the split button. This step can be used to delete any aspect of the music sound you don't like.
 
 Step 5\. Having extracted, edited, and deleted unnecessary sounds from the music, click the export button. You will be provided with different options to save the audio. Click on the one you prefer.
@@ -147,10 +154,10 @@ Step 5\. Having extracted, edited, and deleted unnecessary sounds from the music
  ![export mp3 on filmora](https://images.wondershare.com/filmora/Mac-articles/export-mp3-on-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can also customize your audio encoder after extracting and saving the music. Simply click Settings to get started.
@@ -167,13 +174,6 @@ Learn More: [How to Add Music/ Audio to a GIF on Mac>>>](https://tools.techidail
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -189,21 +189,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-expert-advice-livestream-without-the-price-tag/"><u>[New] 2024 Approved Expert Advice Livestream Without the Price Tag</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-vintage-video-delight-reviewing-goofys-tape-masterpiece/"><u>[New] In 2024, Vintage Video Delight Reviewing Goofy's Tape Masterpiece</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-efficacy-of-vlcs-screen-recording/"><u>[New] The Efficacy of VLC's Screen Recording</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ultimate-plugins-list-after-effects-edition-for-2024/"><u>[Updated] Ultimate Plugins List After Effects Edition for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/6-ways-to-fix-the-checksum-error-in-winrar/"><u>6 Ways to Fix the Checksum Error in WinRAR</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/conquering-consumer-attention-metaverse-marketing-tips-for-2024/"><u>Conquering Consumer Attention Metaverse Marketing Tips for 2024</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/gratuit-gebaseerd-webm-inpakt-movavi-naar-mpeg-converseren-online/"><u>Gratuit Gebaseerd Webm-Inpakt Movavi Naar MPEG - Converseren Online</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-13-mini-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone 13 mini Screen with PC | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-the-mystery-of-apples-new-ios-camera/"><u>In 2024, Unraveling the Mystery of Apple's New iOS Camera</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-foremost-a-capella-extraction-solutions-for-remote-artists-and-producers/"><u>New 2024 Approved The Foremost A Capella Extraction Solutions for Remote Artists and Producers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-audio-anonymization-in-multimedia-a-step-by-step-approach-updated/"><u>New Audio Anonymization in Multimedia A Step-by-Step Approach (Updated)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-busting-the-daw-fallacies-insights-into-digital-audio-production/"><u>New Busting the DAW Fallacies Insights Into Digital Audio Production</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-eliminating-sound-techniques-to-remove-background-noise-from-video-on-pc-and-mac/"><u>New Eliminating Sound Techniques to Remove Background Noise From Video on PC & MAC</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-exploring-the-leading-online-video-communication-apps-beyond-omegle-top-picks-for-2024/"><u>New Exploring the Leading Online Video Communication Apps Beyond Omegle Top Picks for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-cadence-in-coding-envisioning-the-leading-luminaries-amongst-ai-music-architects/"><u>New In 2024, Cadence in Coding Envisioning the Leading Luminaries Amongst AI Music Architects</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-no-charge-audiophiles-choice-premium-conversion-software-for-mpa-to-mp3-transition/"><u>New In 2024, No-Charge Audiophiles Choice Premium Conversion Software for MPA to MP3 Transition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-channel-cross-promotion-the-art-of-collaborative-co-stars/"><u>[New] 2024 Approved Channel Cross-Promotion The Art of Collaborative Co-Stars</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-comprehensive-list-of-webinar-recording-methods-for-2024/"><u>[New] The Comprehensive List of Webinar Recording Methods for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unleash-power-in-valorant-the-best-voice-modifier-without-payment/"><u>[Updated] In 2024, Unleash Power in Valorant The Best Voice Modifier Without Payment</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-rectify-facebook-video-playback-issues-chrome/"><u>2024 Approved Rectify Facebook Video Playback Issues (Chrome)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-apeman-c450-dashboard-camera-assessment-is-it-worth-the-price/"><u>Budget-Friendly Apeman C450 Dashboard Camera Assessment: Is It Worth the Price?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-excessive-cpu-consumption-by-msmpengine-in-windows-11-solution-inside/"><u>How to Fix Excessive CPU Consumption by MsMpEngine in Windows 11 (Solution Inside)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-grid-mastery-in-photos-with-our-select-apps/"><u>In 2024, Grid Mastery in Photos with Our Select Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-samsung-galaxy-z-fold-5-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Samsung Galaxy Z Fold 5 and Browser | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/tasteful-harmonies-for-streaming-media-artistry/"><u>Tasteful Harmonies for Streaming Media Artistry</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-8-best-daw-for-hip-hop-music-production/"><u>Updated 2024 Approved 8 Best DAW for Hip-Hop Music Production</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-integrating-subtle-audio-declines-techniques-for-gradual-volume-reduction-in-imovie/"><u>Updated 2024 Approved Integrating Subtle Audio Declines Techniques for Gradual Volume Reduction in iMovie</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-top-10-essential-no-cost-vst-plugin-tools-where-to-find-them/"><u>Updated 2024 Approved Top 10 Essential No-Cost VST Plugin Tools – Where to Find Them</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-best-voice-chat-apps-for-gamers-for-2024/"><u>Updated Best Voice Chat Apps for Gamers for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-creative-freedom-at-no-cost-top-free-audio-engineering-tools-of-the-year/"><u>Updated Creative Freedom at No Cost Top Free Audio Engineering Tools of the Year</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-10plus-free-online-audio-to-text-converters/"><u>Updated In 2024, 10+ Free Online Audio to Text Converters</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-audio-metamorphosis-transforming-mp3-files-into-mp4-with-ease/"><u>Updated In 2024, Audio Metamorphosis Transforming MP3 Files Into MP4 with Ease</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-v30-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme V30? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

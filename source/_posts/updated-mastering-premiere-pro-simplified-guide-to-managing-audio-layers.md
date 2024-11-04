@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Premiere Pro Simplified Guide to Managing Audio Layers
-date: 2024-10-23T16:26:44.696Z
-updated: 2024-10-29T16:28:41.544Z
+date: 2024-11-02T23:40:45.724Z
+updated: 2024-11-03T16:42:32.483Z
 tags: 
   - audio editing software
   - audio editing
@@ -51,10 +51,10 @@ You can even look at meters while the main window is closed, which is helpful if
 You can see the sequence in real time as it is being played, see the peaks and valleys of the sound, and ensure that you can control the volume for every track. You’ll have total control over the sound, and the playback.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Audio Track Mixer Settings
@@ -66,10 +66,10 @@ Using mono tracks allows you to alter the sound for left and right settings, whi
 ![ Audio Track Mixer Settings](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The audio files are edited both in the audio interface and in a timeline, where it is either imported or directly recorded. Then their waveforms can be viewed, the volume and sounds can be adjusted, and [larger audio mixes can be divided into sub-mixes](https://www.izotope.com/en/blog/mixing/5-approaches-to-submixes.html).
@@ -77,10 +77,10 @@ The audio files are edited both in the audio interface and in a timeline, where 
 All your changes will happen on the timeline, and you’ll be able to listen to the new track instantly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Using Audio Track Mixer for Your next Project
@@ -91,18 +91,18 @@ Instead of wasting hours staring at the computer screen, using the Audio Track M
 
 Use the track mixer to manage and customize your sounds, see the volume and base of each individual track in real time, and set when tracks come in and fade out. Using the mixer will allow you to have picture perfect sound quality, every single time.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 If you want to edit audio in an easier way, here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It is a video editor designed for people who want to enter a higher level of video editing. You can use FilmoraPro to do automatic audio sync. Equalize the highs and lows of your audio to normalize the volume of your clips and Reduce unwanted background sounds, like crowds or wind with this feature. It is a powerful audio editor for you. Download it now to have a try!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -119,19 +119,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-comprehensible-list-best-games-music-found-online/"><u>[New] Comprehensible List Best Games’ Music Found Online</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-fix-facebook-media-failure-on-devices/"><u>[New] Fix Facebook Media Failure on Devices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-how-to-easily-add-subtitles-and-closed-captions-to-youtube-video/"><u>[Updated] In 2024, How to Easily Add Subtitles and Closed Captions to YouTube Video</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-your-watchlist-through-chatgpt-advice/"><u>Enhancing Your Watchlist Through ChatGPT Advice</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy M14 4G</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-harmonious-beginnings-inclusive-vocal-modification-software-options-for-novices-and-pros/"><u>New 2024 Approved Harmonious Beginnings Inclusive Vocal Modification Software Options for Novices & Pros</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-art-of-syncing-sound-enhancing-video-quality-through-dynamic-audio-editing-in-final-cut-pro-x/"><u>New 2024 Approved The Art of Syncing Sound Enhancing Video Quality Through Dynamic Audio Editing in Final Cut Pro X</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-composing-accompaniment-for-film-scenes-for-2024/"><u>New Composing Accompaniment for Film Scenes for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-essential-sound-editing-apps-for-mobile-iphone-and-ipad-edition-2023-edition/"><u>New Essential Sound Editing Apps for Mobile IPhone & iPad Edition, 2023 Edition</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-expert-recommendations-for-high-quality-music-video-designs-for-2024/"><u>New Expert Recommendations for High-Quality Music Video Designs for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/review-of-the-best-value-smartphone-moto-g-stylus-edition-powerful-and-easy-to-use/"><u>Review of the Best Value Smartphone: Moto G Stylus Edition – Powerful and Easy to Use!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-budget-friendly-high-definition-action-cams/"><u>Ultimate Budget-Friendly High Definition Action Cams</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unleash-your-windows-potential-a-comprehensive-guide-on-registry-keys-via-revo-uninstaller/"><u>Unleash Your Windows Potential: A Comprehensive Guide on Registry Keys via Revo Uninstaller</u></a></li>
-<li><a href="https://fox-http.techidaily.com/visual-storytelling-excellence-editing-numbers-on-tiktok-platforms-for-2024/"><u>Visual Storytelling Excellence Editing Numbers on TikTok Platforms for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-speedy-shot-mastery-discovering-the-best-5-hacks-for-filming/"><u>[New] 2024 Approved Speedy Shot Mastery Discovering the Best 5 Hacks for Filming</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-your-phone-your-camera-tips-for-mobile-video-shooting/"><u>[New] 2024 Approved Your Phone, Your Camera Tips for Mobile Video Shooting</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unlock-your-watch-list-10-best-free-youtube-extractors-for-2024/"><u>[Updated] Unlock Your Watch List 10 Best Free YouTube Extractors for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-motorola-edge-40-neo-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Motorola Edge 40 Neo to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-track-to-operational-arduino-mega-2560-driver-software/"><u>Fast Track to Operational: Arduino Mega 2560 Driver Software</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-audio-file-transformation-mp3-to-mp4-format-conversion-explained/"><u>New Audio File Transformation MP3 to MP4 Format Conversion Explained</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-convert-text-to-mp3-on-windows-mac-android-and-iphone/"><u>New In 2024, Convert Text to MP3 on Windows, Mac, Android and iPhone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-harmonizing-hertz-techniques-for-consistent-audio-levels-across-video-media/"><u>New In 2024, Harmonizing Hertz Techniques for Consistent Audio Levels Across Video Media</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-how-to-extract-audio-from-videos-on-winmacphone/"><u>New In 2024, How to Extract Audio From Videos on Win/Mac/Phone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-top-10-budget-friendly-options-premium-free-podcast-players-for-modern-smartphones/"><u>New In 2024, Top 10 Budget-Friendly Options Premium-Free Podcast Players for Modern Smartphones</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-innovative-music-creation-with-ipads-the-8-leading-ios-daws-you-must-try-for-2024/"><u>New Innovative Music Creation with iPads The 8 Leading iOS DAWs You Must Try for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-pubg-building-loading-problems-expert-tips-for-a-seamless-experience/"><u>Overcome PUBG Building Loading Problems – Expert Tips for a Seamless Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-steam-user-identity-code-efficiently/"><u>Unlock Steam User Identity Code Efficiently</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-ipad-pro-and-air-upgrades-set-for-early-may-launch-according-to-zdnets-forecast/"><u>Upcoming iPad Pro & Air Upgrades Set for Early May Launch, According to ZDNet's Forecast</u></a></li>
 </ul></div>
 

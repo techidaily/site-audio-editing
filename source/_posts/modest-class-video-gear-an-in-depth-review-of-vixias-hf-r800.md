@@ -1,7 +1,7 @@
 ---
 title: "Modest-Class Video Gear: An In-Depth Review of VIXIA’s HF R800"
-date: 2024-10-28T16:14:02.734Z
-updated: 2024-10-29T16:33:28.158Z
+date: 2024-11-02T00:55:08.448Z
+updated: 2024-11-04T07:55:36.618Z
 categories:
   - BestProducts
 description: "This Article Describes Modest-Class Video Gear: An In-Depth Review of VIXIA’s HF R800"
@@ -46,10 +46,10 @@ Lifewire / Emily Isaacs
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/kImh0m4twEbigZ9dAMqYCtAxbnk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_HeroSquare-518c472b5b5341fe8c0cf05954c8cc94.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
@@ -71,13 +71,6 @@ Lifewire / Emily Isaacs
  _We purchased Microsoft Sculpt Ergonomic Keyboard so our expert reviewer could thoroughly test and assess it. Keep reading for our full product review._
 
  You can tell Microsoft put a considerable amount of thought into the Sculpt Ergonomic Keyboard’s design. From the manta ray style folds, which keep shoulders and hands at a relaxed, comfortable angle, to the detached numpad and magnetized risers for increased customization options when you want them, the Sculpt is quite the package. As with anything new, it took a period of adjustment, but we found it relatively quick thanks to the intuitive, easy-to-use design.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Design: Made for comfort**
 
@@ -103,6 +96,13 @@ Lifewire / Emily Isaacs
 
  Setting the Microsoft Sculpt up is simple. Simply lift the lid off of the battery compartment on the backside of the unit and remove the slip of paper that separates the two AAA batteries. Then, take the provided dongle from the compartment and attach it to the[USB port](https://www.lifewire.com/what-is-a-usb-port-818166) of your PC. If you’re planning on using the detached numpad, don’t forget to also remove the slip of paper from its backside to active it. Then the Sculpt is ready for use.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Battery and Features: Backlighting missing, and just one dongle to rule them all**
 
  Backlighting—we love it, but the Sculpt doesn’t have it. This is, in large part, thanks to its battery-powered design. It wouldn’t make a great deal of sense for the Sculpt to have backlighting since the two AAA[alkaline batteries](https://www.lifewire.com/best-aa-and-aaa-rechargeable-batteries-4134295) would drain significantly faster, but we sure did miss it. It’s important to note that our love of backlighting is also a matter of personal preference. If it’s important to you, you might want to consider a different model. If you can live without it, the Sculpt still has a lot to offer.
@@ -111,6 +111,13 @@ Lifewire / Emily Isaacs
 
  One major drawback to the Sculpt’s design is the dongle that associates the keyboard to your PC is one of a kind. This is thanks to the AES 128-bit encryption technology the Sculpt uses to keep your keystrokes safe. Associated to the keyboard at the factory, there simply is no replacing it if it’s lost. While the Sculpt isn’t really travel-friendly due to its size, it would do best in an environment where it’s set up once and stays put so as to prevent losing this important piece of tech.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Great for the features**
 
  Ergonomic keyboards tend to cost anywhere from $50-$200\. Generally retailing for around $90 on Amazon or $129.95 MSRP, the Sculpt sits in the middle. Its features are nice for the price, too. Encrypted keystrokes, wireless technology, a detached numpad, a magnetic riser, and an ergonomic design with a wrist pad for extra comfort makes this keyboard surefire winner in our books.
@@ -118,13 +125,6 @@ Lifewire / Emily Isaacs
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/BarmRhIEQlGkF0UEDLP9peOh3co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_05-646724c396184c12836f3f2ce2ced675.jpg)
 
  Lifewire / Emily Isaacs
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Microsoft Sculpt Ergonomic Keyboard vs. Microsoft Surface Ergonomic Keyboard**
 
@@ -138,13 +138,6 @@ Lifewire / Emily Isaacs
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/vn9L7kezNDVwJaDwHzeLbefGfDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_04-df81d8c1ef3c4387ab900dfa381e1e0f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Emily Isaacs
 
  The Surface is a high-end keyboard, but that quality comes at a higher price. The Surface tends to retail for around $129, much more than the Sculpt which retails for around $80\. That said, it’s an upgrade in almost every way. If you’re on a budget, the Sculpt is a great option, but if you’re able to splurge, the Surface is our top pick for wireless ergonomic keyboards.
@@ -156,6 +149,13 @@ Lifewire / Emily Isaacs
  **A secure, mid-priced wireless keyboard with lots of customization options.**
 
  The Microsoft Sculpt Ergonomic Keyboard is a great mid-priced wireless keyboard with multiple customization options thanks to its detached numpad and magnetic riser. Combined with its AES 128-bit encryption technology, comfortable wrist pad, and handy function switch, it’s a great investment for the price. The intuitive, natural angles it creates will have your hands thanking you later.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -187,18 +187,20 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-passionate-communicator-evaluation-revision-viii/"><u>[New] 2024 Approved Passionate Communicator Evaluation - Revision VIII</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-effortless-visual-transitions-using-instagram-chroma-keying-for-2024/"><u>[New] Effortless Visual Transitions Using Instagram Chroma Keying for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-innovative-iphone-macro-tactics-for-professional-results/"><u>[New] Innovative iPhone Macro Tactics for Professional Results</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-master-the-art-of-seamless-video-compatibility/"><u>[New] Master the Art of Seamless Video Compatibility</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-ad-free-android-video-maker/"><u>[Updated] Ultimate Ad-Free Android Video Maker</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-rhythm-ranch-a-curated-collection-of-dj-sounds/"><u>2024 Approved Rhythm Ranch A Curated Collection of DJ Sounds</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/finnish-innovation-shines-next-gen-vr-glasses-set-to-challenge-the-mighty-apple-vision-pro-perfect-for-professionals/"><u>Finnish Innovation Shines: Next-Gen VR Glasses Set to Challenge the Mighty Apple Vision Pro, Perfect for Professionals!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-repair-smbus-connectivity-issues-with-synaptics-devices-under-windows-10/"><u>How to Repair SMBus Connectivity Issues with Synaptics Devices Under Windows 10</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-a58-4g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo A58 4G FRP?</u></a></li>
-<li><a href="https://games-able.techidaily.com/new-graphics-milestone-for-amd-will-fsr-3-challenge-nvidias-dlss-35/"><u>New Graphics Milestone for AMD, Will FSR 3 Challenge NVIDIA’s DLSS 3.5?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-how-to-add-video-to-audio-for-2024/"><u>New How to Add Video to Audio for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-a-curated-list-of-8-exceptional-downloads-realistic-and-authentic-rain-audio-samples/"><u>New In 2024, A Curated List of 8 Exceptional Downloads Realistic and Authentic Rain Audio Samples</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-audio-architects-guide-to-stripping-down-beats-online/"><u>New In 2024, The Audio Architects Guide to Stripping Down Beats Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unlocking-mobile-tech-how-to-record-your-snapchat-content/"><u>[New] 2024 Approved Unlocking Mobile Tech How to Record Your Snapchat Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-access-to-10-superior-lut-resources/"><u>[New] Free Access to 10 Superior LUT Resources</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-choosing-a-gimbal-for-smooth-drone-photos-and-videos/"><u>[Updated] Choosing a Gimbal for Smooth Drone Photos and Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-artificial-intelligence-3-powerful-ways-to-use-excel-that-gpt-models-cant-match/"><u>Beyond Artificial Intelligence: 3 Powerful Ways to Use Excel That GPT Models Can't Match</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-note-30-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Note 30 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-navigating-through-the-top-9-ai-voice-replicators-designed-to-enhance-your-everyday/"><u>In 2024, Navigating Through the Top 9 AI Voice Replicators Designed to Enhance Your Everyday</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-rapid-response-guide-to-smooth-video-audio-incorporation-with-premiere-pro/"><u>In 2024, Rapid-Response Guide to Smooth Video Audio Incorporation with Premiere Pro</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-social-media-savvy-instagrams-best-tips-for-gif-uploads-and-posting/"><u>In 2024, Social Media Savvy Instagram's Best Tips for GIF Uploads and Posting</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ating-the-rules-of-youtube-video-documentation-for-2024/"><u>Navigating the Rules of YouTube Video Documentation for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-efficient-ways-to-extract-and-save-audio-tracks-from-video-files-across-multiple-devices/"><u>New 2024 Approved Efficient Ways to Extract and Save Audio Tracks From Video Files Across Multiple Devices</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-essential-guide-incorporating-music-and-effects-into-your-videos/"><u>New 2024 Approved Essential Guide Incorporating Music and Effects Into Your Videos</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-essential-list-top-10-costless-online-daw-options-to-explore/"><u>New In 2024, Essential List Top 10 Costless Online DAW Options to Explore</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-perfecting-soft-audio-edges-a-guide-to-smooth-transitioning-in-imovie/"><u>New In 2024, Perfecting Soft Audio Edges A Guide to Smooth Transitioning in iMovie</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-crossbow-function-issue-in-minecraft-a-fixers-tutorial/"><u>Overcoming the Crossbow Function Issue in Minecraft: A Fixer's Tutorial</u></a></li>
+<li><a href="https://driver-install.techidaily.com/winwise-fixes-for-startech-drivers-7-11-successfully-tackled/"><u>WinWise Fixes for StarTech Drivers (7-11) Successfully Tackled</u></a></li>
 </ul></div>
 

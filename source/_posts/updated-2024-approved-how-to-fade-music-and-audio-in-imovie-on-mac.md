@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Fade Music and Audio in iMovie on Mac?
-date: 2024-09-28T17:26:36.654Z
-updated: 2024-09-30T20:59:09.700Z
+date: 2024-11-01T02:26:43.474Z
+updated: 2024-11-04T02:31:18.743Z
 tags: 
   - audio editing software
   - audio editing
@@ -62,10 +62,10 @@ When the project opens, check "Show Waveforms" at the bottom of the Project wind
 ![Show Audio Waveforms -iMovie](https://images.wondershare.com/filmora/article-images/show-waveforms-imovie.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** The Blue waveforms indicate the sound recorded within your video clips. Green and purple waveforms indicate sounds and music you’ve added to your project.
@@ -76,13 +76,6 @@ Move the pointer over a waveform, and drag the small gray fade handle at the lef
 
 ![iMovie fade in audio pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-in-pointer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 3. Playback to Check
 
 Move the playhead to the beginning part of the clips with fade effects to check the fade-in and fade-out effects. If everything works OK, uncheck "Show Waveforms" to hide the waveforms.
@@ -92,10 +85,10 @@ Move the playhead to the beginning part of the clips with fade effects to check 
 **Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Use the Audio Inspector to Apply Fade in/Fade Out Effect in iMovie
@@ -128,6 +121,13 @@ Now, that's done! I hope the above information does help you to set the fade eff
 
 **Related:** [How to Get More iMovie Themes](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: An Easier Way to Fade Audio and Music on Mac
 
 Let watch the video below to check how to apply fade-in and fade-out effects in an easier way with [**Wondershare Filmora for Mac**](https://tools.techidaily.com/wondershare/filmora/download/). And download it now to try it by yourself.
@@ -146,24 +146,18 @@ Place the video onto the timeline. Double-click on it and then choose "Audio". I
 
 ![fade aduio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg "resize video")
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 3. Save Your Video
 
 Click the "Export" button to select one of the export methods. You can choose your desired format or mobile devices, burn it to DVD and upload it to YouTube and Vimeo.
 
 ![Filmora9 for Mac Export](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg "resize video")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 That's all about how to fade music and audio with iMovie and its alternative. If you want to learn more about how to edit video clips with Filmora, you can visit its [YouTube channel](https://www.youtube.com/channel/UCY%5FLMaDAoa6hwHKBE4Dx56w) to get more detailed information. Feel free to leave comments below if you need further assistance.
 
@@ -184,24 +178,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-evolution-of-drone-remote-control-systems-syma-x8c/"><u>[New] 2024 Approved The Evolution of Drone Remote Control Systems – Syma X8C</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/a-step-by-step-guide-to-integrating-lame-mp3-encoder-with-audacity/"><u>A Step-by-Step Guide to Integrating Lame MP3 Encoder with Audacity</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-tones-in-seconds-5-best-online-generators-for-2024/"><u>Create Tones in Seconds 5 Best Online Generators for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/expert-approved-4k-video-editing-solutions-for-2024/"><u>Expert-Approved 4K Video Editing Solutions for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-black-screen-problem-in-halo-infinite-solutions-unveiled/"><u>Fixing the Black Screen Problem in Halo Infinite - Solutions Unveiled</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722970157323-get-your-logitech-g933-up-and-running-freshest-drivers-available/"><u>Get Your Logitech G933 Up and Running: Freshest Drivers Available</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-top-10-best-audio-mixer-software-for-free/"><u>In 2024, Top 10 Best Audio Mixer Software for FREE</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/mastering-the-art-of-deleting-percussive-sounds-from-audio-tracks/"><u>Mastering the Art of Deleting Percussive Sounds From Audio Tracks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-numbers-with-ai-is-chatgpt-a-reliable-resource-for-math-problems/"><u>Navigating Numbers with AI: Is ChatGPT a Reliable Resource for Math Problems?</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/navigating-through-key-microsoft-libraries-on-the-windows-platform/"><u>Navigating Through Key Microsoft Libraries on the Windows Platform</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-add-audio-to-avi-2023-update/"><u>New 2024 Approved How to Add Audio to AVI-2023 Update</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-art-of-gamers-vocal-disguise-selecting-the-ultimate-toolkit/"><u>New 2024 Approved The Art of Gamers Vocal Disguise Selecting the Ultimate Toolkit</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-tips-for-lowering-the-bit-rate-of-multimedia-content/"><u>New 2024 Approved Tips for Lowering the Bit Rate of Multimedia Content</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-melody-and-motion-crafting-music-video-beats-that-drive-visual-narratives-forward/"><u>New In 2024, Melody & Motion Crafting Music Video Beats That Drive Visual Narratives Forward</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-syncing-sound-with-sight-a-comprehensive-walkthrough-to-enhance-video-content/"><u>New In 2024, Syncing Sound with Sight A Comprehensive Walkthrough to Enhance Video Content</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-soundless-shift-how-to-remove-audio-from-video-projects-today/"><u>New In 2024, The Soundless Shift How to Remove Audio From Video Projects Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/rapid-retrieval-speedy-downloads-for-usb-to-rs232-driver-software/"><u>Rapid Retrieval: Speedy Downloads for USB to RS232 Driver Software</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/zmovies-to-video-converter-effortlessly-save-videos-as-mp4-mov-or-avi-using-the-latest-zmovies-downloader-tool/"><u>ZMovies to Video Converter: Effortlessly Save Videos as MP4, MOV or AVI Using the Latest ZMovies Downloader Tool!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-youtube-prominence-with-expert-use-of-the-hub/"><u>[Updated] 2024 Approved Elevating Youtube Prominence with Expert Use of the Hub</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/effektive-losungen-wie-man-die-synchronisation-des-ordner-menus-in-onedrive-stoppt-die-besten-4-methoden/"><u>Effektive Lösungen: Wie Man Die Synchronisation Des Ordner-Menüs in OneDrive Stoppt - Die Besten 4 Methoden</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-poco-x5-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Poco X5 Unlock Without Password</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-normalizing-audio-in-3-quick-ways-audio-normalization/"><u>New Normalizing Audio in 3 Quick Ways-Audio Normalization</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-real-deal-with-daws-separating-fact-from-fiction-in-audio-production-for-2024/"><u>New The Real Deal with DAWs Separating Fact From Fiction in Audio Production for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-top-10-audio-reversal-tools-latest-edition-for-pcs-and-mobile-devices/"><u>New Top 10 Audio Reversal Tools Latest Edition for PCs & Mobile Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpointing-where-windows-stores-new-software/"><u>Pinpointing Where Windows Stores New Software</u></a></li>
+<li><a href="https://win11.techidaily.com/protect-user-data-while-increasing-windows-drive-size/"><u>Protect User Data While Increasing Windows Drive Size</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-11-best-free-audio-editors-for-windows-and-mac-totally-free-for-2024/"><u>Updated 11 Best Free Audio Editors for Windows and Mac (Totally Free) for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-mp3-to-mp4-conversion-workflow-a-comprehensive-2023-update/"><u>Updated 2024 Approved The MP3-to-MP4 Conversion Workflow A Comprehensive 2023 Update</u></a></li>
 </ul></div>
 

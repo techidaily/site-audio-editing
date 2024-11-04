@@ -1,7 +1,7 @@
 ---
 title: Updated The Essential Handbook to Audio Timeline Control Mastering Keyframe Creation and Editing in Adobe Premiere Pro (Mac)
-date: 2024-10-23T16:13:21.537Z
-updated: 2024-10-29T16:32:06.726Z
+date: 2024-10-27T16:41:45.950Z
+updated: 2024-11-04T02:33:45.043Z
 tags: 
   - audio editing software
   - audio editing
@@ -68,10 +68,10 @@ Once you have enabled the audio keyframe options in Premiere Pro, you can view k
 ![Select Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/select-keyframes-adobe-premiere-pro.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Audio In/Out with Keyframes in Adobe Premiere Pro on Mac?
@@ -86,13 +86,6 @@ If you want, you can just right-click the track, go to the **Show Clip Keyframes
 
 ![Show Clip Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/show-clip-keyframes-adobe-premiere-pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Apply Fade-in or Out options**
 
 Once you have clip keyframes in your track, you can easily do whatever you like. You can use the **Pen** tool or press the CMD key on your Mac to select the starting and the ending of the clip.
@@ -100,6 +93,13 @@ Once you have clip keyframes in your track, you can easily do whatever you like.
 Now, go to the audio segment from the timeline and simply place the audio level up (to fade-in) or down (to fade-out). You can set the audio levels for different segments the way you like to customize these operations in your audio track.
 
 ![Fade In and Out in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/fade-in-out-adobe-premiere-pro.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Pro Tip: Use Inbuilt Fade In/Out Transitions**
 
@@ -110,10 +110,16 @@ For this, you can just go to its **Effects** \> **Audio Transitions** option. To
 ![Crossfade Effects in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/crossfade-effects-adobe-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In the same way, you can also go to **Effects** \> **Audio Transitions** \> **Crossfade** and choose the “Constant Gain” feature. You can drag and drop the Contact Gain effect on any segment to implement the fade-in effect.
@@ -123,10 +129,10 @@ That’s a wrap, everyone! I’m sure that after reading this post, you would be
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -144,20 +150,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-easy-techniques-for-snagging-youtube-songs-and-commentary/"><u>[New] In 2024, Easy Techniques for Snagging YouTube Songs and Commentary</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-peak-hours-for-podcasts-strategic-timing/"><u>[Updated] In 2024, Peak Hours for Podcasts Strategic Timing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-instagram-analytics-tools-for-accurate-tracking/"><u>[Updated] In 2024, The Ultimate Guide to Instagram Analytics Tools for Accurate Tracking</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-innovations-boosting-scholarly-exploration/"><u>AI Innovations: Boosting Scholarly Exploration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-palm-2-revolutionizes-googles-bard-the-ultimate-7-point-breakdown/"><u>How PaLM 2 Revolutionizes Google’s BARD: The Ultimate 7-Point Breakdown</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-g310-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia G310 Phones with/without a PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-f54-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy F54 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-review-the-full-story-of-theta-s-technology-for-2024/"><u>In-Depth Review The Full Story of Theta S Technology for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/revel-in-unmatched-acoustic-majesty-beoplay-h8i/"><u>Revel in Unmatched Acoustic Majesty - Beoplay H8i</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-streamline-your-soundscape-online-strategies-to-suppress-unwanted-noise-in-videos/"><u>Updated In 2024, Streamline Your Soundscape Online Strategies to Suppress Unwanted Noise in Videos</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-comprehensive-technique-for-merging-diverse-auditory-elements/"><u>Updated In 2024, The Comprehensive Technique for Merging Diverse Auditory Elements</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-next-gen-sound-exciser-for-improved-video-quality-windows-and-mac-integrated-2024-version/"><u>Updated Next-Gen Sound Exciser for Improved Video Quality (Windows & Mac Integrated, 2024 Version)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-list-of-best-mac-audio-tagging-applications-reviewed/"><u>Updated The Ultimate List of Best Mac Audio Tagging Applications Reviewed</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-top-characteristics-of-mac-audio-processing-tools/"><u>Updated Top Characteristics of Mac Audio Processing Tools</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-unlocking-free-speech-transcription-a-triad-of-simple-approaches/"><u>Updated Unlocking Free Speech Transcription - A Triad of Simple Approaches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-startup-problem-in-call-of-duty-modern-warfare-2/"><u>Fixing the Startup Problem in Call of Duty: Modern Warfare 2</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/innovating-event-experiences-a-facebook-creation-blueprint/"><u>Innovating Event Experiences: A Facebook Creation Blueprint</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/inside-insights-on-high-tech-components-from-toms-hardware-experts/"><u>Inside Insights on High-Tech Components From Tom's Hardware Experts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/intriguing-insights-into-the-portable-and-economical-samsung-galaxy-s10e/"><u>Intriguing Insights Into the Portable & Economical Samsung Galaxy S10e</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp4m4v/"><u>MP4ファイルをM4V形式に変換する完全ガイド</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-freeing-your-device-from-the-icloud-activation-restriction/"><u>Step-by-Step Guide: Freeing Your Device From the iCloud Activation Restriction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-mechanics-of-ai-prompts-and-their-influence-on-career-longevity/"><u>The Mechanics of AI Prompts & Their Influence on Career Longevity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-the-barriers-why-cant-you-send-presents-from-your-apple-product/"><u>Understanding the Barriers: Why Can't You Send Presents From Your Apple Product?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-syncopation-techniques-matching-music-with-film-footage/"><u>Updated In 2024, Syncopation Techniques Matching Music with Film Footage</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-superior-systems-for-infusing-vocal-elements-into-instagram-tv-content-for-2024/"><u>Updated Superior Systems for Infusing Vocal Elements Into Instagram TV Content for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-top-6-chrome-os-devices-with-exceptional-vocal-modification-capabilities-worth-exploring-videocreator/"><u>Updated Top 6 Chrome OS Devices with Exceptional Vocal Modification Capabilities Worth Exploring - VideoCreator</u></a></li>
 </ul></div>
 

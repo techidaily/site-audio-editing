@@ -1,7 +1,7 @@
 ---
 title: Updated How to Do Automatic Audio Ducking in Final Cut Pro X
-date: 2024-09-24T16:20:58.229Z
-updated: 2024-10-01T00:54:40.214Z
+date: 2024-11-03T07:43:07.081Z
+updated: 2024-11-03T23:33:08.142Z
 tags: 
   - audio editing software
   - audio editing
@@ -89,10 +89,16 @@ To begin with, just launch Wondershare Filmora on your Mac and just drag-and-dro
 ![Filmora Import Media File](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once your video is imported, you can drag it to the timeline at the bottom to work on it. If you want, you can click on the voiceover icon (adjacent to the preview section) to record dialogues right away.
@@ -100,35 +106,21 @@ Once your video is imported, you can drag it to the timeline at the bottom to wo
 ![Filmora Record Voiceovers](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Apart from that, you can also import music files to your video or use the extensive range of royalty-free audio files that are available in Filmora.
 
 ![Filmora Royalty Free Audio Files](https://images.wondershare.com/filmora/article-images/royalty-free-audio-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 2: Perform Automatic Audio Ducking
 
 Great! Now, on the timeline of Filmora, you can see your video and the music track. From here, you need to select the track that you want to amplify (like the voiceover).
 
 ![Filmora Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Afterward, right-click the audio track and select the “Adjust Audio” option from the context menu.
 
@@ -144,9 +136,23 @@ That’s it! After performing audio ducking on Filmora, you can preview the resu
 
 ![Filmora Export](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 There you go! After following this guide, you can easily learn how to do audio ducking in Final Cut Pro X easily. Since there is no inbuilt FCPX audio ducking option, you can use a third-party tool like FCPX AutoDuck. Apart from that, if you are looking for a better alternative to do sound ducking, then simply use Wondershare Filmora. It is a user-friendly and resourceful application that would let you perform automatic music ducking like a pro.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -163,19 +169,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-become-a-trending-sensation-with-these-effective-youtube-seo-strategies-for-2024/"><u>[New] Become a Trending Sensation with These Effective YouTube SEO Strategies for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-photo-funnies-the-ultimate-guide-to-chuckles-and-tech/"><u>[New] In 2024, Photo Funnies The Ultimate Guide to Chuckles & Tech</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-e80240020-explained-solving-the-windows-10-installation-failure/"><u>Error Code E80240020 Explained: Solving the Windows 10 Installation Failure</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-blade-a73-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock ZTE Blade A73 5G Phone without Google Account?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-understanding-amplitude-adjustments-in-audacity-a-comprehensive-overview/"><u>In 2024, Understanding Amplitude Adjustments in Audacity A Comprehensive Overview</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/investigating-actives-prowess-in-recording-technology-for-2024/"><u>Investigating Active's Prowess in Recording Technology for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/macx-mediatrans-and/"><u>MacX MediaTrans: 完全ガイド！ダウンロード&インストールから最新の音楽編集術</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/mastering-audio-cut-and-mix-a-comprehensive-guide-to-using-avidemux-for-2024/"><u>Mastering Audio Cut and Mix A Comprehensive Guide to Using Avidemux for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-audio-spectral-masterpieces-8-premium-templates-to-transform-your-video-auditory-experience/"><u>New 2024 Approved Audio Spectral Masterpieces 8 Premium Templates to Transform Your Video Auditory Experience</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-integrating-subtle-audio-declines-techniques-for-gradual-volume-reduction-in-imovie/"><u>New 2024 Approved Integrating Subtle Audio Declines Techniques for Gradual Volume Reduction in iMovie</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-premium-pop-harmony-selections-the-best-sounds-for-video-scenes/"><u>New In 2024, Premium Pop Harmony Selections The Best Sounds for Video Scenes</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-seamless-audio-conversion-turning-mp3-files-into-mp4s/"><u>New In 2024, Seamless Audio Conversion Turning MP3 Files Into MP4s</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/reset-password-quickly-regaining-access-post-hack/"><u>Reset Password Quickly Regaining Access Post-Hack</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-essential-ios-strategy-for-instagram-saving-for-2024/"><u>The Essential iOS Strategy for Instagram Saving for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamlined-methods-to-store-mov-on-your-windows-pc/"><u>[New] 2024 Approved Streamlined Methods to Store .mov on Your Windows PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-capture-your-nintendo-switch-game-video/"><u>[New] How To Capture Your Nintendo Switch Game Video</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reimagined-analysis-new-developments-in-sonys-s6500-bdhd/"><u>[New] Reimagined Analysis New Developments in Sony's S6500 BD/HD</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-guide-to-affordable-online-meetings-plus-desktop-display-for-2024/"><u>[New] Ultimate Guide to Affordable Online Meetings + Desktop Display for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-a-complete-guide-to-steam-switch-controller-use-for-2024/"><u>[Updated] A Complete Guide to Steam Switch Controller Use for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782741-9781620556191-crystals-for-karmic-healing/"><u>Crystals for Karmic Healing | Free Book</u></a></li>
+<li><a href="https://article-files.techidaily.com/hacky-podcast-transmission-tactic/"><u>Hacky Podcast Transmission Tactic</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-infinix-hot-40-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Infinix Hot 40 Pro Phone?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-13-proplus-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 13 Pro+ 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-to-audio-based-text-extraction-techniques-for-2024/"><u>New The Ultimate Guide to Audio-Based Text Extraction Techniques for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-vocalizing-text-pioneering-audio-to-written-content-conversion-for-2024/"><u>New Vocalizing Text Pioneering Audio to Written Content Conversion for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-selection-of-six-compelling-chrome-talk-transformers-to-experience-moviemagicsuite-for-2024/"><u>The Ultimate Selection of Six Compelling Chrome Talk Transformers to Experience - MovieMagicSuite for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-accessible-vocal-isolation-equipment-for-all-voice-levels/"><u>Updated 2024 Approved Accessible Vocal Isolation Equipment for All Voice Levels</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-how-to-remove-audio-from-mkv/"><u>Updated 2024 Approved How to Remove Audio From MKV</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-innovative-sound-solutions-for-videographers-streamlining-effect-implementation/"><u>Updated 2024 Approved Innovative Sound Solutions for Videographers Streamlining Effect Implementation</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-how-to-make-beats-for-your-music-videos-for-2024/"><u>Updated How to Make Beats for Your Music Videos for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-enhancing-film-production-adding-audio-elements-in-magix-pro-2023-edition/"><u>Updated In 2024, Enhancing Film Production Adding Audio Elements in Magix Pro 2023 Edition</u></a></li>
 </ul></div>
 

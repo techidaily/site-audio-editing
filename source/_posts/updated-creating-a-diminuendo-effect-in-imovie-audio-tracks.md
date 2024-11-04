@@ -1,7 +1,7 @@
 ---
 title: Updated Creating a Diminuendo Effect in iMovie Audio Tracks
-date: 2024-09-23T22:38:04.738Z
-updated: 2024-09-30T23:47:17.654Z
+date: 2024-11-01T19:26:58.431Z
+updated: 2024-11-04T06:33:37.366Z
 tags: 
   - audio editing software
   - audio editing
@@ -51,6 +51,13 @@ After adding the fade-in and fade-out effects to your video, let's check how to 
 
 There are two ways available to fade music and audio with iMovie. One is using the fade handles, and the other is using the audio inspector. Before using iMovie audio fade-out effects, please import your video and audio files to iMovie and start a new project.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Use Fade Handles to Add Fade in/Fade out Effect in iMovie
 
 Firstly, let's take a look at the video below to check how to fade audio in/out the audio in iMovie with fade handles.
@@ -70,10 +77,16 @@ Move the pointer over a waveform, and drag the small gray fade handle at the lef
 ![iMovie fade in audio pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-in-pointer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 3. Playback to Check
@@ -82,20 +95,14 @@ Move the playhead to the beginning part of the clips with fade effects to check 
 
 ![imovie audio fade out pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-out-pointer.jpg)
 
-**Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
-
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ### Method 2: Use the Audio Inspector to Apply Fade in/Fade Out Effect in iMovie
 
@@ -120,6 +127,13 @@ If you manually adjust the effect, you can have a better effect.
 #### Step 3. Save the Audio Fade In and Out Effect
 
 ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
 
@@ -151,23 +165,9 @@ Click the "Export" button to select one of the export methods. You can choose yo
 
 ![Filmora9 for Mac Export](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg "resize video")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 That's all about how to fade music and audio with iMovie and its alternative. If you want to learn more about how to edit video clips with Filmora, you can visit its [YouTube channel](https://www.youtube.com/channel/UCY%5FLMaDAoa6hwHKBE4Dx56w) to get more detailed information. Feel free to leave comments below if you need further assistance.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -184,18 +184,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-revolutionize-video-production-150plus-complimentary-pp-samples/"><u>[New] Revolutionize Video Production 150+ Complimentary PP Samples</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-streamline-your-workflow-macos-screencast-tutorial/"><u>[Updated] In 2024, Streamline Your Workflow MacOS Screencast Tutorial</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/conquering-video-design-challenges-with-filmora-tips/"><u>Conquering Video Design Challenges with Filmora Tips</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722973481403-get-the-newest-updates-for-your-dell-thunderbolt-usb-c-tb16-accessory-hub-drivers-here/"><u>Get the Newest Updates for Your Dell Thunderbolt USB-C (TB16) Accessory Hub Drivers Here!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-soundtrack-search-navigating-the-iphones-abilities-for-track-titling/"><u>New 2024 Approved The Soundtrack Search Navigating the iPhones Abilities for Track Titling</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-approaches-to-silence-echoes-in-professional-audio-recording-for-2024/"><u>New Approaches to Silence Echoes in Professional Audio Recording for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-beatless-beats-innovative-strategies-for-eliminating-drums-from-audio-tracks/"><u>New Beatless Beats Innovative Strategies for Eliminating Drums From Audio Tracks</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-embracing-the-future-with-alternatives-top-mobile-chat-apps-for-android-users/"><u>New Embracing the Future with Alternatives Top Mobile Chat Apps for Android Users</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-how-to-merge-video-and-audio/"><u>New In 2024, How to Merge Video and Audio</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/prime-filmmaker-forecasts-group/"><u>Prime Filmmaker Forecasts Group</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-ai-potential-on-your-windows-system/"><u>Unleashing AI Potential on Your Windows System</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-from-live-to-legacy-preserving-facebook-events/"><u>[New] From Live to Legacy Preserving Facebook Events</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-understanding-and-uphold-points-in-tiktok-copyright-law/"><u>[Updated] In 2024, Understanding and Uphold Points in TikTok Copyright Law</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-gathered-greetings-grabber/"><u>In 2024, Gathered Greetings Grabber</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-making-your-mark-with-youtubes-creative-commons-tools/"><u>In 2024, Making Your Mark with YouTube’s Creative Commons Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-iphone-regional-adjustments-for-a-seamless-experience/"><u>Mastering iPhone Regional Adjustments for a Seamless Experience</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/top-10-free-audio-capture-tools-for-excellent-podcasts-updated-for-2024/"><u>Top 10 Free Audio Capture Tools for Excellent Podcasts (Updated) for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-realme-c53-by-drfone-android/"><u>Universal Unlock Pattern for Realme C53</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-expert-recommendations-where-to-find-pure-environmental-noise/"><u>Updated 2024 Approved Expert Recommendations Where to Find Pure Environmental Noise</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-harmonizing-visuals-and-audio-the-step-by-step-guide-to-fade-inout-techniques-in-adobe-after-effects/"><u>Updated 2024 Approved Harmonizing Visuals & Audio The Step-by-Step Guide to Fade In/Out Techniques in Adobe After Effects</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-how-can-you-use-suspense-music-to-master-film-score/"><u>Updated How Can You Use Suspense Music to Master Film Score</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-silencing-the-stridor-techniques-for-defeating-hiss-in-professional-recordings/"><u>Updated In 2024, Silencing the Stridor Techniques for Defeating Hiss in Professional Recordings</u></a></li>
 </ul></div>
 

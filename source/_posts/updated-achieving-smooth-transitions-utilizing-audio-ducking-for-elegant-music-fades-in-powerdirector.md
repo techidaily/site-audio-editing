@@ -1,7 +1,7 @@
 ---
 title: Updated Achieving Smooth Transitions Utilizing Audio Ducking for Elegant Music Fades in PowerDirector
-date: 2024-09-19T00:43:36.135Z
-updated: 2024-09-26T06:10:29.620Z
+date: 2024-11-03T03:17:49.250Z
+updated: 2024-11-03T17:51:59.052Z
 tags: 
   - audio editing software
   - audio editing
@@ -53,10 +53,10 @@ Doing so will automatically add the keyframes into the background music you’ve
 So, this was the entire process of **music ducking** keyframes automation in **CyberLink PowerDirector**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: An Alternative Solution to Audio Ducking on Mac
@@ -76,10 +76,10 @@ All in all, the Wondershare Filmora is a remarkable video editor fulfilling the 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Here is a step-by-step tutorial after which you can compare the audio ducking easiness of Wondershare Filmora with CyberLink PowerDirector.
@@ -105,10 +105,10 @@ You are almost there whereby tick the “**Lower the volume of other clips”** 
 So, these simple steps are required to enable **audio ducking** in Wondershare Filmora. So easy! Along with it, you can also consider using the **Fade Out** and **Pitch** slider tab for versatile audio adjustment. However, you must only check for the **Ducking** tab, especially when you’re a beginner and don’t want to go for extreme changes.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -119,10 +119,10 @@ Thus, with a discussion over two different ways to implement the **audio ducking
 | --------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
@@ -142,16 +142,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-innovative-videography-for-sims-playtime/"><u>[New] Innovative Videography for Sims Playtime</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-beginning-your-blog-journey-for-financial-gain/"><u>2024 Approved Beginning Your Blog Journey for Financial Gain</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-the-top-5-music-mixing-utilities-optimized-for-macos-systems/"><u>2024 Approved The Top 5 Music Mixing Utilities Optimized for macOS Systems</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-unleash-virtual-reality-to-the-fullest-with-htc-vive-review/"><u>2024 Approved Unleash Virtual Reality to the Fullest with HTC Vive Review</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-mastery-through-snips-unveiling-macs-top-5-tools/"><u>In 2024, Mastery Through Snips Unveiling Mac's Top 5 Tools</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Xiaomi 14 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/master-your-media-adhering-to-twitters-video-requirements-for-2024/"><u>Master Your Media Adhering to Twitter's Video Requirements for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-top-5-digital-audio-editors-for-optimal-sound-quality/"><u>New In 2024, Top 5 Digital Audio Editors for Optimal Sound Quality</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-navigating-audacity-setup-on-chrome-os-devices-for-beginners-for-2024/"><u>New Navigating Audacity Setup on Chrome OS Devices for Beginners for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-perfect-your-sound-mix-expert-strategies-for-utilizing-audio-ducking-in-adobe-premiere-pro-macos-edition/"><u>New Perfect Your Sound Mix Expert Strategies for Utilizing Audio Ducking in Adobe Premiere Pro (macOS Edition)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-pooch-pulses-and-vocalizations-a-comprehensive-collection-for-creatives/"><u>New Pooch Pulses & Vocalizations A Comprehensive Collection for Creatives</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/udiovisual-alchemy-formulating-your-youtube-playlist-for-2024/"><u>[New] Audiovisual Alchemy Formulating Your YouTube Playlist for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/artificial-intelligence-drawing-stylistic-meanings-from-photos/"><u>Artificial Intelligence Drawing Stylistic Meanings From Photos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/clear-strategies-for-correcting-the-504-timed-out-connection-fault/"><u>Clear Strategies for Correcting the 504 Timed Out Connection Fault</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/cloud-storage-dilemma-backing-up-vs-synchronizing-data-best-practices/"><u>Cloud Storage Dilemma: Backing Up Vs. Synchronizing Data - Best Practices</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-mastering-audio-magic-top-10-radio-sound-effects/"><u>In 2024, Mastering Audio Magic Top 10 Radio Sound Effects</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-uniting-visuals-and-vocals-decomposing-media-files-in-imovie-for-macos/"><u>In 2024, Uniting Visuals and Vocals Decomposing Media Files in iMovie for macOS</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-user-friendly-harmony-dissector-for-novice-singers-and-virtuosos/"><u>In 2024, User-Friendly Harmony Dissector for Novice Singers & Virtuosos</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-reducing-ambient-acoustic-disturbances-a-guide-to-minimizing-hiss/"><u>New 2024 Approved Reducing Ambient Acoustic Disturbances A Guide to Minimizing Hiss</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-advanced-methods-for-reducing-storage-space-needed-for-media-files/"><u>New Advanced Methods for Reducing Storage Space Needed for Media Files</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-audiophiles-manual-incorporating-pristine-sounds-in-mp4-videos/"><u>New In 2024, Audiophiles Manual Incorporating Pristine Sounds in MP4 Videos</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-charting-out-the-leading-audio-reverse-programs-a-targeted-review-for-computers-and-phones/"><u>New In 2024, Charting Out the Leading Audio Reverse Programs A Targeted Review for Computers & Phones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/showcasing-the-capabilities-of-djis-high-end-42k-multirotor-aircraft-on-zdnet/"><u>Showcasing the Capabilities of DJI's High-End $42K Multirotor Aircraft on ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-fix-unidentified-lsassexe-problem-in-windows-10/"><u>Steps to Fix Unidentified lsass.exe Problem in Windows 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-nokia-c210-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Nokia C210 Phone Pattern Lock</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-ghostrunners-sudden-failure-in-windows-10-operating-system/"><u>Troubleshooting Ghostrunner's Sudden Failure in Windows 10 Operating System</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Streamlining Audio Management for Filmmakers The Ins and Outs of Automated Ducking with Final Cut Pro X 2023
-date: 2024-09-23T18:10:40.710Z
-updated: 2024-09-30T19:28:32.682Z
+date: 2024-10-30T08:09:59.163Z
+updated: 2024-11-03T17:01:19.468Z
 tags: 
   - audio editing software
   - audio editing
@@ -74,18 +74,18 @@ You can now copy the modified music clip, go to the timeline, and paste it at th
 
 ![Audio Ducking Media Final Cut Pro](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: The Best FCPX Alternative for Mac to Perform Automatic Audio Ducking
 
 As you can see, it is pretty tough to do audio ducking in Final Cut Pro as there is no automatic feature in the tool. Therefore, you can consider using [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) to perform automatic sound ducking and save your time. It is an inbuilt feature in Filmora that would perform auto-ducking instantly, and you can also mark the level of ducking in the video.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ideally, you can perform audio ducking on voiceover or another soundtrack in Wondershare Filmora. To perform music ducking via Wondershare Filmora on Mac, you can follow these steps:
 
@@ -100,15 +100,22 @@ Once your video is imported, you can drag it to the timeline at the bottom to wo
 ![Filmora Record Voiceovers](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Apart from that, you can also import music files to your video or use the extensive range of royalty-free audio files that are available in Filmora.
 
 ![Filmora Royalty Free Audio Files](https://images.wondershare.com/filmora/article-images/royalty-free-audio-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 2: Perform Automatic Audio Ducking
 
@@ -116,23 +123,9 @@ Great! Now, on the timeline of Filmora, you can see your video and the music tra
 
 ![Filmora Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Afterward, right-click the audio track and select the “Adjust Audio” option from the context menu.
 
 ![Filmora Adjust Audio](https://images.wondershare.com/filmora/article-images/right-click-adjust-audio.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This will open a dedicated Audio Mixer window on the screen. Just go to the Audio tab and enable the “Ducking” option to lower the volume of other audio tracks. You can also select the desired level for music ducking to implement.
 
@@ -147,6 +140,13 @@ That’s it! After performing audio ducking on Filmora, you can preview the resu
 There you go! After following this guide, you can easily learn how to do audio ducking in Final Cut Pro X easily. Since there is no inbuilt FCPX audio ducking option, you can use a third-party tool like FCPX AutoDuck. Apart from that, if you are looking for a better alternative to do sound ducking, then simply use Wondershare Filmora. It is a user-friendly and resourceful application that would let you perform automatic music ducking like a pro.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -163,14 +163,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-capture-the-best-moments-select-6-top-ranked-short-video-download-tools/"><u>[New] 2024 Approved Capture the Best Moments Select 6 Top-Ranked Short Video Download Tools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-differences-between-iphone-x-face-id-and-samsung-face-recognition/"><u>[New] 2024 Approved Differences Between iPhone X Face ID and Samsung Face Recognition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks-for-2024/"><u>[New] How to Sculpt the Perfect YouTube Moniker Tips & Tricks for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-explore-8-leading-youtube-growth-strategies/"><u>[Updated] In 2024, Explore 8 Leading Youtube Growth Strategies</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-top-10-budget-friendly-options-premium-free-podcast-players-for-modern-smartphones/"><u>In 2024, Top 10 Budget-Friendly Options Premium-Free Podcast Players for Modern Smartphones</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/mastering-the-art-of-incorporating-soundtracks-into-videos-using-filmora/"><u>Mastering the Art of Incorporating Soundtracks Into Videos Using Filmora</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/navigating-audio-segmentation-easy-ways-to-split-your-mp3s-and-aacs/"><u>Navigating Audio Segmentation Easy Ways to Split Your MP3s and AACs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-visually-pleasing-audio-selections-for-digital-content-streaming/"><u>New In 2024, Visually Pleasing Audio Selections for Digital Content Streaming</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-picks-for-the-best-android-image-correction-tools-5-choices/"><u>Top Picks for the Best Android Image Correction Tools (5 Choices)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-are-video-selfies-on-instagram-really-genuine/"><u>[New] 2024 Approved Are Video Selfies on Instagram Really Genuine?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-capturing-time-live-photo-journey-to-video-vista/"><u>[New] Capturing Time Live Photo Journey to Video Vista</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-upgrade-your-tiktok-videos-efficient-backdrop-swapping-guide/"><u>[New] In 2024, Upgrade Your TikTok Videos Efficient Backdrop Swapping Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-messenger-broadcasting-your-place/"><u>Facebook Messenger: Broadcasting Your Place</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-7-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone 7?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-infinix-smart-8-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Infinix Smart 8 to Another | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oneplus-nord-n30-se-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any OnePlus Nord N30 SE Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lamptron-st060-the-next-gen-cpu-cooler-that-comes-with-a-six-inch-lcd-display-as-big-and-clear-as-an-iphone-15s-retina-screen/"><u>Lamptron ST060: The Next-Gen CPU Cooler That Comes With a Six-Inch LCD Display as Big and Clear as an iPhone 15'S Retina Screen</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-intricacies-of-clubhouse-explored-an-insiders-guide-to-its-core-principles-and-operations-for-2024/"><u>New The Intricacies of Clubhouse Explored An Insiders Guide to Its Core Principles and Operations for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/powerpoint-audio-tutorial-effective-methods-to-record-and-embed-sounds-on-windows-and-mac-devices/"><u>PowerPoint Audio Tutorial Effective Methods to Record and Embed Sounds on Windows & Mac Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-ru7300-55-4k-ultra-hd-smart-tv-comprehensive-assessment-is-it-justified-by-its-design/"><u>Samsung RU7300 55 4K Ultra HD Smart TV Comprehensive Assessment: Is It Justified by Its Design?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-list-of-mobile-audio-augmentation-tools-iosandroid-2023-edition/"><u>The Ultimate List of Mobile Audio Augmentation Tools (iOS/Android, 2023 Edition)</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-achieving-professional-results-attaching-soundtracks-to-videos-with-magix-movie-editor/"><u>Updated 2024 Approved Achieving Professional Results Attaching Soundtracks to Videos with Magix Movie Editor</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-what-to-look-for-in-audio-editor-software-for-mac-os-x/"><u>Updated 2024 Approved What to Look for in Audio Editor Software for Mac OS X</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-fine-tuning-androids-m4a-performance-expert-tips-to-improve-sound-quality/"><u>Updated In 2024, Fine-Tuning Androids M4A Performance Expert Tips to Improve Sound Quality</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-iphones-auditory-features-demystified-the-top-10-audio-recording-apps/"><u>Updated In 2024, IPhones Auditory Features Demystified - The Top 10 Audio Recording Apps</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-precision-sound-engineering-harnessing-the-power-of-keyframes-for-audio-fade-insouts-in-filmora-mac/"><u>Updated In 2024, Precision Sound Engineering Harnessing the Power of Keyframes for Audio Fade-Ins/Outs in Filmora (Mac)</u></a></li>
 </ul></div>
 

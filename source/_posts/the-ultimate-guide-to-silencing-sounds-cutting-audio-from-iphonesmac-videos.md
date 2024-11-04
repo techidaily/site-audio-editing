@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Silencing Sounds Cutting Audio From iPhones/Mac Videos
-date: 2024-09-27T19:15:44.440Z
-updated: 2024-10-01T02:22:39.942Z
+date: 2024-11-03T08:19:39.715Z
+updated: 2024-11-03T19:46:36.812Z
 tags: 
   - audio editing software
   - audio editing
@@ -40,6 +40,13 @@ Part1\. [Steps to cut the audio from videos on Mac](#cut-audi-on-mac)
 
 Part2\. [Steps to cut the audio from videos on iPhone](#cut-audio-on-iphone)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps to cut the audio from videos on Mac
 
 If you are using a Mac for editing, knowing that [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best way to go about it is good but knowing how to navigate is key. Not to worry, the steps you need to get started are all listed in these three steps.
@@ -49,13 +56,6 @@ Step 1: Import Video to Filmora
 Import the video to your Filmora. You can also directly drag the video into the Filmora interface.
 
 ![1index introduction](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/1.index-introduction.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2: Mute the audio
 
@@ -69,20 +69,6 @@ Click the "export" button on the interface and select the desired video format
 
 ![export to format mac](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps to cut the audio from videos on iPhone
 
 If you want to do the mute on an iPhone, you will need to also follow some steps to get it done on your iMovie.
@@ -91,11 +77,25 @@ If you want to do the mute on an iPhone, you will need to also follow some steps
 
 Opening the iMovie app goes beyond just clicking it to open, you also have to follow up this process by clicking the continue button that pops up. If the app has opened and you can see an inviting interface, move to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Select a video you want
 
 There are different pages on the interface but your concern is on the project page. On that page, click on the plus sign button as it directs you to start or input a new video. After clicking on the plus sign, it will bring up movies that you would further select.
 
  ![new project on imovie](https://images.wondershare.com/filmora/Mac-articles/new-project-on-imovie.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Don't hesitate to select the movie you want to edit. Complete the process by clicking the "create movie" button beneath the gallery of movies.
 
@@ -108,16 +108,10 @@ Muting the audio becomes straightforward when you have moved it to the interface
 Don't forget to save it when you are done editing by clicking on the "done button" that is visible at the left corner positioned at the top of the screen.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Section 2. Requirements to extract the music of the video and save
@@ -127,6 +121,13 @@ There are some times when you just want to extract the audio leaving out the vid
 Step1\. import the video into the Filmora
 
 ![](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/1.index-introduction.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Another way to import a video is to drag and drop the video into the program. Using any of these two steps allows your video to be listed in the media library
 
@@ -140,25 +141,11 @@ Step 3\. Edit the extracted audio by doubling clicking on it. When you do, the a
 
 ![8audio balance](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/8.audio-balance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4\. If the audio has some sounds you would like to take out, place your cursor at the exact place you want the deletion to start. Next, press the split button. This step can be used to delete any aspect of the music sound you don't like.
 
 Step 5\. Having extracted, edited, and deleted unnecessary sounds from the music, click the export button. You will be provided with different options to save the audio. Click on the one you prefer.
 
  ![export mp3 on filmora](https://images.wondershare.com/filmora/Mac-articles/export-mp3-on-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can also customize your audio encoder after extracting and saving the music. Simply click Settings to get started.
 
@@ -173,6 +160,13 @@ Learn More: [How to Add Music/ Audio to a GIF on Mac>>>](https://tools.techidail
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -189,17 +183,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-facebooks-full-spectrum-maximizing-story-linking/"><u>[New] Facebook's Full Spectrum Maximizing Story Linking</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-chart-success-the-top-online-stock-portals/"><u>[New] In 2024, Chart Success The Top Online Stock Portals</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-streamlining-audio-addition-in-creative-cloud-suite/"><u>[Updated] 2024 Approved Streamlining Audio Addition in Creative Cloud Suite</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-advanced-audacity-editing-adjusting-pitch-without-audio-degradation/"><u>New Advanced Audacity Editing Adjusting Pitch Without Audio Degradation</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-comparing-titans-in-digital-audio-workstations-is-magix-samplitude-at-the-pinnacle-in-2024/"><u>New Comparing Titans in Digital Audio Workstations Is MAGIX Samplitude at the Pinnacle, In 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/personalized-ai-how-it-diverges-from-general-and-restricted-applications/"><u>Personalized AI: How It Diverges From General and Restricted Applications</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-infinix-smart-7-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Infinix Smart 7 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-motorola-defy-2-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Motorola Defy 2 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/top-5-digital-audio-editors-for-optimal-sound-quality/"><u>Top 5 Digital Audio Editors for Optimal Sound Quality</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-converting-amr-files-with-ease-a-compre-written-by-dr-alexandra-stone/"><u>Updated Converting AMR Files with Ease A Compre Written by Dr. Alexandra Stone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-guide-to-equalizing-auditory-output-in-vlc-software-for-2024/"><u>Updated The Ultimate Guide to Equalizing Auditory Output in VLC Software for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-redmi-13c-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi Redmi 13C Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-total-capture-trio-setup/"><u>[New] 2024 Approved Total Capture Trio Setup</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-explore-the-best-iphone-vr-games-today/"><u>[Updated] Explore the Best iPhone VR Games Today</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-cheerful-media-extractor-analysis/"><u>2024 Approved Cheerful Media Extractor Analysis</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-discovering-the-chirping-noise-of-crickets/"><u>2024 Approved Discovering the Chirping Noise of Crickets</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-ethical-approaches-to-extract-and-convert-youtube-videos/"><u>2024 Approved Ethical Approaches to Extract and Convert YouTube Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-itel-p55-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Itel P55 5G Through Google Earth?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-indicators-of-a-premium-audio-tool-suitable-for-macos-environments/"><u>In 2024, Indicators of a Premium Audio Tool Suitable for macOS Environments</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-mastering-echo-effects-implementing-reverb-in-digital-sound-environments-windows-edition/"><u>In 2024, Mastering Echo Effects Implementing Reverb in Digital Sound Environments (Windows Edition)</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-audiophiles-choice-ranking-the-top-notch-mp3-cutter-programs-compatible-with-macos/"><u>New 2024 Approved Audiophiles Choice Ranking the Top-Notch Mp3 Cutter Programs Compatible with macOS</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-essential-windows-and-macos-daw-software-ranking-the-best/"><u>New 2024 Approved Essential Windows & macOS DAW Software Ranking the Best</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-infuse-audio-magic-into-instagrams-tv-videos/"><u>New Infuse Audio Magic Into Instagrams TV Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-syncing-and-downloading-netflix-films-for-later-use/"><u>The Complete Guide: Syncing and Downloading Netflix Films for Later Use</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-updating-step-by-step-your-epson-xp-410-printers-windows-driver-downloads/"><u>Troubleshooting & Updating: Step by Step, Your Epson XP-410 Printer's Windows Driver Downloads</u></a></li>
 </ul></div>
 
