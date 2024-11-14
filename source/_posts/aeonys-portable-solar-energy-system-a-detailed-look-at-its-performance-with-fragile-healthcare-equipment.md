@@ -1,7 +1,7 @@
 ---
 title: "AeonY's Portable Solar Energy System: A Detailed Look at Its Performance with Fragile Healthcare Equipment"
-date: 2024-10-31T21:10:49.777Z
-updated: 2024-11-04T03:12:38.431Z
+date: 2024-11-06T05:47:39.911Z
+updated: 2024-11-12T17:04:51.363Z
 categories:
   - BestProducts
 description: "This Article Describes AeonY's Portable Solar Energy System: A Detailed Look at Its Performance with Fragile Healthcare Equipment"
@@ -38,13 +38,6 @@ Lifewire / Jeremy Laukkonen
 
 4.3
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Extollo LANSocket 1500 Powerline Adapter
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/KabMCV8f8k1Pxtd-vhM86zkedrw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-HeroSquare-41f20e9c72b84bfd92f578807ae1edaf.jpg)
@@ -77,6 +70,13 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Big, bulky, and basic, with a filtered pass-through**
 
  Extollo won’t win any awards for the basic, blocky design of the LANSocket 1500 adapters. They’re big, plastic, white, and take up a lot of space. That’s somewhat mediated by the inclusion of a pass-through electrical socket, which is a really nice touch.
@@ -90,13 +90,6 @@ Lifewire / Jeremy Laukkonen
  Despite their large size, the LANSocket 1500 adapters are relatively plain in design. They include three indicator lights on the front, an Ethernet jack on the bottom, and a sync button on one side. They also include a lot of vents due to how hot these units tend to run during operation.
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/Ahhqweppp7LoE4s2gervkZuyOS8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-04-e086de486a5a4e16ac16cff8ae813b22.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
@@ -113,33 +106,19 @@ Lifewire / Jeremy Laukkonen
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/BvO_NJ8pdby7NqO2Fq-orJ_NbFI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-02-40358222569c4a55b4d04e7aadf01af7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Connectivity: MIMO with beamforming**
 
  The Extollo LANSocket 1500 powerline adapters use the HomePlug AV2 specification, which includes support for[multi-in, multi-out (MIMO)](https://www.lifewire.com/mimo-wifi-routers-818332) with beamforming, which increases both speed and the allowable distance between adapters. This is a significant improvement over the HomePlug AV specification, which is slower and requires you to place your adapters more closely together.
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/B7pek1jOL0gtn-sl7QsuHcO3_CU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-03-04f860db31f049e1a2ecb40196f7aaf7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
@@ -171,11 +150,25 @@ Lifewire / Jeremy Laukkonen
 
  The embedded Linux distro does open up some security concerns, but they can be mostly erased if you connect through a firewalled router. You can find cheaper options, but the bottom line is that you won’t find a cheaper alternative that provides the same high speed, low latency, video buffering, and pass-through socket that you get with the LANSocket 1500.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Decent price for such good performance**
 
  The Extollo LANSocket 1500 has an MSRP of $90 for a set of two. That places these adapters right in the same general price range as other similar devices. You can find HomePlug AV2 compatible adapters for a little less, but they typically don’t perform quite as well.
 
  Since the LANSocket 1500 adapters are so easy to use, and provide such a high level of performance, it’s our judgment that they’re worth the $10 or so premium you’ll typically pay compared to similar competitors.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Competition: Wins on transfer speeds with some security concerns**
 
@@ -198,6 +191,13 @@ Lifewire / Jeremy Laukkonen
  **Buy this powerline adapter kit, but secure it behind a firewall.**
 
  The Extollo LANSocket 1500 checks all the right boxes, with some of the highest speeds on the market, a pass-through electrical socket, and a decent price. The high speeds and low latency make this kit a good choice if you need to connect a game console, and the extra memory allowed by the use of Linux really helps out if you stream a lot of video, just be wary of security considerations.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -229,22 +229,24 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-transformative-techniques-for-high-quality-mp4s-from-instagram/"><u>[Updated] 2024 Approved Transformative Techniques for High-Quality MP4s From Instagram</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-inside-the-innovations-a-detailed-look-at-powerdirector-24-release/"><u>[Updated] Inside the Innovations A Detailed Look at PowerDirector '24 Release</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-troubleshooting-video-interruptions-on-facebook-live-for-2024/"><u>[Updated] Troubleshooting Video Interruptions on Facebook LIVE for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/fix-deformed-videos-during-dvd-ripping-on-windows-11-using-handbrake/"><u>Fix Deformed Videos During DVD Ripping on Windows 11 Using HandBrake</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-get-your-corsair-keyboard-back-in-action/"><u>Fixing the Issue: How to Get Your Corsair Keyboard Back in Action</u></a></li>
-<li><a href="https://article-tips.techidaily.com/how-asmr-enhances-your-daily-life-learn-here/"><u>How ASMR Enhances Your Daily Life – Learn Here</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-in-depth-look-at-videorecorderpros-features-and-review/"><u>In 2024, In-Depth Look at VideoRecorderPro's Features & Review</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-scale-up-channel-followers-faster-and-cheaper/"><u>In 2024, Scale Up Channel Followers Faster and Cheaper</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-swapping-sounds-in-media-files-an-in-depth-tutorial-for-seamless-edits/"><u>New Swapping Sounds in Media Files An In-Depth Tutorial for Seamless Edits</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-to-music-driven-editing-perfect-pacing-with-beat-alignment-in-final-cut-pro-x-for-2024/"><u>New The Ultimate Guide to Music-Driven Editing Perfect Pacing with Beat Alignment in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-venturing-free-audio-amendments-to-visual-projects/"><u>New Venturing Free Audio Amendments to Visual Projects</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-art-of-sound-manipulation-creating-engaging-audio-timelines-using-keyframes-in-adobe-premiere-pro-mac-for-2024/"><u>The Art of Sound Manipulation Creating Engaging Audio Timelines Using Keyframes in Adobe Premiere Pro (Mac) for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-complete-guide-to-designing-iconic-podcast-artwork-for-the-modern-ear/"><u>Updated 2024 Approved The Complete Guide to Designing Iconic Podcast Artwork for the Modern Ear</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-harmonizing-movement-with-melody-the-practical-approach-to-adding-music-to-mac-created-gifs-for-2024/"><u>Updated Harmonizing Movement with Melody The Practical Approach to Adding Music to Mac-Created GIFs for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-13-must-have-gratis-audio-recording-programs-for-windowsmac-users-the-current-selection/"><u>Updated In 2024, 13 Must-Have Gratis Audio Recording Programs for Windows/Mac Users - The Current Selection</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-audiophiles-guide-selecting-the-best-soundtracks-that-complement-visual-storytelling/"><u>Updated In 2024, Audiophiles Guide Selecting the Best Soundtracks that Complement Visual Storytelling</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-top-8-stop-motion-animation-software-for-mac-and-pc-for-2024/"><u>Updated Top 8 Stop Motion Animation Software for Mac and PC for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unveiling-inshot-a-thorough-editor-investigation-for-2024/"><u>[New] Unveiling InShot A Thorough Editor Investigation for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-essential-2023s-selection-of-top-tier-pc-vr-gear-for-2024/"><u>[Updated] Essential 2023'S Selection of Top-Tier PC VR Gear for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-resolve-delayed-video-posts-in-facebook-messenger-for-iosandroid-users/"><u>[Updated] How to Resolve Delayed Video Posts in Facebook Messenger for iOS/Android Users</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-no-fuss-vocal-elimination-procedures-for-audacity-professionals/"><u>2024 Approved No-Fuss Vocal Elimination Procedures for Audacity Professionals</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-platforms-to-download-and-listen-to-dj-music/"><u>2024 Approved Platforms to Download and Listen to DJ Music</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enriched-design-processes-using-chatgpt-for-3d-printing/"><u>Enriched Design Processes Using ChatGPT for 3D Printing</u></a></li>
+<li><a href="https://win-superb.techidaily.com/gratuit-qt-films-in-mp4-konverteren-online-de-gratis-bewerking-van-movavi/"><u>Gratuit QT-Films in MP4 Konverteren Online - De Gratis Bewerking Van Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oppo-a78-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Oppo A78 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-latest-upgrade-amazons-new-fire-hd-8-with-innovative-wireless-charge-feature/"><u>Introducing the Latest Upgrade: Amazon's New Fire HD 8 with Innovative Wireless Charge Feature</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-mix-audio-tracks-into-one-file-for-a-video/"><u>New 2024 Approved How to Mix Audio Tracks Into One File for A Video?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-ultimate-compendium-selecting-your-best-software-to-record-guitars/"><u>New 2024 Approved The Ultimate Compendium Selecting Your Best Software to Record Guitars</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-how-to-choose-the-best-mac-mp3-tag-editor/"><u>New In 2024, How To Choose the Best Mac MP3 Tag Editor?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-innovating-sound-design-the-impact-and-prowess-of-magix-samplitude/"><u>New Innovating Sound Design The Impact and Prowess of MAGIX Samplitude</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1728483917822-pcwindows-11/"><u>PC用にWindows 11で外付けドライブ上のデータを移動する正しい方法</u></a></li>
+<li><a href="https://fox-where.techidaily.com/understanding-the-issue-with-missing-windows-11-22h2-updates-and-solutions-for-resolution/"><u>Understanding the Issue with Missing Windows 11 22H2 Updates and Solutions for Resolution</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-audio-anonymization-in-multimedia-a-step-by-step-approach-updated/"><u>Updated In 2024, Audio Anonymization in Multimedia A Step-by-Step Approach (Updated)</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-crew-collaboration-the-vital-roles-and-responsibilities-on-a-film-production-team/"><u>Updated In 2024, Crew Collaboration The Vital Roles and Responsibilities on a Film Production Team</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-expert-guide-extracting-silence-from-video-files-on-windows-10-without-spending-a-penny/"><u>Updated In 2024, Expert Guide Extracting Silence From Video Files on Windows 10 Without Spending a Penny</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-locating-recorded-sounds-of-wolf-vocalizations/"><u>Updated In 2024, Locating Recorded Sounds of Wolf Vocalizations</u></a></li>
 </ul></div>
 

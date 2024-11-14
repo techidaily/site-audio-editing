@@ -1,7 +1,7 @@
 ---
 title: Updated Tutorial on Audio Ducking in Adobe Premiere Pro on Mac
-date: 2024-10-31T04:12:46.903Z
-updated: 2024-11-04T06:51:04.262Z
+date: 2024-11-06T19:44:22.427Z
+updated: 2024-11-13T06:34:20.655Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,16 +57,16 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -76,10 +76,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -109,10 +109,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -130,20 +130,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ce-your-online-presence-youtubes-studio-command-center-for-2024/"><u>[New] Ace Your Online Presence YouTube's Studio Command Center for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-premium-innovation-best-desktop-computers/"><u>[Updated] In 2024, Premium Innovation Best Desktop Computers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-secrets-to-amassing-affordable-artistic-elements/"><u>[Updated] Secrets to Amassing Affordable Artistic Elements</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-viewer-friendly-approach-implementing-commentary-and-alerts-on-youtube/"><u>2024 Approved A Viewer-Friendly Approach Implementing Commentary and Alerts on YouTube</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-discover-the-best-online-repositories-for-acquiring-bgm-tracks/"><u>2024 Approved Discover the Best Online Repositories for Acquiring BGM Tracks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-ways-to-access-windows-troubleshooting-with-hotkeys/"><u>Efficient Ways to Access Windows Troubleshooting with Hotkeys</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme GT 3? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/maximizing-your-game-performance-a-guide-to-mastering-morphvox-voice-modification-in-live-streams-for-2024/"><u>Maximizing Your Game Performance A Guide to Mastering Morphvox Voice Modification in Live Streams for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-exploring-the-best-dawn-and-rise-of-browser-based-daws-top-10-selection/"><u>New 2024 Approved Exploring the Best Dawn and Rise of Browser-Based DAWs Top 10 Selection</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-mastering-in-game-vocal-alterations-top-pick-recommendations/"><u>New 2024 Approved Mastering In-Game Vocal Alterations Top Pick Recommendations</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-syncopation-techniques-matching-music-with-film-footage/"><u>New 2024 Approved Syncopation Techniques Matching Music with Film Footage</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-audioscapes-unveiled-selecting-the-optimal-audio-codecs-and-formats/"><u>New Audioscapes Unveiled Selecting the Optimal Audio Codecs and Formats</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-quicktime-video-editing-essentials-for-mac-users/"><u>Updated In 2024, QuickTime Video Editing Essentials for Mac Users</u></a></li>
-<li><a href="https://win-dash.techidaily.com/upgrade-your-connectivity-secure-immediate-downloads-for-lsi-killer-e2500-1gb-ethernet-adapter-drivers/"><u>Upgrade Your Connectivity: Secure Immediate Downloads for LSI Killer E2500 1GB Ethernet Adapter Drivers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-ultimate-list-10-top-ae-text-ideas/"><u>[New] 2024 Approved Ultimate List 10 Top AE Text Ideas</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-building-blocks-of-virtual-experience-terminology/"><u>[New] Building Blocks of Virtual Experience Terminology</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instaloops-unleashed-the-ultimate-guide-to-engagement-for-2024/"><u>[New] InstaLoops Unleashed The Ultimate Guide to Engagement for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-a-step-by-step-guide-to-youtube-image-branding/"><u>[Updated] 2024 Approved A Step-by-Step Guide to YouTube Image Branding</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-video-insights-mastering-youtube-statistics-with-social-blade/"><u>[Updated] Unlock Video Insights Mastering YouTube Statistics with Social Blade</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-precision-poetry-the-news-outro-art/"><u>2024 Approved Precision Poetry The News Outro Art</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dynamic-interactions-key-to-enhancing-page-visibility/"><u>Dynamic Interactions Key to Enhancing Page Visibility</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-art-of-auditory-alignment-selecting-ideal-frequency-filters/"><u>New In 2024, The Art of Auditory Alignment Selecting Ideal Frequency Filters</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-civi-3-disney-100th-anniversary-edition-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Civi 3 Disney 100th Anniversary Edition Reset Code | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-identifying-kits-with-intense-grumble-implementations/"><u>Updated 2024 Approved Identifying Kits with Intense Grumble Implementations</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-enriched-sound-experience-synthesizing-audio-waves-and-animating-them-for-premiere-pro-audience/"><u>Updated Enriched Sound Experience Synthesizing Audio Waves and Animating Them for Premiere Pro Audience</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-essential-listings-for-authentic-copyright-free-comic-audio-music-streams-for-2024/"><u>Updated Essential Listings for Authentic Copyright-Free Comic Audio Music Streams for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-sculpting-soundscapes-advanced-methods-for-isolating-lyrics-from-harmonized-tunes-for-2024/"><u>Updated Sculpting Soundscapes Advanced Methods for Isolating Lyrics From Harmonized Tunes for 2024</u></a></li>
 </ul></div>
 

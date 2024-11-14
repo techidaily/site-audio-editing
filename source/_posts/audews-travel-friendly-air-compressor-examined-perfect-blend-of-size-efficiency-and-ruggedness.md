@@ -1,7 +1,7 @@
 ---
 title: "Audew's Travel-Friendly Air Compressor Examined: Perfect Blend of Size, Efficiency & Ruggedness"
-date: 2024-10-30T09:03:59.997Z
-updated: 2024-11-04T02:16:36.224Z
+date: 2024-11-10T17:07:38.614Z
+updated: 2024-11-12T18:01:46.582Z
 categories:
   - BestProducts
 description: "This Article Describes Audew's Travel-Friendly Air Compressor Examined: Perfect Blend of Size, Efficiency & Ruggedness"
@@ -42,6 +42,19 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C9 AC1900](https://www.lifewire.com/thmb/5L4k_oD-GKPyliYY-jL-tLQH-Uk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAC1900_HeroSquare-68c63e89f59a47a2944b2a73434417e9.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Erika Rawes
 
 [View On Amazon](https://www.amazon.com/dp/B00PDLRHFW/?tag=lifewire-onsite-prod-20&ascsubtag=5025101%7Cnb196585ced2341b2b2b5f702b47e2cf321%7CB00PDLRHFW) [View On Walmart](https://www.walmart.com/ip/TP-LINK-Archer-C9-AC1900-Wireless-Dual-Band-Gigabit-Router/42121251) [View On B&H Photo Video](https://www.bhphotovideo.com/c/replacement%5Ffor/1117107-REG/tp%5Flink%5Farcher%5Fc9%5Fac1900%5Fdual%5Fband%5Fwireless.html)
@@ -64,13 +77,6 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C9 AC1900 is a budget-friendly router, so it doesn’t include too many of the features you see in newer, more expensive models. It doesn’t include[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) control or MU-MIMO technology, but it’s supposed to provide a long signal range for larger homes, as well as support fast enough speeds for online gaming and 4K media. I tested the TP-Link AC1900 alongside several other[long range routers](https://www.lifewire.com/best-long-range-routers-4122554) to see how well it performs in the real world.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Fingerprints galore**
 
  The Archer AC1900 definitely isn’t the most attractive router I’ve seen. The version I tested is black, but TP-Link also makes the C9 in white. The gloss finish gives the AC1900 a cheap look, and it, unfortunately, shows each and every smudge and fingerprint when you touch the surface. The indicator lights sit on the front face, and you can easily see the network status with a quick glance.
@@ -83,23 +89,9 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup: Takes less than 10 minutes**
 
  Setup is simple, and you can use the Tether app or the TP-Link site. There’s a QR code in the quick setup leaflet, so you can easily find the app. As it goes with most routers, you’ll find a temporary network name, password, and login info on the label. The app walks you through the setup process step-by-step, guiding you through creating your 2.4 and 5 GHz networks.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Connectivity: Decent speeds, long range**
 
@@ -112,13 +104,20 @@ Lifewire / Erika Rawes
 ![TP-Link Archer C9 AC1900](https://www.lifewire.com/thmb/gPQRxhQBJ13ETuiP-7-Vy9eGcss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAC1900_05-4ddd14a5299f45279789011ce3b9e8ea.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Key features: Guest network and parental controls**
 
@@ -131,10 +130,10 @@ Lifewire / Erika Rawes
  The router performed extremely well at close proximity, but not so well at a distance.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Software: TP-Link Tether app**
@@ -162,6 +161,13 @@ Lifewire / Erika Rawes
  **A reliable budget router that will help prevent drop-offs.**
 
  The TP-Link Archer C9 AC1900 is a good option for those who want a reasonably fast and stable network connection, but don’t want to pay a lot of cash for extra bells and whistles.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -199,16 +205,19 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-tech-savvy-academics-recording-education-talks-with-macos/"><u>2024 Approved Tech-Savvy Academics Recording Education Talks with MacOS</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/advanced-audio-tuning-apps-mobiledesktop-edition/"><u>Advanced Audio Tuning Apps Mobile/Desktop Edition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/androids-best-podcast-discoveries-for-2024/"><u>Android's Best Podcast Discoveries for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/canon-mx492-driver-update-and-download-enhance-your-printers-performance-on-windows-systems/"><u>Canon MX492 Driver Update & Download: Enhance Your Printer's Performance on Windows Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/journey-to-metaverse-leading-vr-headsets-reviewed/"><u>Journey to Metaverse Leading VR Headsets Reviewed</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-free-video-rotation-made-easy-top-10-tools-and-software-for-2024/"><u>New Free Video Rotation Made Easy Top 10 Tools and Software for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-essence-of-omegle-a-thorough-investigation-of-its-operations-and-user-protection/"><u>New The Essence of Omegle A Thorough Investigation of Its Operations and User Protection</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-ultimate-guide-to-8-invaluable-sound-effects-from-the-gaming-realm-for-2024/"><u>The Ultimate Guide to 8 Invaluable Sound Effects From the Gaming Realm for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-achieving-superior-sound-in-mp4-videos-a-comprehensive-guide/"><u>Updated Achieving Superior Sound in MP4 Videos A Comprehensive Guide</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-echo-identifiers-best-android-applications-for-locating-and-listening-to-popular-music-genres/"><u>Updated In 2024, Echo Identifiers Best Android Applications for Locating and Listening to Popular Music Genres</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-leading-social-media-hash-tracking-software-for-fb-tweet-and-insta/"><u>[New] In 2024, Leading Social Media Hash Tracking Software for FB, Tweet & Insta</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-discovering-the-edge-of-action-cam-excellence-with-intova-x-for-2024/"><u>[Updated] Discovering the Edge of Action Cam Excellence with Intova X for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixel-magic-transforming-still-images-to-video-with-pixiz/"><u>[Updated] Pixel Magic Transforming Still Images to Video with Pixiz</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-your-guide-to-affordable-comedy-audio-tracks-5-sites-every-content-maker-should-know/"><u>2024 Approved Your Guide to Affordable Comedy Audio Tracks 5 Sites Every Content Maker Should Know</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/cutting-the-clutter-advanced-techniques-for-audio-cleanup-using-adobe-audition-for-2024/"><u>Cutting the Clutter Advanced Techniques for Audio Cleanup Using Adobe Audition for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/fb-content-takedown-what-are-your-rights-and-recourse-in-2024/"><u>FB Content Takedown What Are Your Rights and Recourse, In 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-streamline-your-soundscape-online-strategies-to-suppress-unwanted-noise-in-videos/"><u>In 2024, Streamline Your Soundscape Online Strategies to Suppress Unwanted Noise in Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/kickstarting-a-vlog-key-hardware-and-apps-for-2024/"><u>Kickstarting a Vlog Key Hardware & Apps for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-inside-out-unpacking-avs-editors-functionality-with-user-testimonials-and-substitute-solutions/"><u>New 2024 Approved Inside Out Unpacking AVS Editors Functionality with User Testimonials & Substitute Solutions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-tracing-path-to-diverse-aggravation-noise-files/"><u>New 2024 Approved Tracing Path to Diverse Aggravation Noise Files</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-tecno-pop-7-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://article-posts.techidaily.com/skys-best-the-ultimate-hd-collection-websites/"><u>Sky's Best - The Ultimate HD Collection Websites</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-how-to-extract-the-beat-from-any-song-using-online-tools/"><u>Updated In 2024, How to Extract the Beat From Any Song Using Online Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005790791-win-the-fight-against-battlefield-5-starting-difficulties-with-this-2024-hack/"><u>Win the Fight Against Battlefield 5 Starting Difficulties with This 2024 Hack</u></a></li>
 </ul></div>
 

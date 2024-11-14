@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Ultimate Guide to Real-Time Audio Leveling with Final Cut Pro Xs AutoDuck Feature
-date: 2024-11-02T22:10:07.682Z
-updated: 2024-11-04T09:26:22.484Z
+date: 2024-11-08T01:01:04.026Z
+updated: 2024-11-13T05:00:03.331Z
 tags: 
   - audio editing software
   - audio editing
@@ -81,16 +81,16 @@ As you can see, it is pretty tough to do audio ducking in Final Cut Pro as there
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ideally, you can perform audio ducking on voiceover or another soundtrack in Wondershare Filmora. To perform music ducking via Wondershare Filmora on Mac, you can follow these steps:
@@ -101,13 +101,6 @@ To begin with, just launch Wondershare Filmora on your Mac and just drag-and-dro
 
 ![Filmora Import Media File](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once your video is imported, you can drag it to the timeline at the bottom to work on it. If you want, you can click on the voiceover icon (adjacent to the preview section) to record dialogues right away.
 
 ![Filmora Record Voiceovers](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
@@ -115,6 +108,13 @@ Once your video is imported, you can drag it to the timeline at the bottom to wo
 Apart from that, you can also import music files to your video or use the extensive range of royalty-free audio files that are available in Filmora.
 
 ![Filmora Royalty Free Audio Files](https://images.wondershare.com/filmora/article-images/royalty-free-audio-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 2: Perform Automatic Audio Ducking
 
@@ -131,10 +131,10 @@ This will open a dedicated Audio Mixer window on the screen. Just go to the Audi
 ![Filmora Audio Ducking](https://images.wondershare.com/filmora/guide/audio-ducking-lower-other-clips.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 3: Export the Edited Video
@@ -143,16 +143,16 @@ That’s it! After performing audio ducking on Filmora, you can preview the resu
 
 ![Filmora Export](https://images.wondershare.com/filmora/guide/go-to-export-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 There you go! After following this guide, you can easily learn how to do audio ducking in Final Cut Pro X easily. Since there is no inbuilt FCPX audio ducking option, you can use a third-party tool like FCPX AutoDuck. Apart from that, if you are looking for a better alternative to do sound ducking, then simply use Wondershare Filmora. It is a user-friendly and resourceful application that would let you perform automatic music ducking like a pro.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -169,17 +169,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-best-bargain-4k-camera-deals/"><u>[Updated] Best Bargain 4K Camera Deals</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-revive-your-photo-viewer-two-methods-to-try-in-win-11/"><u>2024 Approved Revive Your Photo Viewer Two Methods to Try in Win 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comparing-image-formats-understanding-the-key-distinctions-between-tiff-and-jpeg/"><u>Comparing Image Formats: Understanding the Key Distinctions Between TIFF & JPEG</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-xiaomi-redmi-k70e-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Xiaomi Redmi K70E</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-xr-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone XR</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/instantaneous-image-assembling-a-facebook-collage-primer/"><u>Instantaneous Image Assembling A Facebook Collage Primer</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/most-wallet-friendly-mp3-editing-suite-for-macos-users/"><u>Most Wallet-Friendly MP3 Editing Suite for macOS Users</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-silencing-the-stridor-techniques-for-defeating-hiss-in-professional-recordings/"><u>New 2024 Approved Silencing the Stridor Techniques for Defeating Hiss in Professional Recordings</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-digital-resonance-a-comprehensive-tutorial-for-echo-addition-in-windows-and-web-audio-applications/"><u>New Digital Resonance A Comprehensive Tutorial for Echo Addition in Windows and Web Audio Applications</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-eliminating-sound-techniques-to-remove-background-noise-from-video-on-pc-and-mac/"><u>New Eliminating Sound Techniques to Remove Background Noise From Video on PC & MAC</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-exploring-the-leading-online-video-communication-apps-beyond-omegle-top-picks-for-2024/"><u>New Exploring the Leading Online Video Communication Apps Beyond Omegle Top Picks for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unleash-creative-potential-the-ultimate-hdr-guide-for-2024/"><u>Unleash Creative Potential The Ultimate HDR Guide for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-to-youtube-copyright-for-2024/"><u>[New] The Ultimate Guide to YouTube Copyright for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-blithe-clip-recorder-appraisal/"><u>[Updated] Blithe Clip Recorder Appraisal</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-frolicsome-user-enrollment-process/"><u>[Updated] In 2024, Frolicsome User Enrollment Process</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/atomman-g7-ti-the-portable-desktop-replacement-with-core-i9-processor-and-nvidia-rtx-gpu/"><u>AtomMan G7 Ti: The Portable Desktop Replacement with Core I9 Processor and NVIDIA RTX GPU</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discovering-your-perfect-vr-experience-should-you-choose-mobile-freedom-or-connectivity-with-tethers-in-2024/"><u>Discovering Your Perfect VR Experience Should You Choose Mobile Freedom or Connectivity with Tethers, In 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-realme-narzo-n55-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Realme Narzo N55 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-spoken-words-into-written-format-powerpoints-voice-recognition-insight-for-2024/"><u>Transform Spoken Words Into Written Format PowerPoint’s Voice Recognition Insight for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-the-nuphy-air75-v2-why-its-a-must-have-mechanical-keyboard-for-mac-enthusiasts/"><u>Ultimate Guide to the NuPhy Air75 V2: Why It's a Must-Have Mechanical Keyboard for Mac Enthusiasts</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mastering-audio-integration-in-updated-mkv-formats/"><u>Updated Mastering Audio Integration in Updated MKV Formats</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mastering-the-aesthetics-of-audio-design-examining-features-benefits-drawbacks-and-comparisons-with-alternatives/"><u>Updated Mastering the Aesthetics of Audio Design Examining Features, Benefits, Drawbacks, and Comparisons with Alternatives</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-list-of-8-mobile-audio-workstations-for-enhanced-producing/"><u>Updated The Ultimate List of 8 Mobile Audio Workstations for Enhanced Producing</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-ultimate-audio-library-organizer-windows-and-mac-edition-2024/"><u>Updated Ultimate Audio Library Organizer Windows & Mac Edition 2024</u></a></li>
 </ul></div>
 

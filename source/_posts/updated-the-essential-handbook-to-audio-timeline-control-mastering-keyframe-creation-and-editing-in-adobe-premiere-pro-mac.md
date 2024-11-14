@@ -1,7 +1,7 @@
 ---
 title: Updated The Essential Handbook to Audio Timeline Control Mastering Keyframe Creation and Editing in Adobe Premiere Pro (Mac)
-date: 2024-10-27T16:41:45.950Z
-updated: 2024-11-04T02:33:45.043Z
+date: 2024-11-09T10:17:36.985Z
+updated: 2024-11-12T20:09:50.101Z
 tags: 
   - audio editing software
   - audio editing
@@ -68,10 +68,10 @@ Once you have enabled the audio keyframe options in Premiere Pro, you can view k
 ![Select Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/select-keyframes-adobe-premiere-pro.gif)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Audio In/Out with Keyframes in Adobe Premiere Pro on Mac?
@@ -95,10 +95,10 @@ Now, go to the audio segment from the timeline and simply place the audio level 
 ![Fade In and Out in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/fade-in-out-adobe-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Pro Tip: Use Inbuilt Fade In/Out Transitions**
@@ -110,16 +110,10 @@ For this, you can just go to its **Effects** \> **Audio Transitions** option. To
 ![Crossfade Effects in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/crossfade-effects-adobe-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In the same way, you can also go to **Effects** \> **Audio Transitions** \> **Crossfade** and choose the “Constant Gain” feature. You can drag and drop the Contact Gain effect on any segment to implement the fade-in effect.
@@ -129,10 +123,10 @@ That’s a wrap, everyone! I’m sure that after reading this post, you would be
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -150,17 +144,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/fixing-the-startup-problem-in-call-of-duty-modern-warfare-2/"><u>Fixing the Startup Problem in Call of Duty: Modern Warfare 2</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/innovating-event-experiences-a-facebook-creation-blueprint/"><u>Innovating Event Experiences: A Facebook Creation Blueprint</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/inside-insights-on-high-tech-components-from-toms-hardware-experts/"><u>Inside Insights on High-Tech Components From Tom's Hardware Experts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/intriguing-insights-into-the-portable-and-economical-samsung-galaxy-s10e/"><u>Intriguing Insights Into the Portable & Economical Samsung Galaxy S10e</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mp4m4v/"><u>MP4ファイルをM4V形式に変換する完全ガイド</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-freeing-your-device-from-the-icloud-activation-restriction/"><u>Step-by-Step Guide: Freeing Your Device From the iCloud Activation Restriction</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-mechanics-of-ai-prompts-and-their-influence-on-career-longevity/"><u>The Mechanics of AI Prompts & Their Influence on Career Longevity</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-the-barriers-why-cant-you-send-presents-from-your-apple-product/"><u>Understanding the Barriers: Why Can't You Send Presents From Your Apple Product?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-syncopation-techniques-matching-music-with-film-footage/"><u>Updated In 2024, Syncopation Techniques Matching Music with Film Footage</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-superior-systems-for-infusing-vocal-elements-into-instagram-tv-content-for-2024/"><u>Updated Superior Systems for Infusing Vocal Elements Into Instagram TV Content for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-top-6-chrome-os-devices-with-exceptional-vocal-modification-capabilities-worth-exploring-videocreator/"><u>Updated Top 6 Chrome OS Devices with Exceptional Vocal Modification Capabilities Worth Exploring - VideoCreator</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-realitys-new-horizons-analyzing-metaverse-and-omniverse-worlds/"><u>[New] Reality's New Horizons Analyzing Metaverse and Omniverse Worlds</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-spotlight-on-zdsoft-screen-capture-for-pros/"><u>[New] Spotlight on ZDSoft Screen Capture for Pros</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-tales-that-transcend-leading-academies-ranked-top-8/"><u>[New] Tales That Transcend Leading Academies Ranked Top 8</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-deciding-on-a-digital-domain-obs-vs-twitch-studio/"><u>[Updated] 2024 Approved Deciding on a Digital Domain OBS Vs Twitch Studio</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-from-large-files-to-tiny-previews-crafting-stunning-thumbnails-for-2024/"><u>[Updated] From Large Files to Tiny Previews Crafting Stunning Thumbnails for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/av1-compression-a-beginners-overview-for-2024/"><u>AV1 Compression A Beginner's Overview for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-motorola-moto-g-stylus-5g-2023-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Motorola Moto G Stylus 5G (2023) to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-5-best-online-mp3-tag-editor-that-you-cant-miss/"><u>In 2024, 5 Best Online MP3 Tag Editor That You Cant Miss</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-navigating-through-music-tech-top-7-daws-for-fostering-exceptional-guitar-recordings-updated/"><u>In 2024, Navigating Through Music Tech Top 7 DAWs for Fostering Exceptional Guitar Recordings (Updated )</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-rapid-mp3-file-segmentation-the-ultimate-guide-to-quick-audio-division/"><u>In 2024, Rapid MP3 File Segmentation The Ultimate Guide to Quick Audio Division</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/mastering-audio-cut-and-mix-a-comprehensive-guide-to-using-avidemux-for-2024/"><u>Mastering Audio Cut and Mix A Comprehensive Guide to Using Avidemux for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/mastering-the-art-of-audio-precision-in-home-cinematography-current-techniques-for-2024/"><u>Mastering the Art of Audio Precision in Home Cinematography (Current Techniques) for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-video-repair-tool-repair-corrupt-damaged-unplayable-video-files-of-nokia-by-stellar-video-repair-mobile-video-repair/"><u>MP4 Video Repair Tool - Repair corrupt, damaged, unplayable video files of Nokia</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-integrating-subtle-audio-declines-techniques-for-gradual-volume-reduction-in-imovie/"><u>New 2024 Approved Integrating Subtle Audio Declines Techniques for Gradual Volume Reduction in iMovie</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-mastering-music-production-unveiling-the-top-8-tools-compatible-with-mac-and-windows/"><u>New 2024 Approved Mastering Music Production Unveiling the Top 8 Tools Compatible with Mac and Windows</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-premium-pop-harmony-selections-the-best-sounds-for-video-scenes/"><u>New In 2024, Premium Pop Harmony Selections The Best Sounds for Video Scenes</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-seamless-audio-conversion-turning-mp3-files-into-mp4s/"><u>New In 2024, Seamless Audio Conversion Turning MP3 Files Into MP4s</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Planning to Use a Pokemon Go Joystick on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-nokia-130-music-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Nokia 130 Music Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
