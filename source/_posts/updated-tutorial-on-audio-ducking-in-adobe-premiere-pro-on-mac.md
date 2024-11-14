@@ -1,7 +1,7 @@
 ---
 title: Updated Tutorial on Audio Ducking in Adobe Premiere Pro on Mac
-date: 2024-11-06T19:44:22.427Z
-updated: 2024-11-13T06:34:20.655Z
+date: 2024-11-09T05:11:30.771Z
+updated: 2024-11-13T22:48:58.009Z
 tags: 
   - audio editing software
   - audio editing
@@ -57,16 +57,10 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -76,10 +70,10 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -109,10 +103,10 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -130,18 +124,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-ultimate-list-10-top-ae-text-ideas/"><u>[New] 2024 Approved Ultimate List 10 Top AE Text Ideas</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-building-blocks-of-virtual-experience-terminology/"><u>[New] Building Blocks of Virtual Experience Terminology</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instaloops-unleashed-the-ultimate-guide-to-engagement-for-2024/"><u>[New] InstaLoops Unleashed The Ultimate Guide to Engagement for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-a-step-by-step-guide-to-youtube-image-branding/"><u>[Updated] 2024 Approved A Step-by-Step Guide to YouTube Image Branding</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-video-insights-mastering-youtube-statistics-with-social-blade/"><u>[Updated] Unlock Video Insights Mastering YouTube Statistics with Social Blade</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-precision-poetry-the-news-outro-art/"><u>2024 Approved Precision Poetry The News Outro Art</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/dynamic-interactions-key-to-enhancing-page-visibility/"><u>Dynamic Interactions Key to Enhancing Page Visibility</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-art-of-auditory-alignment-selecting-ideal-frequency-filters/"><u>New In 2024, The Art of Auditory Alignment Selecting Ideal Frequency Filters</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-civi-3-disney-100th-anniversary-edition-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Civi 3 Disney 100th Anniversary Edition Reset Code | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-identifying-kits-with-intense-grumble-implementations/"><u>Updated 2024 Approved Identifying Kits with Intense Grumble Implementations</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-enriched-sound-experience-synthesizing-audio-waves-and-animating-them-for-premiere-pro-audience/"><u>Updated Enriched Sound Experience Synthesizing Audio Waves and Animating Them for Premiere Pro Audience</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-essential-listings-for-authentic-copyright-free-comic-audio-music-streams-for-2024/"><u>Updated Essential Listings for Authentic Copyright-Free Comic Audio Music Streams for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-sculpting-soundscapes-advanced-methods-for-isolating-lyrics-from-harmonized-tunes-for-2024/"><u>Updated Sculpting Soundscapes Advanced Methods for Isolating Lyrics From Harmonized Tunes for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-a-compreenas-guide-for-efficient-pip-integration-in-edge-browser/"><u>[Updated] 2024 Approved A Compreenas Guide for Efficient PIP Integration in Edge Browser</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-spotlight-on-top-trending-tweets/"><u>[Updated] 2024 Approved Spotlight on Top Trending Tweets</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-hidden-gem-the-ultimate-speaker-setup-surpassing-bose-and-sonos-discovered/"><u>Best Hidden Gem: The Ultimate Speaker Setup Surpassing Bose & Sonos Discovered</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/convert-mp4-files-to-ogv-format-for-free-simple-steps-and-tips/"><u>Convert MP4 Files to OGV Format for Free - Simple Steps and Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/enhancing-image-aesthetics-with-effective-instagram-borders-for-2024/"><u>Enhancing Image Aesthetics with Effective Instagram Borders for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210347796-9782226391520-le-souffle-du-chi/"><u>Le Souffle du Chi | Free Book</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-unleashing-creativity-best-practices-and-tools-for-effortless-video-to-audio-conversion-onlineoffline-for-2024/"><u>New Unleashing Creativity Best Practices and Tools for Effortless Video-to-Audio Conversion (Online/Offline) for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-complete-starters-kit-for-podcast-edits-your-pathway-to-audio-excellence-for-2024/"><u>The Complete Starters Kit for Podcast Edits Your Pathway to Audio Excellence for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/ultimate-wav-to-mp3-conversion-tool-speedy-flawless-converting/"><u>Ultimate WAV to MP3 Conversion Tool Speedy, Flawless Converting</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-elevating-your-tone-techniques-for-a-louder-clearer-vocal-performance-in-video-production/"><u>Updated 2024 Approved Elevating Your Tone Techniques for a Louder, Clearer Vocal Performance in Video Production</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-essential-compilation-discovering-the-top-11-free-audio-customization-tools-for-ios-and-android-gadgets/"><u>Updated 2024 Approved Essential Compilation Discovering the Top 11 Free Audio Customization Tools for iOS & Android Gadgets</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-discovering-the-top-8-daw-platforms-for-authentic-urban-soundscapes-for-2024/"><u>Updated Discovering the Top 8 DAW Platforms for Authentic Urban Soundscapes for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-essential-auditory-enhancers-eliminating-ambient-sounds-effectively/"><u>Updated In 2024, Essential Auditory Enhancers Eliminating Ambient Sounds Effectively</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/l-ventures-a-guide-to-social-video-growth/"><u>Visual Ventures A Guide to Social Video Growth</u></a></li>
 </ul></div>
 
