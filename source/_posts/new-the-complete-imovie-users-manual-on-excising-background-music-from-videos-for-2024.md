@@ -1,7 +1,7 @@
 ---
 title: New The Complete iMovie Users Manual on Excising Background Music From Videos for 2024
-date: 2024-10-27T16:10:59.272Z
-updated: 2024-11-04T03:22:56.980Z
+date: 2024-11-21T16:38:45.113Z
+updated: 2024-11-23T22:50:57.372Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,6 +28,10 @@ _“How do you remove audio from a video in Movie on an iPhone or Mac? I have a 
 
 As a friend of mine asked me this, I realized that so many people find it hard to **separate audio from a video** in **iMovie** on iPhone or iPad. Since iMovie is available for Mac and iOS devices, it can ideally be used to edit your videos on the go. The best part is that it features various inbuilt features that you can use to remove audio from a video in iMovie on iPhone/iPad/Mac. In this post, I will let you know how do you remove audio from a video in iMovie on different devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Remove Audio from a Video in iMovie on iPhone/iPad?
 
 If you own an iPhone or an iPad, then you might be familiar with iMovie, which is an inbuilt video editor app, developed by Apple. If the app is not installed on your iOS device, then you can get it for free from the App Store. While there are several editing features in iMovie, it offers a dedicated option to control the audio level or remove it entirely from the video.
@@ -51,10 +55,7 @@ From all the available options at the bottom panel, just tap on the sound icon. 
 Once you have muted the sound in the video, just tap on the “Done” button to save the changes. After working on the project, you can tap on the share icon from the bottom and simply save the modified video on your iPad/iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pro Tip: How to Mute Background Noise in iMovie
@@ -62,10 +63,7 @@ Once you have muted the sound in the video, just tap on the “Done” button to
 If you want, you can instantly use iMovie to remove audio from a part of the clip on your iOS device. To do this, just locate your video on the device and open it. Now, tap on the “Edit” button on the top to get different options. From here, you can tap on the sound icon from the top to mute the audio component in the video.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Remove Audio from a Video in iMovie on Mac?
@@ -93,10 +91,7 @@ I’m sure that after reading this post, you would be able to remove audio from 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -114,24 +109,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-az-screen-logger-full-review-backup-selection/"><u>[New] 2024 Approved AZ Screen Logger Full Review, Backup Selection</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-simplify-your-collaboration-with-easy-steps-to-use-a-virtual-board-on-all-zoom-devices/"><u>[New] 2024 Approved Simplify Your Collaboration with Easy Steps to Use a Virtual Board on All Zoom Devices</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-captivating-carousel-concept-for-ig-for-2024/"><u>[New] Captivating Carousel Concept for IG for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-executive-mind-how-neuroscience-can-inform-better-management-strategies/"><u>[New] The Executive Mind How Neuroscience Can Inform Better Management Strategies</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-superior-gopro-film-production-options/"><u>[Updated] 2024 Approved Superior GoPro Film Production Options</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-full-spectrum-slomo-recording-app-evaluation/"><u>2024 Approved The Full Spectrum SloMo Recording App Evaluation</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-open-phone-without-pin-by-drfone-android/"><u>How to Unlock OnePlus Open Phone without PIN</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-how-to-remove-static-noise-from-audio-in-seconds/"><u>In 2024, How to Remove Static Noise From Audio in Seconds</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-youtube-video-edits-with-adobe-premiere/"><u>In 2024, Mastering YouTube Video Edits with Adobe Premiere</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-art-of-flushing-dns-tips-and-tricks-for-windows-1011-users/"><u>Master the Art of Flushing DNS: Tips and Tricks for Windows 10/11 Users</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-master-background-banishment-tool-content-creators-sharpen-your-visual-narratives/"><u>New 2024 Approved Master Background Banishment Tool Content Creators Sharpen Your Visual Narratives</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-audiophiles-guide-to-mp3-mastery-expert-software-for-metadata-management-on-both-windows-and-mac-os-2024-edition/"><u>New Audiophiles Guide to MP3 Mastery Expert Software for Metadata Management on Both Windows and Mac OS, 2024 Edition</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-how-to-normalize-volume-in-vlc/"><u>New How To Normalize Volume in VLC</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-master-musicians-picks-best-10-song-arrangers-for-windows-and-mac-devices/"><u>New Master Musicians Picks Best 10 Song Arrangers for Windows & Mac Devices</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-can-i-utilize-frequency-slicing-for-superior-acoustic-performance-in-2024/"><u>Updated Can I Utilize Frequency Slicing for Superior Acoustic Performance, In 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-unleash-your-creative-potential-with-these-5-leading-audio-distortion-programs/"><u>Updated In 2024, Unleash Your Creative Potential with These 5 Leading Audio Distortion Programs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-soundless-cinema-mastering-the-art-of-audio-removal-in-movies-for-windowsmac-enthusiasts/"><u>Updated Soundless Cinema Mastering the Art of Audio Removal in Movies for Windows/Mac Enthusiasts</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-vintage-vibes-curating-melodic-selections-for-nuptial-video-making/"><u>Updated Vintage Vibes Curating Melodic Selections for Nuptial Video Making</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/avigating-account-creation-on-youtube/"><u>[New] Navigating Account Creation on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-new-horizons-in-graphic-design-post-acid/"><u>[Updated] 2024 Approved New Horizons in Graphic Design Post-ACID</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-captivating-video-narratives-for-youtube-success-for-2024/"><u>[Updated] Crafting Captivating Video Narratives for YouTube Success for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-best-free-ways-to-remove-static-noise-from-audio-in-seconds/"><u>2024 Approved Best Free Ways to Remove Static Noise From Audio in Seconds</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-content-pioneers-assembly/"><u>2024 Approved Top Content Pioneers Assembly</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-your-guide-to-affordable-comedy-audio-tracks-5-sites-every-content-maker-should-know/"><u>2024 Approved Your Guide to Affordable Comedy Audio Tracks 5 Sites Every Content Maker Should Know</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/digital-learning-session-replays/"><u>Digital Learning Session Replays</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-comedy-mastering-kinemaster/"><u>In 2024, Crafting Comedy Mastering KineMaster</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-streamline-your-soundscape-online-strategies-to-suppress-unwanted-noise-in-videos/"><u>In 2024, Streamline Your Soundscape Online Strategies to Suppress Unwanted Noise in Videos</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-tracing-path-to-diverse-aggravation-noise-files/"><u>New 2024 Approved Tracing Path to Diverse Aggravation Noise Files</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-understanding-pexelscom-a-resource-for-high-quality-creative-commons-images/"><u>New 2024 Approved Understanding Pexels.com A Resource for High-Quality, Creative Commons Images</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-innovative-editing-in-final-cut-pro-combining-clear-waveform-visuals-with-animated-sound-sequences-for-2024/"><u>New Innovative Editing in Final Cut Pro Combining Clear Waveform Visuals with Animated Sound Sequences for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-review-on-linksys-ea8300-enhancing-your-smart-home-experience-with-advanced-networking/"><u>The Ultimate Review on Linksys EA8300: Enhancing Your Smart Home Experience with Advanced Networking</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-mirthful-minutiae-handbook-compiling-genuine-guffaw-guideposts/"><u>Updated 2024 Approved The Mirthful Minutiae Handbook Compiling Genuine Guffaw Guideposts</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-cutting-edge-technology-to-reduce-environmental-noise-in-audio-recordings-online-for-2024/"><u>Updated Cutting-Edge Technology to Reduce Environmental Noise in Audio Recordings Online for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/youtube-to-mp3-2024-12/"><u>YouTube to MP3 轉換器: 2024年最佳 12 款適用的音訊轉換軟件推荐單</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated From Raw Tape to Polished Production Advanced Techniques Using Sony Vegas Pro for 2024
-date: 2024-11-01T03:21:06.270Z
-updated: 2024-11-03T22:05:16.290Z
+date: 2024-11-18T17:23:36.754Z
+updated: 2024-11-23T17:17:10.420Z
 tags: 
   - audio editing software
   - audio editing
@@ -45,6 +45,10 @@ First of all you need to import your desired audio file to timeline of Vegas Pro
 
 ![Track header](https://images.wondershare.com/edit-audio-in-vegas-pro-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Mute the Audio Track: Press M
 
 ![Mute audio](https://images.wondershare.com/edit-audio-in-vegas-pro-2.jpg)
@@ -72,6 +76,10 @@ Those who want to control volume separately for different portions of audio file
 
 ![Adjust audio pan ](https://images.wondershare.com/edit-audio-in-vegas-pro-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Section 2: Fade in and Fade Out
 
 Some professional settings to audio project can be made using fade in/out options. Users can pull the fade adjust curser to any direction for easy customization.
@@ -79,6 +87,10 @@ Some professional settings to audio project can be made using fade in/out option
 Hover your cursor on the audio event in timeline, you will find the fade in/out offset handle at the up side corner of the audio event. Pull the Fade in/out offset handle as long as you want:
 
 ![Fade in/out audio ](https://images.wondershare.com/edit-audio-in-vegas-pro-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Section 3: Speed up or Slow down
 
@@ -106,6 +118,10 @@ If you want to add specific effects to your audio files then use two simple meth
 
 ![To entire audio layer ](https://images.wondershare.com/edit-audio-in-vegas-pro-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **To an individual portion of the audio layer**
 
 ![To portion](https://images.wondershare.com/edit-audio-in-vegas-pro-10.jpg)
@@ -122,9 +138,17 @@ For additional personalization you need to use plug-in chain button from right c
 
 ![ Add audio effect](https://images.wondershare.com/edit-audio-in-vegas-pro-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Make required adjustments with the help of slider or users can also open the drop down box on screen for selection of present templates as per need.
 
 ![audio preset templates](https://images.wondershare.com/edit-audio-in-vegas-pro-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Recommendation
 
@@ -151,23 +175,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-5-android-screen-recorders-essential-app-selection/"><u>[New] 2024 Approved Top 5 Android Screen Recorders Essential App Selection</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/1716183627859-updated-2024-approved-how-to-add-instagram-filter-to-existing-photos-and-videos/"><u>[Updated] 2024 Approved How to Add Instagram Filter to Existing Photos and Videos?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/free-downloader-turn-youtube-audio-into-premium-mp3s/"><u>Best Free Downloader Turn YouTube Audio Into Premium MP3s</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/instructional-series-altering-the-auditory-component-of-digital-clips/"><u>Instructional Series Altering the Auditory Component of Digital Clips</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-modern-editors-toolkit-turning-off-audio-in-media-files/"><u>New 2024 Approved The Modern Editors Toolkit Turning Off Audio in Media Files</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-how-to-remove-audio-from-mov-files-on-windows-or-mac-for-2024/"><u>New How to Remove Audio From MOV Files on Windows or Mac for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-filmmakers-handbook-to-pairing-melodies-and-movement-in-video-editing-through-filmora/"><u>New In 2024, Filmmakers Handbook to Pairing Melodies and Movement in Video Editing Through Filmora</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-increase-video-volume-and-make-video-sounds-louder-video-volume-booster-for-2024/"><u>New Increase Video Volume & Make Video Sounds Louder -Video Volume Booster for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-transforming-crdownload-files-into-mp4-videos/"><u>Step-by-Step Guide: Transforming CRDOWNLOAD Files Into MP4 Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/streaming-made-easy-connecting-your-apple-tvplus-with-chromecast/"><u>Streaming Made Easy: Connecting Your Apple TV+ with Chromecast</u></a></li>
-<li><a href="https://win-dash.techidaily.com/windows-11s-new-feature-built-in-driver-support-for-scanners-and-printers/"><u>Windows 11'S New Feature: Built-In Driver Support for Scanners and Printers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2023-play-facebook-videos-on-tv/"><u>[Updated] 2023 | Play Facebook Videos on TV?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-photo-and-video-transfer-from-android/"><u>[Updated] Streamlining Photo & Video Transfer From Android</u></a></li>
+<li><a href="https://solve-info.techidaily.com/elevate-your-digital-presence-with-cutting-edge-cookiebot-technology-solutions/"><u>Elevate Your Digital Presence with Cutting-Edge Cookiebot Technology Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-7-plus-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 7 Plus to Roku? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-a15-4g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy A15 4G Phone? Unlock It Now</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-premium-selection-the-most-exceptional-11-voice-alteration-apps-available-at-no-charge-for-mobile-devices/"><u>In 2024, Premium Selection The Most Exceptional 11 Voice Alteration Apps Available at No Charge for Mobile Devices</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-top-10-best-audio-mixer-software-for-free/"><u>In 2024, Top 10 Best Audio Mixer Software for FREE</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/insider-secrets-to-record-sims-gaming/"><u>Insider Secrets to Record Sims Gaming</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-add-audio-to-avi-2023-update/"><u>New 2024 Approved How to Add Audio to AVI-2023 Update</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-tips-for-lowering-the-bit-rate-of-multimedia-content/"><u>New 2024 Approved Tips for Lowering the Bit Rate of Multimedia Content</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-how-to-add-audio-to-video-in-magix-movie-edit-pro/"><u>New In 2024, How to Add Audio to Video in Magix Movie Edit Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-how-to-add-music-to-a-video-online-for-free/"><u>New In 2024, How to Add Music to a Video Online for Free</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-melody-and-motion-crafting-music-video-beats-that-drive-visual-narratives-forward/"><u>New In 2024, Melody & Motion Crafting Music Video Beats That Drive Visual Narratives Forward</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-syncing-sound-with-sight-a-comprehensive-walkthrough-to-enhance-video-content/"><u>New In 2024, Syncing Sound with Sight A Comprehensive Walkthrough to Enhance Video Content</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/windows-compatibility-fixes-to-prevent-xcom-2-from-crashing-during-play/"><u>Windows Compatibility Fixes to Prevent XCOM 2 From Crashing During Play</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

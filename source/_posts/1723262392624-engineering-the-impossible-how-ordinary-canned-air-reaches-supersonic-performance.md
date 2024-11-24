@@ -1,7 +1,7 @@
 ---
 title: "Engineering the Impossible: How Ordinary Canned Air Reaches Supersonic Performance."
-date: 2024-11-09T20:32:13.277Z
-updated: 2024-11-13T17:04:40.391Z
+date: 2024-11-19T00:40:25.059Z
+updated: 2024-11-24T01:19:43.048Z
 tags:
   - desktop
 categories:
@@ -54,6 +54,10 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -77,37 +81,19 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-create-time-travel-teleportation-effects/"><u>[New] How to Create Time Travel Teleportation Effects?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-instagrams-music-ownership-standards-for-2024/"><u>[New] Instagram's Music Ownership Standards for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-cyber-currents-videos-flow-on-twitter-wave/"><u>[Updated] Cyber Currents Videos Flow on Twitter Wave</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-accelerate-document-creation-learning-ms-words-speech-feature/"><u>[Updated] In 2024, Accelerate Document Creation Learning MS Word's Speech Feature</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-infinix-hot-30-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Infinix Hot 30 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/get-your-images-back-on-track-with-photo-fix-pro-for-windows/"><u>Get Your Images Back on Track with Photo-Fix Pro for Windows!</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-a-filmmakers-choice-the-top-five-free-audio-jokes-for-creative-videos/"><u>In 2024, A Filmmakers Choice The Top Five Free Audio Jokes for Creative Videos</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-infinix-zero-30-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Infinix Zero 30 5G Is Unlocked</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oppo-find-n3-flip-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Oppo Find N3 Flip Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-snipping-the-best-moments-of-melodies-building-your-own-caller-id-tunes/"><u>In 2024, Snipping the Best Moments of Melodies Building Your Own Caller ID Tunes</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-how-to-add-audio-fade-out-effect-for-2024/"><u>New How to Add Audio Fade Out Effect for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-internal-power-error-on-windows-11/"><u>Solved: Internal Power Error on Windows 11</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/sync-your-sound-step-by-step-audio-editing-in-avidemux-for-the-modern-producer/"><u>Sync Your Sound Step-by-Step Audio Editing in Avidemux for the Modern Producer</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-progressive-audio-fade-out-effects-in-adobe-rushs-2023-update/"><u>Updated 2024 Approved Progressive Audio Fade-Out Effects in Adobe Rushs 2023 Update</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-chrome-compatible-microphone-revolution-discover-the-leading-models-for-2024/"><u>Updated Chrome-Compatible Microphone Revolution Discover the Leading Models for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-advanced-techniques-for-rendering-audio-waveform-graphs-and-incorporating-animation-into-video-projects-using-premiere-pro/"><u>Updated In 2024, Advanced Techniques for Rendering Audio Waveform Graphs and Incorporating Animation Into Video Projects Using Premiere Pro</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Updated In 2024, Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-art-of-initiating-audio-level-decrease-with-ease-for-2024/"><u>Updated The Art of Initiating Audio Level Decrease with Ease for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/your-comprehensive-guide-to-top-bgm-download-sites-for-2024/"><u>Your Comprehensive Guide to Top BGM Download Sites for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-ultimate-playbook-techniques-to-archive-your-unique-vr-adventures/"><u>[New] In 2024, The Ultimate Playbook Techniques to Archive Your Unique VR Adventures</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-lgs-smart-tv-leap-discovering-the-bp550-update-for-2024/"><u>[New] LG's Smart TV Leap Discovering the BP550 Update for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-f54-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy F54 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-boosting-your-igtv-influence-techniques-to-amplify-audience-size/"><u>In 2024, Boosting Your IGTV Influence Techniques to Amplify Audience Size</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-motorola-moto-g04-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Motorola Moto G04 Phone? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-to-audio-based-text-extraction-techniques-for-2024/"><u>New The Ultimate Guide to Audio-Based Text Extraction Techniques for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ess-blend-of-text-and-video-without-payment/"><u>Seamless Blend of Text & Video Without Payment</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-play-40c-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor Play 40C.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unleash-potential-effective-desktop-sharing-on-livestreaming-platforms-for-2024/"><u>Unleash Potential Effective Desktop Sharing on Livestreaming Platforms for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-accessible-vocal-isolation-equipment-for-all-voice-levels/"><u>Updated 2024 Approved Accessible Vocal Isolation Equipment for All Voice Levels</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-how-to-remove-audio-from-mkv/"><u>Updated 2024 Approved How to Remove Audio From MKV</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-innovative-sound-solutions-for-videographers-streamlining-effect-implementation/"><u>Updated 2024 Approved Innovative Sound Solutions for Videographers Streamlining Effect Implementation</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-enhancing-film-production-adding-audio-elements-in-magix-pro-2023-edition/"><u>Updated In 2024, Enhancing Film Production Adding Audio Elements in Magix Pro 2023 Edition</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

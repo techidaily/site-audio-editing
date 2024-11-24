@@ -1,7 +1,7 @@
 ---
 title: "Affordable Innovation: The Qualcomm Snapdragon X Elite PC - Your Mini Desktop Is Here for Preorder!"
-date: 2024-11-09T01:45:46.775Z
-updated: 2024-11-13T22:40:08.175Z
+date: 2024-11-17T00:18:26.299Z
+updated: 2024-11-24T00:37:43.416Z
 tags:
   - desktop
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 In an interesting turn of events, the first device boasting the highest-end version of Qualcomm's Snapdragon X Elite chipset isn't even a laptop. It's a Mini PC in the form of an official Dev Kit, which undercuts ([or at least matches](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-8900246-12578053%3Fsid%3Dtomshardware-us-1069194734322795598%26url%3Dhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Fnew-inspiron-14-plus-laptop%2Fspd%2Finspiron-14-7441-laptop%2Fuseichbts7441hcjp%3Fref%3Dvariantstack) ) the price of even the lower-end Snapdragon X Plus laptops, and it's set for a full launch on August 23rd, though it's also already available for pre-order on[Arrow.com](https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm) for just $899 USD.
 
  We just reviewed a Snapdragon X Elite laptop— the[Dell XPS 13 9345](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review) — and that unit retails for $1299, which is about $400 pricier for the laptop form factor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Qualcomm Snapdragon Dev Kit for Windows Specifications
 
@@ -37,10 +41,7 @@ In an interesting turn of events, the first device boasting the highest-end vers
  But it's not all doom and gloom in the world of Qualcomm Snapdragon X Elite laptops — or Mini PCs in this case — as long as you have the requisite monitor and peripherals to get it up and running. You generally have a pretty usable version of[Windows 11](https://www.tomshardware.com/tag/windows-11) here, and a number of productivity and creative applications that will work perfectly fine. If your needs are more professional or are particularly focused on development efforts— perhaps even efforts to improve the state of games listed on[Works on Windows on Arm](https://www.worksonwoa.com/games/) — this may just be the Mini PC for you.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,24 +67,24 @@ In an interesting turn of events, the first device boasting the highest-end vers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-discover-your-perfect-match-the-best-6-gopro-helmet-harnesses/"><u>[Updated] 2024 Approved Discover Your Perfect Match The Best 6 GoPro Helmet Harnesses</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-cutting-edge-cadence-exclusive-perfected-dj-templates-online/"><u>[Updated] In 2024, Cutting Edge Cadence Exclusive, Perfected DJ Templates Online</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-photo-memory-locker-at-no-cost-plus-elite-charged-cloud-spheres/"><u>2024 Approved Photo Memory Locker at No Cost, Plus Elite Charged Cloud Spheres</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-superior-websites-to-ditch-twitter-completely/"><u>2024 Approved Superior Websites to Ditch Twitter Completely</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/complete-insight-a-detailed-walkthrough-of-facetune-app-for-2024/"><u>Complete Insight A Detailed Walkthrough of Facetune App for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/delving-into-telegram-a-closer-look-at-this-messaging-giant/"><u>Delving Into Telegram: A Closer Look at This Messaging Giant</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminating-bootup-breakdowns-effective-fixes-for-fall-guys-not-starting-properly/"><u>Eliminating Bootup Breakdowns: Effective Fixes for Fall Guys Not Starting Properly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Moto G84 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-and-simple-techniques-for-removing-the-last-thirty-seconds-on-pc-video-editing-tips-inside/"><u>Quick & Simple Techniques for Removing the Last Thirty Seconds on PC - Video Editing Tips Inside!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-showdown-how-does-the-galaxy-s23-ultra-stack-up-to-the-s21-ultra/"><u>Samsung Showdown: How Does the Galaxy S23 Ultra Stack Up to the S21 Ultra?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-best-in-show-a-comprehensive-review-of-the-10-most-effective-podcast-to-text-apps/"><u>Updated In 2024, The Best in Show A Comprehensive Review of the 10 Most Effective Podcast to Text Apps</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-top-8-daw-compatible-with-chromebooks-for-music-creation/"><u>Updated In 2024, Top 8 DAW Compatible with Chromebooks for Music Creation</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-innovative-voice-modification-tools-add-fun-and-flavor-to-your-calls/"><u>Updated Innovative Voice Modification Tools Add Fun and Flavor to Your Calls</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-mastering-volume-control-the-art-of-audio-ducking-with-powerdirector-for-2024/"><u>Updated Mastering Volume Control The Art of Audio Ducking with PowerDirector for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-art-of-precision-modern-methods-to-automatically-align-sound-and-picture/"><u>Updated The Art of Precision Modern Methods to Automatically Align Sound and Picture</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-conductors-algorithm-top-ten-ai-prodigies-shaping-the-melodic-landscape/"><u>Updated The Conductors Algorithm Top Ten AI Prodigies Shaping the Melodic Landscape</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-essential-handbook-to-audio-timeline-control-mastering-keyframe-creation-and-editing-in-adobe-premiere-pro-mac/"><u>Updated The Essential Handbook to Audio Timeline Control Mastering Keyframe Creation and Editing in Adobe Premiere Pro (Mac)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-top-tier-gratis-mp3-integration-suites-for-the-modern-ear-for-2024/"><u>Updated Top-Tier, Gratis MP3 Integration Suites for the Modern Ear for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-video-podcasts-everything-you-need-to-know-for-2024/"><u>Updated Video Podcasts Everything You Need to Know for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-engage-audience-directly-from-xbox-with-fb-live/"><u>[Updated] 2024 Approved Engage Audience Directly From Xbox with FB Live</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-reasons-for-unexpected-cut-off-in-imovie/"><u>[Updated] 2024 Approved Reasons for Unexpected Cut-Off in iMovie</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-easily-convert-dall-e-3-webp-images-to-jpg-or-png/"><u>How to Easily Convert DALL-E 3 WebP Images to JPG or PNG</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-x-fold-2-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo X Fold 2 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-honor-x50i-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Honor X50i Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-a15-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy A15 5G Phone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximizing-sound-quality-with-upgraded-nvidia-audio-for-win11/"><u>Maximizing Sound Quality with Upgraded NVIDIA Audio for Win11</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-speedy-route-to-flawless-sound-import-in-premiere-pro-updated-for-2024/"><u>New The Speedy Route to Flawless Sound Import in Premiere Pro (Updated ) for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-unconventional-chat-services-excellence-list-security-functionality-and-pleasure-for-2024/"><u>New Unconventional Chat Services Excellence List Security, Functionality, and Pleasure for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/secrets-to-designing-impactful-igtv-thumbnails/"><u>Secrets to Designing Impactful IGTV Thumbnails</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-premier-guide-to-choosing-an-ergonomic-keyboard-best-picks-of-2econd/"><u>The Premier Guide to Choosing an Ergonomic Keyboard: Best Picks of 2Econd</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-windows-10-setup-issues/"><u>Troubleshooting Guide: Resolving Windows 10 Setup Issues</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-best-audio-chat-applications-tailored-for-gaming-enthusiasts/"><u>Updated Best Audio Chat Applications Tailored for Gaming Enthusiasts</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-essential-audio-software-for-musicians-a-comprehensive-list-of-best-free-and-paid-options-2023/"><u>Updated Essential Audio Software for Musicians A Comprehensive List of Best Free & Paid Options 2023</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-essential-introduction-audio-tracks-the-top-8-for-digital-creators/"><u>Updated Essential Introduction Audio Tracks The Top 8 for Digital Creators</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-free-audio-workflow-with-audacity-tips-and-tricks-for-effective-recording-for-2024/"><u>Updated Free Audio Workflow with Audacity Tips and Tricks for Effective Recording for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-auditory-decline-trends-in-adobe-rush-update-2023/"><u>Updated In 2024, Auditory Decline Trends in Adobe Rush Update 2023</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-elevate-audio-output-simple-gratis-methods-to-increase-volume-on-windows/"><u>Updated In 2024, Elevate Audio Output Simple, Gratis Methods to Increase Volume on Windows</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-quick-fixes-to-keep-tiktok-sound-off-a-step-by-step-approach/"><u>Updated In 2024, Quick Fixes to Keep TikTok Sound Off A Step-by-Step Approach</u></a></li>
 </ul></div>
 

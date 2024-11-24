@@ -1,7 +1,7 @@
 ---
 title: Updated 10 Social Media Podcasts to Help You Make Marketing Strategy for 2024
-date: 2024-10-28T01:33:22.868Z
-updated: 2024-11-04T02:20:17.880Z
+date: 2024-11-19T23:18:51.113Z
+updated: 2024-11-23T22:17:57.024Z
 tags: 
   - audio editing software
   - audio editing
@@ -61,6 +61,10 @@ The frequency of her podcasts is around seven days, with an average duration of 
 
 ![Social Media Podcasts Ig Secrets](https://images.wondershare.com/filmora/article-images/podcasts-ig-secrets.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Luke Thompson has started this podcast to let you get up from the baby steps of using the Instagram platform for lead generation and other customer services. Overall, it is a beginner-friendly podcast with different topics on the Instagram platform. He has also released some podcasts about technical issues such as gaining followers, Instagram's new algorithm, etc.
 
 His podcasts' frequency is around 19-20 days, with an average duration of 7 minutes.
@@ -99,17 +103,29 @@ It is a weekly Podcast with a duration of 30 mins approx.
 
 ![Social Media Podcasts Marketing School](https://images.wondershare.com/filmora/article-images/podcasts-marketing-school.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The marketing gurus Neil Patel and Eric Siu host this podcast to provide the audience with useful insights on marketing, statistics, and the entire game. This podcast has more than 1400 episodes in bite-sized, quick, and rapid-fire sessions. Thus, it is a must-listen podcast for digital and social media marketers. And, the best part is that a 5-10 mins Podcast uploads daily over the official website.
 
 #### 8.Visual Marketing with Tailwind
 
 ![Social Media Podcasts Visual Marketing](https://images.wondershare.com/filmora/article-images/podcasts-visual-marketing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This podcast is perfect if you are on Pinterest and Instagram. Primarily, Alisa Meredith, marketing specialist at Tailwind, hosts this podcast. As the name suggests, the topics create incredible visuals on Instagram and Pinterest to engage the audience. However, there is no such organized scheduling of podcasts upload here. But, every episode is worth listening to for effective visual marketing.
 
 #### 9.Instagram Marketing Secrets
 
 ![Social Media Podcasts Instagram Marketing](https://images.wondershare.com/filmora/article-images/podcasts-instagram-marketin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Instagram Marketing Secrets podcast by Derek Videll is ideal for marketing enthusiasts. It is one of the best social media marketing podcasts, specifically on Instagram, for lead generation and successful conversions. Derek himself comes from a marketing and sales background to tell you the internal secrets and the so-called Instagram competitors.
 
@@ -124,44 +140,20 @@ This Podcast ultimately teaches how to look at marketing from the angle of influ
 The above Podcast also has a weekly schedule of 30-35 mins each.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Start Your First Podcast with Wondershare Filmora
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 So yes, don’t wait to start your podcast with Wondershare Filmora X! Why Filmora X? It is because of the most intuitive, advanced, and simple to use video and audio editor. Furthermore, the newly launched features of Filmora X tell us about how easy it is to indulge professionalism online. A useful feature for creating podcasts in Wondershare Filmora is Audio Ducking. By checking the quality while editing your video podcast, you can effectively lower the volume of multiple clips in your style. It is the go-to option if you want to highlight your voice within the video. It is pretty easy to use audio ducking as you are only required to move the slider and adjust the video podcast's background volume as per your needs.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
 Thus, now you can apply social media strategies learned from the best ten social media podcasts and make your Podcast as well. It is the correct time to reveal your creative side and start making video podcasts using Filmora X.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -178,21 +170,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-quick-click-quality-4-simple-steps-to-take-a-chromebook-screenshot/"><u>[Updated] Quick Click Quality 4 Simple Steps to Take a Chromebook Screenshot</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-demystifying-video-seo-on-youtube-as-a-novice/"><u>2024 Approved Demystifying Video SEO on YouTube as a Novice</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/3-strategien-zur-losung-des-windows-update-fehlers-0x80070001-einfache-schritte-zum-erfolg/"><u>3 Strategien Zur Lösung Des Windows Update Fehlers 0X80070001: Einfache Schritte Zum Erfolg</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-motorola-moto-g84-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Motorola Moto G84 5G Device SIM</u></a></li>
-<li><a href="https://win-dash.techidaily.com/expert-tips-for-addressing-and-solving-bluetooth-drivers-troubles-in-windows-11/"><u>Expert Tips for Addressing and Solving Bluetooth Drivers Troubles in Windows 11</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-ways-to-disengage-music-elements-from-multimedia-projects/"><u>In 2024, Ways to Disengage Music Elements From Multimedia Projects</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/mastering-the-download-dance-of-hd-media-on-social-platforms-for-2024/"><u>Mastering the Download Dance of HD Media on Social Platforms for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/masterpieces-in-editing-filmoras-loved-features-for-2024/"><u>Masterpieces in Editing - Filmora's Loved Features for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-advanced-siri-audio-replication-app-cross-platform-compatibility/"><u>New 2024 Approved Advanced Siri Audio Replication App – Cross-Platform Compatibility</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-remove-audio-from-mkv-2023-update/"><u>New 2024 Approved How to Remove Audio From MKV-2023 Update</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-mastering-sound-design-adding-audio-enhancements-to-videos-seamlessly/"><u>New 2024 Approved Mastering Sound Design Adding Audio Enhancements to Videos Seamlessly</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-silent-screen-surgeons-techniques-for-audio-nullification-in-online-films-and-gigs/"><u>New 2024 Approved Silent Screen Surgeons Techniques for Audio Nullification in Online Films and Gigs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-a-symphony-in-one-merging-audio-files-for-a-unified-videography-narrative/"><u>New In 2024, A Symphony in One Merging Audio Files for a Unified Videography Narrative</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-innovative-methods-for-achieving-professional-level-dubbing-with-filmora-software-for-2024/"><u>New Innovative Methods for Achieving Professional-Level Dubbing with Filmora Software for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-vlog-like-a-pro-best-video-editing-software-for-popular-platforms-for-2024/"><u>New Vlog Like a Pro Best Video Editing Software for Popular Platforms for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-magic-of-pause-time-creating-spectacularly-long-lasting-movies-with-photos-and-web-services-for-2024/"><u>Unveiling the Magic of Pause Time Creating Spectacularly Long Lasting Movies with Photos & Web Services for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-periscope-insights-accessibility-costs-and-signup-guide/"><u>[New] Periscope Insights Accessibility, Costs & Signup Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-leveraging-videos-to-skyrocket-your-fb-audience/"><u>2024 Approved Leveraging Videos to Skyrocket Your FB Audience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-check-your-windows-computers-model-name/"><u>6 Ways to Check Your Windows Computer's Model Name</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/best-online-mp3-cutter-and-joiner/"><u>Best Online MP3 Cutter And Joiner</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-free-audio-integration-in-digital-photography-across-multiple-operating-systems/"><u>In 2024, Free Audio Integration in Digital Photography Across Multiple Operating Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-5-cost-effective-video-editing-software-for-gamers/"><u>In 2024, Top 5 Cost-Effective Video Editing Software (For Gamers)</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-melody-eraser-pro-craft-personalized-instrumental-compositions/"><u>New 2024 Approved Melody Eraser Pro Craft Personalized Instrumental Compositions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-ultimate-list-of-instrumental-tracks-to-enhance-film-gifs-and-more/"><u>New 2024 Approved The Ultimate List of Instrumental Tracks to Enhance Film, GIFs & More</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-discovering-the-top-six-no-cost-daw-programs-for-novice-producers/"><u>New Discovering the Top Six No-Cost DAW Programs for Novice Producers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-innovative-sound-solutions-for-videographers-streamlining-effect-implementation/"><u>New In 2024, Innovative Sound Solutions for Videographers Streamlining Effect Implementation</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-most-acclaimed-windows-based-digital-audio-workstation-daw-list-a-free-and-paid-comparison/"><u>New In 2024, The Most Acclaimed Windows-Based Digital Audio Workstation (DAW) List A Free & Paid Comparison</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-mastering-music-production-unveiling-the-top-8-tools-compatible-with-mac-and-windows/"><u>New Mastering Music Production Unveiling the Top 8 Tools Compatible with Mac and Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-13-mini-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 13 mini to PC or Mac | Stellar</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-ultimate-guide-to-media-player-replacements-for-vlc-for-2024/"><u>The Ultimate Guide to Media Player Replacements for VLC for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-9-ultimate-photo-management-apps-the-complete-guide/"><u>Top 9 Ultimate Photo Management Apps: The Complete Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/your-companion-guide-navigating-the-world-of-mobizen-recorders-for-2024/"><u>Your Companion Guide Navigating the World of Mobizen Recorders for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Remove Audio From a Video in iMovie?
-date: 2024-10-30T22:56:50.389Z
-updated: 2024-11-04T04:43:10.719Z
+date: 2024-11-21T18:42:00.841Z
+updated: 2024-11-23T16:21:12.637Z
 tags: 
   - audio editing software
   - audio editing
@@ -28,6 +28,10 @@ _“How do you remove audio from a video in Movie on an iPhone or Mac? I have a 
 
 As a friend of mine asked me this, I realized that so many people find it hard to **separate audio from a video** in **iMovie** on iPhone or iPad. Since iMovie is available for Mac and iOS devices, it can ideally be used to edit your videos on the go. The best part is that it features various inbuilt features that you can use to remove audio from a video in iMovie on iPhone/iPad/Mac. In this post, I will let you know how do you remove audio from a video in iMovie on different devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Remove Audio from a Video in iMovie on iPhone/iPad?
 
 If you own an iPhone or an iPad, then you might be familiar with iMovie, which is an inbuilt video editor app, developed by Apple. If the app is not installed on your iOS device, then you can get it for free from the App Store. While there are several editing features in iMovie, it offers a dedicated option to control the audio level or remove it entirely from the video.
@@ -51,10 +55,7 @@ From all the available options at the bottom panel, just tap on the sound icon. 
 Once you have muted the sound in the video, just tap on the “Done” button to save the changes. After working on the project, you can tap on the share icon from the bottom and simply save the modified video on your iPad/iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pro Tip: How to Mute Background Noise in iMovie
@@ -62,10 +63,7 @@ Once you have muted the sound in the video, just tap on the “Done” button to
 If you want, you can instantly use iMovie to remove audio from a part of the clip on your iOS device. To do this, just locate your video on the device and open it. Now, tap on the “Edit” button on the top to get different options. From here, you can tap on the sound icon from the top to mute the audio component in the video.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Remove Audio from a Video in iMovie on Mac?
@@ -93,10 +91,7 @@ I’m sure that after reading this post, you would be able to remove audio from 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -114,14 +109,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-continuous-media-logging-firms/"><u>[Updated] 2024 Approved Continuous Media Logging Firms</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-instant-access-weaving-youtube-songs-into-imovie-videos-for-2024/"><u>[Updated] Instant Access Weaving YouTube Songs Into iMovie Videos for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-the-complete-podcatchers-handbook-step-by-step-computer-podcast-acquisition/"><u>2024 Approved The Complete Podcatchers Handbook Step-by-Step Computer Podcast Acquisition</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-taming-the-wildscape-techniques-for-subtracting-unwanted-audio-disturbances/"><u>In 2024, Taming The Wildscape Techniques for Subtracting Unwanted Audio Disturbances</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-lenovo-webcam-driver-update-for-windows-7-systems/"><u>Latest Lenovo Webcam Driver Update for Windows 7 Systems</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/mastering-free-melodies-a-guide-for-youtube-producers/"><u>Mastering Free Melodies A Guide for YouTube Producers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-ballad-barren-builder-create-personal-accompaniment-music/"><u>New In 2024, Ballad Barren Builder Create Personal Accompaniment Music</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-8-no-cost-driver-update-software-reviewed-july-2024-edition/"><u>Top 8 No-Cost Driver Update Software Reviewed - July 2024 Edition</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-comparing-titans-in-digital-audio-workstations-is-magix-samplitude-at-the-pinnacle/"><u>Updated In 2024, Comparing Titans in Digital Audio Workstations Is MAGIX Samplitude at the Pinnacle?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-structure-youtube-videos-for-2024/"><u>[Updated] How to Structure YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-2023s-leading-pc-vr-headsets-revealed/"><u>[Updated] In 2024, 2023'S Leading PC VR Headsets Revealed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-retro-playback-inverting-your-youtube-content/"><u>[Updated] Retro Playback Inverting Your YouTube Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hassle-free-installation-of-chatgpt-for-linux-users-with-bavarder-a-step-by-step-tutorial/"><u>Hassle-Free Installation of ChatGPT for Linux Users with Bavarder - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-the-problem-of-unresponsive-steam-games-in-windows-10-solved/"><u>How to Overcome the Problem of Unresponsive Steam Games in Windows 10 - Solved</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-a-soundtrack-journey-unveiling-10-key-spots-to-get-your-digital-music/"><u>In 2024, A Soundtrack Journey Unveiling 10 Key Spots to Get Your Digital Music</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-ultimate-recording-playbook-your-roblox-adventures-transformed/"><u>In 2024, The Ultimate Recording Playbook Your Roblox Adventures, Transformed</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-puzzle-of-production-piecing-together-roles-for-an-immersive-filming-experience/"><u>New 2024 Approved The Puzzle of Production Piecing Together Roles for an Immersive Filming Experience</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-dj-haven-platforms-for-exclusive-audio-mixes-for-2024/"><u>New DJ Haven Platforms for Exclusive Audio Mixes for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-how-to-add-audio-fade-out-effect/"><u>New In 2024, How to Add Audio Fade Out Effect</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-art-of-whimsical-words-on-the-line-9-voice-transformations-to-delight-your-calls/"><u>New The Art of Whimsical Words on the Line 9 Voice Transformations to Delight Your Calls</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-compilation-ringtone-renaissance-sites/"><u>Ultimate Compilation Ringtone Renaissance Sites</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-guide-to-extracting-and-refining-your-audacity-recordings-as-mp3s/"><u>Updated Guide to Extracting and Refining Your Audacity Recordings as MP3s</u></a></li>
 </ul></div>
 

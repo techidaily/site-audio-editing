@@ -1,7 +1,7 @@
 ---
 title: "The Corsair ONE I500 Breakdown: Reviewing a Revolutionary Compact Gaming Machine"
-date: 2024-11-07T19:50:41.922Z
-updated: 2024-11-13T16:56:37.626Z
+date: 2024-11-17T22:37:43.836Z
+updated: 2024-11-23T23:44:49.198Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -58,25 +62,20 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-crafting-tomorrows-art-today-the-finest-9-resources-for-3d-typographic-exploration/"><u>[New] 2024 Approved Crafting Tomorrow's Art Today The Finest 9 Resources for 3D Typographic Exploration</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-navigating-the-maze-choosing-the-right-vimeo-membership-plan/"><u>[New] 2024 Approved Navigating the Maze Choosing the Right Vimeo Membership Plan</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitterscape-in-focus-your-route-to-watching-hd-videos/"><u>[New] 2024 Approved Twitterscape in Focus Your Route to Watching HD Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-stepwise-insta-story-image-integration-techniques-for-maximum-impact-for-2024/"><u>[Updated] Stepwise Insta Story Image Integration Techniques for Maximum Impact for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unlock-video-quality-with-apple-music-addition-for-2024/"><u>[Updated] Unlock Video Quality with Apple Music Addition for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-essential-roles-and-their-impact-during-filming-phase/"><u>2024 Approved Essential Roles and Their Impact During Filming Phase</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/itunesiphonepc/"><u>揭秘！如何不用iTunes快速将iPhone照片传输到PC上</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/ancient-aria-top-tier-music-picks-for-wedding-video-production-for-2024/"><u>Ancient Aria Top-Tier Music Picks for Wedding Video Production for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/elevating-your-brand-with-intriguing-instagram-puzzle-feeds/"><u>Elevating Your Brand with Intriguing Instagram Puzzle Feeds</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-mastering-audio-integration-in-updated-mkv-formats/"><u>New Mastering Audio Integration in Updated MKV Formats</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/securely-save-your-windows-8-screenshots-for-2024/"><u>Securely Save Your Windows 8 Screenshots for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/specialist-recommendations-the-quintessential-5-cameras/"><u>Specialist Recommendations The Quintessential 5 Cameras</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-enhance-visual-storytelling-techniques-for-seamless-audio-integration-in-adobe-after-effects/"><u>Updated 2024 Approved Enhance Visual Storytelling Techniques for Seamless Audio Integration in Adobe After Effects</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-seamless-content-curation-with-youtubes-watch-later-feature/"><u>[New] 2024 Approved Seamless Content Curation with YouTube’s Watch Later Feature</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-practices-for-youtube-outro-design/"><u>[New] In 2024, Best Practices for YouTube Outro Design</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-sites-user-engagement-using-cookiebot-capabilities/"><u>Boost Your Site's User Engagement Using Cookiebot Capabilities</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/content-layout-on-social-networks-facebooks-perspective-for-2024/"><u>Content Layout on Social Networks Facebook’s Perspective for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/essential-melodies-crafting-a-perfect-music-sequence-for-your-montage-film-for-2024/"><u>Essential Melodies Crafting a Perfect Music Sequence for Your Montage Film for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-impact-of-snapchats-myai-6-reasons-why-its-not-merely-childs-play/"><u>Explore the Impact of Snapchat's MyAI: 6 Reasons Why It's Not Merely Child's Play</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-itel-p55t-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Itel P55T Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-leading-economical-screen-snapper-kit/"><u>In 2024, Leading Economical Screen Snapper Kit</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-from-silence-to-symphony-practical-steps-for-reducing-unintentional-auditory-background/"><u>New 2024 Approved From Silence to Symphony Practical Steps for Reducing Unintentional Auditory Background</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-15-best-rock-songs-that-you-should-know/"><u>Updated 2024 Approved 15 Best Rock Songs That You Should Know</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-seamless-soundwave-capture-essential-techniques-for-podcast-storage-on-computers/"><u>Updated 2024 Approved Seamless Soundwave Capture Essential Techniques for Podcast Storage on Computers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-future-proof-audio-editing-platforms-top-choices/"><u>Updated In 2024, Future-Proof Audio Editing Platforms Top Choices</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-unmissable-web-based-mp3-metadata-manipulators-heres-the-list/"><u>Updated Unmissable Web-Based MP3 Metadata Manipulators – Heres the List</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-your-guide-to-the-best-free-comedic-music-downloads/"><u>Updated Your Guide to the Best Free Comedic Music Downloads</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

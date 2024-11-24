@@ -1,7 +1,7 @@
 ---
 title: Discover Unmatched Performance in a Tiny Package - Geekom Releases the Revolutionary AX8, Compatible with 13Th Gen Intel & New AMD Ryzen CPUs
-date: 2024-11-11T23:09:38.935Z
-updated: 2024-11-13T23:05:05.547Z
+date: 2024-11-17T20:26:20.070Z
+updated: 2024-11-23T18:37:08.881Z
 tags:
   - desktop
 categories:
@@ -53,6 +53,10 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -76,23 +80,24 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-practices-for-youtube-to-igtv-transformation/"><u>[New] In 2024, Best Practices for YouTube to IGTV Transformation</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-spotlight-solutions-the-top-17-vlog-gear-lists/"><u>[New] In 2024, Spotlight Solutions The Top 17 Vlog Gear Lists</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/10-must-have-royalty-free-audio-laughs-to-enhance-your-multimedia-productions/"><u>10 Must-Have Royalty-Free Audio Laughs to Enhance Your Multimedia Productions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-firecapture-pro-for-ff/"><u>2024 Approved FireCapture Pro for FF</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-innovating-sound-design-the-impact-and-prowess-of-magix-samplitude/"><u>In 2024, Innovating Sound Design The Impact and Prowess of MAGIX Samplitude</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/navigating-the-visual-landscape-key-facts-about-pexelscom-stock-images-for-2024/"><u>Navigating the Visual Landscape Key Facts About Pexels.com Stock Images for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-8-best-cinematic-sound-effects-pack-included-for-2024/"><u>New 8 Best Cinematic Sound Effects Pack Included for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-5-methods-to-capture-and-save-flash-media-from-various-gadgets-updated-guide/"><u>Top 5 Methods to Capture and Save Flash Media From Various Gadgets - Updated Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-performance-secrets-toms-equipment-rundown/"><u>Unlocking Performance Secrets - Tom's Equipment Rundown</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-clearer-soundscapes-strategies-to-eradicate-unwanted-whistling-noises-for-2024/"><u>Updated Clearer Soundscapes Strategies to Eradicate Unwanted Whistling Noises for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-effective-method-for-adding-music-to-facebook-iphone/"><u>2024 Approved Effective Method for Adding Music to Facebook (iPhone)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-stand-out-with-visual-flair-bordered-video-tutorials/"><u>2024 Approved Stand Out with Visual Flair Bordered Video Tutorials</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/aeonys-portable-solar-energy-system-a-detailed-look-at-its-performance-with-fragile-healthcare-equipment/"><u>AeonY's Portable Solar Energy System: A Detailed Look at Its Performance with Fragile Healthcare Equipment</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-tecno-spark-go-2023-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Tecno Spark Go (2023) 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-8-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 8 When You Forget the Passcode?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-optimized-visual-quality-black-bar-and-box-frame-for-social-media-posts/"><u>In 2024, Optimized Visual Quality Black Bar & Box Frame for Social Media Posts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-swift-remedies-to-rescue-your-windows-10-photos-app/"><u>In 2024, Swift Remedies to Rescue Your Windows 10 Photos App</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/1723262400967-next-level-computing-on-demand-portable-256-core-servers-with-giant-storage-and-ram-in-fly-away-kits/"><u>Next-Level Computing On Demand: Portable 256-Core Servers With Giant Storage and RAM in Fly-Away Kits!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-to-transfer-and-enjoy-your-dvd-movies-on-any-ipod-model-without-hassle/"><u>Simple Steps to Transfer and Enjoy Your DVD Movies on Any iPod Model Without Hassle</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ey-to-flawless-shots-using-a-tripod-correctly-in-video-blogging/"><u>The Key to Flawless Shots Using a Tripod Correctly in Video Blogging</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-expert-recommendations-for-the-ultimate-32-inch-tv-models-zdnet/"><u>Top Picks: Expert Recommendations for the Ultimate 32-Inch TV Models - ZDNet</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-top-mobile-playlists-discovering-the-ultimate-melodies-for-your-android-device/"><u>Updated In 2024, Top Mobile Playlists Discovering the Ultimate Melodies for Your Android Device</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mastering-in-game-speech-alteration-top-picks-and-reviews-for-2024/"><u>Updated Mastering In-Game Speech Alteration Top Picks and Reviews for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-melody-mavens-exploring-the-best-tunes-an-online-up-to-date-song-identifier/"><u>Updated Melody Mavens Exploring the Best Tunes – An Online, Up-to-Date Song Identifier</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-techniques-to-remove-audio-from-updated-avi-software-file/"><u>Updated Techniques to Remove Audio From Updated AVI Software File</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-guide-to-popular-radio-ambiance/"><u>Updated The Ultimate Guide to Popular Radio Ambiance</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-top-5-revolutionary-google-meet-voice-modification-tools-for-2024/"><u>Updated Top 5 Revolutionary Google Meet Voice Modification Tools for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/voice-personalization-on-iphones-a-beginners-primer-for-using-voicechange-pro/"><u>Voice Personalization on iPhones A Beginners Primer for Using VoiceChange Pro</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

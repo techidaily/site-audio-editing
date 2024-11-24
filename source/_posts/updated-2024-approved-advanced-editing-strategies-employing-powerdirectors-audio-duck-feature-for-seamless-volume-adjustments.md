@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Advanced Editing Strategies Employing PowerDirectors Audio Duck Feature for Seamless Volume Adjustments
-date: 2024-11-01T00:18:30.919Z
-updated: 2024-11-04T05:14:46.130Z
+date: 2024-11-22T01:46:42.613Z
+updated: 2024-11-23T17:53:06.473Z
 tags: 
   - audio editing software
   - audio editing
@@ -53,16 +53,7 @@ Doing so will automatically add the keyframes into the background music you’ve
 So, this was the entire process of **music ducking** keyframes automation in **CyberLink PowerDirector**.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: An Alternative Solution to Audio Ducking on Mac
@@ -82,10 +73,7 @@ All in all, the Wondershare Filmora is a remarkable video editor fulfilling the 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Here is a step-by-step tutorial after which you can compare the audio ducking easiness of Wondershare Filmora with CyberLink PowerDirector.
@@ -111,10 +99,7 @@ You are almost there whereby tick the “**Lower the volume of other clips”** 
 So, these simple steps are required to enable **audio ducking** in Wondershare Filmora. So easy! Along with it, you can also consider using the **Fade Out** and **Pitch** slider tab for versatile audio adjustment. However, you must only check for the **Ducking** tab, especially when you’re a beginner and don’t want to go for extreme changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -124,13 +109,14 @@ Thus, with a discussion over two different ways to implement the **audio ducking
 | ![](https://www.google.com/favicon.ico) | ![](https://www.youtube.com/favicon.ico) | ![](https://www.google.com/favicon.ico) | ![](https://www.google.com/images/branding/product/ico/maps_32dp.ico) | ![](https://en.wikipedia.org/favicon.ico) | ![](https://www.amazon.com/favicon.ico) |
 | --------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -148,24 +134,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-pioneering-4k-adventures-q500-typhoon-reviewed/"><u>[New] In 2024, Pioneering 4K Adventures - Q500 Typhoon Reviewed</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-ps5-visual-mastery-premium-21-hdmi-monitors-for-gamers/"><u>[New] In 2024, PS5 Visual Mastery Premium 2.1 HDMI Monitors for Gamers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-action-avalon-10-thrilling-titles-comparable-to-gta-v-for-2024/"><u>[Updated] Action Avalon 10 Thrilling Titles Comparable To GTA V for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-cinematic-perfection-mastering-the-top-5-techniques/"><u>[Updated] In 2024, Cinematic Perfection Mastering the Top 5 Techniques</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-essential-listings-for-authentic-copyright-free-comic-audio-music-streams/"><u>2024 Approved Essential Listings for Authentic Copyright-Free Comic Audio Music Streams</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-streamlining-video-uploads-tips-for-transforming-h-vids-for-igtv/"><u>2024 Approved Streamlining Video Uploads Tips for Transforming H-Vids for IGTV</u></a></li>
-<li><a href="https://app-tips.techidaily.com/complete-guide-to-chatgpt-2024-unveiling-key-functionalities-and-resolving-internal-errors/"><u>Complete Guide to ChatGPT 2024: Unveiling Key Functionalities and Resolving Internal Errors</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-discover-the-best-fee-free-musical-backdrops-for-chuckle-filled-projects/"><u>In 2024, Discover the Best Fee-Free Musical Backdrops for Chuckle-Filled Projects</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-hunt-for-terrifying-acoustic-phenomena/"><u>New 2024 Approved Hunt for Terrifying Acoustic Phenomena</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/quick-tips-for-embedding-captions-in-matroska-video-format/"><u>Quick Tips for Embedding Captions in Matroska Video Format</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ole-of-content-quality-in-youtube-rankings-for-2024/"><u>The Role of Content Quality in YouTube Rankings for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transitioning-from-apple-top-alternatives-to-iphone-13-and-iphone-15-pro-for-tech-enthusiasts-zdnet/"><u>Transitioning From Apple: Top Alternatives to iPhone 13 & iPhone 15 Pro for Tech Enthusiasts | ZDNet</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-how-to-remove-audio-from-avi/"><u>Updated 2024 Approved How to Remove Audio From AVI</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-capturing-the-essence-of-your-pcs-sound-in-audacity/"><u>Updated Capturing the Essence of Your PCs Sound in Audacity</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-remove-audio-from-mov-files-on-windows-or-mac-for-2024/"><u>Updated How to Remove Audio From MOV Files on Windows or Mac for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-beat-architect-techniques-for-isolating-and-repurposing-kernels-in-audio/"><u>Updated In 2024, The Beat Architect Techniques for Isolating and Repurposing Kernels in Audio</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-ultimate-audio-adjustment-guide-for-electronics/"><u>Updated In 2024, Ultimate Audio Adjustment Guide for Electronics</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-unsung-heroes-key-contributions-of-each-cinematic-craftsperson-for-2024/"><u>Updated The Unsung Heroes Key Contributions of Each Cinematic Craftsperson for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/flv-wmv-movavi/"><u>무료 오피스 기회: FLV에서 WMV로의 원형 변환을 위해 Movavi를 사용하십시오!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-an-honest-review-of-recordcast/"><u>[Updated] In 2024, An Honest Review of RecordCast</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-basic-routes-to-sync-obs-with-zoom-for-2024/"><u>[Updated] The Basic Routes to Sync OBS with Zoom for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-from-virality-to-value-gauge-your-content-against-competing-craftsmen/"><u>2024 Approved From Virality to Value Gauge Your Content Against Competing Craftsmen</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-protect-system-decoded-and-activated-for-maximum-safety/"><u>Facebook’s Protect System Decoded & Activated for Maximum Safety</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/leading-audio-based-multiplayer-conversation-software-for-gamers-for-2024/"><u>Leading Audio-Based Multiplayer Conversation Software for Gamers for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-melody-eraser-pro-craft-personalized-instrumental-compositions/"><u>New In 2024, Melody Eraser Pro Craft Personalized Instrumental Compositions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-best-free-online-daw-software-your-2023-guide-to-browser-based-recording/"><u>New In 2024, The Best Free Online DAW Software Your 2023 Guide to Browser-Based Recording</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-integrating-audio-into-animated-gifs-using-windows-platform-for-2024/"><u>New Integrating Audio Into Animated GIFs Using Windows Platform for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionizing-mobile-shopping-the-impending-improvements-you-can-expect-from-google-play-store/"><u>Revolutionizing Mobile Shopping: The Impending Improvements You Can Expect From Google Play Store</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
 </ul></div>
 

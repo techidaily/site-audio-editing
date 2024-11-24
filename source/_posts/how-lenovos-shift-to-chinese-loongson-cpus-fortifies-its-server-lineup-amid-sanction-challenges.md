@@ -1,7 +1,7 @@
 ---
 title: How Lenovo's Shift to Chinese Loongson CPUs Fortifies Its Server Lineup Amid Sanction Challenges
-date: 2024-11-07T21:08:22.298Z
-updated: 2024-11-14T00:51:35.752Z
+date: 2024-11-20T22:20:52.520Z
+updated: 2024-11-23T19:55:15.028Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,10 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -56,29 +60,16 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-decoding-steps-to-access-your-channels-eyeballs/"><u>[New] 2024 Approved Decoding Steps to Access Your Channel's Eyeballs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-from-2d-to-spatial-the-evolution-of-cinematic-videos/"><u>[New] From 2D to Spatial The Evolution of Cinematic Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-quiet-quick-clean-auditory-connections/"><u>[New] Quiet, Quick, Clean Auditory Connections</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-innovative-tips-producing-instagram-ready-loop-videos/"><u>[Updated] 2024 Approved Innovative Tips Producing Instagram-Ready Loop Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/fb-audio-clip-converter-direct-to-mp3-mode/"><u>FB Audio Clip Converter Direct to MP3 Mode</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-how-to-resolve-everscape-ii-pc-crash-issues/"><u>Fixes & Solutions: How to Resolve Everscape II PC Crash Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-flexible-ais-for-practical-use-beyond-sora/"><u>Free, Flexible AIs for Practical Use: Beyond Sora</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-sony-vegas-audio-editor-how-to-edit-audio-in-vegas-pro/"><u>New Sony Vegas Audio Editor How to Edit Audio in Vegas Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-imovie-soundtrack-tips-to-create-immersive-audio-landscapes/"><u>New The Ultimate iMovie Soundtrack Tips to Create Immersive Audio Landscapes</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-tutorial-on-morphvox-for-enhancing-gaming-experience-through-vocal-alteration/"><u>New The Ultimate Tutorial on Morphvox for Enhancing Gaming Experience Through Vocal Alteration</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transforming-slow-motion-into-fast-action/"><u>Transforming Slow Motion Into Fast Action</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-streamlining-your-audio-setup-efficiently-manage-m4a-files-on-android/"><u>Updated 2024 Approved Streamlining Your Audio Setup Efficiently Manage M4A Files on Android</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-accelerated-audio-solutions-navigating-imports-in-adobe-premiere-pro/"><u>Updated Accelerated Audio Solutions Navigating Imports in Adobe Premiere Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-five-economical-strategies-for-attaching-songs-to-digital-media-for-2024/"><u>Updated Five Economical Strategies for Attaching Songs to Digital Media for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-magix-samplitude-is-it-really-the-best-music-production-software/"><u>Updated In 2024, MAGIX Samplitude Is It Really The Best Music Production Software?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-preserving-sound-integrity-altering-audio-tones-in-audacity/"><u>Updated In 2024, Preserving Sound Integrity Altering Audio Tones in Audacity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-mastering-the-skies-with-xiaomis-4k-drone/"><u>2024 Approved Mastering the Skies with Xiaomi's 4K Drone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-between-iphone-16-and-iphone-15-a-detailed-comparison-for-your-next-upgrade-with-apple-techradar/"><u>Choosing Between iPhone 16 and iPhone 15: A Detailed Comparison for Your Next Upgrade with Apple | TechRadar</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-best-practices-for-filming-screen-captures/"><u>In 2024, Best Practices for Filming Screen Captures</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/innovative-tech-discovering-the-top-9-microphone-recorders-online/"><u>Innovative Tech Discovering the Top 9 Microphone Recorders Online</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-capturing-perfect-sound-a-comprehensive-guide-for-advanced-mac-users/"><u>New 2024 Approved Capturing Perfect Sound A Comprehensive Guide for Advanced Mac Users</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-mastering-sound-design-adding-audio-enhancements-to-videos-seamlessly/"><u>New 2024 Approved Mastering Sound Design Adding Audio Enhancements to Videos Seamlessly</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-silent-screen-surgeons-techniques-for-audio-nullification-in-online-films-and-gigs/"><u>New 2024 Approved Silent Screen Surgeons Techniques for Audio Nullification in Online Films and Gigs</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-from-words-to-music-audio-conversion-of-textual-content-on-various-platforms/"><u>New From Words to Music Audio Conversion of Textual Content on Various Platforms</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-how-to-add-music-audio-to-a-gif-on-mac-in-2024/"><u>New How to Add Music/ Audio to a GIF on Mac, In 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/quick-guide-converting-mkv-to-avi-format-using-vlc-player-no-hidden-marks/"><u>Quick Guide: Converting MKV to AVI Format Using VLC Player - No Hidden Marks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/techniques-for-easy-video-recording-on-youtube/"><u>Techniques for Easy Video Recording on YouTube</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
