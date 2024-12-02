@@ -1,7 +1,7 @@
 ---
 title: How Lenovo's Shift to Chinese Loongson CPUs Fortifies Its Server Lineup Amid Sanction Challenges
-date: 2024-11-20T22:20:52.520Z
-updated: 2024-11-23T19:55:15.028Z
+date: 2024-11-28T20:15:26.654Z
+updated: 2024-12-01T21:18:27.098Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,16 +60,19 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/2024-approved-mastering-the-skies-with-xiaomis-4k-drone/"><u>2024 Approved Mastering the Skies with Xiaomi's 4K Drone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/choosing-between-iphone-16-and-iphone-15-a-detailed-comparison-for-your-next-upgrade-with-apple-techradar/"><u>Choosing Between iPhone 16 and iPhone 15: A Detailed Comparison for Your Next Upgrade with Apple | TechRadar</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-best-practices-for-filming-screen-captures/"><u>In 2024, Best Practices for Filming Screen Captures</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/innovative-tech-discovering-the-top-9-microphone-recorders-online/"><u>Innovative Tech Discovering the Top 9 Microphone Recorders Online</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-capturing-perfect-sound-a-comprehensive-guide-for-advanced-mac-users/"><u>New 2024 Approved Capturing Perfect Sound A Comprehensive Guide for Advanced Mac Users</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-mastering-sound-design-adding-audio-enhancements-to-videos-seamlessly/"><u>New 2024 Approved Mastering Sound Design Adding Audio Enhancements to Videos Seamlessly</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-silent-screen-surgeons-techniques-for-audio-nullification-in-online-films-and-gigs/"><u>New 2024 Approved Silent Screen Surgeons Techniques for Audio Nullification in Online Films and Gigs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-from-words-to-music-audio-conversion-of-textual-content-on-various-platforms/"><u>New From Words to Music Audio Conversion of Textual Content on Various Platforms</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-how-to-add-music-audio-to-a-gif-on-mac-in-2024/"><u>New How to Add Music/ Audio to a GIF on Mac, In 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/quick-guide-converting-mkv-to-avi-format-using-vlc-player-no-hidden-marks/"><u>Quick Guide: Converting MKV to AVI Format Using VLC Player - No Hidden Marks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/techniques-for-easy-video-recording-on-youtube/"><u>Techniques for Easy Video Recording on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-combat-common-instagram-video-snags-here-for-2024/"><u>[New] Combat Common Instagram Video Snags Here for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-guide-to-aiseesofts-screencasting-features/"><u>[New] Essential Guide to Aiseesoft's Screencasting Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-use-youtube-cards-and-annotations/"><u>[Updated] 2024 Approved How to Use YouTube Cards and Annotations?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-generate-brand-identity-accessible-logo-templates-and-editing/"><u>[Updated] Generate Brand Identity Accessible Logo Templates & Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premiered-patterns-for-panzoid-creation/"><u>[Updated] Premiered Patterns for Panzoid Creation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-bandicam-navigating-its-full-potential/"><u>2024 Approved The Ultimate Guide to Bandicam Navigating Its Full Potential</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-simple-techniques-for-effortless-undersea-vids/"><u>2024 Approved Unveiling Simple Techniques for Effortless Undersea Vids</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-mastering-tempo-sync-adjusting-video-clips-with-premiere-pros-audio-beatmap-for-2024/"><u>New Mastering Tempo Sync Adjusting Video Clips with Premiere Pros Audio Beatmap for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/streaming-audio-integration-with-videos-at-no-cost-top-six-techniques-for-2024/"><u>Streaming Audio Integration with Videos at No Cost Top Six Techniques for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-catchy-counterpoint-the-best-backwards-song-videos-of-this-year/"><u>Updated 2024 Approved Catchy Counterpoint The Best Backwards Song Videos of This Year</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-compiling-a-comprehensive-guide-to-cost-free-vst-tools-available/"><u>Updated 2024 Approved Compiling a Comprehensive Guide to Cost-Free VST Tools Available</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-effortless-audio-silencing-an-audacity-users-manual/"><u>Updated 2024 Approved Effortless Audio Silencing An Audacity Users Manual</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-captivating-sound-design-essentials-review-of-premier-audio-editors-pros-and-cons/"><u>Updated In 2024, Captivating Sound Design Essentials Review of Premier Audio Editors, Pros & Cons</u></a></li>
 </ul></div>
 

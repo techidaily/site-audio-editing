@@ -1,7 +1,7 @@
 ---
 title: "Modest-Class Video Gear: An In-Depth Review of VIXIA’s HF R800"
-date: 2024-11-19T20:26:22.555Z
-updated: 2024-11-23T18:14:26.574Z
+date: 2024-11-24T20:26:53.017Z
+updated: 2024-12-01T17:22:41.177Z
 categories:
   - BestProducts
 description: "This Article Describes Modest-Class Video Gear: An In-Depth Review of VIXIA’s HF R800"
@@ -41,13 +41,13 @@ Lifewire / Emily Isaacs
 
 4.4
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Sculpt Ergonomic Keyboard
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/kImh0m4twEbigZ9dAMqYCtAxbnk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_HeroSquare-518c472b5b5341fe8c0cf05954c8cc94.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -69,6 +69,10 @@ Lifewire / Emily Isaacs
 
  You can tell Microsoft put a considerable amount of thought into the Sculpt Ergonomic Keyboard’s design. From the manta ray style folds, which keep shoulders and hands at a relaxed, comfortable angle, to the detached numpad and magnetized risers for increased customization options when you want them, the Sculpt is quite the package. As with anything new, it took a period of adjustment, but we found it relatively quick thanks to the intuitive, easy-to-use design.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Made for comfort**
 
  The Sculpt is an ergonomic keyboard with a split design akin to that of a manta ray. The two halves of the keyboard sweep outwards and downwards creating an empty, raised space in the center of its swoop design. Its keys vary in size, with those nearest to the split being slightly wider than those on the outer edges of the keyboard. It’s largely made with plastic and has a bit of a clacky sound as you type. The Sculpt employs a standard layout with a fabric wrist pad at the front for extra comfort. This intuitive, split design combined with the wrist pad help your wrists, hands, and shoulders sit at a neutral, natural angle in order to[alleviate repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) that frequent typists are prone to over time.
@@ -76,7 +80,7 @@ Lifewire / Emily Isaacs
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/Cgdvz2K5QV0PheSGAjQNXTdhKP4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_02-e457e23b0c0848dbaad1197549efcc47.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
@@ -105,15 +109,15 @@ Lifewire / Emily Isaacs
 
  One major drawback to the Sculpt’s design is the dongle that associates the keyboard to your PC is one of a kind. This is thanks to the AES 128-bit encryption technology the Sculpt uses to keep your keystrokes safe. Associated to the keyboard at the factory, there simply is no replacing it if it’s lost. While the Sculpt isn’t really travel-friendly due to its size, it would do best in an environment where it’s set up once and stays put so as to prevent losing this important piece of tech.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Great for the features**
 
  Ergonomic keyboards tend to cost anywhere from $50-$200\. Generally retailing for around $90 on Amazon or $129.95 MSRP, the Sculpt sits in the middle. Its features are nice for the price, too. Encrypted keystrokes, wireless technology, a detached numpad, a magnetic riser, and an ergonomic design with a wrist pad for extra comfort makes this keyboard surefire winner in our books.
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/BarmRhIEQlGkF0UEDLP9peOh3co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_05-646724c396184c12836f3f2ce2ced675.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -130,7 +134,7 @@ Lifewire / Emily Isaacs
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/vn9L7kezNDVwJaDwHzeLbefGfDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_04-df81d8c1ef3c4387ab900dfa381e1e0f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
@@ -144,10 +148,6 @@ Lifewire / Emily Isaacs
  **A secure, mid-priced wireless keyboard with lots of customization options.**
 
  The Microsoft Sculpt Ergonomic Keyboard is a great mid-priced wireless keyboard with multiple customization options thanks to its detached numpad and magnetic riser. Combined with its AES 128-bit encryption technology, comfortable wrist pad, and handy function switch, it’s a great investment for the price. The intuitive, natural angles it creates will have your hands thanking you later.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -179,24 +179,22 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-youtube-names-generators-plus-how-to-brainstorm/"><u>[New] 2024 Approved Best YouTube Names Generators [+ How to Brainstorm]</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-in-depth-theta-s-evaluation-overview/"><u>[New] In 2024, In-Depth Theta S Evaluation Overview</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-top-mac-hd-frame-gems-guide-char-limit-156/"><u>[New] In 2024, Top Mac HD Frame Gems Guide (Char Limit 156)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-crafting-powerful-instagram-content-top-strategies-for-video-marketing-for-2024/"><u>[Updated] Crafting Powerful Instagram Content Top Strategies for Video Marketing for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mirthful-melodies-best-song-caricatures/"><u>[Updated] Mirthful Melodies Best Song Caricatures</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-ideal-ios-platform-for-psp-emulation-our-top-5-list-of-2023/"><u>2024 Approved Ideal iOS Platform for PSP Emulation - Our Top 5 List of 2023</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-tecno-camon-20-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Tecno Camon 20</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-steps-for-integrating-sound-into-the-latest-avi-format/"><u>New Steps for Integrating Sound Into the Latest AVI Format</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-stunning-sound-editing-tool-exploring-features-advantages-limitations-and-competitors/"><u>New Stunning Sound Editing Tool Exploring Features, Advantages, Limitations, and Competitors</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/resonant-harmony-a-comprehensive-list-of-voice-enhancing-apps-for-all-audiences-and-budgets/"><u>Resonant Harmony A Comprehensive List of Voice-Enhancing Apps for All Audiences and Budgets</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-list-empowering-film-suggestions-for-2024/"><u>The Ultimate List Empowering Film Suggestions for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-your-media-library-remove-drm-from-itunes-downloads-with-dearmob/"><u>Unlock Your Media Library - Remove DRM From iTunes Downloads with DearMob</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-omegle-exclusion-no-more-strategies-for-removal-from-the-blacklist/"><u>Updated 2024 Approved Omegle Exclusion No More Strategies for Removal From the Blacklist</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-definitive-guide-to-high-quality-audio-edits-on-apples-mobile-devices-this-year/"><u>Updated 2024 Approved The Definitive Guide to High-Quality Audio Edits on Apples Mobile Devices This Year</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-clearing-the-microphone-effective-strategies-for-cutting-out-vocals-using-audacitys-spectrum-analyzer/"><u>Updated Clearing the Microphone Effective Strategies for Cutting Out Vocals Using Audacitys Spectrum Analyzer</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-elevate-your-soundtracks-expert-edits-using-sony-vegas-pro-software-for-2024/"><u>Updated Elevate Your Soundtracks Expert Edits Using Sony Vegas Pro Software for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-from-silence-to-symphony-a-practical-approach-to-changing-video-audio-part-1-for-2024/"><u>Updated From Silence to Symphony A Practical Approach to Changing Video Audio (Part 1) for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-harmonize-your-hearings-top-software-to-extract-clean-soundscapes-from-original-recordings/"><u>Updated Harmonize Your Hearings Top Software to Extract Clean Soundscapes From Original Recordings</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-microphone-record-with-confidence/"><u>Windows 11 Microphone: Record with Confidence</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mediameld-editsuite/"><u>[New] In 2024, MediaMeld EditSuite</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-ps1-reimagined-the-best-emulators-for-game-revival-on-pc/"><u>[New] In 2024, PS1 Reimagined The Best Emulators for Game Revival on PC</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-zipping-up-an-enthralling-tiktok-credit-sequence-for-2024/"><u>[New] Zipping Up an Enthralling TikTok Credit Sequence for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/efficient-mp2-naar-mp3-vervangen-met-movavi-gratuite-web-omgeving-voor-leuke-muziek/"><u>Efficiënt MP2 Naar MP3 Vervangen Met Movavi: Gratuite Web-Omgeving Voor Leuke Muziek</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/how-to-transfer-photos-and-videos-from-iphone-to-pc-on-windows-11-10-8-and-7/"><u>How to Transfer Photos and Videos From iPhone to PC on Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-a2-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi A2 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-restoring-firestick-remote-control-functionality/"><u>Mastering the Art of Restoring Firestick Remote Control Functionality</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/strategies-for-maximizing-your-twitter-archive-for-2024/"><u>Strategies for Maximizing Your Twitter Archive for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-corsair-one-i500-breakdown-reviewing-a-revolutionary-compact-gaming-machine/"><u>The Corsair ONE I500 Breakdown: Reviewing a Revolutionary Compact Gaming Machine</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-inside-americas-favorite-non-omegle-video-chat-websites-a-current-ranking-guide-for-2024/"><u>Updated Inside Americas Favorite Non-Omegle Video Chat Websites A Current Ranking Guide for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-art-of-audio-conjunction-preparing-sounds-for-video-production-for-2024/"><u>Updated The Art of Audio Conjunction Preparing Sounds for Video Production for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-essential-guide-to-the-best-7-audio-editors-for-professional-guitarists/"><u>Updated The Essential Guide to the Best 7 Audio Editors for Professional Guitarists</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-perfect-match-for-all-audio-lovers-top-10-free-video-to-audio-conversion-services-for-2024/"><u>Updated The Perfect Match for All Audio Lovers Top 10 Free Video to Audio Conversion Services for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-speakers-selection-top-rated-audio-recording-applications-of-the-year/"><u>Updated The Speakers Selection Top-Rated Audio Recording Applications of the Year</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-budget-transcription-toolkit-discovering-three-accessible-free-ways-to-convert-audios-into-texts-for-2024/"><u>Updated The Ultimate Budget Transcription Toolkit - Discovering Three Accessible, Free Ways to Convert Audios Into Texts for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-listening-experience-alternatives-to-apowersoft-audio-software-for-2024/"><u>Updated The Ultimate Listening Experience Alternatives to Apowersoft Audio Software for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/webcam-video-pros-fast-effective-filming-steps-for-2024/"><u>Webcam Video Pros Fast, Effective Filming Steps for 2024</u></a></li>
 </ul></div>
 

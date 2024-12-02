@@ -1,7 +1,7 @@
 ---
 title: "The Corsair ONE I500 Breakdown: Reviewing a Revolutionary Compact Gaming Machine"
-date: 2024-11-17T22:37:43.836Z
-updated: 2024-11-23T23:44:49.198Z
+date: 2024-11-29T17:29:59.378Z
+updated: 2024-12-01T20:12:21.046Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,20 +62,18 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-seamless-content-curation-with-youtubes-watch-later-feature/"><u>[New] 2024 Approved Seamless Content Curation with YouTube’s Watch Later Feature</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-practices-for-youtube-outro-design/"><u>[New] In 2024, Best Practices for YouTube Outro Design</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boost-your-sites-user-engagement-using-cookiebot-capabilities/"><u>Boost Your Site's User Engagement Using Cookiebot Capabilities</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/content-layout-on-social-networks-facebooks-perspective-for-2024/"><u>Content Layout on Social Networks Facebook’s Perspective for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/essential-melodies-crafting-a-perfect-music-sequence-for-your-montage-film-for-2024/"><u>Essential Melodies Crafting a Perfect Music Sequence for Your Montage Film for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-impact-of-snapchats-myai-6-reasons-why-its-not-merely-childs-play/"><u>Explore the Impact of Snapchat's MyAI: 6 Reasons Why It's Not Merely Child's Play</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-itel-p55t-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Itel P55T Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-leading-economical-screen-snapper-kit/"><u>In 2024, Leading Economical Screen Snapper Kit</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-from-silence-to-symphony-practical-steps-for-reducing-unintentional-auditory-background/"><u>New 2024 Approved From Silence to Symphony Practical Steps for Reducing Unintentional Auditory Background</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-15-best-rock-songs-that-you-should-know/"><u>Updated 2024 Approved 15 Best Rock Songs That You Should Know</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-seamless-soundwave-capture-essential-techniques-for-podcast-storage-on-computers/"><u>Updated 2024 Approved Seamless Soundwave Capture Essential Techniques for Podcast Storage on Computers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-future-proof-audio-editing-platforms-top-choices/"><u>Updated In 2024, Future-Proof Audio Editing Platforms Top Choices</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-unmissable-web-based-mp3-metadata-manipulators-heres-the-list/"><u>Updated Unmissable Web-Based MP3 Metadata Manipulators – Heres the List</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-your-guide-to-the-best-free-comedic-music-downloads/"><u>Updated Your Guide to the Best Free Comedic Music Downloads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-exclusive-list-of-smartphone-apps-for-changing-vocal-expression/"><u>[New] 2024 Approved Exclusive List of Smartphone Apps for Changing Vocal Expression</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fb-link-mastery-8-powerful-free-extractor-tools-for-2024/"><u>[Updated] FB Link Mastery 8 Powerful FREE Extractor Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-smartfilter-settings-for-secure-web-browsing/"><u>Customize SmartFilter Settings for Secure Web Browsing</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diy-solutions-to-tackle-syntpsys-bsod-errors-on-your-windows-operating-system/"><u>DIY Solutions to Tackle SYNTP.SYS BSOD Errors on Your Windows Operating System</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tive-call-to-actions-boosting-video-engagement-for-2024/"><u>Effective Call-to-Actions Boosting Video Engagement for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-note-30-vip-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Note 30 VIP Face Lock?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-10-best-montage-songs-for-your-montage-video/"><u>New 10 Best Montage Songs for Your Montage Video</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-elevate-your-online-collaboration-discover-the-best-voice-transformation-technologies-for-google-meet-users-for-2024/"><u>New Elevate Your Online Collaboration Discover the Best Voice Transformation Technologies for Google Meet Users for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-technique-for-harmonizing-volume-in-davinci-resolve-for-2024/"><u>The Ultimate Technique for Harmonizing Volume in DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-elite-selection-best-selling-mac-audio-editing-tools-ranked/"><u>Updated 2024 Approved The Elite Selection Best-Selling Mac Audio Editing Tools, Ranked</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-capturing-the-essence-of-your-pcs-sound-in-audacity/"><u>Updated Capturing the Essence of Your PCs Sound in Audacity</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-how-to-remove-audio-from-mov-files-on-windows-or-mac-for-2024/"><u>Updated How to Remove Audio From MOV Files on Windows or Mac for 2024</u></a></li>
 </ul></div>
 

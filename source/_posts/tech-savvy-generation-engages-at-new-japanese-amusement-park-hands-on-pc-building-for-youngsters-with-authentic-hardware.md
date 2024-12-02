@@ -1,7 +1,7 @@
 ---
 title: Tech-Savvy Generation Engages at New Japanese Amusement Park – Hands-On PC Building for Youngsters with Authentic Hardware
-date: 2024-11-18T17:38:27.864Z
-updated: 2024-11-23T18:56:33.676Z
+date: 2024-11-27T21:13:19.753Z
+updated: 2024-12-02T05:45:32.323Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,24 +78,24 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-instagram-live-maintaining-privacy-while-streaming-for-2024/"><u>[New] Instagram Live Maintaining Privacy While Streaming for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-how-frequent-uploads-can-skyro-cookie-sales-on-your-youtube-channel/"><u>[Updated] 2024 Approved How Frequent Uploads Can Skyro Cookie Sales on Your YouTube Channel</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-curate-your-learning-best-15-science-yt-experts/"><u>[Updated] Curate Your Learning Best 15 Science YT Experts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-must-have-top-8-wallpapers-and-themes-for-mbp-users/"><u>[Updated] Must-Have Top 8 Wallpapers & Themes for MBP Users</u></a></li>
-<li><a href="https://win-best.techidaily.com/best-practices-effective-ways-to-block-tcp-port-445-on-windows-systems/"><u>Best Practices: Effective Ways to Block TCP Port 445 on Windows Systems</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/enhancing-reach-sharing-on-vimeo/"><u>Enhancing Reach Sharing on Vimeo</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/exploring-toms-hardware-the-ultimate-guide-to-new-technology/"><u>Exploring Tom's Hardware: The Ultimate Guide to New Technology</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-motorola-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Motorola</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a05-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A05 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/inside-toms-hardware-your-comprehensive-tech-resource/"><u>Inside Tom's Hardware: Your Comprehensive Tech Resource</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/navigating-the-tech-world-efficiently-expert-tips-from-toms-hardware/"><u>Navigating the Tech World Efficiently - Expert Tips From Tom's Hardware</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/soundsnatcher-recorder-software-overview/"><u>SoundSnatcher Recorder Software Overview</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/toms-tech-review-in-depth-analysis-of-latest-computer-hardware/"><u>Tom's Tech Review: In-Depth Analysis of Latest Computer Hardware</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-strategies-for-detaching-soundtracks-from-footage/"><u>Updated Strategies for Detaching Soundtracks From Footage</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-gamers-manual-to-identifying-top-rated-audio-alteration-devices-for-2024/"><u>Updated The Gamers Manual to Identifying Top-Rated Audio Alteration Devices for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-modern-editors-handbook-cutting-and-mixing-in-avidemux-for-2024/"><u>Updated The Modern Editors Handbook Cutting and Mixing in Avidemux for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-turn-off-sounds-and-import-unique-music-for-windows-movie-editor-for-2024/"><u>Updated Turn Off Sounds & Import Unique Music for Windows Movie Editor for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-unveiling-the-ultimate-collection-of-free-mobile-audio-visualizing-apps-for-ios-and-android/"><u>Updated Unveiling the Ultimate Collection of FREE Mobile Audio-Visualizing Apps for iOS and Android</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ccelerated-sizing-youtube-content-for-macs/"><u>[New] Accelerated Sizing YouTube Content for MACs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-crafting-unique-podcast-logos-visibility-tips/"><u>[New] Crafting Unique Podcast Logos Visibility Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-accessories-for-travel-footage-production/"><u>[New] In 2024, Accessories for Travel Footage Production</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ultimate-devices-for-home-and-office-for-2024/"><u>[New] Ultimate Devices for Home and Office for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-10-game-changing-techniques-to-amplify-your-facebook-presence/"><u>[Updated] In 2024, 10 Game-Changing Techniques to Amplify Your Facebook Presence</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-essential-soundtracks-every-smartphone-owner-should-have/"><u>2024 Approved Essential Soundtracks Every Smartphone Owner Should Have</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-exploring-acoustic-illusions-in-motion-techniques-to-illustrate-sound-tracks-via-animated-waveforms-within-premiere-pro-workflow/"><u>2024 Approved Exploring Acoustic Illusions in Motion Techniques to Illustrate Sound Tracks via Animated Waveforms Within Premiere Pro Workflow</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-z-flip-5-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy Z Flip 5 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-driver-update-instructions-for-hp-designjet-500-series-t620-t520/"><u>Easy Driver Update Instructions for HP DesignJet 500 Series (T620, T520)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-ai-experience-top-reasons-to-choose-claude-3-over-chatgpt/"><u>Elevate Your AI Experience: Top Reasons to Choose Claude 3 OVER ChatGPT</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-elevate-sound-fidelity-with-advanced-latency-reduction-methods/"><u>In 2024, Elevate Sound Fidelity with Advanced Latency Reduction Methods</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-iphone-12-mini-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your iPhone 12 mini has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-expert-suggestions-for-enhancing-devices-audiovisual-experience/"><u>New Expert Suggestions for Enhancing Devices Audiovisual Experience</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-2023s-favorite-retro-tempo-tunes-compilation/"><u>New In 2024, 2023S Favorite Retro-Tempo Tunes Compilation</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-8-favorite-high-quality-audio-recorders-for-online-sharing/"><u>New In 2024, 8 Favorite High-Quality Audio Recorders for Online Sharing</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-a-composers-selection-the-best-10-websites-to-download-and-explore-diverse-montage-music-genres/"><u>New In 2024, A Composers Selection The Best 10 Websites to Download and Explore Diverse Montage Music Genres</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-innovative-online-audio-cutter-utilities-the-leading-tools-for-2024/"><u>New Innovative Online Audio Cutter Utilities – The Leading Tools for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/tactical-cut-discarding-audible-elements-from-multimedia-files-mp4-mkv-avi-mov-wmv/"><u>Tactical Cut Discarding Audible Elements From Multimedia Files (MP4, MKV, AVI, MOV, WMV)</u></a></li>
 </ul></div>
 

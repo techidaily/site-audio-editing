@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Ultimate Guide to Real-Time Audio Leveling with Final Cut Pro Xs AutoDuck Feature
-date: 2024-11-18T18:04:15.262Z
-updated: 2024-11-23T22:13:52.482Z
+date: 2024-11-29T19:05:25.700Z
+updated: 2024-12-01T19:57:09.635Z
 tags: 
   - audio editing software
   - audio editing
@@ -70,20 +70,16 @@ Once the FCPX audio ducking process is completed, it will generate an XML file. 
 
 ![Import XML in Final Cut Pro](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can now copy the modified music clip, go to the timeline, and paste it at the starting of the video. Here, you can just mute the previous music clip and let the auto-duck audio play instead.
 
 ![Audio Ducking Media Final Cut Pro](https://images.wondershare.com/filmora/article-images/automatic-audio-ducking-in-fcpx-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: The Best FCPX Alternative for Mac to Perform Automatic Audio Ducking
@@ -93,7 +89,7 @@ As you can see, it is pretty tough to do audio ducking in Final Cut Pro as there
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ideally, you can perform audio ducking on voiceover or another soundtrack in Wondershare Filmora. To perform music ducking via Wondershare Filmora on Mac, you can follow these steps:
@@ -104,13 +100,13 @@ To begin with, just launch Wondershare Filmora on your Mac and just drag-and-dro
 
 ![Filmora Import Media File](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once your video is imported, you can drag it to the timeline at the bottom to work on it. If you want, you can click on the voiceover icon (adjacent to the preview section) to record dialogues right away.
 
 ![Filmora Record Voiceovers](https://images.wondershare.com/filmora/article-images/record-voiceovers-audio-ducking.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Apart from that, you can also import music files to your video or use the extensive range of royalty-free audio files that are available in Filmora.
 
@@ -122,6 +118,10 @@ Great! Now, on the timeline of Filmora, you can see your video and the music tra
 
 ![Filmora Apply Audio Ducking](https://images.wondershare.com/filmora/article-images/apply-audio-ducking.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Afterward, right-click the audio track and select the “Adjust Audio” option from the context menu.
 
 ![Filmora Adjust Audio](https://images.wondershare.com/filmora/article-images/right-click-adjust-audio.jpg)
@@ -129,10 +129,6 @@ Afterward, right-click the audio track and select the “Adjust Audio” option 
 This will open a dedicated Audio Mixer window on the screen. Just go to the Audio tab and enable the “Ducking” option to lower the volume of other audio tracks. You can also select the desired level for music ducking to implement.
 
 ![Filmora Audio Ducking](https://images.wondershare.com/filmora/guide/audio-ducking-lower-other-clips.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 3: Export the Edited Video
 
@@ -143,6 +139,10 @@ That’s it! After performing audio ducking on Filmora, you can preview the resu
 There you go! After following this guide, you can easily learn how to do audio ducking in Final Cut Pro X easily. Since there is no inbuilt FCPX audio ducking option, you can use a third-party tool like FCPX AutoDuck. Apart from that, if you are looking for a better alternative to do sound ducking, then simply use Wondershare Filmora. It is a user-friendly and resourceful application that would let you perform automatic music ducking like a pro.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -159,15 +159,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-2023-tech-scoop-efficiently-tracking-down-fb-vids/"><u>In 2024, 2023 Tech Scoop Efficiently Tracking Down FB Vids</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-achieving-prominence-with-apples-listings/"><u>In 2024, Achieving Prominence with Apple's Listings</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-infinix-note-30i-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Infinix Note 30i</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-taking-your-content-public-steps-for-live-streaming/"><u>In 2024, Taking Your Content Public Steps for Live Streaming</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-top-6-best-free-online-audio-editor-to-use-100-free/"><u>New 2024 Approved Top 6 Best Free Online Audio Editor to Use (100 Free)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-chord-connoisseurs-top-choice-mobile-apps-for-identifying-songs-on-android-devices-for-2024/"><u>New Chord Connoisseurs Top Choice Mobile Apps for Identifying Songs on Android Devices for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-separate-sounds-from-images-imovies-methodology-for-mac-computers/"><u>New In 2024, Separate Sounds From Images IMovies Methodology for Mac Computers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-lyric-locators-discovering-hit-songs-of-the-year-updated-for-2024/"><u>New Lyric Locators Discovering Hit Songs of the Year, Updated for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/stay-clear-of-googles-trap-dont-download-bard-app/"><u>Stay Clear of Google's Trap: Don't Download Bard App</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723964479111-unbeatable-deal-on-the-montech-air-903-max-pc-case-with-top-tier-airflow-and-quad-fans-just-69/"><u>Unbeatable Deal on the Montech Air 903 Max PC Case with Top-Tier Airflow & Quad Fans – Just $69!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-bridging-the-gap-between-simple-to-high-tech-hdr-techniques/"><u>[Updated] 2024 Approved Bridging the Gap Between Simple to High-Tech HDR Techniques</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-top-8-ways-to-turn-tiktok-into-a-money-machine-for-2024/"><u>[Updated] The Top 8 Ways to Turn TikTok Into a Money Machine for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-analysis-full-potential-of-bublcams-360-degree-scope/"><u>2024 Approved Exclusive Analysis Full Potential of Bublcam's 360-Degree Scope</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/achieving-pristine-video-quality-on-youtube/"><u>Achieving Pristine Video Quality on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-guide-to-mastering-steams-switch-pro-controller/"><u>In 2024, A Guide to Mastering Steam's Switch Pro Controller</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-from-channels-to-champions-leveraging-lingo-in-telegram-marketing/"><u>In 2024, From Channels to Champions Leveraging Lingo in Telegram Marketing</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-navigating-video-editing-incorporating-dubbing-techniques-in-filmora/"><u>New Navigating Video Editing Incorporating Dubbing Techniques in Filmora</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/quieting-the-cinematic-chaos-techniques-for-audio-trimming-in-imovie-videos/"><u>Quieting the Cinematic Chaos Techniques for Audio Trimming in iMovie Videos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rectify-acuity-inkjet-issues-on-windows-11/"><u>Rectify Acuity Inkjet Issues on Windows 11</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-explore-8-essential-rainfall-audio-libraries-available-to-download/"><u>Updated 2024 Approved Explore 8 Essential Rainfall Audio Libraries Available to Download</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-rhythm-reconnaissance-leading-song-recognition-apps-you-must-have-on-your-android-gadget/"><u>Updated 2024 Approved Rhythm Reconnaissance Leading Song Recognition Apps You Must Have on Your Android Gadget</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-disable-incoming-audio-cues-and-import-fresh-audiovisual-components-via-windows-moviemaker-software/"><u>Updated In 2024, Disable Incoming Audio Cues & Import Fresh Audiovisual Components via Windows Moviemaker Software</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-how-to-edit-audio-in-avidemux/"><u>Updated In 2024, How to Edit Audio in Avidemux</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-reduced-clarity-of-audio-outputs-in-the-latest-adobe-rush-release/"><u>Updated In 2024, Reduced Clarity of Audio Outputs in the Latest Adobe Rush Release</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-skype-voice-changer-useful-tools-to-change-voice-for-skype/"><u>Updated In 2024, Skype Voice Changer Useful Tools to Change Voice for Skype</u></a></li>
 </ul></div>
 
