@@ -1,7 +1,7 @@
 ---
 title: Microsoft Rolls Out Custom-Made Network Devices Tailored for Artificnial Intelligence Data Centers - Insights
-date: 2024-11-30T22:08:10.346Z
-updated: 2024-12-02T03:28:08.610Z
+date: 2024-12-08T16:52:57.487Z
+updated: 2024-12-09T18:13:30.800Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,16 +62,18 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-unraveling-the-enthralling-elements-of-filmora-editing/"><u>[Updated] Unraveling the Enthralling Elements of Filmora Editing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-identifying-power-users-in-niche-specific-instagram/"><u>In 2024, Identifying Power Users in Niche-Specific Instagram</u></a></li>
-<li><a href="https://windows11.techidaily.com/low-ram-footprint-webbrowsers-an-intensive-benchmark-analysis/"><u>Low RAM Footprint Webbrowsers: An Intensive Benchmark Analysis</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ize-your-video-sound-best-free-wav-extractors-from-youtube-for-2024/"><u>Maximize Your Video Sound Best Free WAV Extractors From YouTube for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/sync-up-your-studio-setup-the-8-most-popular-music-production-applications-for-mac-and-windows/"><u>Sync-Up Your Studio Setup The 8 Most Popular Music Production Applications for Mac and Windows</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/synthetic-symphony-building-a-soundtrack-to-enhance-your-cinematic-vision/"><u>Synthetic Symphony Building a Soundtrack to Enhance Your Cinematic Vision</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-art-of-synchronizing-video-to-music-techniques-for-2024/"><u>The Art of Synchronizing Video to Music Techniques for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/athway-to-popular-youtube-thumbnails-mac-edition/"><u>The Pathway to Popular Youtube Thumbnails Mac Edition</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-omegle-explored-understanding-the-platform-its-community-dynamics-and-safety-protocols/"><u>Updated 2024 Approved Omegle Explored Understanding the Platform, Its Community Dynamics & Safety Protocols</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-how-to-transcribe-audio-to-text-free-on-android-and-ios/"><u>Updated In 2024, How to Transcribe Audio to Text Free on Android and iOS</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/vn-video-editor-pro-apk-is-it-a-worthy-video-editing-app-in-2024/"><u>VN Video Editor Pro Apk - Is It A Worthy Video Editing App, In 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-zooms-filters-for-clear-premium-calls/"><u>[New] In 2024, Mastering Zoom's Filters for Clear, Premium Calls</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-stretched-screen-issues-for-windows-10/"><u>[Solved] Stretched Screen Issues for Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-magic-5-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/enhance-video-engagement-pinnacle-techniques-in-zoom-editing/"><u>Enhance Video Engagement Pinnacle Techniques in Zoom Editing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-ultimate-mp3-compilation-top-youtube-transformers/"><u>In 2024, Ultimate MP3 Compilation Top YouTube Transformers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-top-tools-for-silencing-unwanted-sound-in-podcasts-and-recordings-for-2024/"><u>New Top Tools for Silencing Unwanted Sound in Podcasts and Recordings for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/premier-voice-recorders-for-android-comprehensive-and-cost-free-for-2024/"><u>Premier Voice Recorders for Android - Comprehensive and Cost-Free for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/resolving-audio-desynchronization-issues-in-avimov-files-a-comprehensive-guide/"><u>Resolving Audio Desynchronization Issues in AVI/MOV Files: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-clearcut-technique-for-backdrop-free-imagery/"><u>The Ultimate Clearcut Technique for Backdrop-Free Imagery</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-finding-your-perfect-mp3-trimmer-on-macos-compare-the-best-audio-editors/"><u>Updated 2024 Approved Finding Your Perfect MP3 Trimmer on macOS Compare the Best Audio Editors</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-mechanics-behind-anime-translations-insights-into-adaptation-and-localization/"><u>Updated 2024 Approved The Mechanics Behind Anime Translations Insights Into Adaptation and Localization</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-step-by-step-techniques-for-infusing-music-into-your-final-cut-pro-video-edits/"><u>Updated In 2024, Step-by-Step Techniques for Infusing Music Into Your Final Cut Pro Video Edits</u></a></li>
 </ul></div>
 

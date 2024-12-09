@@ -1,7 +1,7 @@
 ---
 title: Discover Unmatched Performance in a Tiny Package - Geekom Releases the Revolutionary AX8, Compatible with 13Th Gen Intel & New AMD Ryzen CPUs
-date: 2024-11-24T19:29:36.591Z
-updated: 2024-12-02T01:24:52.855Z
+date: 2024-12-04T21:09:26.400Z
+updated: 2024-12-09T16:12:28.573Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,22 +80,18 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-turning-fb-videos-into-audible-mp3s/"><u>[Updated] 2024 Approved The Ultimate Guide to Turning Fb Videos Into Audible MP3s</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-obtaining-your-logitech-m525-driver-and-setup-programs/"><u>Easy Guide: Obtaining Your Logitech M525 Driver and Setup Programs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/harmonizing-screens-a-list-of-the-top-15-scores-for-various-genre-videos-for-2024/"><u>Harmonizing Screens A List of the Top 15 Scores for Various Genre Videos for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-film-set-harmony-exploring-every-members-critical-function-in-movie-making/"><u>In 2024, Film Set Harmony Exploring Every Members Critical Function in Movie-Making</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-unveiling-the-top-5-mp3-converters-and-mixers-optimized-for-macos/"><u>In 2024, Unveiling the Top 5 MP3 Converters and Mixers Optimized for macOS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-investing-in-chatgpt-plus-a-good-idea-find-out-with-these-5-convincing-factors/"><u>Is Investing in ChatGPT Plus a Good Idea? Find Out With These 5 Convincing Factors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/leading-free-art-pages-for-easy-no-cost-illustrations/"><u>Leading Free Art Pages for Easy, No-Cost Illustrations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/modular-android-phones-set-to-surpass-iphone-and-pixel-durability-the-hidden-challenge-revealed/"><u>Modular Android Phones Set to Surpass iPhone & Pixel Durability - The Hidden Challenge Revealed</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-advanced-audacity-methods-for-high-fidelity-computer-audio-recording-2023-guidebook-for-2024/"><u>New Advanced Audacity Methods for High-Fidelity Computer Audio Recording (2023 Guidebook) for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-audiophiles-guide-to-clear-audio-overcoming-background-sibilance-and-hum-for-2024/"><u>New Audiophiles Guide to Clear Audio Overcoming Background Sibilance and Hum for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-step-by-step-guide-to-personalizing-mobile-notifications/"><u>New In 2024, The Step-by-Step Guide to Personalizing Mobile Notifications</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/step-into-cinematic-quality-using-instagrams-chroma-keying-effect/"><u>Step Into Cinematic Quality Using Instagram’s Chroma Keying Effect</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-15-most-effective-snapchat-posts-of-the-year-for-2024/"><u>The 15 Most Effective Snapchat Posts of the Year for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-future-of-entertainment-is-here-ranking-the-premiere-av-mixers/"><u>The Future of Entertainment Is Here Ranking the Premiere AV Mixers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-locating-high-quality-fart-noise-generators-for-sound-design/"><u>Updated In 2024, Locating High-Quality Fart Noise Generators for Sound Design</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-clear-picture-perfection-the-best-online-image-enhancers/"><u>[Updated] In 2024, Clear Picture Perfection The Best Online Image Enhancers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-crafting-captivating-audio-representations-syncopated-waveform-graphics-and-transformative-animation-in-adobe-premiere-pro/"><u>2024 Approved Crafting Captivating Audio Representations Syncopated Waveform Graphics and Transformative Animation in Adobe Premiere Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-cutting-edge-techniques-for-pitch-modification-in-audacity-keeping-the-sound-crisp/"><u>2024 Approved Cutting-Edge Techniques for Pitch Modification in Audacity Keeping the Sound Crisp</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-digital-audio-collection-101-efficient-methods-to-download-and-store-podcast-episodes/"><u>2024 Approved Digital Audio Collection 101 Efficient Methods to Download and Store Podcast Episodes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-turn-a-flood-of-fails-into-success-with-precision-in-tiktok-editing/"><u>2024 Approved Turn a Flood of Fails Into Success with Precision in TikTok Editing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciding-the-leader-in-ai-linguistics-bard-versus-chatgpt-against-offline-alpaca/"><u>Deciding the Leader in AI Linguistics: Bard Versus ChatGPT Against Offline Alpaca</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-8-windows-10-photos-alternatives/"><u>Discover the Best 8 Windows 10 Photos Alternatives</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-instagrams-secrets-for-creating-must-watch-unboxings/"><u>In 2024, Instagram's Secrets for Creating Must-Watch Unboxings</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-elevate-your-creative-output-with-these-audio-addition-methods-in-after-effects-updated/"><u>New In 2024, Elevate Your Creative Output with These Audio Addition Methods in After Effects (Updated )</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-shifting-dates-forward-by-months-using-ms-excel/"><u>Step-by-Step Guide: Shifting Dates Forward by Months Using MS Excel</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-gaming-discounts-on-prime-day-sale-october-2024-edition-zdnet/"><u>Top Gaming Discounts on Prime Day Sale - October 2024 Edition | ZDNet</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-evaluating-magix-samplitudes-market-position-against-other-audio-editing-suites/"><u>Updated Evaluating MAGIX Samplitudes Market Position Against Other Audio Editing Suites</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-exploring-the-leading-edge-of-audio-production-does-magix-samplitude-hold-sway-for-2024/"><u>Updated Exploring the Leading Edge of Audio Production Does MAGIX Samplitude Hold Sway for 2024</u></a></li>
 </ul></div>
 

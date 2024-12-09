@@ -1,7 +1,7 @@
 ---
 title: "The Corsair ONE I500 Breakdown: Reviewing a Revolutionary Compact Gaming Machine"
-date: 2024-11-29T17:29:59.378Z
-updated: 2024-12-01T20:12:21.046Z
+date: 2024-12-05T16:57:00.051Z
+updated: 2024-12-09T19:56:50.807Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,18 +62,22 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-exclusive-list-of-smartphone-apps-for-changing-vocal-expression/"><u>[New] 2024 Approved Exclusive List of Smartphone Apps for Changing Vocal Expression</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-fb-link-mastery-8-powerful-free-extractor-tools-for-2024/"><u>[Updated] FB Link Mastery 8 Powerful FREE Extractor Tools for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-smartfilter-settings-for-secure-web-browsing/"><u>Customize SmartFilter Settings for Secure Web Browsing</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diy-solutions-to-tackle-syntpsys-bsod-errors-on-your-windows-operating-system/"><u>DIY Solutions to Tackle SYNTP.SYS BSOD Errors on Your Windows Operating System</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/tive-call-to-actions-boosting-video-engagement-for-2024/"><u>Effective Call-to-Actions Boosting Video Engagement for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-note-30-vip-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Note 30 VIP Face Lock?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-10-best-montage-songs-for-your-montage-video/"><u>New 10 Best Montage Songs for Your Montage Video</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-elevate-your-online-collaboration-discover-the-best-voice-transformation-technologies-for-google-meet-users-for-2024/"><u>New Elevate Your Online Collaboration Discover the Best Voice Transformation Technologies for Google Meet Users for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-ultimate-technique-for-harmonizing-volume-in-davinci-resolve-for-2024/"><u>The Ultimate Technique for Harmonizing Volume in DaVinci Resolve for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-elite-selection-best-selling-mac-audio-editing-tools-ranked/"><u>Updated 2024 Approved The Elite Selection Best-Selling Mac Audio Editing Tools, Ranked</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-capturing-the-essence-of-your-pcs-sound-in-audacity/"><u>Updated Capturing the Essence of Your PCs Sound in Audacity</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-remove-audio-from-mov-files-on-windows-or-mac-for-2024/"><u>Updated How to Remove Audio From MOV Files on Windows or Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevating-user-engagement-with-detailed-video-chapters-in-youtube/"><u>[New] 2024 Approved Elevating User Engagement with Detailed Video Chapters in YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-11-freezes-on-startup-or-boot/"><u>[Solved] Windows 11 Freezes on Startup or Boot</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-capture-words-use-at-zero-expense-for-2024/"><u>[Updated] Capture Words, Use at Zero Expense for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/35-deal-alert-the-ultimate-wireless-magnetic-charger-for-iphones-now-available-on-zdnet/"><u>$35 Deal Alert: The Ultimate Wireless Magnetic Charger for iPhones, Now Available on ZDNet!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-your-lost-ark-working-again-a-step-by-step-fix-for-launch-issues/"><u>How to Get Your Lost Ark Working Again – A Step-by-Step Fix for Launch Issues</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-asus-rog-phone-7-ultimate-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Asus ROG Phone 7 Ultimate FRP In 3 Different Ways</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-mastering-autotune-a-step-by-step-guide-for-audacity-users/"><u>In 2024, Mastering Autotune A Step-by-Step Guide for Audacity Users</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-auditory-tranquility-techniques-to-achieve-gentle-sound-reduction/"><u>New 2024 Approved Auditory Tranquility Techniques to Achieve Gentle Sound Reduction</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-your-ultimate-source-list-the-top-picks-of-copyright-friendly-comic-soundtracks-websites-for-2024/"><u>New Your Ultimate Source List The Top Picks of Copyright-Friendly Comic Soundtracks Websites for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/pemulihankan-berkas-wps-demikian-tutorial-bebas-rata-cara-simplen/"><u>Pemulihankan Berkas WPS Demikian: Tutorial Bebas Rata - Cara Simplen!</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data-for-2024/"><u>Strategies for Minimizing Large-Scale Video and Audio Data for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-11-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 11 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/unlocking-creative-power-in-logic-pro-x-with-these-top-8-plugins-for-2024/"><u>Unlocking Creative Power in Logic Pro X with These Top 8 Plugins for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-ultimate-guide-to-chrome-audio-recording-top-picks-revealed/"><u>Updated 2024 Approved The Ultimate Guide to Chrome Audio Recording – Top Picks Revealed</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-advanced-audio-editing-techniques-with-avidemux/"><u>Updated Advanced Audio Editing Techniques with Avidemux</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-unlocking-visual-content-creation-an-overview-of-pexels-usage-for-2024/"><u>Updated Unlocking Visual Content Creation An Overview of Pexels Usage for 2024</u></a></li>
 </ul></div>
 

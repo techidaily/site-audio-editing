@@ -1,7 +1,7 @@
 ---
 title: How Lenovo's Shift to Chinese Loongson CPUs Fortifies Its Server Lineup Amid Sanction Challenges
-date: 2024-11-28T20:15:26.654Z
-updated: 2024-12-01T21:18:27.098Z
+date: 2024-12-04T16:16:04.843Z
+updated: 2024-12-09T21:09:34.327Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,19 +60,22 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-combat-common-instagram-video-snags-here-for-2024/"><u>[New] Combat Common Instagram Video Snags Here for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-essential-guide-to-aiseesofts-screencasting-features/"><u>[New] Essential Guide to Aiseesoft's Screencasting Features</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-use-youtube-cards-and-annotations/"><u>[Updated] 2024 Approved How to Use YouTube Cards and Annotations?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-generate-brand-identity-accessible-logo-templates-and-editing/"><u>[Updated] Generate Brand Identity Accessible Logo Templates & Editing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premiered-patterns-for-panzoid-creation/"><u>[Updated] Premiered Patterns for Panzoid Creation</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-bandicam-navigating-its-full-potential/"><u>2024 Approved The Ultimate Guide to Bandicam Navigating Its Full Potential</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-simple-techniques-for-effortless-undersea-vids/"><u>2024 Approved Unveiling Simple Techniques for Effortless Undersea Vids</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-mastering-tempo-sync-adjusting-video-clips-with-premiere-pros-audio-beatmap-for-2024/"><u>New Mastering Tempo Sync Adjusting Video Clips with Premiere Pros Audio Beatmap for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/streaming-audio-integration-with-videos-at-no-cost-top-six-techniques-for-2024/"><u>Streaming Audio Integration with Videos at No Cost Top Six Techniques for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-catchy-counterpoint-the-best-backwards-song-videos-of-this-year/"><u>Updated 2024 Approved Catchy Counterpoint The Best Backwards Song Videos of This Year</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-compiling-a-comprehensive-guide-to-cost-free-vst-tools-available/"><u>Updated 2024 Approved Compiling a Comprehensive Guide to Cost-Free VST Tools Available</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-effortless-audio-silencing-an-audacity-users-manual/"><u>Updated 2024 Approved Effortless Audio Silencing An Audacity Users Manual</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-captivating-sound-design-essentials-review-of-premier-audio-editors-pros-and-cons/"><u>Updated In 2024, Captivating Sound Design Essentials Review of Premier Audio Editors, Pros & Cons</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-cutting-edge-third-place-ipad-audio-capture-apps/"><u>[New] 2024 Approved Cutting-Edge Third-Place iPad Audio Capture Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mastering-rl-recording-techniques/"><u>[New] 2024 Approved Mastering RL Recording Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-thriving-as-a-novice-youtuber-sidestep-these-8-crucial-pitfalls/"><u>[Updated] 2024 Approved Thriving as a Novice YouTuber? Sidestep These 8 Crucial Pitfalls!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-secure-again-combating-2023s-facebook-vulnerability-for-2024/"><u>[Updated] Secure Again Combating 2023'S Facebook Vulnerability for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1728483172774-windows-server/"><u>「完全なデータの損失から回復するためのWindows Server</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-adopting-advanced-advertising-approaches-metaverse/"><u>In 2024, Adopting Advanced Advertising Approaches Metaverse</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-honor-x7b-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Honor X7b Face Lock?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-sony-vegas-audio-editor-how-to-edit-audio-in-vegas-pro/"><u>New Sony Vegas Audio Editor How to Edit Audio in Vegas Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-imovie-soundtrack-tips-to-create-immersive-audio-landscapes/"><u>New The Ultimate iMovie Soundtrack Tips to Create Immersive Audio Landscapes</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-tutorial-on-morphvox-for-enhancing-gaming-experience-through-vocal-alteration/"><u>New The Ultimate Tutorial on Morphvox for Enhancing Gaming Experience Through Vocal Alteration</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-6s-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 6s Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-streamlining-your-audio-setup-efficiently-manage-m4a-files-on-android/"><u>Updated 2024 Approved Streamlining Your Audio Setup Efficiently Manage M4A Files on Android</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-five-economical-strategies-for-attaching-songs-to-digital-media-for-2024/"><u>Updated Five Economical Strategies for Attaching Songs to Digital Media for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-full-spectrum-insight-into-nero-audiowaveeditor/"><u>Updated Full Spectrum Insight Into Nero AudioWaveEditor</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-seek-out-interactive-gaming-sounds/"><u>Updated In 2024, Seek Out Interactive Gaming Sounds</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-soundscape-synthesis-techniques-to-alter-audio-tempo-and-tonal-range-in-adobe-rush/"><u>Updated In 2024, Soundscape Synthesis Techniques to Alter Audio Tempo & Tonal Range in Adobe Rush</u></a></li>
 </ul></div>
 

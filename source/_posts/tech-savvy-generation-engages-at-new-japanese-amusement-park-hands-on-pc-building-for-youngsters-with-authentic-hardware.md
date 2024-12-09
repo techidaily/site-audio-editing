@@ -1,7 +1,7 @@
 ---
 title: Tech-Savvy Generation Engages at New Japanese Amusement Park – Hands-On PC Building for Youngsters with Authentic Hardware
-date: 2024-11-27T21:13:19.753Z
-updated: 2024-12-02T05:45:32.323Z
+date: 2024-12-04T17:25:28.070Z
+updated: 2024-12-09T18:06:19.705Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,24 +78,22 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ccelerated-sizing-youtube-content-for-macs/"><u>[New] Accelerated Sizing YouTube Content for MACs</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-crafting-unique-podcast-logos-visibility-tips/"><u>[New] Crafting Unique Podcast Logos Visibility Tips</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-accessories-for-travel-footage-production/"><u>[New] In 2024, Accessories for Travel Footage Production</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-ultimate-devices-for-home-and-office-for-2024/"><u>[New] Ultimate Devices for Home and Office for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-10-game-changing-techniques-to-amplify-your-facebook-presence/"><u>[Updated] In 2024, 10 Game-Changing Techniques to Amplify Your Facebook Presence</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-essential-soundtracks-every-smartphone-owner-should-have/"><u>2024 Approved Essential Soundtracks Every Smartphone Owner Should Have</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-exploring-acoustic-illusions-in-motion-techniques-to-illustrate-sound-tracks-via-animated-waveforms-within-premiere-pro-workflow/"><u>2024 Approved Exploring Acoustic Illusions in Motion Techniques to Illustrate Sound Tracks via Animated Waveforms Within Premiere Pro Workflow</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-z-flip-5-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy Z Flip 5 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-driver-update-instructions-for-hp-designjet-500-series-t620-t520/"><u>Easy Driver Update Instructions for HP DesignJet 500 Series (T620, T520)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-ai-experience-top-reasons-to-choose-claude-3-over-chatgpt/"><u>Elevate Your AI Experience: Top Reasons to Choose Claude 3 OVER ChatGPT</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-elevate-sound-fidelity-with-advanced-latency-reduction-methods/"><u>In 2024, Elevate Sound Fidelity with Advanced Latency Reduction Methods</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-iphone-12-mini-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your iPhone 12 mini has bad ESN or blacklisted IMEI?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-expert-suggestions-for-enhancing-devices-audiovisual-experience/"><u>New Expert Suggestions for Enhancing Devices Audiovisual Experience</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-2023s-favorite-retro-tempo-tunes-compilation/"><u>New In 2024, 2023S Favorite Retro-Tempo Tunes Compilation</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-8-favorite-high-quality-audio-recorders-for-online-sharing/"><u>New In 2024, 8 Favorite High-Quality Audio Recorders for Online Sharing</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-a-composers-selection-the-best-10-websites-to-download-and-explore-diverse-montage-music-genres/"><u>New In 2024, A Composers Selection The Best 10 Websites to Download and Explore Diverse Montage Music Genres</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-innovative-online-audio-cutter-utilities-the-leading-tools-for-2024/"><u>New Innovative Online Audio Cutter Utilities – The Leading Tools for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/tactical-cut-discarding-audible-elements-from-multimedia-files-mp4-mkv-avi-mov-wmv/"><u>Tactical Cut Discarding Audible Elements From Multimedia Files (MP4, MKV, AVI, MOV, WMV)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-easy-guide-record-mov-files-on-win-11-pc/"><u>[New] Easy Guide Record MOV Files on Win 11 PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-mobile-friendly-youtubing-with-no-high-subscriber-count/"><u>[New] In 2024, Mobile-Friendly YouTubing with No High Subscriber Count</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/roven-youtube-seo-methods-for-video-rankings/"><u>[New] Proven YouTube SEO Methods for Video Rankings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-enhancing-youtube-viewing-experience-with-right-video-formats-for-2024/"><u>[Updated] Enhancing YouTube Viewing Experience with Right Video Formats for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-amusing-aesthetics-leading-free-onlineiosandroid-photo-editing/"><u>[Updated] In 2024, Amusing Aesthetics Leading Free Online/iOS/Android Photo Editing</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-2-key-steps-to-achieve-clear-vocal-recordings-without-echo/"><u>2024 Approved 2 Key Steps to Achieve Clear Vocal Recordings without Echo</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-top-live-audio-alteration-systems-the-best/"><u>2024 Approved Top Live Audio Alteration Systems The Best</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-tecno-camon-20-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Camon 20 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-premier-digital-audio-editor/"><u>New Premier Digital Audio Editor</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-seamless-integration-of-free-melodies-into-your-videography-projects/"><u>New Seamless Integration of Free Melodies Into Your Videography Projects</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-accessible-stopwatch-services-for-2024/"><u>Premium Accessible Stopwatch Services for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolve-unresponsive-behavior-in-windows-11-during-shutdown-process/"><u>Resolve Unresponsive Behavior in Windows 11 During Shutdown Process</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-complete-audacity-guide-to-utilizing-autotune-effectively-for-2024/"><u>The Complete Audacity Guide to Utilizing Autotune Effectively for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-strategies-for-minimizing-large-scale-video-and-audio-data/"><u>Updated 2024 Approved Strategies for Minimizing Large-Scale Video and Audio Data</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-popularly-borrowed-beats-for-montage-crafting/"><u>Updated Popularly Borrowed Beats for Montage Crafting</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-silence-shift-a-comprehensive-look-at-how-to-strip-sound-from-digital-videos-on-the-web-for-2024/"><u>Updated The Silence Shift A Comprehensive Look at How to Strip Sound From Digital Videos on the Web for 2024</u></a></li>
 </ul></div>
 
