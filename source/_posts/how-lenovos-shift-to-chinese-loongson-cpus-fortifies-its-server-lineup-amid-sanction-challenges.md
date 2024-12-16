@@ -1,7 +1,7 @@
 ---
 title: How Lenovo's Shift to Chinese Loongson CPUs Fortifies Its Server Lineup Amid Sanction Challenges
-date: 2024-12-04T16:16:04.843Z
-updated: 2024-12-09T21:09:34.327Z
+date: 2024-12-09T18:10:55.181Z
+updated: 2024-12-15T20:51:01.374Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,22 +60,16 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-cutting-edge-third-place-ipad-audio-capture-apps/"><u>[New] 2024 Approved Cutting-Edge Third-Place iPad Audio Capture Apps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mastering-rl-recording-techniques/"><u>[New] 2024 Approved Mastering RL Recording Techniques</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-thriving-as-a-novice-youtuber-sidestep-these-8-crucial-pitfalls/"><u>[Updated] 2024 Approved Thriving as a Novice YouTuber? Sidestep These 8 Crucial Pitfalls!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-secure-again-combating-2023s-facebook-vulnerability-for-2024/"><u>[Updated] Secure Again Combating 2023'S Facebook Vulnerability for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/1728483172774-windows-server/"><u>「完全なデータの損失から回復するためのWindows Server</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-adopting-advanced-advertising-approaches-metaverse/"><u>In 2024, Adopting Advanced Advertising Approaches Metaverse</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-honor-x7b-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Honor X7b Face Lock?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-sony-vegas-audio-editor-how-to-edit-audio-in-vegas-pro/"><u>New Sony Vegas Audio Editor How to Edit Audio in Vegas Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-imovie-soundtrack-tips-to-create-immersive-audio-landscapes/"><u>New The Ultimate iMovie Soundtrack Tips to Create Immersive Audio Landscapes</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-tutorial-on-morphvox-for-enhancing-gaming-experience-through-vocal-alteration/"><u>New The Ultimate Tutorial on Morphvox for Enhancing Gaming Experience Through Vocal Alteration</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-6s-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 6s Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-streamlining-your-audio-setup-efficiently-manage-m4a-files-on-android/"><u>Updated 2024 Approved Streamlining Your Audio Setup Efficiently Manage M4A Files on Android</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-five-economical-strategies-for-attaching-songs-to-digital-media-for-2024/"><u>Updated Five Economical Strategies for Attaching Songs to Digital Media for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-full-spectrum-insight-into-nero-audiowaveeditor/"><u>Updated Full Spectrum Insight Into Nero AudioWaveEditor</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-seek-out-interactive-gaming-sounds/"><u>Updated In 2024, Seek Out Interactive Gaming Sounds</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-soundscape-synthesis-techniques-to-alter-audio-tempo-and-tonal-range-in-adobe-rush/"><u>Updated In 2024, Soundscape Synthesis Techniques to Alter Audio Tempo & Tonal Range in Adobe Rush</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unlocking-the-power-of-facebook-slideshows-in-digital-marketing-for-2024/"><u>[Updated] Unlocking the Power of Facebook Slideshows in Digital Marketing for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-nokia-c12-plus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Nokia C12 Plus Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-keeping-your-mac-awake-tips-and-tricks-to-avoid-automatic-sleep/"><u>Guide: Keeping Your Mac Awake – Tips and Tricks to Avoid Automatic Sleep</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-rise-to-stardom-on-instagram-adopting-tiktoks-winning-strategies/"><u>In 2024, Rise to Stardom on Instagram Adopting TikTok's Winning Strategies</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-top-audio-balancing-techniques/"><u>New 2024 Approved Top Audio Balancing Techniques</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/popularly-borrowed-beats-for-montage-crafting/"><u>Popularly Borrowed Beats for Montage Crafting</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-airpods-release-date-features-and-pre-order-info-insights-from-zdnet/"><u>Upcoming AirPods Release Date, Features & Pre-Order Info - Insights From ZDNet</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-unveiling-magix-samplitudes-capabilities-are-they-superseding-competitors/"><u>Updated 2024 Approved Unveiling MAGIX Samplitudes Capabilities Are They Superseding Competitors?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mastering-acoustic-harmony-optimal-eq-settings-guide-for-2024/"><u>Updated Mastering Acoustic Harmony Optimal EQ Settings Guide for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mp3-conversion-made-simple-3-effective-techniques-for-podcast-files-for-2024/"><u>Updated MP3 Conversion Made Simple 3 Effective Techniques for Podcast Files for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Corsair ONE I500 Breakdown: Reviewing a Revolutionary Compact Gaming Machine"
-date: 2024-12-05T16:57:00.051Z
-updated: 2024-12-09T19:56:50.807Z
+date: 2024-12-11T19:28:53.483Z
+updated: 2024-12-15T16:58:34.813Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,22 +62,17 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevating-user-engagement-with-detailed-video-chapters-in-youtube/"><u>[New] 2024 Approved Elevating User Engagement with Detailed Video Chapters in YouTube</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-windows-11-freezes-on-startup-or-boot/"><u>[Solved] Windows 11 Freezes on Startup or Boot</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-capture-words-use-at-zero-expense-for-2024/"><u>[Updated] Capture Words, Use at Zero Expense for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/35-deal-alert-the-ultimate-wireless-magnetic-charger-for-iphones-now-available-on-zdnet/"><u>$35 Deal Alert: The Ultimate Wireless Magnetic Charger for iPhones, Now Available on ZDNet!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-get-your-lost-ark-working-again-a-step-by-step-fix-for-launch-issues/"><u>How to Get Your Lost Ark Working Again – A Step-by-Step Fix for Launch Issues</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-asus-rog-phone-7-ultimate-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Asus ROG Phone 7 Ultimate FRP In 3 Different Ways</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-mastering-autotune-a-step-by-step-guide-for-audacity-users/"><u>In 2024, Mastering Autotune A Step-by-Step Guide for Audacity Users</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-auditory-tranquility-techniques-to-achieve-gentle-sound-reduction/"><u>New 2024 Approved Auditory Tranquility Techniques to Achieve Gentle Sound Reduction</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-your-ultimate-source-list-the-top-picks-of-copyright-friendly-comic-soundtracks-websites-for-2024/"><u>New Your Ultimate Source List The Top Picks of Copyright-Friendly Comic Soundtracks Websites for 2024</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/pemulihankan-berkas-wps-demikian-tutorial-bebas-rata-cara-simplen/"><u>Pemulihankan Berkas WPS Demikian: Tutorial Bebas Rata - Cara Simplen!</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data-for-2024/"><u>Strategies for Minimizing Large-Scale Video and Audio Data for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Realme C51? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-11-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 11 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/unlocking-creative-power-in-logic-pro-x-with-these-top-8-plugins-for-2024/"><u>Unlocking Creative Power in Logic Pro X with These Top 8 Plugins for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-ultimate-guide-to-chrome-audio-recording-top-picks-revealed/"><u>Updated 2024 Approved The Ultimate Guide to Chrome Audio Recording – Top Picks Revealed</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-advanced-audio-editing-techniques-with-avidemux/"><u>Updated Advanced Audio Editing Techniques with Avidemux</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-unlocking-visual-content-creation-an-overview-of-pexels-usage-for-2024/"><u>Updated Unlocking Visual Content Creation An Overview of Pexels Usage for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-top-5-essential-filming-accessories-for-online-creators/"><u>[New] 2024 Approved Top 5 Essential Filming Accessories for Online Creators</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-unveiling-the-leading-youtube-to-mp3-tools/"><u>[New] 2024 Approved Unveiling the Leading YouTube to Mp3 Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-simple-path-your-guide-to-convert-youtube-audio-on-mac/"><u>[Updated] 2024 Approved Simple Path Your Guide to Convert YouTube Audio on Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/audio-storytelling-in-media-production-masterclass-for-2024/"><u>Audio Storytelling in Media Production Masterclass for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-eliminating-freezes-in-call-of-duty-vanguard-gaming-experience/"><u>Expert Advice on Eliminating Freezes in Call of Duty: Vanguard Gaming Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-effective-strategies-for-removing-youtube-media-from-computers/"><u>In 2024, Effective Strategies for Removing YouTube Media From Computers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-methods-to-exclude-sound-from-multimedia-files-for-2024/"><u>New Methods to Exclude Sound From Multimedia Files for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-pro-audio-refinement-on-windows-a-compendium-of-leading-tools-for-quieter-recording-environments/"><u>New Pro Audio Refinement on Windows A Compendium of Leading Tools for Quieter Recording Environments</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-checklist-for-virtual-vigilance-safeguarding-during-online-interactions/"><u>The Ultimate Checklist for Virtual Vigilance Safeguarding During Online Interactions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-silence-amplified-simple-steps-to-enhance-quality-by-minimizing-unwanted-sounds-in-audacity-and-filmorapro/"><u>Updated 2024 Approved Silence Amplified Simple Steps to Enhance Quality by Minimizing Unwanted Sounds in Audacity and FilmoraPro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-essential-guide-integrating-audio-with-animated-gifs-on-macos/"><u>Updated Essential Guide Integrating Audio with Animated GIFs on macOS</u></a></li>
 </ul></div>
 

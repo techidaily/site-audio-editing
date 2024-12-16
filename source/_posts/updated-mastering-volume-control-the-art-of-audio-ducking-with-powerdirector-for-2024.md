@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Volume Control The Art of Audio Ducking with PowerDirector for 2024
-date: 2024-12-05T17:55:29.151Z
-updated: 2024-12-09T17:38:44.051Z
+date: 2024-12-12T20:52:50.832Z
+updated: 2024-12-15T23:22:53.351Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ _"Can you explain to us the simple method to execute **audio ducking**?”_
 I hope you're already aware of **the audio ducking** feature if you're into video editing or any music industry. The audio ducking is commonly to balance two audios. You can see the very typical application while balancing the background music with the person speaking there. So, the different voices would pop up and needs an adjustment according to the scenario. However, selecting the most straightforward process and genuine video editor is the user's responsibility to get the task done effectively. So, here, we would like to discuss the audio ducking function of **CyberLink PowerDirector** along with a suitable alternative - **Wondershare Filmora**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Audio Ducking to Fade Out Music in PowerDirector?
@@ -57,7 +57,7 @@ Doing so will automatically add the keyframes into the background music you’ve
 So, this was the entire process of **music ducking** keyframes automation in **CyberLink PowerDirector**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: An Alternative Solution to Audio Ducking on Mac
@@ -75,6 +75,10 @@ The [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/downl
 All in all, the Wondershare Filmora is a remarkable video editor fulfilling the needs of endless people around the globe. It’s usually the first name in mind when it comes to innovation and simplicity.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here is a step-by-step tutorial after which you can compare the audio ducking easiness of Wondershare Filmora with CyberLink PowerDirector.
 
@@ -99,7 +103,7 @@ You are almost there whereby tick the “**Lower the volume of other clips”** 
 So, these simple steps are required to enable **audio ducking** in Wondershare Filmora. So easy! Along with it, you can also consider using the **Fade Out** and **Pitch** slider tab for versatile audio adjustment. However, you must only check for the **Ducking** tab, especially when you’re a beginner and don’t want to go for extreme changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -110,14 +114,10 @@ Thus, with a discussion over two different ways to implement the **audio ducking
 | --------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------- |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -134,16 +134,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-viral-victory-restoring-your-facebook-space/"><u>[New] 2024 Approved Viral Victory Restoring Your Facebook Space</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-game-changing-tips-master-the-art-of-minecraft-capture-on-a-mac-for-2024/"><u>[New] Game-Changing Tips Master the Art of Minecraft Capture on a Mac for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-visionary-software-solutions-for-virtual-meetings/"><u>[New] Visionary Software Solutions for Virtual Meetings</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-comprehensible-techniques-for-effective-classroom-recordings-on-mac/"><u>2024 Approved Comprehensible Techniques for Effective Classroom Recordings on Mac</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-realme-c51-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-innovations-in-audio-production-adding-subtle-fading-techniques-to-your-toolkit/"><u>New In 2024, Innovations in Audio Production Adding Subtle Fading Techniques to Your Toolkit</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/quiet-the-screenplay-removing-audible-aspects-from-mp4mkvavimov-and-wmv-videos-for-2024/"><u>Quiet the Screenplay Removing Audible Aspects From MP4/MKV/AVI/MOV and WMV Videos for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-problem-why-is-shadowcast-not-recording-in-windows/"><u>Solving the Problem: Why Is Shadowcast Not Recording in Windows?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-5-best-online-mp3-tag-editor-that-you-cant-miss-for-2024/"><u>Updated 5 Best Online MP3 Tag Editor That You Cant Miss for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-secrets-of-sound-regulation-mastering-audio-levels-in-davinci-resolve-for-2024/"><u>Updated The Secrets of Sound Regulation Mastering Audio Levels in DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-stream-like-a-champion-top-3-techniques-for-successful-lol-gameplay-capture/"><u>[New] 2024 Approved Stream Like a Champion Top 3 Techniques for Successful LOL Gameplay Capture</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/xplore-youtubes-finest-virtual-reality-content/"><u>[New] Explore YouTube's Finest Virtual Reality Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-crafting-auditory-landscapes-in-your-videos/"><u>[Updated] Crafting Auditory Landscapes in Your Videos</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-reno-9a-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/capture-life-simply-with-canons-sx530-compact/"><u>Capture Life Simply with Canon's SX530 Compact</u></a></li>
+<li><a href="https://win-premium.techidaily.com/comprehensive-solutions-why-does-my-computer-keep-hanging-while-gaming-and-how-to-fix-it/"><u>Comprehensive Solutions: Why Does My Computer Keep Hanging While Gaming and How to Fix It</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-laserjet-p1007-driver-version-instantly-safe-and-easy-update/"><u>Get the Newest HP LaserJet P1007 Driver Version Instantly | Safe and Easy Update</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-streamline-your-game-logs-advanced-camcapturing-techniques/"><u>In 2024, Streamline Your Game Logs Advanced CamCapturing Techniques</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unleash-your-creativity-best-time-lapse-video-apps-for-iphone-and-android/"><u>New In 2024, Unleash Your Creativity Best Time-Lapse Video Apps for iPhone and Android</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-mastering-seamless-scene-shifts-in-video-editing/"><u>New Mastering Seamless Scene Shifts in Video Editing</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-mastering-the-art-of-syncing-sound-with-visuals-in-filmmaking-for-2024/"><u>New Mastering the Art of Syncing Sound with Visuals in Filmmaking for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-10-social-media-podcasts-to-help-you-make-marketing-strategy-for-2024/"><u>Updated 10 Social Media Podcasts to Help You Make Marketing Strategy for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-audio-precision-step-by-step-guide-to-muting-unnecessary-sounds-in-after-effects/"><u>Updated 2024 Approved Audio Precision Step-by-Step Guide to Muting Unnecessary Sounds in After Effects</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-smartphone-speech-to-text-solutions-compiling-the-best-android-and-iphone-apps/"><u>Updated 2024 Approved Smartphone Speech-to-Text Solutions Compiling the Best Android and iPhone Apps</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-ultimate-selection-of-voice-customization-mobile-apps/"><u>Updated 2024 Approved Ultimate Selection of Voice Customization Mobile Apps</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-discover-the-best-android-speech-to-text-programs-with-no-monthly-fees-for-2024/"><u>Updated Discover the Best Android Speech-to-Text Programs with No Monthly Fees for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-behind-the-scenes-sound-management-expert-insights-into-using-ducking-effects/"><u>Updated In 2024, Behind-the-Scenes Sound Management Expert Insights Into Using Ducking Effects</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-eliminating-ambient-sound-mastering-audio-editing-in-premiere-pro/"><u>Updated In 2024, Eliminating Ambient Sound Mastering Audio Editing in Premiere Pro</u></a></li>
 </ul></div>
 

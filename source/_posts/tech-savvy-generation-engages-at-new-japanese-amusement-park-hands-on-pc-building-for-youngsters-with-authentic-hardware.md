@@ -1,7 +1,7 @@
 ---
 title: Tech-Savvy Generation Engages at New Japanese Amusement Park – Hands-On PC Building for Youngsters with Authentic Hardware
-date: 2024-12-04T17:25:28.070Z
-updated: 2024-12-09T18:06:19.705Z
+date: 2024-12-12T18:26:41.434Z
+updated: 2024-12-15T22:05:36.178Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,22 +78,22 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-easy-guide-record-mov-files-on-win-11-pc/"><u>[New] Easy Guide Record MOV Files on Win 11 PC</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-mobile-friendly-youtubing-with-no-high-subscriber-count/"><u>[New] In 2024, Mobile-Friendly YouTubing with No High Subscriber Count</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/roven-youtube-seo-methods-for-video-rankings/"><u>[New] Proven YouTube SEO Methods for Video Rankings</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-enhancing-youtube-viewing-experience-with-right-video-formats-for-2024/"><u>[Updated] Enhancing YouTube Viewing Experience with Right Video Formats for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-amusing-aesthetics-leading-free-onlineiosandroid-photo-editing/"><u>[Updated] In 2024, Amusing Aesthetics Leading Free Online/iOS/Android Photo Editing</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-2-key-steps-to-achieve-clear-vocal-recordings-without-echo/"><u>2024 Approved 2 Key Steps to Achieve Clear Vocal Recordings without Echo</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-top-live-audio-alteration-systems-the-best/"><u>2024 Approved Top Live Audio Alteration Systems The Best</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-tecno-camon-20-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Camon 20 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-premier-digital-audio-editor/"><u>New Premier Digital Audio Editor</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-seamless-integration-of-free-melodies-into-your-videography-projects/"><u>New Seamless Integration of Free Melodies Into Your Videography Projects</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premium-accessible-stopwatch-services-for-2024/"><u>Premium Accessible Stopwatch Services for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolve-unresponsive-behavior-in-windows-11-during-shutdown-process/"><u>Resolve Unresponsive Behavior in Windows 11 During Shutdown Process</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-complete-audacity-guide-to-utilizing-autotune-effectively-for-2024/"><u>The Complete Audacity Guide to Utilizing Autotune Effectively for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-strategies-for-minimizing-large-scale-video-and-audio-data/"><u>Updated 2024 Approved Strategies for Minimizing Large-Scale Video and Audio Data</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-popularly-borrowed-beats-for-montage-crafting/"><u>Updated Popularly Borrowed Beats for Montage Crafting</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-silence-shift-a-comprehensive-look-at-how-to-strip-sound-from-digital-videos-on-the-web-for-2024/"><u>Updated The Silence Shift A Comprehensive Look at How to Strip Sound From Digital Videos on the Web for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-mastering-fb-slideshows-for-content-sharing-for-2024/"><u>[Updated] Mastering FB Slideshows for Content Sharing for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-pcs-audio-with-asus-realtek-drivers-free-download/"><u>Enhance Your PC's Audio with ASUS Realtek Drivers - FREE Download!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-speakers-working-again-on-a-toshiba-laptop-best-hacks/"><u>Getting the Speakers Working Again on a Toshiba Laptop - Best Hacks</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-numeric-adjustments-in-tiktok-videos-for-2024/"><u>Mastering Numeric Adjustments in TikTok Videos for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-complete-voice-free-auditory-experience-premium-sound-processor-applications-reviewed/"><u>New The Complete Voice-Free Auditory Experience Premium Sound Processor Applications Reviewed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-v27e-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo V27e Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-renaming-your-account-in-windows-11/"><u>Step-by-Step Guide: Renaming Your Account in Windows 11</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-hottest-apps-for-personalizing-your-speaking-ai-experience-this-year-for-2024/"><u>The Hottest Apps for Personalizing Your Speaking AI Experience This Year for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-step-by-step-process-for-transforming-videos-through-dubbing-using-filmora-for-2024/"><u>The Ultimate Step-by-Step Process for Transforming Videos Through Dubbing Using Filmora for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/top-rated-voice-transformation-software-for-mobile/"><u>Top-Rated Voice Transformation Software for Mobile</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/troubleshooting-guide-solving-discord-video-issues-no-display-wont-load-or-work/"><u>Troubleshooting Guide: Solving Discord Video Issues - No Display, Won't Load or Work</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-samsung-galaxy-z-fold-7-key-insights-on-price-predictions-launch-timeline-and-feature-leaks/"><u>Unveiling the Samsung Galaxy Z Fold 7? Key Insights on Price Predictions, Launch Timeline & Feature Leaks</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-cadence-in-coding-envisioning-the-leading-luminaries-amongst-ai-music-architects/"><u>Updated 2024 Approved Cadence in Coding Envisioning the Leading Luminaries Amongst AI Music Architects</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-preserving-sound-integrity-altering-audio-tones-in-audacity/"><u>Updated 2024 Approved Preserving Sound Integrity Altering Audio Tones in Audacity</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-advanced-audio-editing-how-to-achieve-seamless-volume-automation-using-final-cut-pro-x-ducking-tools-for-2024/"><u>Updated Advanced Audio Editing How to Achieve Seamless Volume Automation Using Final Cut Pro X Ducking Tools for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-capturing-conversations-on-ios-an-exclusive-selection-of-the-best-audio-recorders/"><u>Updated In 2024, Capturing Conversations on iOS An Exclusive Selection of the Best Audio Recorders</u></a></li>
 </ul></div>
 

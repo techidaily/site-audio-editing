@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac
-date: 2024-12-07T16:02:49.156Z
-updated: 2024-12-09T20:00:16.329Z
+date: 2024-12-13T22:08:51.437Z
+updated: 2024-12-15T23:07:47.471Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ Too many times, while mixing voiceover with the background music in a video, the
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
@@ -61,7 +61,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -71,7 +71,7 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -101,7 +101,7 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -119,18 +119,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-top-charts-tactics-when-to-go-live-on-youtube/"><u>[New] In 2024, Top Charts Tactics When to Go Live on YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-smooth-cinematography-ideal-stabilizer-tools-for-vloggers/"><u>[New] Smooth Cinematography Ideal Stabilizer Tools for Vloggers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-innovate-meme-designs-in-adobe-tools/"><u>[Updated] In 2024, Innovate Meme Designs in Adobe Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/efficient-techniques-for-duplicating-dvd-content-on-modern-windows-systems-windows-1011/"><u>Efficient Techniques for Duplicating DVD Content on Modern Windows Systems (Windows 10/11)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-crystal-clear-capture-amping-up-your-home-studio-recordings/"><u>In 2024, Crystal Clear Capture Amping Up Your Home Studio Recordings</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/navigating-twitter-and-facebook-integration/"><u>Navigating Twitter & Facebook Integration</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-essential-tips-for-picking-the-ideal-mac-compatible-music-catalog-tool/"><u>Updated 2024 Approved Essential Tips for Picking the Ideal Mac-Compatible Music Catalog Tool</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-how-to-separate-audio-from-video-in-imovie-on-mac/"><u>Updated 2024 Approved How to Separate Audio From Video in iMovie on Mac?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-audio-extractor-how-to-extract-audio-from-video/"><u>Updated Audio Extractor How to Extract Audio From Video</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-do-automatic-audio-ducking-in-final-cut-pro-x/"><u>Updated How to Do Automatic Audio Ducking in Final Cut Pro X</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-deciphering-vimeo-video-quality-insights-into-various-aspect-ratios/"><u>Updated In 2024, Deciphering Vimeo Video Quality Insights Into Various Aspect Ratios</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-rising-tide-of-infographics-for-social-insights/"><u>[New] 2024 Approved The Rising Tide of Infographics for Social Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-precision-and-efficiency-top-10-cost-free-screen-recorder-programs-for-mac-for-2024/"><u>[Updated] Precision and Efficiency Top 10 Cost-Free Screen Recorder Programs for Mac for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-on-mastering-the-preview-application-on-mac/"><u>2024 Approved Expert Tips on Mastering the Preview Application on Mac</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-how-to-remove-audio-from-mp4/"><u>2024 Approved How to Remove Audio From MP4</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-13-pro-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 13 Pro?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-essential-websites-for-optimizing-mp3-audio-volume-the-top-3-list/"><u>In 2024, Essential Websites for Optimizing MP3 Audio Volume The Top 3 List</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-discover-the-peak-sound-perfection-recommended-equalizer-settings/"><u>New In 2024, Discover the Peak Sound Perfection Recommended Equalizer Settings</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-zooms-silent-mode-a-comprehensive-manual-for-device-based-muting-for-2024/"><u>New Zooms Silent Mode A Comprehensive Manual for Device-Based Muting for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-addressing-error-code-6-in-pc-ports-of-modern-warfare-and-warzone-games/"><u>Troubleshooting Tips for Addressing 'Error Code ❌6' In PC Ports of Modern Warfare and Warzone Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-premier-livestream-networks/"><u>Unveiling the Premier Livestream Networks</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-step-by-step-eliminating-sound-from-modern-avi-format-avi-2023/"><u>Updated In 2024, Step-by-Step Eliminating Sound From Modern AVI Format (AVI 2023)</u></a></li>
 </ul></div>
 

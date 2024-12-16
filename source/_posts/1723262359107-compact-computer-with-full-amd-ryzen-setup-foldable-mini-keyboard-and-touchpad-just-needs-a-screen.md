@@ -1,7 +1,7 @@
 ---
 title: "Compact Computer with Full AMD Ryzen Setup: Foldable Mini Keyboard & Touchpad, Just Needs a Screen!"
-date: 2024-12-03T16:46:22.121Z
-updated: 2024-12-09T19:51:08.779Z
+date: 2024-12-12T18:37:16.722Z
+updated: 2024-12-15T20:31:06.116Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,20 +80,19 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-navigating-regulatory-challenges-in-todays-complex-markets/"><u>[New] 2024 Approved Navigating Regulatory Challenges in Today's Complex Markets</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-innovative-approaches-adding-borders-to-your-instagram-content/"><u>[New] In 2024, Innovative Approaches Adding Borders to Your Instagram Content</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-enhancing-your-nba-viewing-with-smart-techniques-for-2024/"><u>[Updated] Enhancing Your NBA Viewing with Smart Techniques for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-pro-mic-tech-review-best-9-online-recorders-uncovered-for-2024/"><u>[Updated] Pro Mic Tech Review Best 9 Online Recorders Uncovered for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/altitude-achievers-the-ultimate-long-duration-drones-top-10/"><u>Altitude Achievers The Ultimate Long Duration Drones (Top 10)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/audio-fusion-seamlessly-converting-aiff-files-into-mp3-format/"><u>Audio Fusion Seamlessly Converting AIFF Files Into MP3 Format</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-s18-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo S18 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-unveiling-the-top-5-mp3-converters-and-mixers-optimized-for-macos/"><u>In 2024, Unveiling the Top 5 MP3 Converters and Mixers Optimized for macOS</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-advanced-audacity-methods-for-high-fidelity-computer-audio-recording-2023-guidebook-for-2024/"><u>New Advanced Audacity Methods for High-Fidelity Computer Audio Recording (2023 Guidebook) for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-audiophiles-guide-to-clear-audio-overcoming-background-sibilance-and-hum-for-2024/"><u>New Audiophiles Guide to Clear Audio Overcoming Background Sibilance and Hum for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-step-by-step-guide-to-personalizing-mobile-notifications/"><u>New In 2024, The Step-by-Step Guide to Personalizing Mobile Notifications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/realign-screen-elements-tweak-win11-scaling/"><u>Realign Screen Elements: Tweak Win11 Scaling</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-future-of-entertainment-is-here-ranking-the-premiere-av-mixers/"><u>The Future of Entertainment Is Here Ranking the Premiere AV Mixers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/trier-gratuitement-un-fichier-mpeg-vers-format-ogg-movavi-guide/"><u>Trier Gratuitement Un Fichier MPEG Vers Format Ogg - Movavi Guide</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-locating-high-quality-fart-noise-generators-for-sound-design/"><u>Updated In 2024, Locating High-Quality Fart Noise Generators for Sound Design</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-elite-performers-top-picks-from-skate-highlights/"><u>[New] Elite Performers Top Picks From Skate Highlights</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-ultimate-avi-player-the-perfect-match-for-pcmobile/"><u>[New] In 2024, Ultimate AVi Player The Perfect Match for PC/Mobile</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-bedtime-videos-breakdown-stories-and-reviews-for-2024/"><u>[Updated] Bedtime Videos Breakdown Stories and Reviews for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-engaging-sims-4-experience-through-recording/"><u>2024 Approved Engaging Sims 4 Experience Through Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-thai-lanh-nghiep-phan-cuoi-kich-ban-ra-lieu-tien-cua-chinh-phu/"><u>Movavi Thái Lanh Nghiệp: Phần Cuối Kịch Bản Ra Liều Tiền Của Chính Phủ</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-best-free-online-daw-software-your-2023-guide-to-browser-based-recording-for-2024/"><u>New The Best Free Online DAW Software Your 2023 Guide to Browser-Based Recording for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-step-by-step-process-for-transforming-videos-through-dubbing-using-filmora/"><u>New The Ultimate Step-by-Step Process for Transforming Videos Through Dubbing Using Filmora</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/open-access-mindful-harmonies-for-2024/"><u>Open Access Mindful Harmonies for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/optimizing-your-computers-efficiency-with-regular-maintenance-expert-advice-by-yl-computing/"><u>Optimizing Your Computer's Efficiency with Regular Maintenance - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/poco-x6-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Poco X6 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-essential-handbook-to-audio-timeline-control-mastering-keyframe-creation-and-editing-in-adobe-premiere-pro-mac/"><u>The Essential Handbook to Audio Timeline Control Mastering Keyframe Creation and Editing in Adobe Premiere Pro (Mac)</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-essential-tips-for-capturing-sound-with-your-samsung-s10s9/"><u>Updated 2024 Approved Essential Tips for Capturing Sound with Your Samsung S10/S9</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-audiovisual-masterpieces-unveiled-top-5-music-visualizations-for-every-taste/"><u>Updated Audiovisual Masterpieces Unveiled Top 5 Music Visualizations for Every Taste</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-premier-audio-harvesting-technique-for-videos-mastering-sound-retrieval/"><u>Updated In 2024, Premier Audio Harvesting Technique for Videos Mastering Sound Retrieval</u></a></li>
 </ul></div>
 
