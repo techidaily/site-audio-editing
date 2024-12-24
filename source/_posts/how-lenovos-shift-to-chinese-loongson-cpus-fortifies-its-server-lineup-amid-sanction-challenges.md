@@ -1,7 +1,7 @@
 ---
 title: How Lenovo's Shift to Chinese Loongson CPUs Fortifies Its Server Lineup Amid Sanction Challenges
-date: 2024-12-09T18:10:55.181Z
-updated: 2024-12-15T20:51:01.374Z
+date: 2024-12-23T16:41:55.754Z
+updated: 2024-12-24T17:49:05.208Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,16 +60,21 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-unlocking-the-power-of-facebook-slideshows-in-digital-marketing-for-2024/"><u>[Updated] Unlocking the Power of Facebook Slideshows in Digital Marketing for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-nokia-c12-plus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Nokia C12 Plus Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-keeping-your-mac-awake-tips-and-tricks-to-avoid-automatic-sleep/"><u>Guide: Keeping Your Mac Awake – Tips and Tricks to Avoid Automatic Sleep</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-rise-to-stardom-on-instagram-adopting-tiktoks-winning-strategies/"><u>In 2024, Rise to Stardom on Instagram Adopting TikTok's Winning Strategies</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-top-audio-balancing-techniques/"><u>New 2024 Approved Top Audio Balancing Techniques</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/popularly-borrowed-beats-for-montage-crafting/"><u>Popularly Borrowed Beats for Montage Crafting</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-airpods-release-date-features-and-pre-order-info-insights-from-zdnet/"><u>Upcoming AirPods Release Date, Features & Pre-Order Info - Insights From ZDNet</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-unveiling-magix-samplitudes-capabilities-are-they-superseding-competitors/"><u>Updated 2024 Approved Unveiling MAGIX Samplitudes Capabilities Are They Superseding Competitors?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-mastering-acoustic-harmony-optimal-eq-settings-guide-for-2024/"><u>Updated Mastering Acoustic Harmony Optimal EQ Settings Guide for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-mp3-conversion-made-simple-3-effective-techniques-for-podcast-files-for-2024/"><u>Updated MP3 Conversion Made Simple 3 Effective Techniques for Podcast Files for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tailoring-twitter-video-thumbnails-a-step-by-step-guide/"><u>[New] 2024 Approved Tailoring Twitter Video Thumbnails A Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exclusive-directory-free-visual-content-oasis-online/"><u>[Updated] Exclusive Directory Free Visual Content Oasis Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-personalized-ringtone-crafting-from-tiktok-beats-to-cellphone-alerts/"><u>[Updated] In 2024, Personalized Ringtone Crafting From TikTok Beats to Cellphone Alerts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-creativity-the-newcomers-snapseed-tutorial/"><u>[Updated] Unleash Creativity The Newcomer's Snapseed Tutorial</u></a></li>
+<li><a href="https://facebook.techidaily.com/an-overview-of-resources-offered-by-fb-help-center/"><u>An Overview of Resources Offered by FB Help Center</u></a></li>
+<li><a href="https://solve-info.techidaily.com/how-can-you-assess-your-pcs-sound-card-efficiency-on-a-windows-platform-tips-from-yl-software/"><u>How Can You Assess Your PC's Sound Card Efficiency on a Windows Platform - Tips From YL Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-of-iphone-15-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-10t-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme 10T 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/master-your-sound-without-spending-a-dime-top-11-free-audio-tools-for-pc-and-mac-users/"><u>Master Your Sound Without Spending a Dime Top 11 Free Audio Tools for PC & Mac Users</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/mastering-autotune-a-comprehensive-guide-to-using-plugins-within-audacity-for-2024/"><u>Mastering AutoTune A Comprehensive Guide to Using Plugins Within Audacity for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-imovie-pro-tips-how-to-detach-audio-tracks-efficiently-on-a-mac/"><u>New 2024 Approved IMovie Pro Tips How to Detach Audio Tracks Efficiently on a Mac</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-a-comprehensive-selection-of-free-must-hear-game-sounds-for-2024/"><u>New A Comprehensive Selection of Free, Must-Hear Game Sounds for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-audiovisual-allure-designing-engaging-podcast-covers-that-echo-across-platforms-for-2024/"><u>New Audiovisual Allure Designing Engaging Podcast Covers that Echo Across Platforms for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-amplify-visual-audio-levels-enhancing-video-clarity-and-audibility/"><u>New In 2024, Amplify Visual Audio Levels Enhancing Video Clarity and Audibility</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-isolating-vocal-elements-disengaging-audio-from-video-using-premiere-pro/"><u>New In 2024, Isolating Vocal Elements Disengaging Audio From Video Using Premiere Pro</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-art-of-professional-online-identity-on-facebook/"><u>The Art of Professional Online Identity on Facebook</u></a></li>
 </ul></div>
 

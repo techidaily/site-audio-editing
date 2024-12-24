@@ -1,7 +1,7 @@
 ---
 title: Microsoft Rolls Out Custom-Made Network Devices Tailored for Artificnial Intelligence Data Centers - Insights
-date: 2024-12-12T17:14:32.498Z
-updated: 2024-12-15T19:04:30.871Z
+date: 2024-12-22T18:00:25.572Z
+updated: 2024-12-24T20:05:38.395Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,16 +62,22 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-ultimate-tutorial-simplifying-youtube-subscriptions/"><u>[New] 2024 Approved Ultimate Tutorial Simplifying YouTube Subscriptions</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-keeping-your-audience-engaged-in-a-revised-social-lands-ward-for-2024/"><u>[New] Keeping Your Audience Engaged in a Revised Social Lands Ward for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-no-spend-guide-to-the-best-ae-template-hits-for-2024/"><u>[New] No-Spend Guide to the Best AE Template Hits for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-dynamic-tiktok-effects-a-double-approach/"><u>[Updated] 2024 Approved Dynamic TikTok Effects A Double Approach</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-expert-analysis-highest-quality-video-snappers/"><u>2024 Approved Expert Analysis Highest Quality Video Snappers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-mastering-dynamic-volume-control-a-guide-to-audio-ducking-with-adobe-premiere-pro-on-mac/"><u>In 2024, Mastering Dynamic Volume Control A Guide to Audio Ducking with Adobe Premiere Pro on Mac</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-from-silence-to-symphony-adding-music-to-your-online-videos-effortlessly/"><u>New 2024 Approved From Silence to Symphony Adding Music to Your Online Videos Effortlessly</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-audiophiles-linux-playbook-the-best-free-tools-for-cutting-edge-audio-recording/"><u>New Audiophiles Linux Playbook The Best Free Tools for Cutting-Edge Audio Recording</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-10-free-online-mp3-to-text-converters-wondershare-filmora/"><u>New In 2024, 10 FREE Online MP3 to Text Converters-Wondershare Filmora</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-leading-lineup-best-no-charges-music-transformation-apps-for-iphoneandroid-enthusiasts/"><u>New In 2024, The Leading Lineup Best No-Charges Music Transformation Apps for iPhone/Android Enthusiasts</u></a></li>
-<li><a href="https://article-tips.techidaily.com/strategies-for-creating-hit-memes/"><u>Strategies for Creating Hit Memes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-photographic-prowess-proven-strategies-for-captivating-edits/"><u>[Updated] In 2024, Photographic Prowess Proven Strategies for Captivating Edits</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/your-way-the-insider-guide-to-youtube-video-management-hub/"><u>Find Your Way The Insider Guide to YouTube Video Management Hub</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/first-generation-cummins-highlights-visuals-images-and-backdrops-powered-by-yl-computing/"><u>First-Generation Cummins Highlights: Visuals, Images & Backdrops - Powered by YL Computing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-enhanced-performance-downloading-and-updating-nvidia-quadro-rtx-4000-drivers/"><u>Get Enhanced Performance: Downloading & Updating NVIDIA Quadro RTX 4000 Drivers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lenovo-thinkphone-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Lenovo ThinkPhone Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-note-12r-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-sd-card-compatible-with-a7s-ii/"><u>In 2024, Superior SD Card Compatible with A7S II</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-huawei-p60-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Huawei P60 Phones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphones-unlocked-smart-tips-for-saving-and-playing-gifs-for-2024/"><u>IPhones Unlocked Smart Tips for Saving & Playing GIFs for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-purity-of-music-step-by-step-processes-for-eliminating-vocal-elements-from-songs/"><u>New Purity of Music Step-by-Step Processes for Eliminating Vocal Elements From Songs</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-source-directory-10-websites-offering-high-definition-video-wallpapers-and-backgrounds-for-2024/"><u>New The Ultimate Source Directory 10 Websites Offering High-Definition Video Wallpapers and Backgrounds for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/top-audio-splitter-on-mac/"><u>Top Audio Splitter on Mac</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-mastering-the-art-of-audio-replacement-a-comprehensive-guide-to-video-dubbing-with-wondershare-filmora/"><u>Updated 2024 Approved Mastering the Art of Audio Replacement A Comprehensive Guide to Video Dubbing with Wondershare Filmora</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-premier-free-online-confluence-of-mp3-files-2023-reviewed/"><u>Updated 2024 Approved The Premier Free Online Confluence of MP3 Files 2023 Reviewed</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-top-10-audio-recording-software-to-capture-your-voice-easily/"><u>Updated 2024 Approved Top 10 Audio Recording Software to Capture Your Voice Easily</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-audiophiles-manual-to-volume-control-on-digital-media-updated-for-2024/"><u>Updated Audiophiles Manual to Volume Control on Digital Media – Updated for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-disable-auditory-output-and-insert-novel-audio-elements-in-microsofts-video-creator/"><u>Updated Disable Auditory Output & Insert Novel Audio Elements in Microsofts Video Creator</u></a></li>
 </ul></div>
 

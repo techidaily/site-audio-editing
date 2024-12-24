@@ -1,7 +1,7 @@
 ---
 title: Updated Tutorial on Audio Ducking in Adobe Premiere Pro on Mac
-date: 2024-12-08T17:50:51.552Z
-updated: 2024-12-15T17:40:03.187Z
+date: 2024-12-22T19:58:10.560Z
+updated: 2024-12-24T19:37:00.513Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ Too many times, while mixing voiceover with the background music in a video, the
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
@@ -61,7 +61,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -71,7 +71,7 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -101,7 +101,7 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -119,16 +119,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-turning-youtube-shorts-into-a-stream-of-income/"><u>[New] In 2024, Turning YouTube Shorts Into a Stream of Income</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-balancing-act-creative-freedom-vs-major-company-support/"><u>[New] The Balancing Act Creative Freedom vs Major Company Support</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-strategies-for-youtube-music-fusions-for-2024/"><u>[Updated] Strategies for YouTube Music Fusions for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-displays-out-of-sync-in-windows/"><u>Fixing Displays Out of Sync in Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-magic-6-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor Magic 6 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-leading-free-daw-applications-accessible-via-browsers/"><u>New 2024 Approved Leading Free DAW Applications Accessible via Browsers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-top-10-alternatives-of-facetime-on-android-you-can-find/"><u>New 2024 Approved Top 10 Alternatives of FaceTime on Android You Can Find</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-aria-elimination-kit-compose-one-of-a-kind-background-scores-for-2024/"><u>New Aria Elimination Kit Compose One-of-a-Kind Background Scores for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-exploring-the-ultimate-selection-of-gratis-vst-enhancers-updated/"><u>New In 2024, Exploring the Ultimate Selection of Gratis VST Enhancers, Updated</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-perfect-pacing-strategies-for-cutting-extra-audio-in-your-imovie-projects-across-apple-ecosystems/"><u>New In 2024, Perfect Pacing Strategies for Cutting Extra Audio in Your iMovie Projects Across Apple Ecosystems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-choosing-your-ideal-copilotplus-laptop-spotlight-on-the-hottest-picks-from-ifa-2/"><u>The Ultimate Guide to Choosing Your Ideal Copilot+ Laptop: Spotlight on the Hottest Picks From IFA 2</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-8-best-popular-instagram-after-effects-templates/"><u>[New] 2024 Approved 8 Best Popular Instagram After Effects Templates</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-5-exceptional-4k-gaming-screens-for-2024/"><u>[New] 5 Exceptional 4K Gaming Screens for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-building-brand-authority-top-tips-for-novice-marketers-on-reddit/"><u>[New] Building Brand Authority Top Tips for Novice Marketers on Reddit</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-achieve-perfect-screen-captures-on-the-mi-11-lite/"><u>[Updated] Achieve Perfect Screen Captures on the Mi 11 Lite</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/curated-expertise-top-5-professionals-merging-photovideo-with-music-genres/"><u>Curated Expertise Top 5 Professionals Merging Photo/Video with Music Genres</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-color-your-skies-dji-mini-2-and-air-2s-luts-complimentary-offer/"><u>In 2024, Color Your Skies – DJI Mini 2 & Air 2S LUTS Complimentary Offer</u></a></li>
+<li><a href="https://win-special.techidaily.com/mastering-software-deletion-techniques-with-expert-advice-from-yl-software/"><u>Mastering Software Deletion Techniques with Expert Advice From YL Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-wmam4v/"><u>Movavi - WMAからM4Vに自由に変換:無料のオンラインサービス</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-intricacies-of-clubhouse-explored-an-insiders-guide-to-its-core-principles-and-operations-for-2024/"><u>New The Intricacies of Clubhouse Explored An Insiders Guide to Its Core Principles and Operations for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/powerpoint-audio-tutorial-effective-methods-to-record-and-embed-sounds-on-windows-and-mac-devices/"><u>PowerPoint Audio Tutorial Effective Methods to Record and Embed Sounds on Windows & Mac Devices</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/solutions-pour-resoudre-limpossible-boot-sur-votre-ssd-windows-111087-en-point/"><u>Solutions Pour Résoudre L'Impossible Boot Sur Votre SSD : Windows 11/10/8/7 en Point!</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-achieving-professional-results-attaching-soundtracks-to-videos-with-magix-movie-editor/"><u>Updated 2024 Approved Achieving Professional Results Attaching Soundtracks to Videos with Magix Movie Editor</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-what-to-look-for-in-audio-editor-software-for-mac-os-x/"><u>Updated 2024 Approved What to Look for in Audio Editor Software for Mac OS X</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-best-song-identifiers-online-you-can-find/"><u>Updated Best Song Identifiers Online You Can Find</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-best-voice-chat-apps-for-gamers/"><u>Updated Best Voice Chat Apps for Gamers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-fine-tuning-androids-m4a-performance-expert-tips-to-improve-sound-quality/"><u>Updated In 2024, Fine-Tuning Androids M4A Performance Expert Tips to Improve Sound Quality</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-iphones-auditory-features-demystified-the-top-10-audio-recording-apps/"><u>Updated In 2024, IPhones Auditory Features Demystified - The Top 10 Audio Recording Apps</u></a></li>
 </ul></div>
 
