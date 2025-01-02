@@ -1,7 +1,7 @@
 ---
 title: "Find the Ultimate Off-the-Shelf Gaming Machine: Key Factors and Models to Consider"
-date: 2024-12-18T19:45:09.787Z
-updated: 2024-12-24T16:04:53.310Z
+date: 2024-12-25T18:04:25.954Z
+updated: 2025-01-02T06:46:22.449Z
 tags:
   - desktop
 categories:
@@ -27,9 +27,17 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
  Also note that we don't include the cost of an operating system, because you can get[Windows for Free or Cheap](https://www.tomshardware.com/reviews/get-windows-10-free-or-cheap,5717.html) . Nor do we include the price of peripherals such as the[best gaming monitors](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.html) ,[best gaming keyboards](https://www.tomshardware.com/peripherals/gaming-keyboards/best-gaming-keyboards) or[best gaming mouse](https://www.tomshardware.com/best-picks/best-gaming-mouse) . And if you've never made a computer before, see our article on[how to build a PC](https://www.tomshardware.com/how-to/build-a-pc) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best $500 PC Build for Gaming
 
 ![Cooler Master MasterBox Q300L](https://cdn.mos.cms.futurecdn.net/Zoebn2FkWQprjxmm7jKxZS-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Newegg)
 
@@ -67,17 +75,9 @@ If you want a computer that meets your exact needs and budget, you need to put i
   
  Finally, we need something to power the whole system, and this is an area where we opted to compromise in pursuit of the $500 price point. The $40 500W PSU should be fine for this basic build, which will likely peak at around 200W of power use, but the Thermaltake Smart series isn't exactly highly regarded, and the listing mentions Haswell support (circa 2014) and it only has 80 Plus certification, which are clear drawbacks. If you want a quality PSU, check out the[Thermaltake Toughpower GX2 600W](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB087CDR14Z%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2901418645577992029-20) that costs $20 more. It's an 80 Plus Gold certified PSU, from a reputable brand, albeit overkill for a build like this.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best $800 PC Build for Gaming
 
 ![Gamdias Aura GC1](https://cdn.mos.cms.futurecdn.net/fixBMW57Uvy4YDmfRJpWAd-320-80.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Amazon)
 
@@ -164,7 +164,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![3DMark Storage for WD SN580](https://cdn.mos.cms.futurecdn.net/YduTXHRsvK8iHR2sEsSWHH-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -174,7 +174,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Finally, we've stepped up to a 750-watt power supply and we're going with Corsair CX750M, which is 80+ Bronze certified and semi-modular. You can get a modular PSU or one that's 80+ Gold certified for a bit more, but that's money you don't need to spend at this price point.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best $1,500 PC Build for Gaming
@@ -217,6 +217,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![WD SN850X](https://cdn.mos.cms.futurecdn.net/Zgbo67f5diWaNQg29SQ3nQ-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  Our case for this build is the $99[Lian Li Lancool 216](https://www.tomshardware.com/reviews/lian-li-lancool-216-review) . When we reviewed the Lancool 216, we praised its included dual RGB 160mm front and single 140mm exhaust fans, excellent cable management and attractive looks. There's also plenty of room for a top-mounted radiator that's up to 360mm.
@@ -224,16 +228,12 @@ If you want a computer that meets your exact needs and budget, you need to put i
  Our power supply is a 750-watt Corsair CX750M. This 80 Plus Gold certified PSU packs enough power to support our GPU with plenty of juice to spare. However, it's not fully modular, with some of the wires being built-in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best $2000 PC Build for Gaming
 
 ![Hyte Y40](https://cdn.mos.cms.futurecdn.net/4uhnTrJWRufEuBFQzenypi-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -258,7 +258,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![RTX 4070 Ti Super Charts](https://cdn.mos.cms.futurecdn.net/xLHYFZLdk36D2Rmd2iLYFa-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -314,7 +314,7 @@ If you want a computer that meets your exact needs and budget, you need to put i
 ![RTX 4090 Performance](https://cdn.mos.cms.futurecdn.net/mKv5emaUBYKBRQ8URPsxCY-320-80.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -325,6 +325,10 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 ![Ryzen 7 7950X3D Charts](https://cdn.mos.cms.futurecdn.net/DiWoGh9Fc2ovFWFiYuJeuG-320-80.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Image credit: Tom's Hardware)
 
  We're using an Asus ROG Strix X670E-E motherboard, which comes with built-in Wi-Fi 6E, four M.2 slots for storage and 18+2 power stages. To cool the Ryzen 9 7950X3D, we're using a 360mm Lian-Li Galahad II Trinity 360mm AIO. When we[reviewed the Galahad II](https://www.tomshardware.com/reviews/lian-li-galahad-ii-performance-360) , we found that it had the absolute best performance of any all-in-one cooler we've ever tested.
@@ -334,10 +338,6 @@ If you want a computer that meets your exact needs and budget, you need to put i
  We're going with a 4TB Samsung 990 Pro, which has plenty of capacity and is the fastest PCIe 4.0 drive you can buy. Sure, we can go up to a PCIe 5.0 drive but we don't see enough performance gains to justify one, even in this high end build right now.
 
 ![Samsung 990 Pro 4TB Benchmarks](https://cdn.mos.cms.futurecdn.net/GArKvY8BSc22ZhDRwWyr2C-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -364,24 +364,18 @@ If you want a computer that meets your exact needs and budget, you need to put i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-from-novice-to-expert-ascending-with-asmr-video-production-tactics/"><u>[New] 2024 Approved From Novice to Expert Ascending with ASMR Video Production Tactics</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-effortless-hulu-recordings-for-windows-mac-and-mobile-users-for-2024/"><u>[New] Effortless Hulu Recordings for Windows, Mac & Mobile Users for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/outube-editing-essentials-a-comprehensive-guide-to-song-inserts/"><u>[New] YouTube Editing Essentials A Comprehensive Guide to Song Inserts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-intelligent-viewing-syncing-youtube-with-televisions/"><u>2024 Approved Intelligent Viewing Syncing YouTube with Televisions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/video-makers-with-music-and-photos-for-2024/"><u>Best Video Makers with Music and Photos for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/capturing-online-seminars/"><u>Capturing Online Seminars</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-tips-to-address-lg-display-driver-concerns-across-windows-11-8-and-7-systems/"><u>Expert Tips to Address LG Display Driver Concerns Across Windows 11, 8, and 7 Systems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximize-your-virtual-meetings-with-top-6-webcams-for-zoom/"><u>In 2024, Maximize Your Virtual Meetings with Top 6 Webcams for Zoom</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-visual-harmony-in-audio-a-step-by-step-guide-for-creative-composers-photo-sonics-updated-edition-for-2024/"><u>New Visual Harmony in Audio A Step-by-Step Guide for Creative Composers Photo Sonics, Updated Edition for 2024</u></a></li>
-<li><a href="https://techidaily.com/remove-xperia-10-v-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Xperia 10 V unlock screen</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-world-of-vocal-manipulators-an-overview-testimonials-and-substitutes/"><u>The World of Vocal Manipulators An Overview, Testimonials, and Substitutes</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-why-the-nintendo-switch-is-unbeatable-in-handheld-gameplay/"><u>Ultimate Guide: Why the Nintendo Switch Is Unbeatable in Handheld Gameplay</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-comprehensive-alternatives-choosing-the-right-digital-recording-software/"><u>Updated 2024 Approved Comprehensive Alternatives Choosing the Right Digital Recording Software</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-examination-of-cambridge-sound-technologies-cxu-equipment-for-2024/"><u>Updated Examination of Cambridge Sound Technologies CXU Equipment for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-from-raw-audio-to-polished-masterpiece-editing-with-avidemux-2023-edition/"><u>Updated From Raw Audio to Polished Masterpiece Editing with Avidemux - 2023 Edition</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-from-silence-to-symphony-incorporating-music-into-animated-graphics-on-macos-for-2024/"><u>Updated From Silence to Symphony Incorporating Music Into Animated Graphics on macOS for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-use-audio-ducking-in-adobe-premiere-pro-on-mac/"><u>Updated How to Use Audio Ducking in Adobe Premiere Pro on Mac</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-use-voice-recorder-on-samsung-s10s9-for-2024/"><u>Updated How to Use Voice Recorder on Samsung S10/S9 for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-enhance-your-pc-audio-no-cost-methods-to-amplify-sound-on-windows-systems/"><u>Updated In 2024, Enhance Your PC Audio No-Cost Methods to Amplify Sound on Windows Systems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ios-guide-to-stunning-time-lapse-cinematography/"><u>[New] 2024 Approved IOS Guide to Stunning Time-Lapse Cinematography</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/sports-news-and-analysis-from-top-vloggers/"><u>[New] Esports News and Analysis From Top Vloggers</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-dead-by-daylight-crashes-proven-strategies-and-fixes-of-2024/"><u>Defeat Dead by Daylight Crashes: Proven Strategies and Fixes of 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-conversie-van-aiff-opmappings-naar-mov-online-met-movavi-professioneel-en-efficient/"><u>Gratis Conversie Van AIFF-Opmappings Naar MOV Online Met Movavi: Professioneel en Efficiënt</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-mastering-sound-a-comprehensive-guide-to-normalizing-audio-in-multimedia-content/"><u>New Mastering Sound A Comprehensive Guide to Normalizing Audio in Multimedia Content</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-proven-choices-selecting-the-top-6-costless-cloud-based-sound-editors-for-2024/"><u>New Proven Choices Selecting the Top 6 Costless Cloud-Based Sound Editors for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformez-vos-dvd-en-formats-mobiles-facilement-avec-le-convertisseur-gratuit-winx-dvd-mp4-avi/"><u>Transformez Vos DVD en Formats Mobiles Facilement Avec Le Convertisseur Gratuit WinX DVD (MP4, AVI)</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-how-to-fade-in-and-fade-out-audio-in-imovie/"><u>Updated 2024 Approved How to Fade in and Fade Out Audio in iMovie?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-audiophiles-handbook-advanced-imovie-audio-editing-mastery/"><u>Updated Audiophiles Handbook Advanced iMovie Audio Editing Mastery</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-audio-fur-phenomenon-sample/"><u>Updated In 2024, Audio Fur Phenomenon Sample</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-mix-fold-3-cant-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Mix Fold 3 can’t play AVCHD .mts video</u></a></li>
 </ul></div>
 

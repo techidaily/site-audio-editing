@@ -1,7 +1,7 @@
 ---
 title: Tech-Savvy Generation Engages at New Japanese Amusement Park – Hands-On PC Building for Youngsters with Authentic Hardware
-date: 2024-12-22T17:23:14.471Z
-updated: 2024-12-24T20:49:11.616Z
+date: 2024-12-28T00:50:48.486Z
+updated: 2025-01-02T07:26:28.412Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,18 +78,22 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-counteract-crashes-in-win-11s-photo-viewer/"><u>[New] How to Counteract Crashes in Win 11'S Photo Viewer</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-screen-recorder-showdown-apoyser-vs-emerging-alternatives-review-for-2024/"><u>[New] Screen Recorder Showdown Apoyser Vs Emerging Alternatives Review for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-cameras-for-cutting-edge-concert-filming-in-4khd/"><u>[Updated] 2024 Approved Essential Cameras for Cutting-Edge Concert Filming in 4K/HD</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-mobile-and-desktop-techniques-for-youtube-short-video-submission-for-2024/"><u>[Updated] Mobile & Desktop Techniques for YouTube Short Video Submission for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-a-beginners-roadmap-for-instagram-reels-mastery/"><u>2024 Approved A Beginner's Roadmap for Instagram Reels Mastery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hidden-methods-for-dodging-digital-study-vids-for-2024/"><u>Hidden Methods for Dodging Digital Study Vids for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-engineering-eye-catching-film-openings/"><u>In 2024, Engineering Eye-Catching Film Openings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-gaming-headsets-comprehensive-reviews-by-tech-experts-techradar/"><u>Top-Rated Gaming Headsets : Comprehensive Reviews by Tech Experts | TechRadar</u></a></li>
-<li><a href="https://program-issues.techidaily.com/untangling-the-mystery-of-freezing-falls-in-fallout-3-for-windows-users/"><u>Untangling the Mystery of Freezing Falls in Fallout 3 for Windows Users</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-innovative-voice-tweaks-9-ways-to-spark-laughter-in-your-conversations-for-2024/"><u>Updated Innovative Voice Tweaks 9 Ways to Spark Laughter in Your Conversations for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-totally-tune-out-mastering-the-art-of-muting-media-on-internet-platforms/"><u>Updated Totally Tune-Out Mastering the Art of Muting Media on Internet Platforms</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-transform-any-audio-with-these-7-innovative-cost-free-online-trimming-applications-for-2024/"><u>Updated Transform Any Audio with These 7 Innovative, Cost-Free Online Trimming Applications for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-unveiling-the-most-accessible-and-affordable-browser-based-daw-tools-for-2024/"><u>Updated Unveiling the Most Accessible and Affordable Browser-Based DAW Tools for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-affordable-high-performance-gaming-keyboards-listed/"><u>[New] 2024 Approved Affordable High-Performance Gaming Keyboards Listed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhancing-youtube-presence-with-strategic-banners/"><u>[New] In 2024, Enhancing YouTube Presence with Strategic Banners</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-simplified-live-mastery-one-channel-broadcast-strategies/"><u>[New] In 2024, Simplified LIVE Mastery One-Channel Broadcast Strategies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-elite-arsenal-choosing-the-top-7-fps/"><u>[Updated] 2024 Approved Elite Arsenal Choosing the Top 7 FPS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-seamless-iphone-photography-during-video/"><u>[Updated] In 2024, Seamless iPhone Photography During Video</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/buying-smart-key-accessories-for-dynamic-cinematography-for-2024/"><u>Buying Smart Key Accessories for Dynamic Cinematography for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-unlocking-audio-content-effective-strategies-for-transferring-podcast-episodes-onto-computers/"><u>In 2024, Unlocking Audio Content Effective Strategies for Transferring Podcast Episodes Onto Computers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-crafting-captivating-audio-representations-syncopated-waveform-graphics-and-transformative-animation-in-adobe-premiere-pro/"><u>New Crafting Captivating Audio Representations Syncopated Waveform Graphics and Transformative Animation in Adobe Premiere Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-chorussync-uniting-voice-tracks-effortlessly-in-premiere-pros-creative-suite-premium-2023-update/"><u>New In 2024, ChorusSync Uniting Voice Tracks Effortlessly in Premiere Pros Creative Suite Premium 2023 Update</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-leading-audio-modification-programs-a-comprehensive-guide-for-2024/"><u>New Leading Audio-Modification Programs A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-mastering-the-art-of-silencing-sound-in-windows-10-videos-for-2024/"><u>New Mastering the Art of Silencing Sound in Windows 10 Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/remote-work-mastery-top-rated-ultraportable-laptop-that-delivers-unmatched-performance-for-professionals/"><u>Remote Work Mastery: Top-Rated Ultraportable Laptop That Delivers Unmatched Performance for Professionals</u></a></li>
+<li><a href="https://fox-place.techidaily.com/simple-guide-how-to-seamlessly-upgrade-your-lenovo-flex-5e-to-a-solid-state-drive/"><u>Simple Guide: How to Seamlessly Upgrade Your Lenovo Flex 5E to a Solid State Drive</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-expertly-curated-list-of-premier-audio-trimming-software-websites-for-2024/"><u>Updated Expertly Curated List of Premier Audio Trimming Software Websites for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mastering-the-art-of-silencing-sound-in-windows-10-videos-for-2024/"><u>Updated Mastering the Art of Silencing Sound in Windows 10 Videos for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-revamp-your-footage-top-rated-free-online-video-enhancers/"><u>Updated Revamp Your Footage Top-Rated Free Online Video Enhancers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-engineers-choice-selecting-premium-websites-for-advanced-mp3-editing-techniques-for-2024/"><u>Updated The Engineers Choice Selecting Premium Websites for Advanced MP3 Editing Techniques for 2024</u></a></li>
 </ul></div>
 

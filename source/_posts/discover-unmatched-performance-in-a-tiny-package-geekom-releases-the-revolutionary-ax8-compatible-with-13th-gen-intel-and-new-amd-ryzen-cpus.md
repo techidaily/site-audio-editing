@@ -1,7 +1,7 @@
 ---
 title: Discover Unmatched Performance in a Tiny Package - Geekom Releases the Revolutionary AX8, Compatible with 13Th Gen Intel & New AMD Ryzen CPUs
-date: 2024-12-23T16:26:19.169Z
-updated: 2024-12-24T20:06:44.707Z
+date: 2024-12-29T23:50:35.139Z
+updated: 2025-01-01T17:33:58.520Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,15 +80,24 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-realizing-your-potential-in-360-video-streams-for-social-media/"><u>[New] Realizing Your Potential in 360 Video Streams for Social Media</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-directory-easy-classics-ringtone-websites/"><u>[New] Ultimate Directory Easy Classics Ringtone Websites</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-revealing-historys-best-anime-openers-for-2024/"><u>[Updated] Revealing History's Best Anime Openers for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-finest-12-tycoons-your-pathway-to-gaming-enthusiasm-for-2024/"><u>[Updated] The Finest 12 Tycoons Your Pathway to Gaming Enthusiasm for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conversational-uk-style-learn-easy-phrases/"><u>Conversational UK Style: Learn Easy Phrases</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/enhancing-your-run-a-comprehensive-review-of-the-garmin-forerunner-45-gps-tracker/"><u>Enhancing Your Run: A Comprehensive Review of the Garmin Forerunner 45 GPS Tracker</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-unsticking-the-among-us-load-screen-glitch/"><u>Solved: Unsticking the Among Us Load Screen Glitch</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-social-sphere-selecting-the-best-marketing-focused-podcasts-for-todays-businesses/"><u>Updated In 2024, The Social Sphere Selecting the Best Marketing-Focused Podcasts for Todays Businesses</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-complete-guide-to-designing-iconic-podcast-artwork-for-the-modern-ear-for-2024/"><u>Updated The Complete Guide to Designing Iconic Podcast Artwork for the Modern Ear for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/voice-activated-data-collection-on-ios-ranking-the-top-10-apps-for-2024/"><u>Voice-Activated Data Collection on iOS Ranking the Top 10 Apps for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-voice-driven-operations-free-of-charge/"><u>[New] In 2024, Voice-Driven Operations, Free of Charge</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ptimal-youtube-playback-adjusting-speed-settings-for-2024/"><u>[New] Optimal YouTube Playback Adjusting Speed Settings for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-visual-clarity-blur-your-meeting-backgrounds/"><u>[Updated] Mastering Visual Clarity Blur Your Meeting Backgrounds</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-essential-soundtracks-every-smartphone-owner-should-have/"><u>2024 Approved Essential Soundtracks Every Smartphone Owner Should Have</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-exploring-acoustic-illusions-in-motion-techniques-to-illustrate-sound-tracks-via-animated-waveforms-within-premiere-pro-workflow/"><u>2024 Approved Exploring Acoustic Illusions in Motion Techniques to Illustrate Sound Tracks via Animated Waveforms Within Premiere Pro Workflow</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-narzo-n55-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme Narzo N55 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-elevate-sound-fidelity-with-advanced-latency-reduction-methods/"><u>In 2024, Elevate Sound Fidelity with Advanced Latency Reduction Methods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/lut-mastery-for-enhanced-visual-effects-in-premiere-projects/"><u>LUT Mastery for Enhanced Visual Effects in Premiere Projects</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-expert-suggestions-for-enhancing-devices-audiovisual-experience/"><u>New Expert Suggestions for Enhancing Devices Audiovisual Experience</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-2023s-favorite-retro-tempo-tunes-compilation/"><u>New In 2024, 2023S Favorite Retro-Tempo Tunes Compilation</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-a-composers-selection-the-best-10-websites-to-download-and-explore-diverse-montage-music-genres/"><u>New In 2024, A Composers Selection The Best 10 Websites to Download and Explore Diverse Montage Music Genres</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-innovative-online-audio-cutter-utilities-the-leading-tools-for-2024/"><u>New Innovative Online Audio Cutter Utilities – The Leading Tools for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/tactical-cut-discarding-audible-elements-from-multimedia-files-mp4-mkv-avi-mov-wmv/"><u>Tactical Cut Discarding Audible Elements From Multimedia Files (MP4, MKV, AVI, MOV, WMV)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95809320-9781944529093-the-psychic-personality/"><u>The Psychic Personality | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-itel-s23pluss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Itel S23+s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/king-online-potential-top-5-strategic-approaches-to-youtube-marketing/"><u>Unlocking Online Potential - Top 5 Strategic Approaches to YouTube Marketing</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-winning-mp3-metadata-management-software-excellence-edition-for-both-windows-and-mac-enthusiasts-2024-edition/"><u>Updated Winning MP3 Metadata Management Software Excellence Edition for Both Windows & Mac Enthusiasts, 2024 Edition</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/versatile-and-portable-moko-fold-away-bluetooth-keyboard-experience/"><u>Versatile and Portable MoKo Fold-Away Bluetooth Keyboard Experience</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/which-is-more-effective-for-your-needs-comparing-handbrake-and-vlc-as-top-video-convertors/"><u>Which Is More Effective for Your Needs: Comparing HandBrake and VLC as Top Video Convertors</u></a></li>
 </ul></div>
 

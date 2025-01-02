@@ -1,7 +1,7 @@
 ---
 title: Updated Tutorial on Audio Ducking in Adobe Premiere Pro on Mac
-date: 2024-12-22T19:58:10.560Z
-updated: 2024-12-24T19:37:00.513Z
+date: 2024-12-29T17:09:27.373Z
+updated: 2025-01-01T17:35:03.248Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ Too many times, while mixing voiceover with the background music in a video, the
 The best thing about Premiere Pro audio ducking is that it is an automatic process and we don’t need to put a lot of effort. To make your job easier, I’m going to let you know how to use the Adobe Premiere Pro audio ducking feature in a step by step manner in this guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Audio Ducking to Balance Music and Voiceover in Adobe Premiere Pro on Mac?
@@ -61,7 +61,7 @@ Great! You can now preview the changes you have made and check the audio ducking
 Furthermore, you can also perform an instant hard ducking in Premiere Pro. For this, just choose the track, go to the side panel, and select **Preset** \> **Music** \> **Hard Vocal Ducking**. While it would get instant results in Adobe Premiere audio ducking, the results might not be so effective.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/): An Easier Way to Auto Duck Your Audios on Mac
@@ -71,7 +71,7 @@ As you can see, the Premiere Pro audio ducking feature can get a bit complicated
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To learn how to perform automatic audio ducking in your videos on Mac via Wondershare Filmora, one can follow these steps:
@@ -101,7 +101,7 @@ Who knew it would be so easy to do auto-ducking in Premiere Pro, right? Though, 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -119,22 +119,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-8-best-popular-instagram-after-effects-templates/"><u>[New] 2024 Approved 8 Best Popular Instagram After Effects Templates</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-5-exceptional-4k-gaming-screens-for-2024/"><u>[New] 5 Exceptional 4K Gaming Screens for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-building-brand-authority-top-tips-for-novice-marketers-on-reddit/"><u>[New] Building Brand Authority Top Tips for Novice Marketers on Reddit</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-achieve-perfect-screen-captures-on-the-mi-11-lite/"><u>[Updated] Achieve Perfect Screen Captures on the Mi 11 Lite</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/curated-expertise-top-5-professionals-merging-photovideo-with-music-genres/"><u>Curated Expertise Top 5 Professionals Merging Photo/Video with Music Genres</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-color-your-skies-dji-mini-2-and-air-2s-luts-complimentary-offer/"><u>In 2024, Color Your Skies – DJI Mini 2 & Air 2S LUTS Complimentary Offer</u></a></li>
-<li><a href="https://win-special.techidaily.com/mastering-software-deletion-techniques-with-expert-advice-from-yl-software/"><u>Mastering Software Deletion Techniques with Expert Advice From YL Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavi-wmam4v/"><u>Movavi - WMAからM4Vに自由に変換:無料のオンラインサービス</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-intricacies-of-clubhouse-explored-an-insiders-guide-to-its-core-principles-and-operations-for-2024/"><u>New The Intricacies of Clubhouse Explored An Insiders Guide to Its Core Principles and Operations for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/powerpoint-audio-tutorial-effective-methods-to-record-and-embed-sounds-on-windows-and-mac-devices/"><u>PowerPoint Audio Tutorial Effective Methods to Record and Embed Sounds on Windows & Mac Devices</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/solutions-pour-resoudre-limpossible-boot-sur-votre-ssd-windows-111087-en-point/"><u>Solutions Pour Résoudre L'Impossible Boot Sur Votre SSD : Windows 11/10/8/7 en Point!</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-achieving-professional-results-attaching-soundtracks-to-videos-with-magix-movie-editor/"><u>Updated 2024 Approved Achieving Professional Results Attaching Soundtracks to Videos with Magix Movie Editor</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-what-to-look-for-in-audio-editor-software-for-mac-os-x/"><u>Updated 2024 Approved What to Look for in Audio Editor Software for Mac OS X</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-best-song-identifiers-online-you-can-find/"><u>Updated Best Song Identifiers Online You Can Find</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-best-voice-chat-apps-for-gamers/"><u>Updated Best Voice Chat Apps for Gamers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-fine-tuning-androids-m4a-performance-expert-tips-to-improve-sound-quality/"><u>Updated In 2024, Fine-Tuning Androids M4A Performance Expert Tips to Improve Sound Quality</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-iphones-auditory-features-demystified-the-top-10-audio-recording-apps/"><u>Updated In 2024, IPhones Auditory Features Demystified - The Top 10 Audio Recording Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-capturing-the-thrill-top-techniques-for-win10-games/"><u>[New] 2024 Approved Capturing the Thrill Top Techniques for Win10 Games</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-speech-recognition-powered-by-free-software/"><u>[Updated] In 2024, Speech Recognition Powered by Free Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-channel-charisma-techniques-for-amplifying-youtube-visibility/"><u>2024 Approved Channel Charisma Techniques for Amplifying YouTube Visibility</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-techniques-for-effective-capturing-of-chat-conversations/"><u>2024 Approved Techniques for Effective Capturing of Chat Conversations</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a05s-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A05s To Phone | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unleash-your-creativity-best-free-video-editors-for-32-bit-windows/"><u>New 2024 Approved Unleash Your Creativity Best Free Video Editors for 32-Bit Windows</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-smartphone-speech-to-text-solutions-compiling-the-best-android-and-iphone-apps/"><u>New Smartphone Speech-to-Text Solutions Compiling the Best Android and iPhone Apps</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-beat-engineers-companion-selecting-from-among-the-top-8-daw-tools-for-todays-urban-music-masters-for-2024/"><u>New The Beat Engineers Companion Selecting From Among the Top 8 DAW Tools for Todays Urban Music Masters for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-soundtrack-to-today-celebrating-the-most-popular-radio-audio/"><u>New The Soundtrack to Today Celebrating the Most Popular Radio Audio</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-to-audio-based-text-extraction-techniques-for-2024/"><u>New The Ultimate Guide to Audio-Based Text Extraction Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimizing-youtube-thumbnails-for-better-clickthrough-rates-for-2024/"><u>Optimizing YouTube Thumbnails for Better Clickthrough Rates for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/precision-techniques-the-most-essential-8-tools-for-microphone-and-speaker-recording-for-2024/"><u>Precision Techniques The Most Essential 8 Tools for Microphone & Speaker Recording for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/techniques-for-embedding-audio-into-newly-updated-avi-video-files/"><u>Techniques for Embedding Audio Into Newly Updated AVI Video Files</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/top-notch-video-reparation-for-pcs-and-macs/"><u>Top-Notch Video Reparation for PCs & MACs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/tricks-for-non-engagement-with-edgenuity-video-content-for-2024/"><u>Tricks for Non-Engagement with Edgenuity Video Content for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-nvidia-quadro-rtx-4000-with-the-newest-driver-version-now-available-for-download/"><u>Update Your NVIDIA Quadro RTX 지오 4000 with the Newest Driver Version - Now Available for Download!</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-how-to-remove-audio-from-mkv/"><u>Updated 2024 Approved How to Remove Audio From MKV</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-bridging-aiff-and-mp3-techniques-for-high-quality-audio-conversion/"><u>Updated Bridging AIFF and MP3 Techniques for High-Quality Audio Conversion</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-enhancing-film-production-adding-audio-elements-in-magix-pro-2023-edition/"><u>Updated In 2024, Enhancing Film Production Adding Audio Elements in Magix Pro 2023 Edition</u></a></li>
 </ul></div>
 

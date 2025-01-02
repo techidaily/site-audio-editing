@@ -1,7 +1,7 @@
 ---
 title: "The Corsair ONE I500 Breakdown: Reviewing a Revolutionary Compact Gaming Machine"
-date: 2024-12-23T20:00:48.096Z
-updated: 2024-12-24T18:38:31.320Z
+date: 2024-12-25T16:08:31.007Z
+updated: 2025-01-01T21:28:51.482Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,19 +62,16 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-capturing-adventures-a-close-look-at-panasonics-hx-a1/"><u>[New] Capturing Adventures A Close Look at Panasonic's HX-A1</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-windows-snapshot-mastery-3-easy-approaches/"><u>2024 Approved Windows Snapshot Mastery (3 Easy Approaches)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725287715625-2024/"><u>全新 2024 年前五名免費錄音應用 - 最強記錄工具選擇清單</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delve-into-claude-cutting-edge-ai-for-dynamic-business-growth/"><u>Delve Into Claude: Cutting-Edge AI for Dynamic Business Growth</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/handling-utorrent-installation-issues-on-windows-based-laptopstablets/"><u>Handling uTorrent Installation Issues on Windows-Based Laptops/Tablets</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/hard-disk-heroes-customer-testimonials-showcasing-stellars-expertise/"><u>Hard Disk Heroes: Customer Testimonials Showcasing Stellar's Expertise</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-how-to-normalize-volume-in-vlc/"><u>New How To Normalize Volume in VLC</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-most-popular-websites-offering-montage-audio-archives-for-2024/"><u>New Most Popular Websites Offering Montage Audio Archives for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-process-of-deleting-voice-components-from-mp4-media-for-2024/"><u>New The Process of Deleting Voice Components From MP4 Media for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-unveiling-the-premier-anime-character-recasting-stars-for-2024/"><u>New Unveiling the Premier Anime Character Recasting Stars for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/revolutionize-your-listening-habits-the-best-voice-recording-tools-to-download-now/"><u>Revolutionize Your Listening Habits The Best Voice Recording Tools to Download Now</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/top-5-choice-applications-to-design-and-share-your-own-gifs-online/"><u>Top 5 Choice Applications to Design and Share Your Own GIFs Online</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-can-i-utilize-frequency-slicing-for-superior-acoustic-performance-in-2024/"><u>Updated Can I Utilize Frequency Slicing for Superior Acoustic Performance, In 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-mastering-frequency-adjustment-in-audacity-without-compromising-sound-fidelity/"><u>Updated Mastering Frequency Adjustment in Audacity Without Compromising Sound Fidelity</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-step-by-step-adding-tracks-to-youtubes-playlist/"><u>[New] 2024 Approved Step-by-Step Adding Tracks to YouTube's Playlist</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-15-film-enhancing-luts-for-gopro-cameras/"><u>[New] 2024 Approved Top 15 Film-Enhancing LUTs for GoPro Cameras</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-purerecorder-capturing-life-in-games-without-cost-for-2024/"><u>[Updated] PureRecorder Capturing Life in Games Without Cost for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-best-slo-mo-camera-apps-on-iosandroid-platforms/"><u>2024 Approved Explore Best Slo-Mo Camera Apps on iOS/Android Platforms</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-se-2020ipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone SE (2020)/iPad/iPod</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-your-media-with-professional-voiceovers/"><u>Enhancing Your Media With Professional Voiceovers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/mp4-file-optimization-removing-unwanted-audio-tracks/"><u>MP4 File Optimization Removing Unwanted Audio Tracks</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-mastering-sound-visualization-merging-waveforms-for-audio-sight-and-animated-display-using-premiere-pro/"><u>New 2024 Approved Mastering Sound Visualization Merging Waveforms for Audio Sight & Animated Display Using Premiere Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-from-silence-to-symphony-adding-soundtracks-to-kinemaster/"><u>Updated 2024 Approved From Silence to Symphony Adding Soundtracks to KineMaster</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-aural-journey-illustrating-sound-patterns-with-waveform-graphics-and-dynamic-animations-in-nle-essential/"><u>Updated In 2024, Aural Journey Illustrating Sound Patterns with Waveform Graphics and Dynamic Animations in NLE Essential</u></a></li>
 </ul></div>
 
