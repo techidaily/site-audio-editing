@@ -1,7 +1,7 @@
 ---
 title: How Lenovo's Shift to Chinese Loongson CPUs Fortifies Its Server Lineup Amid Sanction Challenges
-date: 2024-12-28T01:03:08.178Z
-updated: 2025-01-02T06:40:57.524Z
+date: 2025-01-04T16:43:12.596Z
+updated: 2025-01-09T18:25:36.333Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,19 +60,17 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-face-fluidity-techniques-implementing-motion-blur-effects/"><u>[New] Face Fluidity Techniques Implementing Motion Blur Effects</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dealing-with-youtubes-challenging-earnings-model/"><u>[New] In 2024, Dealing with YouTube's Challenging Earnings Model</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-ultimate-quick-access-handbook-for-rapid-srt-to-text-change-for-2024/"><u>[Updated] The Ultimate, Quick-Access Handbook for Rapid SRT to Text Change for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-vr-and-the-future-of-teaching-strategies/"><u>[Updated] VR and the Future of Teaching Strategies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-savory-storytelling-in-video-cooking-top-7-insights/"><u>2024 Approved Savory Storytelling in Video Cooking - Top 7 Insights</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-infinite-space-top-10-external-hard-drives-for-ps5/"><u>In 2024, Infinite Space Top 10 External Hard Drives for PS5</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-perfectly-shot-episodes-top-webcams-for-podcast-producers/"><u>In 2024, Perfectly Shot Episodes Top Webcams for Podcast Producers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-15-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your iPhone 15</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-newcomers-manual-to-lexis-sound-wave-processor/"><u>New The Newcomers Manual to Lexis Sound-Wave Processor</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-transcribing-speech-to-mp3-audio-format-for-diverse-platforms-for-2024/"><u>New Transcribing Speech to MP3 Audio Format for Diverse Platforms for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-best-10-sound-boosters-for-android-and-ios-sound-booster-app/"><u>Updated 2024 Approved Best 10 Sound Boosters for Android and iOS-Sound Booster App</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-iphones-auditory-features-demystified-the-top-10-audio-recording-apps/"><u>Updated 2024 Approved IPhones Auditory Features Demystified - The Top 10 Audio Recording Apps</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-5-amazing-voice-changer-for-google-meet-for-2024/"><u>Updated 5 Amazing Voice Changer for Google Meet for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/1728492539463-windows/"><u>如何在Windows上实现机器人还原：详细解析与使用方法</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/expert-advice-for-safe-removal-of-programs-solutions-by-yl-software/"><u>Expert Advice for Safe Removal of Programs - Solutions by YL Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-6-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 6 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/legjobb-obs-online-rekonstrualas-szuksegletei-2024-ben-movavi/"><u>Legjobb OBS Online Rekonstruálás Szükségletei 2024-Ben - Movavi</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-how-to-edit-audio-in-avidemux/"><u>New 2024 Approved How to Edit Audio in Avidemux</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-imovie-pro-tips-how-to-detach-audio-tracks-efficiently-on-a-mac/"><u>New 2024 Approved IMovie Pro Tips How to Detach Audio Tracks Efficiently on a Mac</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-how-to-mix-audio-tracks-into-one-file-for-a-video/"><u>New How to Mix Audio Tracks Into One File for A Video?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-isolating-vocal-elements-disengaging-audio-from-video-using-premiere-pro/"><u>New In 2024, Isolating Vocal Elements Disengaging Audio From Video Using Premiere Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-mastering-mac-audio-keyframe-techniques-in-adobe-premiere-pro-for-2024/"><u>New Mastering Mac Audio Keyframe Techniques in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-rated-free-video-downloader-software-for-windows-11-6432-bit-get-it-now/"><u>Top Rated Free Video Downloader Software for Windows 11 (64/32-Bit) - Get It Now!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-merge-videos-without-logos-best-7-software-options/"><u>Updated 2024 Approved Merge Videos Without Logos Best 7 Software Options</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-pro-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 Pro 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

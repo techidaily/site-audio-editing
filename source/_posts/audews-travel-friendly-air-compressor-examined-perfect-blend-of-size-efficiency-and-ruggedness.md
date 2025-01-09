@@ -1,7 +1,7 @@
 ---
 title: "Audew's Travel-Friendly Air Compressor Examined: Perfect Blend of Size, Efficiency & Ruggedness"
-date: 2024-12-26T00:48:39.940Z
-updated: 2025-01-01T22:14:14.440Z
+date: 2025-01-08T20:26:53.636Z
+updated: 2025-01-09T19:40:51.878Z
 categories:
   - BestProducts
 description: "This Article Describes Audew's Travel-Friendly Air Compressor Examined: Perfect Blend of Size, Efficiency & Ruggedness"
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 ## TP-Link Archer C9 Wireless Router
 
 ![TP-Link Archer C9 AC1900](https://www.lifewire.com/thmb/6VSQssBUxUcvd585IJcj9jrMZWE=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAC1900_HeroSquare-68c63e89f59a47a2944b2a73434417e9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -46,10 +42,6 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C9 AC1900](https://www.lifewire.com/thmb/5L4k_oD-GKPyliYY-jL-tLQH-Uk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAC1900_HeroSquare-68c63e89f59a47a2944b2a73434417e9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Erika Rawes
 
 [View On Amazon](https://www.amazon.com/dp/B00PDLRHFW/?tag=lifewire-onsite-prod-20&ascsubtag=5025101%7Cnb196585ced2341b2b2b5f702b47e2cf321%7CB00PDLRHFW) [View On Walmart](https://www.walmart.com/ip/TP-LINK-Archer-C9-AC1900-Wireless-Dual-Band-Gigabit-Router/42121251) [View On B&H Photo Video](https://www.bhphotovideo.com/c/replacement%5Ffor/1117107-REG/tp%5Flink%5Farcher%5Fc9%5Fac1900%5Fdual%5Fband%5Fwireless.html)
@@ -73,7 +65,7 @@ Lifewire / Erika Rawes
  The TP-Link Archer C9 AC1900 is a budget-friendly router, so it doesn’t include too many of the features you see in newer, more expensive models. It doesn’t include[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) control or MU-MIMO technology, but it’s supposed to provide a long signal range for larger homes, as well as support fast enough speeds for online gaming and 4K media. I tested the TP-Link AC1900 alongside several other[long range routers](https://www.lifewire.com/best-long-range-routers-4122554) to see how well it performs in the real world.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Fingerprints galore**
@@ -91,6 +83,10 @@ Lifewire / Erika Rawes
 ## **Setup: Takes less than 10 minutes**
 
  Setup is simple, and you can use the Tether app or the TP-Link site. There’s a QR code in the quick setup leaflet, so you can easily find the app. As it goes with most routers, you’ll find a temporary network name, password, and login info on the label. The app walks you through the setup process step-by-step, guiding you through creating your 2.4 and 5 GHz networks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Connectivity: Decent speeds, long range**
 
@@ -114,6 +110,10 @@ Lifewire / Erika Rawes
 
  The router performed extremely well at close proximity, but not so well at a distance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Software: TP-Link Tether app**
 
  You can control the router’s functions from the companion app, Tether. In the app, you can do things like set parental time limits on devices, create a guest network, block devices from the network, and perform basic network maintenance.
@@ -127,7 +127,7 @@ Lifewire / Erika Rawes
  Lifewire / Erika Rawes
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: A budget router**
@@ -145,7 +145,7 @@ Lifewire / Erika Rawes
  The TP-Link Archer C9 AC1900 is a good option for those who want a reasonably fast and stable network connection, but don’t want to pay a lot of cash for extra bells and whistles.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -184,24 +184,21 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-elite-editing-selection-quality-software-for-youtubers/"><u>[New] In 2024, Elite Editing Selection Quality Software for YouTubers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlock-fb-status-videos-downloading-made-easy/"><u>[New] Unlock FB Status Videos Downloading Made Easy</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-podcast-vs-youtube-the-battle-of-audio-and-visual-media-for-2024/"><u>[Updated] Podcast vs YouTube The Battle of Audio and Visual Media for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-oppo-a56s-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Oppo A56s 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-5-premier-cloud-platforms-revolutionizing-storage/"><u>In 2024, 5 Premier Cloud Platforms Revolutionizing Storage</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-motorola-g24-power-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Motorola G24 Power Phones</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/simplificar-la-sincronizacion-de-archivos-con-un-disco-duro-externo-en-sistemas-windows/"><u>Simplificar La Sincronización De Archivos Con Un Disco Duro Externo en Sistemas Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-13-free-disk-analysis-utilities-july-2024-edition/"><u>Top 13 Free Disk Analysis Utilities - July 2024 Edition</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-oneplus-ace-3-by-drfone-android/"><u>Universal Unlock Pattern for OnePlus Ace 3</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-best-in-show-a-comprehensive-review-of-the-10-most-effective-podcast-to-text-apps/"><u>Updated In 2024, The Best in Show A Comprehensive Review of the 10 Most Effective Podcast to Text Apps</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-top-8-daw-compatible-with-chromebooks-for-music-creation/"><u>Updated In 2024, Top 8 DAW Compatible with Chromebooks for Music Creation</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-innovative-voice-modification-tools-add-fun-and-flavor-to-your-calls/"><u>Updated Innovative Voice Modification Tools Add Fun and Flavor to Your Calls</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-mastering-volume-control-the-art-of-audio-ducking-with-powerdirector-for-2024/"><u>Updated Mastering Volume Control The Art of Audio Ducking with PowerDirector for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-art-of-precision-modern-methods-to-automatically-align-sound-and-picture/"><u>Updated The Art of Precision Modern Methods to Automatically Align Sound and Picture</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-conductors-algorithm-top-ten-ai-prodigies-shaping-the-melodic-landscape/"><u>Updated The Conductors Algorithm Top Ten AI Prodigies Shaping the Melodic Landscape</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-essential-handbook-to-audio-timeline-control-mastering-keyframe-creation-and-editing-in-adobe-premiere-pro-mac/"><u>Updated The Essential Handbook to Audio Timeline Control Mastering Keyframe Creation and Editing in Adobe Premiere Pro (Mac)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-top-tier-gratis-mp3-integration-suites-for-the-modern-ear-for-2024/"><u>Updated Top-Tier, Gratis MP3 Integration Suites for the Modern Ear for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-video-podcasts-everything-you-need-to-know-for-2024/"><u>Updated Video Podcasts Everything You Need to Know for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-immortalize-gameplay-glories-with-samsung-devices/"><u>[New] 2024 Approved Immortalize Gameplay Glories with Samsung Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-mastering-the-art-of-extracting-fb-gifs-for-all-platforms/"><u>[New] 2024 Approved Mastering the Art of Extracting FB GIFs for All Platforms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unboundscreen-capturing-every-gaming-moment-for-free/"><u>[New] In 2024, UnboundScreen Capturing Every Gaming Moment for FREE</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-media-player-pc-and-tablet-edition/"><u>In 2024, Optimal Media Player (PC & Tablet Edition)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-infinix-note-30-vip-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Infinix Note 30 VIP Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-to-mixing-sounds-with-after-effects/"><u>New The Ultimate Guide to Mixing Sounds with After Effects</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-unveiling-8-crucial-video-game-auditory-elements-all-free-for-2024/"><u>New Unveiling 8 Crucial Video Game Auditory Elements - All Free for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-voice-easy-a-curated-list-of-software-for-simplified-vocal-recordings/"><u>New Voice Easy A Curated List of Software for Simplified Vocal Recordings</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-7-effective-solutions-to-fix-nba-2k23-pc-crashing-issues/"><u>Resolved: 7 Effective Solutions to Fix NBA 2K23 PC Crashing Issues</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-jvmdll-file-not-found-issue-a-comprehensive-guide/"><u>Resolving the JVM.DLL File Not Found Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/scripting-a-captivating-cinematic-sketchpad/"><u>Scripting a Captivating Cinematic Sketchpad</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-compilation-best-volume-boosting-software-for-windows-users-seeking-immediate-results-for-2024/"><u>The Ultimate Compilation Best Volume Boosting Software for Windows Users Seeking Immediate Results for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-compilation-of-html5s-best-video-tools-for-2024/"><u>The Ultimate Compilation of HTML5's Best Video Tools for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-exploring-the-leading-online-video-communication-apps-beyond-omegle-top-picks-for-2024/"><u>Updated Exploring the Leading Online Video Communication Apps Beyond Omegle Top Picks for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-mastering-the-art-of-de-echoing-audio-simple-proven-techniques/"><u>Updated In 2024, Mastering the Art of De-Echoing Audio Simple, Proven Techniques</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-navigating-the-best-free-browser-based-daw-platforms-for-enhanced-audio-creation-2023-edition/"><u>Updated In 2024, Navigating the Best FREE Browser-Based DAW Platforms for Enhanced Audio Creation - 2023 Edition</u></a></li>
 </ul></div>
 

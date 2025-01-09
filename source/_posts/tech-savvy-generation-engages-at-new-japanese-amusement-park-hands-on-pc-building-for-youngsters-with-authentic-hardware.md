@@ -1,7 +1,7 @@
 ---
 title: Tech-Savvy Generation Engages at New Japanese Amusement Park – Hands-On PC Building for Youngsters with Authentic Hardware
-date: 2024-12-28T00:50:48.486Z
-updated: 2025-01-02T07:26:28.412Z
+date: 2025-01-03T18:46:34.259Z
+updated: 2025-01-09T19:05:58.390Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,22 +78,24 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-affordable-high-performance-gaming-keyboards-listed/"><u>[New] 2024 Approved Affordable High-Performance Gaming Keyboards Listed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhancing-youtube-presence-with-strategic-banners/"><u>[New] In 2024, Enhancing YouTube Presence with Strategic Banners</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-simplified-live-mastery-one-channel-broadcast-strategies/"><u>[New] In 2024, Simplified LIVE Mastery One-Channel Broadcast Strategies</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-elite-arsenal-choosing-the-top-7-fps/"><u>[Updated] 2024 Approved Elite Arsenal Choosing the Top 7 FPS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-seamless-iphone-photography-during-video/"><u>[Updated] In 2024, Seamless iPhone Photography During Video</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/buying-smart-key-accessories-for-dynamic-cinematography-for-2024/"><u>Buying Smart Key Accessories for Dynamic Cinematography for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-unlocking-audio-content-effective-strategies-for-transferring-podcast-episodes-onto-computers/"><u>In 2024, Unlocking Audio Content Effective Strategies for Transferring Podcast Episodes Onto Computers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-crafting-captivating-audio-representations-syncopated-waveform-graphics-and-transformative-animation-in-adobe-premiere-pro/"><u>New Crafting Captivating Audio Representations Syncopated Waveform Graphics and Transformative Animation in Adobe Premiere Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-chorussync-uniting-voice-tracks-effortlessly-in-premiere-pros-creative-suite-premium-2023-update/"><u>New In 2024, ChorusSync Uniting Voice Tracks Effortlessly in Premiere Pros Creative Suite Premium 2023 Update</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-leading-audio-modification-programs-a-comprehensive-guide-for-2024/"><u>New Leading Audio-Modification Programs A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-mastering-the-art-of-silencing-sound-in-windows-10-videos-for-2024/"><u>New Mastering the Art of Silencing Sound in Windows 10 Videos for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/remote-work-mastery-top-rated-ultraportable-laptop-that-delivers-unmatched-performance-for-professionals/"><u>Remote Work Mastery: Top-Rated Ultraportable Laptop That Delivers Unmatched Performance for Professionals</u></a></li>
-<li><a href="https://fox-place.techidaily.com/simple-guide-how-to-seamlessly-upgrade-your-lenovo-flex-5e-to-a-solid-state-drive/"><u>Simple Guide: How to Seamlessly Upgrade Your Lenovo Flex 5E to a Solid State Drive</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-expertly-curated-list-of-premier-audio-trimming-software-websites-for-2024/"><u>Updated Expertly Curated List of Premier Audio Trimming Software Websites for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-mastering-the-art-of-silencing-sound-in-windows-10-videos-for-2024/"><u>Updated Mastering the Art of Silencing Sound in Windows 10 Videos for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-revamp-your-footage-top-rated-free-online-video-enhancers/"><u>Updated Revamp Your Footage Top-Rated Free Online Video Enhancers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-engineers-choice-selecting-premium-websites-for-advanced-mp3-editing-techniques-for-2024/"><u>Updated The Engineers Choice Selecting Premium Websites for Advanced MP3 Editing Techniques for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-downloading-the-latest-insta-reels-two-ways-to-go/"><u>[New] Downloading the Latest Insta Reels, Two Ways to Go</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-unmarred-photography-collections-purchase/"><u>[New] Mastering Unmarred Photography Collections Purchase</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebook-videos-vertical-or-horizontal-in-2024/"><u>[Updated] Facebook Videos; Vertical or Horizontal, In 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-14-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 14 Without iTunes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-good-book-trailer-examples-for-2024/"><u>5 Good Book Trailer Examples for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/aeonys-portable-solar-energy-system-a-detailed-look-at-its-performance-with-fragile-healthcare-equipment/"><u>AeonY's Portable Solar Energy System: A Detailed Look at Its Performance with Fragile Healthcare Equipment</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-the-fat-in-your-win-11-menu-choices/"><u>Cutting the Fat in Your Win 11 Menu Choices</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/1723262392624-engineering-the-impossible-how-ordinary-canned-air-reaches-supersonic-performance/"><u>Engineering the Impossible: How Ordinary Canned Air Reaches Supersonic Performance.</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ring-the-finest-no-cost-video-editing-software/"><u>Exploring the Finest No-Cost Video Editing Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-poco-x5-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Poco X5? Try These Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/moto-g-power-analysis-exceptional-endurance-meets-stylish-design/"><u>Moto G Power Analysis: Exceptional Endurance Meets Stylish Design</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/1723262400967-next-level-computing-on-demand-portable-256-core-servers-with-giant-storage-and-ram-in-fly-away-kits/"><u>Next-Level Computing On Demand: Portable 256-Core Servers With Giant Storage and RAM in Fly-Away Kits!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-animated-text-in-mobile-videos-for-2024/"><u>The Ultimate Guide to Animated Text in Mobile Videos for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-perfect-match-for-all-audio-lovers-top-10-free-video-to-audio-conversion-services/"><u>Updated In 2024, The Perfect Match for All Audio Lovers Top 10 Free Video to Audio Conversion Services</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-ultimate-list-of-internet-locales-that-promote-in-person-friendships/"><u>Updated In 2024, The Ultimate List of Internet Locales That Promote In-Person Friendships</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-top-mobile-playlists-discovering-the-ultimate-melodies-for-your-android-device/"><u>Updated In 2024, Top Mobile Playlists Discovering the Ultimate Melodies for Your Android Device</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-optimal-music-file-converter-transforming-mpa-files-into-high-quality-mp3s-without-cost/"><u>Updated Optimal Music File Converter Transforming MPA Files Into High-Quality MP3s Without Cost</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-guide-to-popular-radio-ambiance/"><u>Updated The Ultimate Guide to Popular Radio Ambiance</u></a></li>
 </ul></div>
 

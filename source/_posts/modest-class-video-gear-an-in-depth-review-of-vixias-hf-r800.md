@@ -1,7 +1,7 @@
 ---
 title: "Modest-Class Video Gear: An In-Depth Review of VIXIA’s HF R800"
-date: 2024-12-31T03:49:46.721Z
-updated: 2025-01-02T05:16:31.179Z
+date: 2025-01-04T20:50:10.959Z
+updated: 2025-01-09T21:47:42.910Z
 categories:
   - BestProducts
 description: "This Article Describes Modest-Class Video Gear: An In-Depth Review of VIXIA’s HF R800"
@@ -13,12 +13,16 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
 
 4.4
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Microsoft Sculpt Ergonomic Keyboard
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/F035WaL3U8Q-n4fK2WBE6844lMo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_HeroSquare-518c472b5b5341fe8c0cf05954c8cc94.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
@@ -44,10 +48,6 @@ Lifewire / Emily Isaacs
 [View On Walmart $138](https://www.walmart.com/ip/Microsoft-Sculpt-Ergonomic-Desktop-Black-Wireless-USB-Keyboard-Keypad-and-Mouse/31390902?slfpid=3) [View On Best Buy $66](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F1818024.p) [View On Newegg.com $169](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fmicrosoft-sculpt-ergonomic-desktop-l5v-00001-usb-rf-wireless%2Fp%2FN82E16823109349%3Fitem%3D9SIA24G28N0197%26slfpid%3D3)
 
 4.4
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Microsoft Sculpt Ergonomic Keyboard
 
@@ -79,10 +79,6 @@ Lifewire / Emily Isaacs
 
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/Cgdvz2K5QV0PheSGAjQNXTdhKP4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_02-e457e23b0c0848dbaad1197549efcc47.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Emily Isaacs
 
  One unique feature of the Sculpt we loved was the function switch. Located on the upper-right hand side of the keyboard, this switch allows you to toggle the functionality of the top row keys, replacing the function key. Options include refreshing the active page, navigating to the home page in web, opening up the computer’s settings, a play/pause button, switching between active windows, and increasing or decreasing volume.
@@ -91,6 +87,10 @@ Lifewire / Emily Isaacs
 
  Often, keyboards include a next track or previous track multimedia feature, which the Sculpt was decidedly lacking. This was a disappointment, but otherwise, the functions are good inclusions and easy to use. If this extra functionality isn't your thing, you simply flip this switch to the gray position and these F1-F12 keys retain their standard functionality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Batteries required**
 
  The Microsoft Sculpt arrives in a box with the Sculpt itself, a detached numpad, a setup guide, a registration number, and a product guide. Microsoft provides a magnetic riser that can attach to the bottom of the wrist pad as an additional setup option. It also includes a warning packet on lithium batteries since the detached numpad is powered by a 3V lithium CR2430 battery.
@@ -98,12 +98,16 @@ Lifewire / Emily Isaacs
 ![Microsoft Sculpt Ergonomic Keyboard](https://www.lifewire.com/thmb/MTaN1qUX3urJwcwQ_tv5g532Af4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Microsoft_ErgoKeyboards_5LW4147386_03-ec82ba429b58431eabefb1f147f474b9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
  Setting the Microsoft Sculpt up is simple. Simply lift the lid off of the battery compartment on the backside of the unit and remove the slip of paper that separates the two AAA batteries. Then, take the provided dongle from the compartment and attach it to the[USB port](https://www.lifewire.com/what-is-a-usb-port-818166) of your PC. If you’re planning on using the detached numpad, don’t forget to also remove the slip of paper from its backside to active it. Then the Sculpt is ready for use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Battery and Features: Backlighting missing, and just one dongle to rule them all**
 
@@ -145,10 +149,6 @@ Lifewire / Emily Isaacs
 
  The Microsoft Sculpt Ergonomic Keyboard is a great mid-priced wireless keyboard with multiple customization options thanks to its detached numpad and magnetic riser. Combined with its AES 128-bit encryption technology, comfortable wrist pad, and handy function switch, it’s a great investment for the price. The intuitive, natural angles it creates will have your hands thanking you later.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specs
 
 * Product Name  Sculpt Ergonomic Keyboard
@@ -179,20 +179,18 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-demystifying-income-for-t-series-on-youtube-for-2024/"><u>[Updated] Demystifying Income for T-Series on YouTube for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-streamlining-tv-downloads-a-step-by-step-recording-approach-for-2024/"><u>[Updated] Streamlining TV Downloads A Step-by-Step Recording Approach for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unseen-yet-seen-how-to-conceal-faces-and-objects-digitally/"><u>[Updated] Unseen Yet Seen How to Conceal Faces and Objects Digitally</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030109700-dvd/"><u>最新オファー! 国際標準の日本語DVDコピーツールを含む、リーズナブルなソフト選び方 - 今すぐダウンロード</u></a></li>
-<li><a href="https://article-tips.techidaily.com/advanced-cameras-front-screen-center-stage/"><u>Advanced Cameras Front Screen Center Stage</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-discontinues-premium-fabric-collection-launches-exclusive-beats-case-series-insights-from-zdnet/"><u>Apple Discontinues Premium Fabric Collection, Launches Exclusive Beats Case Series: Insights From ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cut-to-the-chase-impactful-branding/"><u>Cut to the Chase Impactful Branding</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-list-of-powerful-pc-screencasters-for-2024/"><u>The Ultimate List of Powerful PC Screencasters for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-reverse-audio-best-audio-reversers/"><u>Updated 2024 Approved Reverse Audio Best Audio Reversers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-top-8-daw-compatible-with-chromebooks-for-music-creation/"><u>Updated 2024 Approved Top 8 DAW Compatible with Chromebooks for Music Creation</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-advanced-methods-for-reducing-storage-space-needed-for-media-files/"><u>Updated Advanced Methods for Reducing Storage Space Needed for Media Files</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-remove-vocals-from-any-song-top-8-song-lyrics-removers/"><u>Updated How to Remove Vocals From Any Song Top 8 Song Lyrics Removers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-best-10-sound-boosters-for-android-and-ios-sound-booster-app/"><u>Updated In 2024, Best 10 Sound Boosters for Android and iOS-Sound Booster App</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-how-to-transcribe-audio-to-text-free-on-android-and-ios/"><u>Updated In 2024, How to Transcribe Audio to Text Free on Android and iOS</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-step-by-step-analysis-of-substitutes-for-apowersofts-audio-recorder/"><u>Updated In 2024, Step-by-Step Analysis of Substitutes for Apowersofts Audio Recorder</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-optimal-screen-reproduction-system-for-youtubing-adepts/"><u>[New] 2024 Approved Optimal Screen Reproduction System for YouTubing Adepts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-cutting-edge-free-and-easy-top-11-youtube-title-inventors/"><u>[Updated] 2024 Approved Cutting-Edge, Free, and Easy Top 11 YouTube Title Inventors</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-elevate-your-music-library-top-picks-from-8-exceptional-free-android-downloader-apps/"><u>[Updated] 2024 Approved Elevate Your Music Library - Top Picks From 8 Exceptional Free Android Downloader Apps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-effortlessdataback-take/"><u>[Updated] In 2024, EffortlessDataback Take</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximum-memory-accessory-for-sony-a7s-ii/"><u>2024 Approved Maximum Memory Accessory for Sony A7S II</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-guide-to-downloading-your-logitech-driver-on-windows-pc/"><u>Effortless Guide to Downloading Your Logitech Driver on Windows PC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/inside-the-magic-box-how-does-vr-function/"><u>Inside the Magic Box How Does VR Function?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-imovie-soundtrack-tips-to-create-immersive-audio-landscapes/"><u>New The Ultimate iMovie Soundtrack Tips to Create Immersive Audio Landscapes</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-tutorial-on-morphvox-for-enhancing-gaming-experience-through-vocal-alteration/"><u>New The Ultimate Tutorial on Morphvox for Enhancing Gaming Experience Through Vocal Alteration</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-to-the-newest-graphics-card-driver-for-your-amd-radeon-rx-6800-on-windows-systems/"><u>Update to the Newest Graphics Card Driver for Your AMD Radeon RX 6800 on Windows Systems</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-full-spectrum-insight-into-nero-audiowaveeditor/"><u>Updated Full Spectrum Insight Into Nero AudioWaveEditor</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-seek-out-interactive-gaming-sounds/"><u>Updated In 2024, Seek Out Interactive Gaming Sounds</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-soundscape-synthesis-techniques-to-alter-audio-tempo-and-tonal-range-in-adobe-rush/"><u>Updated In 2024, Soundscape Synthesis Techniques to Alter Audio Tempo & Tonal Range in Adobe Rush</u></a></li>
 </ul></div>
 
