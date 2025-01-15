@@ -1,7 +1,7 @@
 ---
 title: "The Corsair ONE I500 Breakdown: Reviewing a Revolutionary Compact Gaming Machine"
-date: 2024-12-25T16:08:31.007Z
-updated: 2025-01-01T21:28:51.482Z
+date: 2025-01-09T16:19:58.737Z
+updated: 2025-01-15T16:18:25.428Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,16 +62,22 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-step-by-step-adding-tracks-to-youtubes-playlist/"><u>[New] 2024 Approved Step-by-Step Adding Tracks to YouTube's Playlist</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-15-film-enhancing-luts-for-gopro-cameras/"><u>[New] 2024 Approved Top 15 Film-Enhancing LUTs for GoPro Cameras</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-purerecorder-capturing-life-in-games-without-cost-for-2024/"><u>[Updated] PureRecorder Capturing Life in Games Without Cost for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-best-slo-mo-camera-apps-on-iosandroid-platforms/"><u>2024 Approved Explore Best Slo-Mo Camera Apps on iOS/Android Platforms</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-se-2020ipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone SE (2020)/iPad/iPod</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-your-media-with-professional-voiceovers/"><u>Enhancing Your Media With Professional Voiceovers</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/mp4-file-optimization-removing-unwanted-audio-tracks/"><u>MP4 File Optimization Removing Unwanted Audio Tracks</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-mastering-sound-visualization-merging-waveforms-for-audio-sight-and-animated-display-using-premiere-pro/"><u>New 2024 Approved Mastering Sound Visualization Merging Waveforms for Audio Sight & Animated Display Using Premiere Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-from-silence-to-symphony-adding-soundtracks-to-kinemaster/"><u>Updated 2024 Approved From Silence to Symphony Adding Soundtracks to KineMaster</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-aural-journey-illustrating-sound-patterns-with-waveform-graphics-and-dynamic-animations-in-nle-essential/"><u>Updated In 2024, Aural Journey Illustrating Sound Patterns with Waveform Graphics and Dynamic Animations in NLE Essential</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-premium-selection-of-mp4-devices/"><u>[New] Premium Selection of MP4 Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-f14-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy F14 5G?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/city-skylines-2-pc-malfunction-remedies-top-tips-for-stability/"><u>City Skylines 2 PC Malfunction Remedies: Top Tips for Stability</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/excel-automation-unlocked-with-three-key-chatgpt-tools/"><u>Excel Automation Unlocked with Three Key ChatGPT Tools</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-craft-a-unique-identifier-for-your-tiktok-stream-for-2024/"><u>How to Craft a Unique Identifier for Your TikTok Stream for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to others devices? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-vector-imagery-best-10-sources-for-2024/"><u>Mastering the Art of Vector Imagery Best 10 Sources for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-techniques-for-embedding-audio-into-newly-updated-avi-video-files/"><u>New Techniques for Embedding Audio Into Newly Updated AVI Video Files</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-top-8-mac-daws-with-in-depth-analysis-for-2024/"><u>New The Ultimate Guide Top 8 Mac DAWs with In-Depth Analysis for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-harnessing-power-of-movie-maker-in-windows-8-for-2024/"><u>The Complete Guide to Harnessing Power of Movie Maker in Windows 8 for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-silencing-the-stridor-techniques-for-defeating-hiss-in-professional-recordings/"><u>Updated 2024 Approved Silencing the Stridor Techniques for Defeating Hiss in Professional Recordings</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-guide-to-achieving-soundless-visual-content/"><u>Updated Guide to Achieving Soundless Visual Content</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-how-to-balance-your-stream-sound-with-obs-audio-ducking-in-2024/"><u>Updated How to Balance Your Stream Sound with OBS Audio Ducking, In 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-best-free-video-to-audio-converter/"><u>Updated In 2024, Best Free Video to Audio Converter</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-elevate-your-video-storytelling-with-professional-voiceovers/"><u>Updated In 2024, Elevate Your Video Storytelling with Professional Voiceovers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-how-to-fade-in-and-fade-out-audio-in-adobe-after-effects/"><u>Updated In 2024, How to Fade In and Fade Out Audio in Adobe After Effects</u></a></li>
 </ul></div>
 

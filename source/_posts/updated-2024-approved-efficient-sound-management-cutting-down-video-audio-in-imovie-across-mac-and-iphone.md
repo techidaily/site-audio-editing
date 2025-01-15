@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Efficient Sound Management Cutting Down Video Audio in iMovie Across Mac and iPhone
-date: 2024-12-23T16:01:03.066Z
-updated: 2024-12-24T16:44:50.951Z
+date: 2025-01-10T16:02:26.211Z
+updated: 2025-01-15T16:26:19.699Z
 tags: 
   - audio editing software
   - audio editing
@@ -26,16 +26,12 @@ thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea
 
 Sometimes, we find the desired audio or soundtrack for our videos longer or shorter than we want, and that is where audio editing comes. Audio editing refers to manipulating audio to alter the length, speed, and volume or create additional effects such as loops. Are you new to audio trimming? Don't worry, as our article today would show how to cut audio in iMovie on Mac and iPhone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Cut Music in iMovie on Mac?
 
 Cutting music is audio editing carried out when the music or soundtrack seems longer than desired. To cut music or soundtrack in iMovie using Mac involves the following steps:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Adjust the Playhead to Cut the Clip
@@ -45,6 +41,10 @@ You can cut an audio clip only when the specified audio is in the timeline. To p
 ### Step 2: Select Split Clip
 
 Right-click and select the **Split Clip**. Once this step is over, you have successfully cut the audio clip.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Cut Audio in iMovie Alternative – [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -56,6 +56,10 @@ You’re required to choose an intelligent MP3 trimmer to trim an MP3 file to an
 
 [![Download Filmora Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can get both the Windows and Mac versions of this great video editor. It embodies the following features:
 
 * Import videos, audio, or photos from various sources and edit them in one place.
@@ -66,13 +70,13 @@ You can get both the Windows and Mac versions of this great video editor. It emb
 
 Using Filmora is quite effortless. The following tutorial will display how to cut audio in it easily and quickly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1: Import MP3 Files for Editing
 
 Firstly, drag the specific MP3 file or audio clip into the media library, or you can directly import audio files or video from portable devices such as your digital camera, smartphone, or camcorder, etc.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Drag MP3 Files to the Timeline below for Cutting
 
@@ -81,10 +85,6 @@ Filmora provides two ways to cut audio/video files. You can either select to cut
 Move the slider ahead to the cutting point within the midsection, and then tap the scissor icon to split it into little sections as desired.
 
 When executed, please select the part that you don't want to, hit the **Delete** button to remove.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 3: Export to Save
 
@@ -172,15 +172,15 @@ The audio editing window also contains primary noise reduction and audio equaliz
 
 iMovie permits you to adjust the audio within the clips themselves, each volume as a bar. You can shift up and down to increase or decrease the audio level. The clips also have "fade in" and "fade out" buttons at the beginning and end, which are draggable to adjust the fade length.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Finally, with the answers to the question, how to cut audio in iMovie, you can follow the simple step guide and feel free to edit your audio or video to your taste using iMovie or Wondershare Filmora.
 
 ![author avatar](https://images.wondershare.fr/filmora/filmora/MarionDubois.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Marion Dubois
 
@@ -197,16 +197,17 @@ Follow @Marion Dubois
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-resolve-androidios-issues-with-fb-video-playback/"><u>[New] In 2024, Resolve Android/iOS Issues with FB Video Playback</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-movie-magic-at-work-the-crucial-functions-and-impact-of-every-film-set-team-member/"><u>2024 Approved Movie Magic at Work The Crucial Functions and Impact of Every Film Set Team Member</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-practical-guide-to-creating-and-managing-a-win-11-hotspot/"><u>A Practical Guide to Creating and Managing a Win 11 Hotspot</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-disappearing-acts-to-data-preservation-ensuring-your-chatgpt-history-stays-intact-and-accessible/"><u>From Disappearing Acts to Data Preservation: Ensuring Your ChatGPT History Stays Intact and Accessible</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-intricacies-of-morphvox-evolution/"><u>In 2024, Navigating the Intricacies of MorphVOX Evolution</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y36i-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y36i Phone Now with These Tips</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-demystifying-omegle-an-insight-into-free-chat-networks-and-their-protective-features/"><u>New 2024 Approved Demystifying Omegle An Insight Into Free Chat Networks and Their Protective Features</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-charting-out-the-leading-audio-reverse-programs-a-targeted-review-for-computers-and-phones-for-2024/"><u>New Charting Out the Leading Audio Reverse Programs A Targeted Review for Computers & Phones for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-3-easy-ways-to-boosterincrease-volume-on-windows-for-free/"><u>New In 2024, 3 Easy Ways to Booster/Increase Volume on Windows for Free</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-crafting-a-silent-avi-film-a-hands-on-approach-avi-2023/"><u>New In 2024, Crafting a Silent AVI Film A Hands-On Approach (AVI 2023)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-enhance-engagement-personalize-twitter-videos-with-new-thumbnails/"><u>[Updated] 2024 Approved Enhance Engagement Personalize Twitter Videos with New Thumbnails</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-mastering-hdr-portraiture-comprehensive-photography-guide/"><u>[Updated] In 2024, Mastering HDR Portraiture Comprehensive Photography Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-effortlessly-edit-images-using-snapseed-tips/"><u>2024 Approved Effortlessly Edit Images Using Snapseed Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-google-pixel-7a-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Google Pixel 7a to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-shrinking-your-videos-for-smooth-dvd-playback-and-storage/"><u>Ultimate Guide: Shrinking Your Videos for Smooth DVD Playback and Storage</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-techniques-for-transforming-your-voice-pitch-and-quality/"><u>Updated In 2024, Techniques for Transforming Your Voice Pitch and Quality</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-adding-and-modifying-audio-in-films-on-filmora/"><u>Updated In 2024, The Ultimate Guide to Adding and Modifying Audio in Films on Filmora</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mastering-sound-essential-imovie-audio-enhancement-techniques/"><u>Updated Mastering Sound Essential iMovie Audio Enhancement Techniques</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-list-of-best-mac-audio-tagging-applications-reviewed/"><u>Updated The Ultimate List of Best Mac Audio Tagging Applications Reviewed</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/windows-auditory-enhancement-tools-selecting-the-prime-candidates-for-decibel-reduction-for-2024/"><u>Windows Auditory Enhancement Tools Selecting the Prime Candidates for Decibel Reduction for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/zdnet-exclusive-the-dreame-l4t-ultra-robot-vacuum-how-it-lasts-75-days-without-human-intervention/"><u>ZDNet Exclusive: The Dreame L4t Ultra Robot Vacuum - How It Lasts 75 Days Without Human Intervention!</u></a></li>
 </ul></div>
 

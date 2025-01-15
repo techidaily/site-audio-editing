@@ -1,7 +1,7 @@
 ---
 title: Tech-Savvy Generation Engages at New Japanese Amusement Park – Hands-On PC Building for Youngsters with Authentic Hardware
-date: 2025-01-03T18:46:34.259Z
-updated: 2025-01-09T19:05:58.390Z
+date: 2025-01-13T16:09:12.005Z
+updated: 2025-01-15T16:04:59.406Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,24 +78,22 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-downloading-the-latest-insta-reels-two-ways-to-go/"><u>[New] Downloading the Latest Insta Reels, Two Ways to Go</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-unmarred-photography-collections-purchase/"><u>[New] Mastering Unmarred Photography Collections Purchase</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-facebook-videos-vertical-or-horizontal-in-2024/"><u>[Updated] Facebook Videos; Vertical or Horizontal, In 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-14-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 14 Without iTunes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/5-good-book-trailer-examples-for-2024/"><u>5 Good Book Trailer Examples for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/aeonys-portable-solar-energy-system-a-detailed-look-at-its-performance-with-fragile-healthcare-equipment/"><u>AeonY's Portable Solar Energy System: A Detailed Look at Its Performance with Fragile Healthcare Equipment</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-the-fat-in-your-win-11-menu-choices/"><u>Cutting the Fat in Your Win 11 Menu Choices</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/1723262392624-engineering-the-impossible-how-ordinary-canned-air-reaches-supersonic-performance/"><u>Engineering the Impossible: How Ordinary Canned Air Reaches Supersonic Performance.</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ring-the-finest-no-cost-video-editing-software/"><u>Exploring the Finest No-Cost Video Editing Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-poco-x5-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Poco X5? Try These Fixes</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/moto-g-power-analysis-exceptional-endurance-meets-stylish-design/"><u>Moto G Power Analysis: Exceptional Endurance Meets Stylish Design</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/1723262400967-next-level-computing-on-demand-portable-256-core-servers-with-giant-storage-and-ram-in-fly-away-kits/"><u>Next-Level Computing On Demand: Portable 256-Core Servers With Giant Storage and RAM in Fly-Away Kits!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-animated-text-in-mobile-videos-for-2024/"><u>The Ultimate Guide to Animated Text in Mobile Videos for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-perfect-match-for-all-audio-lovers-top-10-free-video-to-audio-conversion-services/"><u>Updated In 2024, The Perfect Match for All Audio Lovers Top 10 Free Video to Audio Conversion Services</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-ultimate-list-of-internet-locales-that-promote-in-person-friendships/"><u>Updated In 2024, The Ultimate List of Internet Locales That Promote In-Person Friendships</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-top-mobile-playlists-discovering-the-ultimate-melodies-for-your-android-device/"><u>Updated In 2024, Top Mobile Playlists Discovering the Ultimate Melodies for Your Android Device</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-optimal-music-file-converter-transforming-mpa-files-into-high-quality-mp3s-without-cost/"><u>Updated Optimal Music File Converter Transforming MPA Files Into High-Quality MP3s Without Cost</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-guide-to-popular-radio-ambiance/"><u>Updated The Ultimate Guide to Popular Radio Ambiance</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-digital-deviation-expert-strategies-to-rotate-videos-on-youtube/"><u>[New] 2024 Approved Digital Deviation Expert Strategies to Rotate Videos on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-maximize-content-by-merging-apple-music-to-videos/"><u>[New] Maximize Content by Merging Apple Music to Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-selection-of-8-android-group-calling-tools/"><u>[New] The Ultimate Selection of 8 Android Group Calling Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlocking-fb-ad-success-no-cost-for-video-creation-tools-for-2024/"><u>[Updated] Unlocking FB Ad Success No Cost for Video Creation Tools for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-on-the-revolutionary-smart-photo-editor-by-anthropics-software-evaluation/"><u>Expert Insights on the Revolutionary Smart Photo Editor by Anthropics - Software Evaluation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/illuminate-your-gaming-recordings-avoid-black-screens-with-obs/"><u>Illuminate Your Gaming Recordings Avoid Black Screens with OBS</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-online-learning-campaign-comprehensive-insights-streamed-live/"><u>In 2024, Online Learning Campaign Comprehensive Insights Streamed Live</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/innovative-platforms-to-connect-visually-videochat-alternatives-to-omegle-for-2024/"><u>Innovative Platforms to Connect Visually Videochat Alternatives to Omegle for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/key-features-to-consider-when-buying-your-next-high-performance-gaming-computer/"><u>Key Features to Consider When Buying Your Next High-Performance Gaming Computer</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-transforming-content-into-multilingual-masterpieces-a-filmora-based-approach-to-video-dubbing/"><u>New 2024 Approved Transforming Content Into Multilingual Masterpieces A Filmora-Based Approach to Video Dubbing</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-digital-bug-noises-easy-access-to-high-quality-online-audio-libraries-for-2024/"><u>New Digital Bug Noises Easy Access to High-Quality Online Audio Libraries for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-audio-engineering-simplified-utilizing-dynamic-ducking-techniques-in-final-cut-pro-x-for-professional-results/"><u>New In 2024, Audio Engineering Simplified Utilizing Dynamic Ducking Techniques in Final Cut Pro X for Professional Results</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-audio-tranquility-in-action-fading-and-pulsating-sounds-made-easy-in-adobe-after-effects/"><u>New In 2024, Audio Tranquility in Action Fading and Pulsating Sounds Made Easy in Adobe After Effects</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-mastering-audio-extraction-from-video-imovie-techniques-for-mac-users/"><u>New In 2024, Mastering Audio Extraction From Video IMovie Techniques for Mac Users</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-top-11-budget-friendly-audio-enhancement-software-options-for-your-pc-and-mac/"><u>New In 2024, Top 11 Budget-Friendly Audio Enhancement Software Options for Your PC and Mac</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-unspoken-vocabulary-of-italian-hands/"><u>The Unspoken Vocabulary of Italian Hands</u></a></li>
+<li><a href="https://win-trending.techidaily.com/wiederherstellung-von-komprimierten-dateien-wie-sie-ihre-daten-mit-myrecover-wiederherstellen-konnen/"><u>Wiederherstellung Von Komprimierten Dateien - Wie Sie Ihre Daten Mit MyRecover Wiederherstellen Können</u></a></li>
 </ul></div>
 

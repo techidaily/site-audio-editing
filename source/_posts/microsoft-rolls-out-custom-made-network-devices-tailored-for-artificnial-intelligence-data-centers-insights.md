@@ -1,7 +1,7 @@
 ---
 title: Microsoft Rolls Out Custom-Made Network Devices Tailored for Artificnial Intelligence Data Centers - Insights
-date: 2025-01-07T19:02:04.523Z
-updated: 2025-01-09T21:05:55.238Z
+date: 2025-01-12T16:16:30.588Z
+updated: 2025-01-15T16:15:24.502Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,24 +62,15 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-infinite-inspiration-cost-free-youtube-theming/"><u>[New] 2024 Approved Infinite Inspiration Cost-Free YouTube Theming</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-crafting-success-steps-to-thriving-as-a-designer-for-2024/"><u>[New] Crafting Success Steps to Thriving as a Designer for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-iphoneandroids-top-sticker-adding-apps-the-essential-10-collection/"><u>[Updated] 2024 Approved IPhone/Android's Top Sticker-Adding Apps The Essential 10 Collection</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-vivacut-overview-editors-deep-dive/"><u>2024 Approved The Complete VivaCut Overview Editor's Deep Dive</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210186093-9781970135688-birth-out-of-darkness/"><u>Birth Out of Darkness | Free Book</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/geforce-rtx-3070-ti-latest-graphics-card-drivers-for-windows-users-xp-vista-7/"><u>GeForce RTX 3070 Ti - Latest Graphics Card Drivers for Windows Users (XP, Vista, 7)</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nubia-z50-ultra-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nubia Z50 Ultra in Minutes | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-quick-guide-downloading-tiktok-for-mac-users/"><u>In 2024, Quick Guide Downloading TikTok for Mac Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-stunning-sound-editing-tool-exploring-features-advantages-limitations-and-competitors/"><u>New Stunning Sound Editing Tool Exploring Features, Advantages, Limitations, and Competitors</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-elite-lineup-of-audio-reverse-applications-discovering-your-ideal-choices-for-mobile-and-computing-for-2024/"><u>New The Elite Lineup of Audio Reverse Applications Discovering Your Ideal Choices for Mobile & Computing for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/resonant-harmony-a-comprehensive-list-of-voice-enhancing-apps-for-all-audiences-and-budgets/"><u>Resonant Harmony A Comprehensive List of Voice-Enhancing Apps for All Audiences and Budgets</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/streamline-recorder-quality-test-for-2024/"><u>StreamLine Recorder Quality Test for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-audio-synchronization-techniques-for-mac-users-bringing-melodies-to-gifs/"><u>Updated 2024 Approved Audio Synchronization Techniques for Mac Users Bringing Melodies to GIFs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-omegle-exclusion-no-more-strategies-for-removal-from-the-blacklist/"><u>Updated 2024 Approved Omegle Exclusion No More Strategies for Removal From the Blacklist</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-definitive-guide-to-high-quality-audio-edits-on-apples-mobile-devices-this-year/"><u>Updated 2024 Approved The Definitive Guide to High-Quality Audio Edits on Apples Mobile Devices This Year</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-clearing-the-microphone-effective-strategies-for-cutting-out-vocals-using-audacitys-spectrum-analyzer/"><u>Updated Clearing the Microphone Effective Strategies for Cutting Out Vocals Using Audacitys Spectrum Analyzer</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-enhancing-sound-quality-implementing-audio-ducking-techniques-in-adobe-premiere-pro-for-mac-users-for-2024/"><u>Updated Enhancing Sound Quality Implementing Audio Ducking Techniques in Adobe Premiere Pro for Mac Users for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-from-silence-to-symphony-a-practical-approach-to-changing-video-audio-part-1-for-2024/"><u>Updated From Silence to Symphony A Practical Approach to Changing Video Audio (Part 1) for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-get-free-green-screen-effects-from-4-youtube-channels/"><u>[Updated] 2024 Approved Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elite-playlist-compiler-android-edition/"><u>[Updated] Elite Playlist Compiler Android Edition</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-essential-tips-on-calculating-your-youtube-traffic-and-earnings/"><u>[Updated] Essential Tips on Calculating Your YouTube Traffic & Earnings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1716777291859-updated-how-to-reverse-videos-on-android/"><u>[Updated] How to Reverse Videos on Android?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-utility-watch-opens-your-macdevice/"><u>[Updated] Ultimate Utility Watch Opens Your MacDevice</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-exploring-the-depths-of-asmr-audio-magic/"><u>In 2024, Exploring the Depths of ASMR Audio Magic</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-advanced-audio-configuration-tips-for-devices/"><u>New Advanced Audio Configuration Tips for Devices</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-mastering-the-fast-conversion-of-whatsapp-soundtracks-into-mp3-files/"><u>New In 2024, Mastering the Fast Conversion of WhatsApp Soundtracks Into MP3 Files</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-to-musical-matchmaking-top-tunes-for-dynamic-montage-videos-for-2024/"><u>New The Ultimate Guide to Musical Matchmaking Top Tunes for Dynamic Montage Videos for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/pexels-explained-how-to-maximize-your-use-of-public-domain-photos-for-2024/"><u>Pexels Explained How to Maximize Your Use of Public Domain Photos for 2024</u></a></li>
 </ul></div>
 

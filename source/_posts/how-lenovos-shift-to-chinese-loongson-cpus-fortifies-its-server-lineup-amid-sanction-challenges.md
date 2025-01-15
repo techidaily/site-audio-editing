@@ -1,7 +1,7 @@
 ---
 title: How Lenovo's Shift to Chinese Loongson CPUs Fortifies Its Server Lineup Amid Sanction Challenges
-date: 2025-01-04T16:43:12.596Z
-updated: 2025-01-09T18:25:36.333Z
+date: 2025-01-10T16:13:04.820Z
+updated: 2025-01-15T16:00:41.943Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,17 +60,20 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-info.techidaily.com/1728492539463-windows/"><u>如何在Windows上实现机器人还原：详细解析与使用方法</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/expert-advice-for-safe-removal-of-programs-solutions-by-yl-software/"><u>Expert Advice for Safe Removal of Programs - Solutions by YL Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-6-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 6 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/legjobb-obs-online-rekonstrualas-szuksegletei-2024-ben-movavi/"><u>Legjobb OBS Online Rekonstruálás Szükségletei 2024-Ben - Movavi</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-how-to-edit-audio-in-avidemux/"><u>New 2024 Approved How to Edit Audio in Avidemux</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-imovie-pro-tips-how-to-detach-audio-tracks-efficiently-on-a-mac/"><u>New 2024 Approved IMovie Pro Tips How to Detach Audio Tracks Efficiently on a Mac</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-how-to-mix-audio-tracks-into-one-file-for-a-video/"><u>New How to Mix Audio Tracks Into One File for A Video?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-isolating-vocal-elements-disengaging-audio-from-video-using-premiere-pro/"><u>New In 2024, Isolating Vocal Elements Disengaging Audio From Video Using Premiere Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-mastering-mac-audio-keyframe-techniques-in-adobe-premiere-pro-for-2024/"><u>New Mastering Mac Audio Keyframe Techniques in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/top-rated-free-video-downloader-software-for-windows-11-6432-bit-get-it-now/"><u>Top Rated Free Video Downloader Software for Windows 11 (64/32-Bit) - Get It Now!</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-merge-videos-without-logos-best-7-software-options/"><u>Updated 2024 Approved Merge Videos Without Logos Best 7 Software Options</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-pro-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 Pro 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-content-step-by-step-guide-to-youtube-video-editing-for-2024/"><u>[New] Crafting Content Step by Step Guide to YouTube Video Editing for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unlocking-potential-with-nikon-written-by-emily-roberts-on-june-4-2023-for-2024/"><u>[New] Unlocking Potential with Nikon' Written by Emily Roberts on June 4, 2023 for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveil-the-best-of-history-top-10-youtube-channel-list/"><u>[New] Unveil the Best of History Top 10 YouTube Channel List</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-accolades-across-platforms-for-video-creators-for-2024/"><u>[Updated] Accolades Across Platforms for Video Creators for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-achieving-smooth-transitions-in-sound-the-guide-to-audio-fading/"><u>2024 Approved Achieving Smooth Transitions in Sound The Guide to Audio Fading</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-compelling-top-10-pc-cameras-for-recording/"><u>2024 Approved Compelling Top 10 PC Cameras for Recording</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unlock-content-premier-iphoneipad-apps-for-fb-video-loading/"><u>In 2024, Unlock Content Premier iPhone/iPad Apps for FB Video Loading</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-12-now-features-enhanced-qi-wireless-charging-without-relying-on-magsafe-what-you-need-to-know-techspot/"><u>IPhone 12 Now Features Enhanced Qi Wireless Charging Without Relying on MagSafe: What You Need to Know | TechSpot</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mjpeg-avi-movavi/"><u>MJPEG AVIファイルを無料で変換する: オンラインツール - Movaviの簡単ガイド</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-sound-effect-mastery-finding-and-integrating-free-resources-in-final-cut-pro/"><u>New 2024 Approved Sound Effect Mastery Finding and Integrating Free Resources in Final Cut Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-bridging-audio-realms-to-the-screen-designing-eye-catching-audio-graphs-and-animating-video-sequences-with-premiere-pro-mastery-for-2024/"><u>New Bridging Audio Realms to the Screen Designing Eye-Catching Audio Graphs & Animating Video Sequences with Premiere Pro Mastery for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-exploring-the-creme-de-la-creme-of-distorted-audio-technology-tools/"><u>New Exploring the Crème De La Crème of Distorted Audio Technology Tools</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-unveiling-the-most-reliable-websites-for-precision-mp3-tagging-and-organizing-for-2024/"><u>New Unveiling the Most Reliable Websites for Precision MP3 Tagging and Organizing for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mastering-audio-magic-top-10-radio-sound-effects-for-2024/"><u>Updated Mastering Audio Magic Top 10 Radio Sound Effects for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mastering-audio-recording-and-integrating-narration-into-video-projects/"><u>Updated Mastering Audio Recording and Integrating Narration Into Video Projects</u></a></li>
 </ul></div>
 

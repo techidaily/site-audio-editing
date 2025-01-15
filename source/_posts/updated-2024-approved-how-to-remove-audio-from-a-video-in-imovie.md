@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Remove Audio From a Video in iMovie?
-date: 2024-12-20T20:49:56.198Z
-updated: 2024-12-24T17:01:51.523Z
+date: 2025-01-12T16:05:14.411Z
+updated: 2025-01-15T16:16:57.350Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ _“How do you remove audio from a video in Movie on an iPhone or Mac? I have a 
 As a friend of mine asked me this, I realized that so many people find it hard to **separate audio from a video** in **iMovie** on iPhone or iPad. Since iMovie is available for Mac and iOS devices, it can ideally be used to edit your videos on the go. The best part is that it features various inbuilt features that you can use to remove audio from a video in iMovie on iPhone/iPad/Mac. In this post, I will let you know how do you remove audio from a video in iMovie on different devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Remove Audio from a Video in iMovie on iPhone/iPad?
@@ -55,7 +55,7 @@ From all the available options at the bottom panel, just tap on the sound icon. 
 Once you have muted the sound in the video, just tap on the “Done” button to save the changes. After working on the project, you can tap on the share icon from the bottom and simply save the modified video on your iPad/iPhone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pro Tip: How to Mute Background Noise in iMovie
@@ -63,7 +63,7 @@ Once you have muted the sound in the video, just tap on the “Done” button to
 If you want, you can instantly use iMovie to remove audio from a part of the clip on your iOS device. To do this, just locate your video on the device and open it. Now, tap on the “Edit” button on the top to get different options. From here, you can tap on the sound icon from the top to mute the audio component in the video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Remove Audio from a Video in iMovie on Mac?
@@ -91,7 +91,7 @@ I’m sure that after reading this post, you would be able to remove audio from 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -109,22 +109,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-futures-finest-the-leading-photo-frame-tools-24/"><u>[New] In 2024, Future's Finest The Leading Photo Frame Tools '24</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-guide-to-drawing-characters-with-snaps/"><u>[New] The Ultimate Guide to Drawing Characters with Snaps</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-talking-head-tricks-simple-steps-for-stunning-online-presence/"><u>2024 Approved Talking-Head Tricks Simple Steps for Stunning Online Presence</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/automatic-stardust-file-wiping-setup-and-timed-delete-on-windows-systems/"><u>Automatic Stardust File Wiping: Setup & Timed Delete on Windows Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-tips-for-dealing-with-the-mingwm10dll-missing-error/"><u>Comprehensive Tips for Dealing with the mingwm10.dll Missing Error</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/deciphering-complete-fbm-call-transcripts-guide-for-2024/"><u>Deciphering Complete FBM Call Transcripts Guide for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-premium-gaming-systems-high-performance-meets-style/"><u>In 2024, Premium Gaming Systems High Performance Meets Style</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-top-10-budget-friendly-options-premium-free-podcast-players-for-modern-smartphones/"><u>In 2024, Top 10 Budget-Friendly Options Premium-Free Podcast Players for Modern Smartphones</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/mastering-the-art-of-incorporating-soundtracks-into-videos-using-filmora/"><u>Mastering the Art of Incorporating Soundtracks Into Videos Using Filmora</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-effortless-auditory-upgrades-for-your-videography-the-ultimate-guide/"><u>New 2024 Approved Effortless Auditory Upgrades for Your Videography The Ultimate Guide</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-adaptive-audio-quality-reduction-in-adobe-rushs-2023-version/"><u>New Adaptive Audio Quality Reduction in Adobe Rushs 2023 Version</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-discovering-the-best-8-android-compatible-daws-for-musicians-and-producers/"><u>New In 2024, Discovering the Best 8 Android-Compatible DAWs for Musicians and Producers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-exploring-the-ultimate-selection-of-gratis-vst-enhancers-updated/"><u>New In 2024, Exploring the Ultimate Selection of Gratis VST Enhancers, Updated</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-how-to-quickly-fix-audio-importing-issues-in-adobe-premiere-pro/"><u>New In 2024, How to Quickly Fix Audio Importing Issues in Adobe Premiere Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-replace-sony-vegas-discover-the-best-video-editing-software-for-windows-for-2024/"><u>New Replace Sony Vegas Discover the Best Video Editing Software for Windows for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/strategies-for-improving-youtubefacebook-video-quality-for-2024/"><u>Strategies for Improving YouTube/Facebook Video Quality for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-simplified-path-getting-snapchat-on-macos/"><u>[Updated] 2024 Approved Simplified Path Getting Snapchat on macOS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tune-up-your-whatsapp-status-snapshot/"><u>[Updated] Tune Up Your WhatsApp Status Snapshot</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-sculpting-your-audio-experience-in-videos-with-ease-and-precision/"><u>2024 Approved Sculpting Your Audio Experience in Videos with Ease and Precision</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/array-of-unique-video-cameras-by-type/"><u>Array of Unique Video Cameras by Type</u></a></li>
+<li><a href="https://article-posts.techidaily.com/elevate-your-unboxing-game-to-next-level/"><u>Elevate Your Unboxing Game to Next Level</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-how-to-remove-echo-from-audio-3-easy-and-proven-ways/"><u>In 2024, How to Remove Echo From Audio 3 Easy and Proven Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 7 Plus?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-time-lapse-video-techniques-for-ipad-users/"><u>In 2024, Time-Lapse Video Techniques for iPad Users</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-guide-to-mute-audio-in-mp4-files-without-distorting-video-quality/"><u>New Guide to Mute Audio in MP4 Files Without Distorting Video Quality</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-navigating-the-nuances-of-audio-graphics-plotting-waveform-data-and-infusing-videos-with-life-like-animations-using-premiere-pro/"><u>New In 2024, Navigating the Nuances of Audio Graphics Plotting Waveform Data & Infusing Videos with Life-Like Animations Using Premiere Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-most-reliable-sites-to-stream-legal-background-music-collections/"><u>New In 2024, The Most Reliable Sites to Stream Legal Background Music Collections</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-incorporating-audio-into-new-and-enhanced-mkv-files-for-2024/"><u>New Incorporating Audio Into New and Enhanced MKV Files for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/l-your-digital-presence-past-the-thousand-mark-for-2024/"><u>Propel Your Digital Presence Past the Thousand Mark for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/top-25-social-stars-essential-instagram-icons-for-2024/"><u>Top 25 Social Stars Essential Instagram Icons for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/unveiling-the-best-chromebook-voice-alteration-tools-a-top-6-list-for-auditory-playfulness-visualeditpro/"><u>Unveiling the Best Chromebook Voice Alteration Tools A Top 6 List for Auditory Playfulness - VisualEditPro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-navigating-the-modern-landscape-of-live-audio-capturing-for-streaming/"><u>Updated In 2024, Navigating the Modern Landscape of Live Audio Capturing for Streaming</u></a></li>
 </ul></div>
 
