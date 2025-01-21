@@ -1,7 +1,7 @@
 ---
 title: Discover Unmatched Performance in a Tiny Package - Geekom Releases the Revolutionary AX8, Compatible with 13Th Gen Intel & New AMD Ryzen CPUs
-date: 2025-01-10T16:17:12.664Z
-updated: 2025-01-15T16:25:02.299Z
+date: 2025-01-19T16:39:38.775Z
+updated: 2025-01-21T16:09:20.600Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,14 +80,20 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-oppo-find-n3-flip-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Oppo Find N3 Flip Phone Screen?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/live-link-lore-when-does-gear-give-way-to-grids-in-2024/"><u>Live Link Lore When Does Gear Give Way to Grids, In 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/protect-your-tech-assets-comprehensive-guide-on-avoiding-damage-from-static-electricity-by-yl-experts/"><u>Protect Your Tech Assets: Comprehensive Guide on Avoiding Damage From Static Electricity by YL Experts</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-pathway-to-pristine-recordings-removing-unwanted-noises-for-crystal-clear-sound-for-2024/"><u>The Pathway to Pristine Recordings Removing Unwanted Noises for Crystal-Clear Sound for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-ultimate-list-of-mobile-audio-augmentation-tools-iosandroid-2023-edition/"><u>The Ultimate List of Mobile Audio Augmentation Tools (iOS/Android, 2023 Edition)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-nearby-nuggets-your-essential-locale-lens-for-a-smoother-journey/"><u>Unlocking Nearby Nuggets Your Essential Locale Lens for a Smoother Journey</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-what-to-look-for-in-audio-editor-software-for-mac-os-x/"><u>Updated 2024 Approved What to Look for in Audio Editor Software for Mac OS X</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-precision-sound-engineering-harnessing-the-power-of-keyframes-for-audio-fade-insouts-in-filmora-mac/"><u>Updated In 2024, Precision Sound Engineering Harnessing the Power of Keyframes for Audio Fade-Ins/Outs in Filmora (Mac)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-detailed-walkthrough-to-flawless-youtube-videos-using-imovie-software/"><u>[Updated] In 2024, Detailed Walkthrough to Flawless YouTube Videos Using iMovie Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-freely-stream-your-films-easy-to-use-mov-player-software/"><u>2024 Approved Freely Stream Your Films Easy-to-Use MOV PLAYER Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/accelerate-your-facebook-video-journey-in-depth-app-and-extension-guide/"><u>Accelerate Your Facebook Video Journey In-Depth App & Extension Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-automate-iphones-video-repetition-for-2024/"><u>How to Automate iPhone's Video Repetition for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-stunning-sound-editing-tool-exploring-features-advantages-limitations-and-competitors/"><u>New Stunning Sound Editing Tool Exploring Features, Advantages, Limitations, and Competitors</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-elite-lineup-of-audio-reverse-applications-discovering-your-ideal-choices-for-mobile-and-computing-for-2024/"><u>New The Elite Lineup of Audio Reverse Applications Discovering Your Ideal Choices for Mobile & Computing for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-unveiling-the-facts-dispelling-common-misconceptions-about-daw-software-for-2024/"><u>New Unveiling the Facts Dispelling Common Misconceptions About DAW Software for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-vivo-y17s-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Vivo Y17s</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-cs2-high-latency-issues-a-comprehensive-guide/"><u>Solve CS2 High Latency Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-an-inactive-iphoneipad-a-step-by-step-guide/"><u>Solving an Inactive iPhone/iPad: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-missing-comctl32dll-files-on-your-pc/"><u>Troubleshooting Missing comctl32.dll Files on Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-xbox-perks-and-promotions/"><u>Unlock Xbox Perks and Promotions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-audio-synchronization-techniques-for-mac-users-bringing-melodies-to-gifs/"><u>Updated 2024 Approved Audio Synchronization Techniques for Mac Users Bringing Melodies to GIFs</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-enhancing-sound-quality-implementing-audio-ducking-techniques-in-adobe-premiere-pro-for-mac-users-for-2024/"><u>Updated Enhancing Sound Quality Implementing Audio Ducking Techniques in Adobe Premiere Pro for Mac Users for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-from-silence-to-symphony-a-practical-approach-to-changing-video-audio-part-1-for-2024/"><u>Updated From Silence to Symphony A Practical Approach to Changing Video Audio (Part 1) for 2024</u></a></li>
 </ul></div>
 

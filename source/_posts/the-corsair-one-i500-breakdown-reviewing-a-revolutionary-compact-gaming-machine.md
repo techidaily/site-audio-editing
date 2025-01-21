@@ -1,7 +1,7 @@
 ---
 title: "The Corsair ONE I500 Breakdown: Reviewing a Revolutionary Compact Gaming Machine"
-date: 2025-01-09T16:19:58.737Z
-updated: 2025-01-15T16:18:25.428Z
+date: 2025-01-16T18:43:04.457Z
+updated: 2025-01-21T17:30:49.408Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,22 +62,19 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-premium-selection-of-mp4-devices/"><u>[New] Premium Selection of MP4 Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-f14-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy F14 5G?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/city-skylines-2-pc-malfunction-remedies-top-tips-for-stability/"><u>City Skylines 2 PC Malfunction Remedies: Top Tips for Stability</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/excel-automation-unlocked-with-three-key-chatgpt-tools/"><u>Excel Automation Unlocked with Three Key ChatGPT Tools</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/how-to-craft-a-unique-identifier-for-your-tiktok-stream-for-2024/"><u>How to Craft a Unique Identifier for Your TikTok Stream for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to others devices? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-the-art-of-vector-imagery-best-10-sources-for-2024/"><u>Mastering the Art of Vector Imagery Best 10 Sources for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-techniques-for-embedding-audio-into-newly-updated-avi-video-files/"><u>New Techniques for Embedding Audio Into Newly Updated AVI Video Files</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-top-8-mac-daws-with-in-depth-analysis-for-2024/"><u>New The Ultimate Guide Top 8 Mac DAWs with In-Depth Analysis for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-harnessing-power-of-movie-maker-in-windows-8-for-2024/"><u>The Complete Guide to Harnessing Power of Movie Maker in Windows 8 for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-silencing-the-stridor-techniques-for-defeating-hiss-in-professional-recordings/"><u>Updated 2024 Approved Silencing the Stridor Techniques for Defeating Hiss in Professional Recordings</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-guide-to-achieving-soundless-visual-content/"><u>Updated Guide to Achieving Soundless Visual Content</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-balance-your-stream-sound-with-obs-audio-ducking-in-2024/"><u>Updated How to Balance Your Stream Sound with OBS Audio Ducking, In 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-best-free-video-to-audio-converter/"><u>Updated In 2024, Best Free Video to Audio Converter</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-elevate-your-video-storytelling-with-professional-voiceovers/"><u>Updated In 2024, Elevate Your Video Storytelling with Professional Voiceovers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-how-to-fade-in-and-fade-out-audio-in-adobe-after-effects/"><u>Updated In 2024, How to Fade In and Fade Out Audio in Adobe After Effects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-how-to-optimize-zoom-effectiveness-during-your-google-meet/"><u>[Updated] 2024 Approved How to Optimize Zoom Effectiveness During Your Google Meet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-vita-video-editor-app-review-for-2024/"><u>[Updated] Vita Video Editor App Review for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/capture-chat-tunes-on-social-platforms/"><u>Capture Chat Tunes on Social Platforms</u></a></li>
+<li><a href="https://win-great.techidaily.com/easy-steps-to-create-and-manage-zip-archives-a-guide-by-yl-computing/"><u>Easy Steps to Create and Manage ZIP Archives: A Guide by YL Computing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-t2-pro-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo T2 Pro 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-itel-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Itel using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-art-of-audio-zoning-implementing-ducking-effects-for-clear-soundscapes-for-2024/"><u>New The Art of Audio Zoning Implementing Ducking Effects for Clear Soundscapes for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-sound-choice-handbook-understanding-and-selecting-superior-audio-formats/"><u>New The Sound Choice Handbook Understanding & Selecting Superior Audio Formats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tackle-your-overflowing-google-drive-issues-effortlessly-unveiling-a-game-changing-solution-as-featured-on-zdnet/"><u>Tackle Your Overflowing Google Drive Issues Effortlessly: Unveiling a Game-Changing Solution as Featured on ZDNet</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-audio-visual-connection-step-by-step-tutorial-for-video-editors/"><u>The Audio-Visual Connection Step-by-Step Tutorial for Video Editors</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-compilation-top-10-audio-processing-mobile-apps-ios-and-android-for-2024/"><u>The Ultimate Compilation Top 10 Audio Processing Mobile Apps (iOS and Android) for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-exploring-leading-free-mobile-audio-capture-solutions-for-android/"><u>Updated 2024 Approved Exploring Leading Free Mobile Audio Capture Solutions for Android</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-blending-sounds-and-visuals-expert-strategies-for-adding-audio-to-ae-projects/"><u>Updated Blending Sounds and Visuals Expert Strategies for Adding Audio to AE Projects</u></a></li>
 </ul></div>
 

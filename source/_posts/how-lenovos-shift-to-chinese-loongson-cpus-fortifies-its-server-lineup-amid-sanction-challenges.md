@@ -1,7 +1,7 @@
 ---
 title: How Lenovo's Shift to Chinese Loongson CPUs Fortifies Its Server Lineup Amid Sanction Challenges
-date: 2025-01-10T16:13:04.820Z
-updated: 2025-01-15T16:00:41.943Z
+date: 2025-01-17T19:13:52.750Z
+updated: 2025-01-21T17:56:43.582Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,20 +60,16 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-crafting-content-step-by-step-guide-to-youtube-video-editing-for-2024/"><u>[New] Crafting Content Step by Step Guide to YouTube Video Editing for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-unlocking-potential-with-nikon-written-by-emily-roberts-on-june-4-2023-for-2024/"><u>[New] Unlocking Potential with Nikon' Written by Emily Roberts on June 4, 2023 for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unveil-the-best-of-history-top-10-youtube-channel-list/"><u>[New] Unveil the Best of History Top 10 YouTube Channel List</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-accolades-across-platforms-for-video-creators-for-2024/"><u>[Updated] Accolades Across Platforms for Video Creators for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-achieving-smooth-transitions-in-sound-the-guide-to-audio-fading/"><u>2024 Approved Achieving Smooth Transitions in Sound The Guide to Audio Fading</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-compelling-top-10-pc-cameras-for-recording/"><u>2024 Approved Compelling Top 10 PC Cameras for Recording</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unlock-content-premier-iphoneipad-apps-for-fb-video-loading/"><u>In 2024, Unlock Content Premier iPhone/iPad Apps for FB Video Loading</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-12-now-features-enhanced-qi-wireless-charging-without-relying-on-magsafe-what-you-need-to-know-techspot/"><u>IPhone 12 Now Features Enhanced Qi Wireless Charging Without Relying on MagSafe: What You Need to Know | TechSpot</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mjpeg-avi-movavi/"><u>MJPEG AVIファイルを無料で変換する: オンラインツール - Movaviの簡単ガイド</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-sound-effect-mastery-finding-and-integrating-free-resources-in-final-cut-pro/"><u>New 2024 Approved Sound Effect Mastery Finding and Integrating Free Resources in Final Cut Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-bridging-audio-realms-to-the-screen-designing-eye-catching-audio-graphs-and-animating-video-sequences-with-premiere-pro-mastery-for-2024/"><u>New Bridging Audio Realms to the Screen Designing Eye-Catching Audio Graphs & Animating Video Sequences with Premiere Pro Mastery for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-exploring-the-creme-de-la-creme-of-distorted-audio-technology-tools/"><u>New Exploring the Crème De La Crème of Distorted Audio Technology Tools</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-unveiling-the-most-reliable-websites-for-precision-mp3-tagging-and-organizing-for-2024/"><u>New Unveiling the Most Reliable Websites for Precision MP3 Tagging and Organizing for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-mastering-audio-magic-top-10-radio-sound-effects-for-2024/"><u>Updated Mastering Audio Magic Top 10 Radio Sound Effects for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-mastering-audio-recording-and-integrating-narration-into-video-projects/"><u>Updated Mastering Audio Recording and Integrating Narration Into Video Projects</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/achieving-pristine-audio-quality-background-noise-elimination-in-imovie-macos-edition-for-2024/"><u>Achieving Pristine Audio Quality Background Noise Elimination in iMovie, macOS Edition for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/expeditious-methods-for-swiftly-neutralizing-audio-interference-and-noise/"><u>Expeditious Methods for Swiftly Neutralizing Audio Interference and Noise</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-lava-blaze-2-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Lava Blaze 2 Phone? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-beyond-the-ordinary-unlocking-xbox-secrets/"><u>Journey Beyond the Ordinary: Unlocking Xbox Secrets</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-top-online-and-offline-mp3-to-karaoke-converters-compared/"><u>New In 2024, Top Online And Offline MP3 To Karaoke Converters Compared</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-innovative-sound-crafting-software-the-premier-10-window-and-mac-companion-list-for-2024/"><u>New Innovative Sound Crafting Software The Premier 10 Window and Mac Companion List for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-audio-transformation-software-magic-and-more-for-2024/"><u>Top Audio Transformation Software Magic and More for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-easy-access-to-free-guitar-centric-background-media-and-sounds/"><u>Updated 2024 Approved Easy Access to FREE Guitar-Centric Background Media and Sounds</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New The Complete iMovie Users Manual on Excising Background Music From Videos for 2024
-date: 2025-01-12T16:02:32.686Z
-updated: 2025-01-15T16:19:12.185Z
+date: 2025-01-16T20:10:49.027Z
+updated: 2025-01-21T18:57:18.870Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ _“How do you remove audio from a video in Movie on an iPhone or Mac? I have a 
 As a friend of mine asked me this, I realized that so many people find it hard to **separate audio from a video** in **iMovie** on iPhone or iPad. Since iMovie is available for Mac and iOS devices, it can ideally be used to edit your videos on the go. The best part is that it features various inbuilt features that you can use to remove audio from a video in iMovie on iPhone/iPad/Mac. In this post, I will let you know how do you remove audio from a video in iMovie on different devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Remove Audio from a Video in iMovie on iPhone/iPad?
@@ -55,7 +55,7 @@ From all the available options at the bottom panel, just tap on the sound icon. 
 Once you have muted the sound in the video, just tap on the “Done” button to save the changes. After working on the project, you can tap on the share icon from the bottom and simply save the modified video on your iPad/iPhone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pro Tip: How to Mute Background Noise in iMovie
@@ -63,7 +63,7 @@ Once you have muted the sound in the video, just tap on the “Done” button to
 If you want, you can instantly use iMovie to remove audio from a part of the clip on your iOS device. To do this, just locate your video on the device and open it. Now, tap on the “Edit” button on the top to get different options. From here, you can tap on the sound icon from the top to mute the audio component in the video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Remove Audio from a Video in iMovie on Mac?
@@ -91,7 +91,7 @@ I’m sure that after reading this post, you would be able to remove audio from 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -109,19 +109,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-superior-selections-high-capacity-cloud-options/"><u>[Updated] Superior Selections High-Capacity Cloud Options</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-streamlined-method-free-youtube-file-access/"><u>2024 Approved Streamlined Method Free YouTube File Access</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723005576990-cyberpunk-2077-overcoming-steam-download-challenges-solutions-and-tips/"><u>Cyberpunk 2077 - Overcoming Steam Download Challenges: Solutions & Tips!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/grab-apples-discounted-m2-macbook-air-now-for-just-800-on-amazon-before-official-prime-day-deals-begin-zdnet/"><u>Grab Apple's Discounted M2 MacBook Air Now for Just $800 on Amazon Before Official Prime Day Deals Begin - ZDNet</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-hd-sound-driver-upgrade-for-win7/"><u>Nvidia HD Sound Driver Upgrade for Win7</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oneplus-ace-2-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your OnePlus Ace 2 Screen | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-top-7-list-of-mobile-apps-to-change-how-you-speak-for-2024/"><u>The Top 7 List of Mobile Apps to Change How You Speak for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-symphony-in-reverse-a-guide-to-state-of-the-art-audio-reversal-applications/"><u>Updated 2024 Approved Symphony in Reverse A Guide to State-of-the-Art Audio Reversal Applications</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-unlocking-the-best-free-tools-for-high-quality-podcast-recording-in-todays-market/"><u>Updated 2024 Approved Unlocking the Best Free Tools for High-Quality Podcast Recording in Todays Market</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-essential-guide-incorporating-music-and-effects-into-your-videos/"><u>Updated Essential Guide Incorporating Music and Effects Into Your Videos</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-crafting-the-perfect-track-heres-our-selection-of-the-best-8-chrome-os-compatible-daws-musicians/"><u>Updated In 2024, Crafting the Perfect Track? Heres Our Selection of the Best 8 Chrome OS-Compatible DAWs Musicians</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-five-economical-strategies-for-attaching-songs-to-digital-media/"><u>Updated In 2024, Five Economical Strategies for Attaching Songs to Digital Media</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-multimodal-media-mastery-integrating-audio-into-video-projects-today/"><u>Updated In 2024, Multimodal Media Mastery Integrating Audio Into Video Projects Today</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-integrating-subtitles-into-your-online-social-videography-efforts/"><u>[New] 2024 Approved Integrating Subtitles Into Your Online Social Videography Efforts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-edge-it-right-a-list-of-top-borders-in-social-media-photography/"><u>[New] Edge It Right A List of Top Borders in Social Media Photography</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-video-capture-pro-for-windows-10-ultimate-quality/"><u>2024 Approved Video Capture Pro for Windows 10 - Ultimate Quality</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-f14-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy F14 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-v29e-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo V29e to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-magic-6-lite-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor Magic 6 Lite to PC? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-solutions-for-rectifying-magic-mouse-trackpad-glitches/"><u>Simple Solutions for Rectifying Magic Mouse Trackpad Glitches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-dealing-with-dev-error-5573-in-fortnites-warzone-pc-and-console-versions/"><u>Step-by-Step Solution for Dealing with Dev Error 5573 in Fortnite's Warzone - PC & Console Versions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-intricacies-of-omegle-a-comprehensive-guide-to-its-functioning-and-safety-measures/"><u>The Intricacies of Omegle A Comprehensive Guide to Its Functioning and Safety Measures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-your-corsair-virtuosity-mic/"><u>Troubleshooting Guide: Resolving Issues with Your Corsair Virtuosity Mic</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/unleash-your-podcast-experience-the-ultimate-list-of-free-mobile-players/"><u>Unleash Your Podcast Experience The Ultimate List of Free Mobile Players</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-exploring-the-best-free-hd-online-resources-for-wallpapers-and-video-backgrounds/"><u>Updated 2024 Approved Exploring the Best Free HD Online Resources for Wallpapers and Video Backgrounds</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-mac-voice-recording-made-simple-essential-steps-for-crystal-clear-recordings/"><u>Updated 2024 Approved Mac Voice Recording Made Simple Essential Steps for Crystal Clear Recordings</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-how-to-make-an-audio-book-with-ease-a-complete-guide/"><u>Updated How to Make an Audio Book with Ease A Complete Guide</u></a></li>
 </ul></div>
 

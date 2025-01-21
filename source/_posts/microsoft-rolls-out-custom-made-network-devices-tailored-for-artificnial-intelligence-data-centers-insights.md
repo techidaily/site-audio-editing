@@ -1,7 +1,7 @@
 ---
 title: Microsoft Rolls Out Custom-Made Network Devices Tailored for Artificnial Intelligence Data Centers - Insights
-date: 2025-01-12T16:16:30.588Z
-updated: 2025-01-15T16:15:24.502Z
+date: 2025-01-15T16:56:44.403Z
+updated: 2025-01-21T19:20:45.847Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,15 +62,22 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-get-free-green-screen-effects-from-4-youtube-channels/"><u>[Updated] 2024 Approved Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-elite-playlist-compiler-android-edition/"><u>[Updated] Elite Playlist Compiler Android Edition</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-essential-tips-on-calculating-your-youtube-traffic-and-earnings/"><u>[Updated] Essential Tips on Calculating Your YouTube Traffic & Earnings</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1716777291859-updated-how-to-reverse-videos-on-android/"><u>[Updated] How to Reverse Videos on Android?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-utility-watch-opens-your-macdevice/"><u>[Updated] Ultimate Utility Watch Opens Your MacDevice</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-exploring-the-depths-of-asmr-audio-magic/"><u>In 2024, Exploring the Depths of ASMR Audio Magic</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-advanced-audio-configuration-tips-for-devices/"><u>New Advanced Audio Configuration Tips for Devices</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-mastering-the-fast-conversion-of-whatsapp-soundtracks-into-mp3-files/"><u>New In 2024, Mastering the Fast Conversion of WhatsApp Soundtracks Into MP3 Files</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-guide-to-musical-matchmaking-top-tunes-for-dynamic-montage-videos-for-2024/"><u>New The Ultimate Guide to Musical Matchmaking Top Tunes for Dynamic Montage Videos for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/pexels-explained-how-to-maximize-your-use-of-public-domain-photos-for-2024/"><u>Pexels Explained How to Maximize Your Use of Public Domain Photos for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-how-to-see-youtube-liked-comments/"><u>[New] In 2024, How to See YouTube Liked Comments</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-boost-engagement-on-instagram-with-large-post-combinations/"><u>[Updated] 2024 Approved Boost Engagement on Instagram with Large Post Combinations</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-essentials-of-xbox-live-recording/"><u>[Updated] 2024 Approved The Essentials of Xbox Live Recording</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/four-desired-improvements-for-the-next-generation-ai-gpt-5/"><u>Four Desired Improvements for the Next Generation AI, GPT-5</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-7-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 7 Plus With or Without Password</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/how-to-merge-video-and-audio/"><u>How to Merge Video and Audio</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-xs-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone XS to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-step-into-cinematic-quality-using-instagrams-chroma-keying-effect/"><u>In 2024, Step Into Cinematic Quality Using Instagram’s Chroma Keying Effect</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-vital-insights-for-constructing-an-unparalleled-collection-of-youtube-audio-tracks/"><u>In 2024, Vital Insights for Constructing an Unparalleled Collection of YouTube Audio Tracks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-mpow-bluetooth-drivers-for-windows-get-your-download-here/"><u>Latest MPOW Bluetooth Drivers for Windows: Get Your Download Here</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-essential-guide-to-implementing-audacity-on-a-chromebook/"><u>New In 2024, The Essential Guide to Implementing Audacity on a Chromebook</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-soulful-sounds-for-somber-days-unearthing-emotional-tunes-for-2024/"><u>New Soulful Sounds for Somber Days Unearthing Emotional Tunes for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/oneplus-buds-z-review-bangin-budget-buds/"><u>OnePlus Buds Z Review: Bangin’ Budget Buds</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/revolutionizing-voice-capture-the-best-8-free-online-recorders-available-for-2024/"><u>Revolutionizing Voice Capture - The Best 8 Free Online Recorders Available for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-6-best-websites-to-download-whoosh-sound-effect-easily/"><u>Updated 2024 Approved 6 Best Websites to Download Whoosh Sound Effect (Easily)</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-elite-selection-of-virtual-audio-editing-experts/"><u>Updated 2024 Approved The Elite Selection of Virtual Audio Editing Experts</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-innovative-approaches-to-infusing-sound-into-avi-files-post-update/"><u>Updated Innovative Approaches to Infusing Sound Into AVI Files Post-Update</u></a></li>
 </ul></div>
 

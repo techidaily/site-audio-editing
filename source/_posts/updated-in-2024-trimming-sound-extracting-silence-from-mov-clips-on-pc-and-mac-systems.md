@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Trimming Sound Extracting Silence From MOV Clips on PC & Mac Systems
-date: 2025-01-08T16:21:04.533Z
-updated: 2025-01-15T16:03:48.321Z
+date: 2025-01-15T19:10:48.916Z
+updated: 2025-01-21T16:43:28.244Z
 tags: 
   - audio editing software
   - audio editing
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Remove audio from quicktime videos
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
 ![remove audio from mov](https://images.wondershare.com/filmora/article-images/video-editor-main-interface-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2 Remove audio from QuickTime MOV files
 
  Double click the target MOV video file in the timeline to highlight it. Then right click the video file and select "Audio Detach" option. The program will automatically separate the existing audio track from the original video file. You will find the separated audio track will appear in the Audio track. To remove the audio from MOV video, right click the audio track and choose "Delete". If you want to keep the audio file in the video, you can click "Mute" and the video audio will not appear in the video.
@@ -57,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 ![remove audio track from mov](https://images.wondershare.com/filmora/article-images/detach-audio-from-mov.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Learn the detailed info about [How to add voiceover?](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -67,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 ![Filmora remove background noise ]( https://images.wondershare.com/filmora/article-images/remove-noise.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 3 Export or save the new files
@@ -77,16 +81,12 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 ![remove audio from mov file](https://images.wondershare.com/filmora/article-images/output-format.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Besides removing audio from video, Filmora allows you to edit .MOV videos further, including changing video speed, and some advanced video editing features such as green screen and video stabilization. Check the video tutorial below to check how to edit videos with Filmora.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -105,22 +105,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-primevideos-leaders-twitters-best-liked-and-most-watched-content/"><u>[Updated] 2024 Approved PrimeVideos Leaders Twitter's Best-Liked & Most-Watched Content</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-obsudio-screen-recorder-analysis-your-best-choices-explored/"><u>[Updated] Obsudio Screen Recorder Analysis Your Best Choices Explored</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-redefining-collaboration-the-power-of-immersive-vr-for-2024/"><u>[Updated] Redefining Collaboration The Power of Immersive VR for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone | Stellar</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-infinix-note-30-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Infinix Note 30 Pro Pattern Lock Screen</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-effective-practices-for-device-video-capture/"><u>In 2024, Effective Practices for Device Video Capture</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-premium-selection-the-most-exceptional-11-voice-alteration-apps-available-at-no-charge-for-mobile-devices/"><u>In 2024, Premium Selection The Most Exceptional 11 Voice Alteration Apps Available at No Charge for Mobile Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/is-it-time-to-switch-a-comparison-of-macos-ventura-and-monterey/"><u>Is It Time to Switch? A Comparison of macOS Ventura and Monterey</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-audio-metamorphosis-transforming-mp3-files-into-mp4-with-ease/"><u>New 2024 Approved Audio Metamorphosis Transforming MP3 Files Into MP4 with Ease</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-expert-picks-top-hand-drawing-whiteboard-animation-makers-this-year/"><u>New 2024 Approved Expert Picks Top Hand Drawing Whiteboard Animation Makers This Year</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-add-audio-to-avi-2023-update/"><u>New 2024 Approved How to Add Audio to AVI-2023 Update</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-tips-for-lowering-the-bit-rate-of-multimedia-content/"><u>New 2024 Approved Tips for Lowering the Bit Rate of Multimedia Content</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-audio-spectrum-architectures-curating-the-leading-8-templates-for-dynamic-video-soundscapes/"><u>New Audio Spectrum Architectures Curating the Leading 8 Templates for Dynamic Video Soundscapes</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-digital-discussion-series-in-depth-knowledge-exploration-for-2024/"><u>New Digital Discussion Series In-Depth Knowledge Exploration for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-how-to-add-audio-to-video-in-magix-movie-edit-pro/"><u>New In 2024, How to Add Audio to Video in Magix Movie Edit Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-how-to-add-music-to-a-video-online-for-free/"><u>New In 2024, How to Add Music to a Video Online for Free</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-beyond-reality-the-top-10-sci-fi-movies-with-metaverse-travels-for-2024/"><u>[New] Beyond Reality The Top 10 Sci-Fi Movies with Metaverse Travels for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-screen-capture-io-screener-guide/"><u>2024 Approved Mastering Screen Capture IO Screener Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-top-10-best-photo-watermarking-software-you-should-try/"><u>2024 Approved Top 10 Best Photo Watermarking Software You Should Try</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-humor-capabilities-in-artificial-intelligence-plus-an-insight-into-the-evolution-of-laptops-and-advancements-in-virtual-private-network-technology22/"><u>Exploring Humor Capabilities in Artificial Intelligence + An Insight Into the Evolution of Laptops & Advancements in Virtual Private Network Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/find-your-next-vector-the-best-10-pics-sites/"><u>Find Your Next Vector The Best 10 Pics Sites</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-step-by-step-approach-to-conquering-igtv/"><u>In 2024, Step-By-Step Approach to Conquering IGTV</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/laptop-lifesaver-cost-effective-fixes-to-restore-macbook-charging-power-learn-how-here-insights-by-zdnet/"><u>Laptop Lifesaver: Cost-Effective Fixes to Restore MacBook Charging Power, Learn How Here | Insights by ZDNET</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-enhance-visual-storytelling-techniques-for-seamless-audio-integration-in-adobe-after-effects/"><u>New 2024 Approved Enhance Visual Storytelling Techniques for Seamless Audio Integration in Adobe After Effects</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-a-journey-through-sonic-elegance-top-7-unique-sounds-for-smooth-media-transitions/"><u>New A Journey Through Sonic Elegance Top 7 Unique Sounds for Smooth Media Transitions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-approaches-to-compress-media-files-effectively-without-loss-of-quality/"><u>New In 2024, Approaches to Compress Media Files Effectively Without Loss of Quality</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-beating-time-a-guide-to-adding-rhythms-and-tempos-using-premiere-pro/"><u>New In 2024, Beating Time A Guide to Adding Rhythms and Tempos Using Premiere Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-speedy-guide-to-mute-vocals-in-recording-software-audacity-edition/"><u>New In 2024, Speedy Guide to Mute Vocals in Recording Software – Audacity Edition</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-freestyle-producers-guide-2023s-no-cost-audio-mixing-leaders/"><u>New In 2024, The Freestyle Producers Guide 2023S No-Cost Audio Mixing Leaders</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-innovative-insights-a-curated-list-s-pivotal-social-media-and-marketing-podcasts-for-2024/"><u>New Innovative Insights A Curated List S Pivotal Social Media and Marketing Podcasts for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-8-digital-collage-crafting-software-for-2024/"><u>TOP 8 Digital Collage Crafting Software for 2024</u></a></li>
 </ul></div>
 
