@@ -1,7 +1,7 @@
 ---
 title: "AeonY's Portable Solar Energy System: A Detailed Look at Its Performance with Fragile Healthcare Equipment"
-date: 2025-01-18T20:37:19.893Z
-updated: 2025-01-21T19:54:43.089Z
+date: 2025-01-21T22:55:30.456Z
+updated: 2025-01-29T05:26:34.944Z
 categories:
   - BestProducts
 description: "This Article Describes AeonY's Portable Solar Energy System: A Detailed Look at Its Performance with Fragile Healthcare Equipment"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 ## Extollo LANSocket 1500 Powerline Adapter
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/bp3nz_Kph6TOTz5TF4sk7NQJt4w=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-HeroSquare-41f20e9c72b84bfd92f578807ae1edaf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -39,12 +43,16 @@ Lifewire / Jeremy Laukkonen
 4.3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Extollo LANSocket 1500 Powerline Adapter
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/KabMCV8f8k1Pxtd-vhM86zkedrw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-HeroSquare-41f20e9c72b84bfd92f578807ae1edaf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -89,7 +97,7 @@ Lifewire / Jeremy Laukkonen
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/Ahhqweppp7LoE4s2gervkZuyOS8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-04-e086de486a5a4e16ac16cff8ae813b22.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
@@ -106,10 +114,6 @@ Lifewire / Jeremy Laukkonen
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/BvO_NJ8pdby7NqO2Fq-orJ_NbFI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-02-40358222569c4a55b4d04e7aadf01af7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Jeremy Laukkonen
 
 ## **Connectivity: MIMO with beamforming**
@@ -117,6 +121,10 @@ Lifewire / Jeremy Laukkonen
  The Extollo LANSocket 1500 powerline adapters use the HomePlug AV2 specification, which includes support for[multi-in, multi-out (MIMO)](https://www.lifewire.com/mimo-wifi-routers-818332) with beamforming, which increases both speed and the allowable distance between adapters. This is a significant improvement over the HomePlug AV specification, which is slower and requires you to place your adapters more closely together.
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/B7pek1jOL0gtn-sl7QsuHcO3_CU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-03-04f860db31f049e1a2ecb40196f7aaf7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
@@ -134,10 +142,6 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Software: Runs on an embedded Linux distribution**
 
  The LANSocket 1500 runs on an embedded Linux distribution, which plays a big part in how powerful these adapters really are. This is something you probably won’t ever have to worry about, since these devices are plug and play without a lot of hassle, but the use of Linux does open up some security holes.
@@ -152,15 +156,15 @@ Lifewire / Jeremy Laukkonen
 
  The embedded Linux distro does open up some security concerns, but they can be mostly erased if you connect through a firewalled router. You can find cheaper options, but the bottom line is that you won’t find a cheaper alternative that provides the same high speed, low latency, video buffering, and pass-through socket that you get with the LANSocket 1500.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Decent price for such good performance**
 
  The Extollo LANSocket 1500 has an MSRP of $90 for a set of two. That places these adapters right in the same general price range as other similar devices. You can find HomePlug AV2 compatible adapters for a little less, but they typically don’t perform quite as well.
 
  Since the LANSocket 1500 adapters are so easy to use, and provide such a high level of performance, it’s our judgment that they’re worth the $10 or so premium you’ll typically pay compared to similar competitors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: Wins on transfer speeds with some security concerns**
 
@@ -183,10 +187,6 @@ Lifewire / Jeremy Laukkonen
  **Buy this powerline adapter kit, but secure it behind a firewall.**
 
  The Extollo LANSocket 1500 checks all the right boxes, with some of the highest speeds on the market, a pass-through electrical socket, and a decent price. The high speeds and low latency make this kit a good choice if you need to connect a game console, and the extra memory allowed by the use of Linux really helps out if you stream a lot of video, just be wary of security considerations.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -218,18 +218,22 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-is-financial-compensation-behind-product-evaluations/"><u>[New] Is Financial Compensation Behind Product Evaluations?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-thrifty-choices-for-virtual-reality-heads/"><u>[Updated] In 2024, Thrifty Choices for Virtual Reality Heads</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/1715860061174-updated-kiddos-best-gaming-delights-top-girls-adventures/"><u>[Updated] Kiddo's Best Gaming Delights - Top Girls' Adventures!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-unveiling-advanced-game-recording-techniques-in-windows-11-for-2024/"><u>[Updated] Unveiling Advanced Game Recording Techniques in Windows 11 for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/affordable-vr-experience-discovering-visionpros-power-with-this-compact-and-lightweight-headset-insights-from-zdnet/"><u>Affordable VR Experience: Discovering VisionPro's Power with This Compact and Lightweight Headset - Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-maisto-rc-rock-crawler-analysis-the-ultimate-choice-for-families/"><u>Comprehensive Maisto RC Rock Crawler Analysis - The Ultimate Choice for Families</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-magic-of-chatgpt-an-ai-innovation-story/"><u>Decoding the Magic of ChatGPT: An AI Innovation Story</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fast-track-your-periscope-broadcasting-for-2024/"><u>Fast-Track Your Periscope Broadcasting for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-imovie-pro-tips-how-to-detach-audio-tracks-efficiently-on-a-mac/"><u>New 2024 Approved IMovie Pro Tips How to Detach Audio Tracks Efficiently on a Mac</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-audiovisual-allure-designing-engaging-podcast-covers-that-echo-across-platforms-for-2024/"><u>New Audiovisual Allure Designing Engaging Podcast Covers that Echo Across Platforms for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-how-to-mix-audio-tracks-into-one-file-for-a-video/"><u>New How to Mix Audio Tracks Into One File for A Video?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-isolating-vocal-elements-disengaging-audio-from-video-using-premiere-pro/"><u>New In 2024, Isolating Vocal Elements Disengaging Audio From Video Using Premiere Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-giants-on-trial-and-triumph-unpacking-googles-antitrust-setback-and-samsungs-strategic-expansion-into-ai-as-top-movers-in-the-2021-innovation-index-ana152/"><u>Tech Giants on Trial and Triumph: Unpacking Google's Antitrust Setback and Samsung's Strategic Expansion Into AI as Top Movers in the 2021 Innovation Index | Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-crafting-compelling-vo-for-visual-storytelling-success/"><u>[New] 2024 Approved Crafting Compelling VO for Visual Storytelling Success</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exclusive-movies-behind-the-best-chart/"><u>[Updated] 2024 Approved Exclusive Movies Behind the Best Chart</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-maximize-your-impact-with-snapchat-spotlight/"><u>[Updated] How to Maximize Your Impact with Snapchat Spotlight</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-analysis-of-samsung-photo-editor-prospects-and-constraints/"><u>2024 Approved Expert Analysis of Samsung Photo Editor Prospects & Constraints</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/dissecting-sound-forge-an-experts-guide-to-audio-mastery/"><u>Dissecting Sound Forge An Experts Guide to Audio Mastery</u></a></li>
+<li><a href="https://article-tips.techidaily.com/essential-guide-to-high-quality-fee-free-luts-for-2024/"><u>Essential Guide to High-Quality, Fee-Free LUTs for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-realme-gt-neo-5-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Realme GT Neo 5 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-revolutionizing-music-production-a-look-at-the-leading-audio-editing-suites/"><u>In 2024, Revolutionizing Music Production A Look at the Leading Audio Editing Suites</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-lava-blaze-2-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Lava Blaze 2 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-selection-top-hdr-camera-picks/"><u>In 2024, Ultimate Selection Top HDR Camera Picks</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-remove-drums-from-songs-online/"><u>New 2024 Approved How to Remove Drums From Songs Online</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-simplify-your-sound-top-7-free-online-audio-editing-tools-revealed/"><u>New 2024 Approved Simplify Your Sound Top 7 Free Online Audio Editing Tools Revealed</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-crafting-solo-beats-methods-to-distill-music-into-single-element-projects-for-2024/"><u>New Crafting Solo Beats Methods to Distill Music Into Single Element Projects for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-eliminating-reverberation-in-sound-tracks-three-effective-methods/"><u>New Eliminating Reverberation in Sound Tracks Three Effective Methods</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-how-to-adjust-audio-volume-in-audacity/"><u>New How to Adjust Audio Volume in Audacity?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-how-to-edit-the-beat-and-sync-videos-to-music-in-final-cut-pro-x/"><u>New How to Edit the Beat and Sync Videos to Music in Final Cut Pro X</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-kodi-connection-issues-fixed-error-retrieving-directory-info/"><u>Resolving Kodi Connection Issues: Fixed - Error Retrieving Directory Info</u></a></li>
 </ul></div>
 
