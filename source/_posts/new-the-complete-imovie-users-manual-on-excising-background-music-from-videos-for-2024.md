@@ -1,7 +1,7 @@
 ---
 title: New The Complete iMovie Users Manual on Excising Background Music From Videos for 2024
-date: 2025-01-21T17:22:09.642Z
-updated: 2025-01-28T16:58:46.822Z
+date: 2025-02-08T17:08:44.809Z
+updated: 2025-02-09T16:51:05.623Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ _“How do you remove audio from a video in Movie on an iPhone or Mac? I have a 
 As a friend of mine asked me this, I realized that so many people find it hard to **separate audio from a video** in **iMovie** on iPhone or iPad. Since iMovie is available for Mac and iOS devices, it can ideally be used to edit your videos on the go. The best part is that it features various inbuilt features that you can use to remove audio from a video in iMovie on iPhone/iPad/Mac. In this post, I will let you know how do you remove audio from a video in iMovie on different devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Remove Audio from a Video in iMovie on iPhone/iPad?
@@ -55,7 +55,7 @@ From all the available options at the bottom panel, just tap on the sound icon. 
 Once you have muted the sound in the video, just tap on the “Done” button to save the changes. After working on the project, you can tap on the share icon from the bottom and simply save the modified video on your iPad/iPhone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pro Tip: How to Mute Background Noise in iMovie
@@ -63,7 +63,7 @@ Once you have muted the sound in the video, just tap on the “Done” button to
 If you want, you can instantly use iMovie to remove audio from a part of the clip on your iOS device. To do this, just locate your video on the device and open it. Now, tap on the “Edit” button on the top to get different options. From here, you can tap on the sound icon from the top to mute the audio component in the video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Remove Audio from a Video in iMovie on Mac?
@@ -91,7 +91,7 @@ I’m sure that after reading this post, you would be able to remove audio from 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -109,24 +109,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-maximizing-multi-display-with-ms-edges-pip/"><u>[New] Maximizing Multi-Display with MS Edge's PIP</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-secret-tips-for-stunning-sketches-and-scans-for-2024/"><u>[Updated] Secret Tips for Stunning Sketches & Scans for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-quick-pathway-to-establishing-a-video-channel-on-your-phone-for-2024/"><u>[Updated] The Quick Pathway to Establishing a Video Channel on Your Phone for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g-stylus-2023-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Motorola Moto G Stylus (2023) Phone with Broken Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a24-phone-without-password-by-drfone-android/"><u>How To Unlock Samsung Galaxy A24 Phone Without Password?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ating-the-new-norm-earnings-in-vlogging-for-2024/"><u>Navigating the New Norm Earnings in Vlogging for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pitting-two-titans-of-chatbots-gpt-and-huggingchat/"><u>Pitting Two Titans of ChatBots: GPT & HuggingChat</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-compatible-tb16-dock-for-macbook-and-windows-update-and-download-drivers/"><u>Ultimate Compatible TB16 Dock for MacBook and Windows - Update & Download Drivers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/understanding-and-solving-fallout-4s-persistent-long-loading-issues/"><u>Understanding and Solving Fallout 4'S Persistent Long Loading Issues</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-comprehensive-guide-to-mobile-chat-platforms-beyond-facetime/"><u>Updated In 2024, The Comprehensive Guide to Mobile Chat Platforms Beyond FaceTime</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-ultimate-compendium-of-selecting-premium-audio-formats/"><u>Updated In 2024, The Ultimate Compendium of Selecting Premium Audio Formats</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-virtual-vigilance-securing-your-cyber-space-while-connecting-online/"><u>Updated In 2024, Virtual Vigilance Securing Your Cyber Space While Connecting Online</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-innovative-voice-modification-tools-add-fun-and-flavor-to-your-calls/"><u>Updated Innovative Voice Modification Tools Add Fun and Flavor to Your Calls</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-step-by-step-process-disabling-video-sound-in-latest-mkv-format-mkv-2023-for-2024/"><u>Updated Step-by-Step Process Disabling Video Sound in Latest MKV Format (MKV-2023) for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-art-of-precision-modern-methods-to-automatically-align-sound-and-picture/"><u>Updated The Art of Precision Modern Methods to Automatically Align Sound and Picture</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-conductors-algorithm-top-ten-ai-prodigies-shaping-the-melodic-landscape/"><u>Updated The Conductors Algorithm Top Ten AI Prodigies Shaping the Melodic Landscape</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-guide-to-mobile-and-web-based-a-capellas-mastery-tools/"><u>Updated The Ultimate Guide to Mobile and Web-Based A Capellas Mastery Tools</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-top-8-android-tools-elevating-your-studio-sound/"><u>Updated Top 8 Android Tools Elevating Your Studio Sound</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/variants-of-moviemaker-pro-on-windows-for-2024/"><u>Variants of MovieMaker Pro on WIndows for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-multiperspective-media-expert-guide-to-instagram-video-rotations-for-2024/"><u>[New] Mastering Multiperspective Media Expert Guide to Instagram Video Rotations for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-complete-rundown-of-essential-youtube-video-downloading-apps-android/"><u>[Updated] The Complete Rundown of Essential YouTube Video Downloading Apps (Android)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-ringtones-leading-download-pages/"><u>2024 Approved Perfect Ringtones Leading Download Pages</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-vivo-s17-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Vivo S17 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazon-echo-dot-vs-apple-homepod-mini-a-comprehensive-review/"><u>Amazon Echo Dot Vs. Apple HomePod Mini: A Comprehensive Review</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/channel-cash-flow-management-for-youtubers/"><u>Channel Cash Flow Management for YouTubers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/essential-melodies-crafting-a-perfect-music-sequence-for-your-montage-film-for-2024/"><u>Essential Melodies Crafting a Perfect Music Sequence for Your Montage Film for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-achieving-perfect-time-lapses-with-ios-devices/"><u>In 2024, Achieving Perfect Time-Lapses with iOS Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-tecno-camon-20-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Tecno Camon 20 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-y100-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo Y100 Phone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/integrate-music-files-with-sony-vegas-pro-projects-for-2024/"><u>Integrate Music Files with Sony Vegas Pro Projects for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-from-silence-to-symphony-practical-steps-for-reducing-unintentional-auditory-background/"><u>New 2024 Approved From Silence to Symphony Practical Steps for Reducing Unintentional Auditory Background</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-ensuring-consistent-acoustic-output-how-to-calibrate-volumes-in-vlc-media-center/"><u>New Ensuring Consistent Acoustic Output How to Calibrate Volumes in VLC Media Center</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-from-wireless-broadcasts-to-digital-downloads-top-3-ways-to-convert-podcasts-into-mp3s/"><u>New In 2024, From Wireless Broadcasts to Digital Downloads Top 3 Ways to Convert Podcasts Into MP3s</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-mastering-the-art-of-integrating-high-quality-audio-into-mp4-films/"><u>New In 2024, Mastering the Art of Integrating High-Quality Audio Into MP4 Films</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-z-flip-5-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy Z Flip 5 FRP</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-online-audiophiles-mp3-decomposer-and-assembler/"><u>Updated 2024 Approved Online Audiophiles MP3 Decomposer & Assembler</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-future-proof-audio-editing-platforms-top-choices/"><u>Updated In 2024, Future-Proof Audio Editing Platforms Top Choices</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-your-guide-to-the-best-free-comedic-music-downloads/"><u>Updated Your Guide to the Best Free Comedic Music Downloads</u></a></li>
 </ul></div>
 

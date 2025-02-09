@@ -1,7 +1,7 @@
 ---
 title: Discover Unmatched Performance in a Tiny Package - Geekom Releases the Revolutionary AX8, Compatible with 13Th Gen Intel & New AMD Ryzen CPUs
-date: 2025-01-26T21:13:14.896Z
-updated: 2025-01-28T21:29:34.840Z
+date: 2025-02-05T16:21:26.738Z
+updated: 2025-02-09T17:31:43.739Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,20 +80,21 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-screen-time-top-10-free-youtube-playlist-extractors/"><u>[Updated] Maximize Screen Time Top 10 Free YouTube Playlist Extractors</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-full-spectrum-of-editing-power-in-polarr/"><u>[Updated] Unlocking the Full Spectrum of Editing Power in Polarr</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-igtv-masterpieces-top-editing-software-showcased/"><u>2024 Approved IGTV Masterpieces Top Editing Software Showcased</u></a></li>
-<li><a href="https://win-superb.techidaily.com/cpu-replacement-made-easy-discover-how-with-yls-expert-advice/"><u>CPU Replacement Made Easy - Discover How with YL's Expert Advice</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/detailed-review-of-applee-homepod-mini-exploring-its-sound-experience-smart-voice-command-and-more/"><u>Detailed Review of Apple'e HomePod Mini: Exploring Its Sound Experience, Smart Voice Command & More</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-sony-vegas-audio-editor-how-to-edit-audio-in-vegas-pro/"><u>New Sony Vegas Audio Editor How to Edit Audio in Vegas Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-imovie-soundtrack-tips-to-create-immersive-audio-landscapes/"><u>New The Ultimate iMovie Soundtrack Tips to Create Immersive Audio Landscapes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/professional-picks-for-ultimate-airtag-wallets-in-in-depth-analysis-and-ratings/"><u>Professional Picks for Ultimate AirTag Wallets in 지년: In-Depth Analysis & Ratings</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/stream-google-meet-directly-on-youtube-with-these-tips/"><u>Stream Google Meet Directly on YouTube with These Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-8-favourite-free-soundtracks-for-iphones/"><u>The Ultimate List of 8 Favourite Free Soundtracks for iPhones</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-streamlining-your-audio-setup-efficiently-manage-m4a-files-on-android/"><u>Updated 2024 Approved Streamlining Your Audio Setup Efficiently Manage M4A Files on Android</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-accelerated-audio-solutions-navigating-imports-in-adobe-premiere-pro/"><u>Updated Accelerated Audio Solutions Navigating Imports in Adobe Premiere Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-five-economical-strategies-for-attaching-songs-to-digital-media-for-2024/"><u>Updated Five Economical Strategies for Attaching Songs to Digital Media for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-magix-samplitude-is-it-really-the-best-music-production-software/"><u>Updated In 2024, MAGIX Samplitude Is It Really The Best Music Production Software?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-preserving-sound-integrity-altering-audio-tones-in-audacity/"><u>Updated In 2024, Preserving Sound Integrity Altering Audio Tones in Audacity</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-innovative-ways-to-generate-money-on-snapchat-channels/"><u>[New] In 2024, Innovative Ways to Generate Money on Snapchat Channels</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-optimize-your-streams-with-advanced-obs-techniques-android-for-2024/"><u>[New] Optimize Your Streams with Advanced OBS Techniques, Android for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweet-trends-unveiled-top-videos-of-the-twittersphere/"><u>2024 Approved Tweet Trends Unveiled Top Videos of the Twittersphere</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/aifwav/"><u>AIF形式からWAVにし直す効果的な方法</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/budget-savvy-gopro-upgrades-for-starters/"><u>Budget Savvy GoPro Upgrades for Starters</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-discover-best-border-apps-to-elevate-instagram-visuals/"><u>In 2024, Discover Best Border Apps to Elevate Instagram Visuals</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-vocalizing-text-pioneering-audio-to-written-content-conversion-for-2024/"><u>New Vocalizing Text Pioneering Audio to Written Content Conversion for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-selection-of-six-compelling-chrome-talk-transformers-to-experience-moviemagicsuite-for-2024/"><u>The Ultimate Selection of Six Compelling Chrome Talk Transformers to Experience - MovieMagicSuite for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/troubleshooting-common-itunes-problems-downloading-updating-logging-in-and-connectivity/"><u>Troubleshooting Common iTunes Problems: Downloading, Updating, Logging In & Connectivity</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-audio-cutting-101-disconnecting-sounds-from-your-iphonemac-videos/"><u>Updated 2024 Approved Audio Cutting 101 Disconnecting Sounds From Your iPhone/Mac Videos</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-premium-selection-the-most-exceptional-11-voice-alteration-apps-available-at-no-charge-for-mobile-devices/"><u>Updated 2024 Approved Premium Selection The Most Exceptional 11 Voice Alteration Apps Available at No Charge for Mobile Devices</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-how-to-make-beats-for-your-music-videos-for-2024/"><u>Updated How to Make Beats for Your Music Videos for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-from-beginner-to-pro-the-ultimate-selection-of-8-high-performing-daw-platforms-for-recording-mixing-and-mastering-success/"><u>Updated In 2024, From Beginner to Pro The Ultimate Selection of 8 High-Performing DAW Platforms for Recording, Mixing, and Mastering Success</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-how-to-recognize-songs-on-iphone/"><u>Updated In 2024, How to Recognize Songs on iPhone?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/your-ultimate-compilation-budget-friendly-streamers-for-phones-for-2024/"><u>Your Ultimate Compilation Budget-Friendly Streamers for Phones for 2024</u></a></li>
 </ul></div>
 

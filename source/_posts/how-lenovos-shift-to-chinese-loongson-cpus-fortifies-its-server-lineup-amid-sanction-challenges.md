@@ -1,7 +1,7 @@
 ---
 title: How Lenovo's Shift to Chinese Loongson CPUs Fortifies Its Server Lineup Amid Sanction Challenges
-date: 2025-01-23T23:58:41.977Z
-updated: 2025-01-28T20:19:10.349Z
+date: 2025-02-03T17:48:32.428Z
+updated: 2025-02-09T18:21:29.447Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,24 +60,14 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effective-team-videos-boosting-channelnode-growth-rate/"><u>[New] 2024 Approved Effective Team Videos Boosting Channelnode Growth Rate</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-facebook-film-fans-choosing-the-best-extensions-and-downloader-plugins-on-firefox-for-2024/"><u>[New] Facebook Film Fans Choosing the Best Extensions and Downloader Plugins on Firefox for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-elevating-zoom-picture-quality-practical-suggestions/"><u>[Updated] 2024 Approved Elevating Zoom Picture Quality Practical Suggestions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-fortune-in-focus-5-best-maps-for-treasures-for-2024/"><u>[Updated] Fortune in Focus 5 Best Maps for Treasures for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-6-online-networking-hubs-for-enterprises/"><u>2024 Approved Leading 6 Online Networking Hubs for Enterprises</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-pioneering-youtube-visibility-through-strategic-thumbnails/"><u>2024 Approved Pioneering YouTube Visibility Through Strategic Thumbnails</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-squaring-the-circle-of-facebook-engagement-with-visuals/"><u>2024 Approved Squaring the Circle of Facebook Engagement with Visuals</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/2024-approved-the-artisans-approach-to-integrating-fade-out-effects-in-audio-design-updated-for-today/"><u>2024 Approved The Artisans Approach to Integrating Fade-Out Effects in Audio Design, Updated for Today</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/enhancing-aural-experiences-implementing-progressive-volume-changes-today-for-2024/"><u>Enhancing Aural Experiences Implementing Progressive Volume Changes Today for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-itel-a60-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Itel A60? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-ultimate-tutorial-on-speech-suppression-seamless-vocal-removal-in-adobe-audition-steps-outlined/"><u>New 2024 Approved The Ultimate Tutorial on Speech Suppression Seamless Vocal Removal in Adobe Audition (Steps Outlined)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-8-popular-streaming-audio-recorder-that-you-should-know-for-2024/"><u>New 8 Popular Streaming Audio Recorder That You Should Know for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-breaking-down-mp4s-removing-sound-tracks-and-silence-for-2024/"><u>New Breaking Down MP4s Removing Sound Tracks and Silence for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-how-to-reduce-background-noise-using-imovie-an-overview/"><u>New How to Reduce Background Noise Using iMovie An Overview</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-enhance-your-audio-experience-a-critical-look-at-the-5-premium-voice-recorders-for-mp3s/"><u>New In 2024, Enhance Your Audio Experience A Critical Look at the 5 Premium Voice Recorders for MP3s</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-visual-symphony-infusing-premiere-pro-projects-with-animate-waveform-integration-and-audio-representation/"><u>New The Visual Symphony Infusing Premiere Pro Projects with Animate Waveform Integration and Audio Representation</u></a></li>
-<li><a href="https://fox-info.techidaily.com/perfect-pick-kids-preferred-drones/"><u>Perfect Pick Kids' Preferred Drones</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-13-mini-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone 13 mini without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-hear-it-here-first-effective-techniques-for-capturing-and-storing-computer-based-audio-files-in-episodic-format/"><u>Updated Hear It Here First Effective Techniques for Capturing and Storing Computer-Based Audio Files in Episodic Format</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-recover-disappearing-watch-icon-for-fb-users/"><u>[Updated] 2024 Approved Recover Disappearing Watch Icon for FB Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-agriculture-amalgamations-best-friendly-farmers-game-roster/"><u>[Updated] In 2024, Agriculture Amalgamations Best Friendly Farmer's Game Roster</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-unlocking-the-secrets-of-swelling-youtube-supporters/"><u>[Updated] In 2024, Unlocking the Secrets of Swelling YouTube Supporters</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-10-best-audio-editor-windows-mac/"><u>2024 Approved 10 Best Audio Editor Windows, Mac</u></a></li>
+<li><a href="https://discover-data.techidaily.com/discover-the-easy-way-to-crop-your-pictures-with-flipbuilder/"><u>Discover the Easy Way to Crop Your Pictures with FlipBuilder</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/enhancing-media-experience-combining-video-content-with-audio-elements/"><u>Enhancing Media Experience Combining Video Content with Audio Elements</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-all-encompassing-tech-review-by-diverse-experts/"><u>In 2024, All-Encompassing Tech Review by Diverse Experts</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-anthology-of-gargantuan-groans-and-howls/"><u>New Anthology of Gargantuan Groans and Howls</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/strategies-for-minimizing-large-scale-video-and-audio-data-for-2024/"><u>Strategies for Minimizing Large-Scale Video and Audio Data for 2024</u></a></li>
 </ul></div>
 

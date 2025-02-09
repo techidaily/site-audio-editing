@@ -1,7 +1,7 @@
 ---
 title: Tech-Savvy Generation Engages at New Japanese Amusement Park – Hands-On PC Building for Youngsters with Authentic Hardware
-date: 2025-01-25T05:10:39.311Z
-updated: 2025-01-28T23:22:16.332Z
+date: 2025-02-07T16:03:15.644Z
+updated: 2025-02-09T16:06:20.520Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,19 +78,19 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-ensure-continuous-playback-of-youtube-videos-on-fb/"><u>[Updated] In 2024, How to Ensure Continuous Playback of YouTube Videos on FB</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-from-raw-to-refined-youtube-thumbnail-creation-for-mobile-users/"><u>2024 Approved From Raw to Refined YouTube Thumbnail Creation for Mobile Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-purchasing-video-games-for-your-oculus-quest-2/"><u>A Step-by-Step Guide: Purchasing Video Games for Your Oculus Quest 2</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/circle-construction-in-minecraft-the-ultimate-guide-for-2024/"><u>Circle Construction in Minecraft The Ultimate Guide for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-se-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone SE with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Samsung Galaxy S24? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-elite-lineup-of-audio-reverse-applications-discovering-your-ideal-choices-for-mobile-and-computing-for-2024/"><u>New The Elite Lineup of Audio Reverse Applications Discovering Your Ideal Choices for Mobile & Computing for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-unveiling-the-facts-dispelling-common-misconceptions-about-daw-software-for-2024/"><u>New Unveiling the Facts Dispelling Common Misconceptions About DAW Software for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1723075140713-the-elder-scrolls-v-unveiling-skyrim-for-nintendo-switch-a-must-play-adventure/"><u>The Elder Scrolls V: Unveiling Skyrim for Nintendo Switch – A Must-Play Adventure</u></a></li>
-<li><a href="https://article-files.techidaily.com/ultimate-list-best-high-definition-blu-ray-decks-for-2024/"><u>Ultimate List Best High-Definition Blu-Ray Decks for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-audio-synchronization-techniques-for-mac-users-bringing-melodies-to-gifs/"><u>Updated 2024 Approved Audio Synchronization Techniques for Mac Users Bringing Melodies to GIFs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-premier-game-chat-platforms-for-enthusiasts/"><u>Updated 2024 Approved Premier Game Chat Platforms for Enthusiasts</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-enhancing-sound-quality-implementing-audio-ducking-techniques-in-adobe-premiere-pro-for-mac-users-for-2024/"><u>Updated Enhancing Sound Quality Implementing Audio Ducking Techniques in Adobe Premiere Pro for Mac Users for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-podcast-editing-101-how-to-edit-a-podcast/"><u>Updated In 2024, Podcast Editing 101 How to Edit a Podcast</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-elevate-your-design-game-with-expert-level-3d-text-tips-for-2024/"><u>[New] Elevate Your Design Game with Expert-Level 3D Text Tips for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-sci-fi-extraordinaire-journey-to-novel-universes-in-10-films-for-2024/"><u>[New] Sci-Fi Extraordinaire Journey to Novel Universes in 10 Films for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unlock-the-art-of-recording-all-your-hulu-content-for-2024/"><u>[New] Unlock the Art of Recording All Your Hulu Content for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-steadicams-for-superior-quality-shoots-with-dslr-cameras/"><u>[Updated] Ideal Steadicams for Superior Quality Shoots with DSLR Cameras</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-simplified-guide-to-iphone-display-recordings/"><u>[Updated] Simplified Guide to IPhone Display Recordings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-guide-for-effective-periscope-use-for-2024/"><u>[Updated] The Ultimate Guide for Effective Periscope Use for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-panoramic-photography-with-a-fisheye-effect/"><u>2024 Approved Mastering Panoramic Photography with a Fisheye Effect</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-webcams-to-boost-your-zoom-experience/"><u>In 2024, Leading Webcams to Boost Your Zoom Experience</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-step-by-step-process-for-transforming-videos-through-dubbing-using-filmora/"><u>New The Ultimate Step-by-Step Process for Transforming Videos Through Dubbing Using Filmora</u></a></li>
+<li><a href="https://games-able.techidaily.com/on-the-fly-gaming-top-20-speedy-and-easy-to-play-phones-games/"><u>On The Fly Gaming: Top 20 Speedy and Easy-to-Play Phones Games</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-essential-handbook-to-audio-timeline-control-mastering-keyframe-creation-and-editing-in-adobe-premiere-pro-mac/"><u>The Essential Handbook to Audio Timeline Control Mastering Keyframe Creation and Editing in Adobe Premiere Pro (Mac)</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-essential-tips-for-capturing-sound-with-your-samsung-s10s9/"><u>Updated 2024 Approved Essential Tips for Capturing Sound with Your Samsung S10/S9</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-achieving-balanced-video-audios-four-essential-techniques/"><u>Updated Achieving Balanced Video Audios Four Essential Techniques</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-how-to-merge-video-and-audio/"><u>Updated How to Merge Video and Audio</u></a></li>
 </ul></div>
 

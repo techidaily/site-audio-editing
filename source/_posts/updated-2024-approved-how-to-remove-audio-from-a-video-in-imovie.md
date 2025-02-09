@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Remove Audio From a Video in iMovie?
-date: 2025-01-28T01:30:42.636Z
-updated: 2025-01-29T06:36:12.379Z
+date: 2025-02-02T16:00:20.124Z
+updated: 2025-02-09T18:50:53.127Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ _“How do you remove audio from a video in Movie on an iPhone or Mac? I have a 
 As a friend of mine asked me this, I realized that so many people find it hard to **separate audio from a video** in **iMovie** on iPhone or iPad. Since iMovie is available for Mac and iOS devices, it can ideally be used to edit your videos on the go. The best part is that it features various inbuilt features that you can use to remove audio from a video in iMovie on iPhone/iPad/Mac. In this post, I will let you know how do you remove audio from a video in iMovie on different devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Remove Audio from a Video in iMovie on iPhone/iPad?
@@ -55,7 +55,7 @@ From all the available options at the bottom panel, just tap on the sound icon. 
 Once you have muted the sound in the video, just tap on the “Done” button to save the changes. After working on the project, you can tap on the share icon from the bottom and simply save the modified video on your iPad/iPhone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pro Tip: How to Mute Background Noise in iMovie
@@ -63,7 +63,7 @@ Once you have muted the sound in the video, just tap on the “Done” button to
 If you want, you can instantly use iMovie to remove audio from a part of the clip on your iOS device. To do this, just locate your video on the device and open it. Now, tap on the “Edit” button on the top to get different options. From here, you can tap on the sound icon from the top to mute the audio component in the video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Remove Audio from a Video in iMovie on Mac?
@@ -91,7 +91,7 @@ I’m sure that after reading this post, you would be able to remove audio from 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -109,18 +109,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-expanding-horizons-with-vr-filmmaking-for-2024/"><u>[New] Expanding Horizons with VR Filmmaking for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-how-to-archive-your-nintendo-switch-gameplay-for-2024/"><u>[New] How to Archive Your Nintendo Switch Gameplay for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-shooting-hdr-on-iphone-a-comprehensive-guide/"><u>[Updated] Shooting HDR on iPhone A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/chivalry-ii-stability-issue-resolved-game-now-running-smoothly/"><u>Chivalry II Stability Issue Resolved: Game Now Running Smoothly</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/enhancing-your-recordings-additional-layers-of-voice-processing-in-audacity-using-plugins-for-2024/"><u>Enhancing Your Recordings Additional Layers of Voice Processing in Audacity Using Plugins for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fully-active-discord-microphone/"><u>Fully Active Discord Microphone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-13-mini-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone 13 mini? | Stellar</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-issues-with-improper-installation-of-ryzen-master-drivers/"><u>Solving Issues with Improper Installation of Ryzen Master Drivers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/streamlined-processes-for-converting-podcasts-into-mp3-files/"><u>Streamlined Processes for Converting Podcasts Into MP3 Files</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/techniques-for-embedding-images-into-music-tracks/"><u>Techniques for Embedding Images Into Music Tracks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-a2-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo A2 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-elevate-your-creative-output-with-these-audio-addition-methods-in-after-effects-updated/"><u>Updated 2024 Approved Elevate Your Creative Output with These Audio Addition Methods in After Effects (Updated )</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-enrich-your-music-the-ultimate-photo-audio-integration-guide-sonic-visualization-for-2024/"><u>Updated Enrich Your Music The Ultimate Photo-Audio Integration Guide Sonic Visualization for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-skill-up-on-the-fly-with-top-10-freeware-art-apps-for-mac/"><u>2024 Approved Skill Up on the Fly with Top 10 Freeware Art Apps for Mac</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-facile-comment-transformer-un-mp4-en-m4b-sans-frais-grace-a-movavi-tous-les-coups-justes-pour-la-lecture-hors-ligne/"><u>Guide Facile : Comment Transformer Un MP4 en M4B Sans Frais Grâce À Movavi, Tous Les Coups Justes Pour La Lecture Hors Ligne !</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/how-to-download-and-install-lame-for-audacity-for-2024/"><u>How to Download and Install Lame for Audacity for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-12-pro-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 12 Pro Without Passcode Now</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-harmonic-pinnacle-identifying-exceptional-music-for-visual-sequences/"><u>In 2024, Harmonic Pinnacle Identifying Exceptional Music for Visual Sequences</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/iphone-tricks-turn-your-images-upside-down-sideways/"><u>IPhone Tricks Turn Your Images Upside-Down, Sideways</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-unlocking-win11-mouse-features/"><u>Navigating the Maze: Unlocking Win11 Mouse Features</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-5-essential-no-cost-music-amplitude-scaler-tools-for-2024/"><u>New 5 Essential No-Cost Music Amplitude Scaler Tools for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/top-4-video-amplifier-web-apps-elevate-your-audio-experience-for-2024/"><u>Top 4 Video Amplifier Web Apps Elevate Your Audio Experience for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-digital-sound-shaping-at-no-charge-the-best-free-online-trimming-experience/"><u>Updated In 2024, Digital Sound Shaping at No Charge The Best Free Online Trimming Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrade-your-iphone-charger-game-essential-anker-accessories-revealed-on-zdnet/"><u>Upgrade Your iPhone Charger Game: Essential Anker Accessories Revealed on ZDNet</u></a></li>
 </ul></div>
 
