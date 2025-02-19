@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Pros Method for Smooth On-Off Sound Dynamics Using Adobe After Effects
-date: 2024-12-09T21:12:19.335Z
-updated: 2024-12-15T21:47:47.121Z
+date: 2025-02-16T17:35:44.645Z
+updated: 2025-02-19T16:52:48.833Z
 tags: 
   - audio editing software
   - audio editing
@@ -31,7 +31,7 @@ However, you will need to have at least basic video and sound editing skills to 
  **Read More to Get:** [Best Audio Mixer Software to Trim Your Sound Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding the Fade In and Fade Out Effects to Audio Files in AE
@@ -42,14 +42,6 @@ Once you've created a new project in AE and you've imported the audio files you'
 
 ![fade out/in audio waveform after effects](https://images.wondershare.com/filmora/filmorapro/fade-out-in-audio-after-effects-waveform.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 2: Add a keyframe to the audio file
 
 The next thing you will have to do is place the playhead at the exact location where you want the Fade In effect to start. In most cases, Fade effects are added at the starting point of the audio file, so you should position the playhead at the beginning of the timeline or zero seconds. You will be able to see a stopwatch next to the Audio Levels option located in the Composition tab. Click on it to add the first keyframe and assign a negative value to the Audio Level setting. -100db or -50db values will make the audio file silent, and you can pick either based on how long you want the Fade in effect to last. If you don't know how to use keyframes in After Effects, [this article will give you some info](https://www.schoolofmotion.com/blog/how-to-set-keyframes-after-effects).
@@ -59,7 +51,7 @@ The next thing you will have to do is place the playhead at the exact location w
 You may also like: [15 Free After Effects Templates to Power up Your Video](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Complete Fade out/in audio in After Effects
@@ -68,9 +60,21 @@ Move the playhead to the location where you want the effect to end and add anoth
 
 ![Complete fade out/in audio in After Effects](https://images.wondershare.com/filmora/filmorapro/complete-fade-iin-out-audio-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips For Making Better Fade In and Fade Out Effects
 
 The process of creating a fade in or a fade out effect in AE is quite simple, but it is up to you to discover creative ways of using these effects. Here are a few tips that can help you use these audio effects more creatively.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Avoid Hard Cuts
 
@@ -94,10 +98,6 @@ If you want to fade in/out audio easily, we recommend using [Filmora](https://to
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -113,21 +113,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-10-tricks-for-turning-youtube-watchlists-around/"><u>[New] 2024 Approved 10 Tricks for Turning YouTube Watchlists Around</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-iobit-screen-recorder-review/"><u>[New] In 2024, IObit Screen Recorder Review</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-seamless-shift-to-perfect-insta-pics-mac-driven-video-size-evolution/"><u>[Updated] 2024 Approved The Seamless Shift to Perfect Insta Pics Mac-Driven Video Size Evolution</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-frame-by-frame-findings-insightful-recorder-analysis-for-2024/"><u>[Updated] Frame by Frame Findings Insightful Recorder Analysis for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-pinnacle-of-visual-expression-best-mac-drawing-tools/"><u>[Updated] The Pinnacle of Visual Expression - Best Mac Drawing Tools</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oppo-reno-10-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Oppo Reno 10 Pro 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-14-plus-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 14 Plus or iPad?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-honor-x9a-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Honor X9a to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-top-9-superior-ai-powered-voice-synthesizers-for-a-seamless-experience/"><u>In 2024, Top 9 Superior AI-Powered Voice Synthesizers for a Seamless Experience</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/leading-audio-based-multiplayer-conversation-software-for-gamers-for-2024/"><u>Leading Audio-Based Multiplayer Conversation Software for Gamers for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/melody-and-motion-crafting-music-video-beats-that-drive-visual-narratives-forward-for-2024/"><u>Melody & Motion Crafting Music Video Beats That Drive Visual Narratives Forward for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-how-to-change-your-voice-for-2024/"><u>New How to Change Your Voice for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-multimodal-media-mastery-integrating-audio-into-video-projects-today/"><u>New In 2024, Multimodal Media Mastery Integrating Audio Into Video Projects Today</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-seamless-synergy-merging-soundtracks-with-visual-narratives-in-modern-cinema/"><u>New In 2024, Seamless Synergy Merging Soundtracks with Visual Narratives in Modern Cinema</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-best-free-online-daw-software-your-2023-guide-to-browser-based-recording/"><u>New In 2024, The Best Free Online DAW Software Your 2023 Guide to Browser-Based Recording</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/simple-tips-for-capturing-google-voice-conversations/"><u>Simple Tips for Capturing Google Voice Conversations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-secrets-to-flawless-remote-audio-production/"><u>[New] 2024 Approved Secrets to Flawless Remote Audio Production</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-15-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 15 Without iTunes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-elevating-trailers-through-musical-integration/"><u>In 2024, Elevating Trailers Through Musical Integration</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-explore-fb-moments-privately/"><u>In 2024, Explore FB Moments Privately</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-voice-to-text-conversion-in-ms-word-a-step-by-step-guide/"><u>In 2024, Mastering Voice-to-Text Conversion in MS Word A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-worlds-richest-content-creator-on-youtube/"><u>In 2024, World's Richest Content Creator on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/letat-actuel-et-les-perspectives-futures-du-rapport-abbyy-dans-le-domaine-de-lautomatisation-avancee/"><u>L'état Actuel Et Les Perspectives Futures Du Rapport ABBYY Dans Le Domaine De L'automatisation Avancée</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-newcomers-manual-to-lexis-sound-wave-processor/"><u>New The Newcomers Manual to Lexis Sound-Wave Processor</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-transcribing-speech-to-mp3-audio-format-for-diverse-platforms-for-2024/"><u>New Transcribing Speech to MP3 Audio Format for Diverse Platforms for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/sicherstellen-sie-den-schutz-ihrer-iphone-kontakte-im-icloud-2-essentielle-schritte/"><u>Sicherstellen Sie Den Schutz Ihrer iPhone-Kontakte Im iCloud - 2 Essentielle Schritte</u></a></li>
+<li><a href="https://win-web3.techidaily.com/slashing-pc-resource-drain-with-simple-techniques-by-yl-software-experts/"><u>Slashing PC Resource Drain with Simple Techniques by YL Software Experts</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/unleash-your-creativity-how-to-edit-videos-in-windows-movie-maker-for-2024/"><u>Unleash Your Creativity How to Edit Videos in Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-best-10-sound-boosters-for-android-and-ios-sound-booster-app/"><u>Updated 2024 Approved Best 10 Sound Boosters for Android and iOS-Sound Booster App</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-iphones-auditory-features-demystified-the-top-10-audio-recording-apps/"><u>Updated 2024 Approved IPhones Auditory Features Demystified - The Top 10 Audio Recording Apps</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-5-amazing-voice-changer-for-google-meet-for-2024/"><u>Updated 5 Amazing Voice Changer for Google Meet for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-elevating-video-experience-perfecting-the-mix-of-music-and-cinematography/"><u>Updated Elevating Video Experience Perfecting the Mix of Music and Cinematography</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-essential-tips-for-aspiring-music-video-editors/"><u>Updated Essential Tips for Aspiring Music Video Editors</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-probing-sound-clarity-an-updated-analysis-of-cambridges-cxu-series/"><u>Updated In 2024, Probing Sound Clarity An Updated Analysis of Cambridges CXU Series</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-single-file-soundscapes-uniting-diverse-audio-tracks-for-visuals/"><u>Updated In 2024, Single-File Soundscapes Uniting Diverse Audio Tracks for Visuals</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover Unmatched Performance in a Tiny Package - Geekom Releases the Revolutionary AX8, Compatible with 13Th Gen Intel & New AMD Ryzen CPUs
-date: 2025-02-05T16:21:26.738Z
-updated: 2025-02-09T17:31:43.739Z
+date: 2025-02-15T18:22:29.460Z
+updated: 2025-02-19T16:47:57.485Z
 tags:
   - desktop
 categories:
@@ -54,7 +54,7 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
  But even though some users say that this is an overpriced device, this is an interesting new form factor that takes advantage of the prevalence of screens everywhere. Linglong aims to revolutionize laptops by allowing its mini PC to use other displays that are available around us (or to even use AR glasses that give users a wider view angle without taking up a lot of space).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -80,21 +80,20 @@ Chinese PC maker Linglong has just introduced a tiny PC that fits into a foldabl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-innovative-ways-to-generate-money-on-snapchat-channels/"><u>[New] In 2024, Innovative Ways to Generate Money on Snapchat Channels</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-optimize-your-streams-with-advanced-obs-techniques-android-for-2024/"><u>[New] Optimize Your Streams with Advanced OBS Techniques, Android for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweet-trends-unveiled-top-videos-of-the-twittersphere/"><u>2024 Approved Tweet Trends Unveiled Top Videos of the Twittersphere</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/aifwav/"><u>AIF形式からWAVにし直す効果的な方法</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/budget-savvy-gopro-upgrades-for-starters/"><u>Budget Savvy GoPro Upgrades for Starters</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-discover-best-border-apps-to-elevate-instagram-visuals/"><u>In 2024, Discover Best Border Apps to Elevate Instagram Visuals</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-vocalizing-text-pioneering-audio-to-written-content-conversion-for-2024/"><u>New Vocalizing Text Pioneering Audio to Written Content Conversion for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-ultimate-selection-of-six-compelling-chrome-talk-transformers-to-experience-moviemagicsuite-for-2024/"><u>The Ultimate Selection of Six Compelling Chrome Talk Transformers to Experience - MovieMagicSuite for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/troubleshooting-common-itunes-problems-downloading-updating-logging-in-and-connectivity/"><u>Troubleshooting Common iTunes Problems: Downloading, Updating, Logging In & Connectivity</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-audio-cutting-101-disconnecting-sounds-from-your-iphonemac-videos/"><u>Updated 2024 Approved Audio Cutting 101 Disconnecting Sounds From Your iPhone/Mac Videos</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-premium-selection-the-most-exceptional-11-voice-alteration-apps-available-at-no-charge-for-mobile-devices/"><u>Updated 2024 Approved Premium Selection The Most Exceptional 11 Voice Alteration Apps Available at No Charge for Mobile Devices</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-make-beats-for-your-music-videos-for-2024/"><u>Updated How to Make Beats for Your Music Videos for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-from-beginner-to-pro-the-ultimate-selection-of-8-high-performing-daw-platforms-for-recording-mixing-and-mastering-success/"><u>Updated In 2024, From Beginner to Pro The Ultimate Selection of 8 High-Performing DAW Platforms for Recording, Mixing, and Mastering Success</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-how-to-recognize-songs-on-iphone/"><u>Updated In 2024, How to Recognize Songs on iPhone?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/your-ultimate-compilation-budget-friendly-streamers-for-phones-for-2024/"><u>Your Ultimate Compilation Budget-Friendly Streamers for Phones for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-youtube-earnings-per-watch-average-income-breakdown/"><u>[New] 2024 Approved YouTube Earnings per Watch Average Income Breakdown</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-ultimate-tutorial-for-applying-video-filters-on-devices-for-2024/"><u>[Updated] The Ultimate Tutorial for Applying Video Filters on Devices for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/affordable-deskmate-x600-with-integrated-full-sized-gpu-exclusive-to-chinese-market-at-193-price-tag/"><u>Affordable DeskMate X600 with Integrated Full-Sized GPU, Exclusive to Chinese Market at $193 Price Tag</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-charge-your-iphone-wirelessly-here-are-7-fixes-that-might-help/"><u>Can't Charge Your iPhone Wirelessly? Here Are 7 Fixes That Might Help!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-seamlessly-upload-youtube-videos-to-facebook-feed-for-2024/"><u>How to Seamlessly Upload YouTube Videos to Facebook Feed for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-a15-4g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy A15 4G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-iphone-15-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On iPhone 15 without Password?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-legal-considerations-when-uploading-videos-to-social-network-sites/"><u>In 2024, Legal Considerations When Uploading Videos to Social Network Sites</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-installing-updated-thunderbolt-drivers-for-windows-systems/"><u>Step-by-Step Guide: Installing Updated Thunderbolt Drivers for Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-checklist-for-saving-and-recovering-notes/"><u>The Ultimate Checklist for Saving and Recovering Notes</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-top-8-digital-audio-workstations-your-ultimate-guide-for-producing-high-quality-music/"><u>Updated In 2024, Top 8 Digital Audio Workstations Your Ultimate Guide for Producing High-Quality Music</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-synthetic-soundscape-pioneers-unveiling-the-top-ai-composers/"><u>Updated Synthetic Soundscape Pioneers Unveiling the Top AI Composers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-art-of-precision-modern-methods-to-automatically-align-sound-and-picture-for-2024/"><u>Updated The Art of Precision Modern Methods to Automatically Align Sound and Picture for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-guide-to-spectacular-sound-art-ranking-the-top-5-visualizers/"><u>Updated The Ultimate Guide to Spectacular Sound Art Ranking the Top 5 Visualizers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-voice-recognition-technology-compilation-windows-and-macos-dictation-software-plus-cloud-services-ranked-top-8/"><u>Updated The Ultimate Voice Recognition Technology Compilation Windows & macOS Dictation Software + Cloud Services Ranked (Top 8 )</u></a></li>
 </ul></div>
 

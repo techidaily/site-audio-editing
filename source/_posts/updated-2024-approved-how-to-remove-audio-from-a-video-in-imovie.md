@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Remove Audio From a Video in iMovie?
-date: 2025-02-02T16:00:20.124Z
-updated: 2025-02-09T18:50:53.127Z
+date: 2025-02-17T16:10:28.708Z
+updated: 2025-02-19T16:11:55.690Z
 tags: 
   - audio editing software
   - audio editing
@@ -29,7 +29,7 @@ _“How do you remove audio from a video in Movie on an iPhone or Mac? I have a 
 As a friend of mine asked me this, I realized that so many people find it hard to **separate audio from a video** in **iMovie** on iPhone or iPad. Since iMovie is available for Mac and iOS devices, it can ideally be used to edit your videos on the go. The best part is that it features various inbuilt features that you can use to remove audio from a video in iMovie on iPhone/iPad/Mac. In this post, I will let you know how do you remove audio from a video in iMovie on different devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Remove Audio from a Video in iMovie on iPhone/iPad?
@@ -55,7 +55,7 @@ From all the available options at the bottom panel, just tap on the sound icon. 
 Once you have muted the sound in the video, just tap on the “Done” button to save the changes. After working on the project, you can tap on the share icon from the bottom and simply save the modified video on your iPad/iPhone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pro Tip: How to Mute Background Noise in iMovie
@@ -63,7 +63,7 @@ Once you have muted the sound in the video, just tap on the “Done” button to
 If you want, you can instantly use iMovie to remove audio from a part of the clip on your iOS device. To do this, just locate your video on the device and open it. Now, tap on the “Edit” button on the top to get different options. From here, you can tap on the sound icon from the top to mute the audio component in the video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Remove Audio from a Video in iMovie on Mac?
@@ -91,7 +91,7 @@ I’m sure that after reading this post, you would be able to remove audio from 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -109,17 +109,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-skill-up-on-the-fly-with-top-10-freeware-art-apps-for-mac/"><u>2024 Approved Skill Up on the Fly with Top 10 Freeware Art Apps for Mac</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guide-facile-comment-transformer-un-mp4-en-m4b-sans-frais-grace-a-movavi-tous-les-coups-justes-pour-la-lecture-hors-ligne/"><u>Guide Facile : Comment Transformer Un MP4 en M4B Sans Frais Grâce À Movavi, Tous Les Coups Justes Pour La Lecture Hors Ligne !</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/how-to-download-and-install-lame-for-audacity-for-2024/"><u>How to Download and Install Lame for Audacity for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-12-pro-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 12 Pro Without Passcode Now</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-harmonic-pinnacle-identifying-exceptional-music-for-visual-sequences/"><u>In 2024, Harmonic Pinnacle Identifying Exceptional Music for Visual Sequences</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-tricks-turn-your-images-upside-down-sideways/"><u>IPhone Tricks Turn Your Images Upside-Down, Sideways</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-maze-unlocking-win11-mouse-features/"><u>Navigating the Maze: Unlocking Win11 Mouse Features</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-5-essential-no-cost-music-amplitude-scaler-tools-for-2024/"><u>New 5 Essential No-Cost Music Amplitude Scaler Tools for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/top-4-video-amplifier-web-apps-elevate-your-audio-experience-for-2024/"><u>Top 4 Video Amplifier Web Apps Elevate Your Audio Experience for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-digital-sound-shaping-at-no-charge-the-best-free-online-trimming-experience/"><u>Updated In 2024, Digital Sound Shaping at No Charge The Best Free Online Trimming Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upgrade-your-iphone-charger-game-essential-anker-accessories-revealed-on-zdnet/"><u>Upgrade Your iPhone Charger Game: Essential Anker Accessories Revealed on ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-optimizing-your-youtube-music-selection/"><u>[New] 2024 Approved Optimizing Your YouTube Music Selection</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-cashing-in-on-content-the-carminati-effect-ajay/"><u>[New] In 2024, Cashing In on Content The Carminati Effect (AJay)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-3-top-picks-of-voice-capture-apps-for-your-ipad/"><u>[Updated] 3 Top Picks of Voice Capture Apps for Your iPad</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-personalizing-public-vs-private-settings-on-youtube/"><u>[Updated] Personalizing Public vs Private Settings on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-cheatsheet-for-stunning-collage-art/"><u>[Updated] Step-by-Step Cheatsheet for Stunning Collage Art</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-detailed-analysis-of-grand-quests-in-yokus-island-express-where-surprises-abound/"><u>A Detailed Analysis of Grand Quests in Yoku's Island Express: Where Surprises Abound</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-premier-collection-11-complimentary-mobile-audio-modification-tools-for-both-ios-and-android/"><u>In 2024, Premier Collection 11 Complimentary Mobile Audio Modification Tools for Both iOS and Android</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-audio-innovations-8-cutting-edge-cartoon-soundtracks-now-available-for-download/"><u>New 2024 Approved Audio Innovations 8 Cutting-Edge Cartoon Soundtracks Now Available for Download</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-alternatives-to-facetime-androids-leading-video-calling-solutions-for-2024/"><u>New Alternatives to FaceTime Androids Leading Video Calling Solutions for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-ultimate-process-rewiring-audio-in-film-projects/"><u>New In 2024, The Ultimate Process Rewiring Audio in Film Projects</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-increase-video-volume-and-make-video-sounds-louder-video-volume-booster-for-2024/"><u>New Increase Video Volume & Make Video Sounds Louder -Video Volume Booster for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-wordsmithing-ios-and-androids-leading-caption-tools/"><u>Photo Wordsmithing IOS and Android's Leading Caption Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-toolbox-what-every-youtube-newbie-needs-for-2024/"><u>The Ultimate Toolbox What Every YouTube Newbie Needs for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-transform-your-videos-into-animated-masterpieces-a-step-by-step-guide/"><u>Updated In 2024, Transform Your Videos Into Animated Masterpieces A Step-by-Step Guide</u></a></li>
 </ul></div>
 

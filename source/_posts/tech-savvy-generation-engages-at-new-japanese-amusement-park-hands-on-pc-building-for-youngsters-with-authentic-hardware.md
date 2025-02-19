@@ -1,7 +1,7 @@
 ---
 title: Tech-Savvy Generation Engages at New Japanese Amusement Park – Hands-On PC Building for Youngsters with Authentic Hardware
-date: 2025-02-07T16:03:15.644Z
-updated: 2025-02-09T16:06:20.520Z
+date: 2025-02-16T19:46:37.551Z
+updated: 2025-02-19T19:00:57.629Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,19 +78,22 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-elevate-your-design-game-with-expert-level-3d-text-tips-for-2024/"><u>[New] Elevate Your Design Game with Expert-Level 3D Text Tips for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-sci-fi-extraordinaire-journey-to-novel-universes-in-10-films-for-2024/"><u>[New] Sci-Fi Extraordinaire Journey to Novel Universes in 10 Films for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-unlock-the-art-of-recording-all-your-hulu-content-for-2024/"><u>[New] Unlock the Art of Recording All Your Hulu Content for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-ideal-steadicams-for-superior-quality-shoots-with-dslr-cameras/"><u>[Updated] Ideal Steadicams for Superior Quality Shoots with DSLR Cameras</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-simplified-guide-to-iphone-display-recordings/"><u>[Updated] Simplified Guide to IPhone Display Recordings</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-guide-for-effective-periscope-use-for-2024/"><u>[Updated] The Ultimate Guide for Effective Periscope Use for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-panoramic-photography-with-a-fisheye-effect/"><u>2024 Approved Mastering Panoramic Photography with a Fisheye Effect</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-leading-webcams-to-boost-your-zoom-experience/"><u>In 2024, Leading Webcams to Boost Your Zoom Experience</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-step-by-step-process-for-transforming-videos-through-dubbing-using-filmora/"><u>New The Ultimate Step-by-Step Process for Transforming Videos Through Dubbing Using Filmora</u></a></li>
-<li><a href="https://games-able.techidaily.com/on-the-fly-gaming-top-20-speedy-and-easy-to-play-phones-games/"><u>On The Fly Gaming: Top 20 Speedy and Easy-to-Play Phones Games</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-essential-handbook-to-audio-timeline-control-mastering-keyframe-creation-and-editing-in-adobe-premiere-pro-mac/"><u>The Essential Handbook to Audio Timeline Control Mastering Keyframe Creation and Editing in Adobe Premiere Pro (Mac)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-essential-tips-for-capturing-sound-with-your-samsung-s10s9/"><u>Updated 2024 Approved Essential Tips for Capturing Sound with Your Samsung S10/S9</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-achieving-balanced-video-audios-four-essential-techniques/"><u>Updated Achieving Balanced Video Audios Four Essential Techniques</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-merge-video-and-audio/"><u>Updated How to Merge Video and Audio</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-behind-the-scenes-unpacking-instagram-stories-for-2024/"><u>[New] Behind the Scenes Unpacking Instagram Stories for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-effortless-device-integration-with-obs-for-streaming-on-pcmac/"><u>2024 Approved Effortless Device Integration with OBS for Streaming on PC/Mac</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-8-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 8 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-zte-nubia-z60-ultra-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix ZTE Nubia Z60 Ultra System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210377647-9780980211146-answers-to-lifes-enduring-questions/"><u>Answers to Life's Enduring Questions | Free Book</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/exploring-the-past-top-10-educational-history-yt-channels-for-2024/"><u>Exploring the Past Top 10 Educational History YT Channels for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/1723262396810-get-the-best-deal-high-performance-msi-aegis-r2-rtx-nvidia-4070-super-intel-core-i7-14700kf-under-1600-premium-prebuilt-gaming-pc-sale/"><u>Get the Best Deal: High-Performance MSI Aegis R2 (RTX nVidia 4070 Super, Intel Core I7-14700KF) Under $1,600 - Premium Prebuilt Gaming PC Sale</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-android-photo-editing-uncovered-complete-review-of-lightroom-app/"><u>In 2024, Android Photo Editing Uncovered Complete Review of Lightroom App</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-hilarity-unleashed-top-7-amusing-youtube-channel-skits/"><u>In 2024, Hilarity Unleashed Top 7 Amusing YouTube Channel Skits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209290778-no-more-pdf-printing-woes-swift-solutions-that-work/"><u>No More PDF Printing Woes - Swift Solutions That Work</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-superior-mpeg-4-to-mp3-transformer-flawless-gratuitous-migration-from-mpa-files-to-mp3-clips-2023-version/"><u>Updated In 2024, Superior MPEG-4 to MP3 Transformer Flawless, Gratuitous Migration From MPA Files to MP3 Clips (2023 Version)</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-unveiling-the-top-10-audio-editing-platforms-a-guide-to-free-and-paid-services-for-musicians/"><u>Updated In 2024, Unveiling the Top 10 Audio Editing Platforms A Guide to Free & Paid Services for Musicians</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-what-is-audio-ducking-and-how-to-use-it-in-filmora/"><u>Updated In 2024, What Is Audio Ducking and How to Use It in Filmora</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mastering-audio-cut-and-mix-a-comprehensive-guide-to-using-avidemux-for-2024/"><u>Updated Mastering Audio Cut and Mix A Comprehensive Guide to Using Avidemux for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-podcast-editing-101-how-to-edit-a-podcast/"><u>Updated Podcast Editing 101 How to Edit a Podcast</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-ultimate-directory-of-free-lofi-soundtracks-and-visuals-for-2024/"><u>Updated Ultimate Directory of Free Lofi Soundtracks and Visuals for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/voice-to-word-made-easy-discovering-the-best-free-android-and-ios-transcription-tools-for-2024/"><u>Voice to Word Made Easy Discovering the Best Free Android and iOS Transcription Tools for 2024</u></a></li>
 </ul></div>
 

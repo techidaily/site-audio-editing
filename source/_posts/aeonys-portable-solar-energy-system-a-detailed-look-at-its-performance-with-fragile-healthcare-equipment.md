@@ -1,7 +1,7 @@
 ---
 title: "AeonY's Portable Solar Energy System: A Detailed Look at Its Performance with Fragile Healthcare Equipment"
-date: 2025-02-08T17:31:05.823Z
-updated: 2025-02-09T18:34:03.512Z
+date: 2025-02-12T19:21:37.412Z
+updated: 2025-02-19T18:22:30.784Z
 categories:
   - BestProducts
 description: "This Article Describes AeonY's Portable Solar Energy System: A Detailed Look at Its Performance with Fragile Healthcare Equipment"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 ## Extollo LANSocket 1500 Powerline Adapter
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/bp3nz_Kph6TOTz5TF4sk7NQJt4w=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-HeroSquare-41f20e9c72b84bfd92f578807ae1edaf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -68,11 +72,11 @@ Lifewire / Jeremy Laukkonen
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/RdkUagNDw_OXvrfwGOGMOW0T13A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215_06-4afb73694c464ec8a21e45d7f8ad3327.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Jeremy Laukkonen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design: Big, bulky, and basic, with a filtered pass-through**
 
@@ -88,10 +92,14 @@ Lifewire / Jeremy Laukkonen
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/Ahhqweppp7LoE4s2gervkZuyOS8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-04-e086de486a5a4e16ac16cff8ae813b22.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Jeremy Laukkonen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: Pain-free plug and play**
@@ -108,15 +116,15 @@ Lifewire / Jeremy Laukkonen
 
  Lifewire / Jeremy Laukkonen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Connectivity: MIMO with beamforming**
 
  The Extollo LANSocket 1500 powerline adapters use the HomePlug AV2 specification, which includes support for[multi-in, multi-out (MIMO)](https://www.lifewire.com/mimo-wifi-routers-818332) with beamforming, which increases both speed and the allowable distance between adapters. This is a significant improvement over the HomePlug AV specification, which is slower and requires you to place your adapters more closely together.
 
 ![Extollo LANSocket 1500 Powerline Adapter Kit](https://www.lifewire.com/thmb/B7pek1jOL0gtn-sl7QsuHcO3_CU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4141215-03-04f860db31f049e1a2ecb40196f7aaf7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Jeremy Laukkonen
 
@@ -148,19 +156,11 @@ Lifewire / Jeremy Laukkonen
 
  The embedded Linux distro does open up some security concerns, but they can be mostly erased if you connect through a firewalled router. You can find cheaper options, but the bottom line is that you won’t find a cheaper alternative that provides the same high speed, low latency, video buffering, and pass-through socket that you get with the LANSocket 1500.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Decent price for such good performance**
 
  The Extollo LANSocket 1500 has an MSRP of $90 for a set of two. That places these adapters right in the same general price range as other similar devices. You can find HomePlug AV2 compatible adapters for a little less, but they typically don’t perform quite as well.
 
  Since the LANSocket 1500 adapters are so easy to use, and provide such a high level of performance, it’s our judgment that they’re worth the $10 or so premium you’ll typically pay compared to similar competitors.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Competition: Wins on transfer speeds with some security concerns**
 
@@ -185,7 +185,7 @@ Lifewire / Jeremy Laukkonen
  The Extollo LANSocket 1500 checks all the right boxes, with some of the highest speeds on the market, a pass-through electrical socket, and a decent price. The high speeds and low latency make this kit a good choice if you need to connect a game console, and the extra memory allowed by the use of Linux really helps out if you stream a lot of video, just be wary of security considerations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -218,22 +218,15 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-step-by-step-for-macos-sierras-system-return-to-el-capitan-for-2024/"><u>[New] Step-by-Step for MacOS Sierra's System Return to El Capitan for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oneplus-12r-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/5-key-reasons-why-sending-tokens-of-affection-through-apple-products-may-not-work/"><u>5 Key Reasons Why Sending Tokens of Affection Through Apple Products May Not Work</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-fujitsus-scansnap-ix1400-a-must-have-scanner-for-small-businesses-and-work-from-home-setups/"><u>Comprehensive Review of Fujitsu's ScanSnap iX1400: A Must-Have Scanner for Small Businesses and Work From Home Setups</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-best-budget-friendly-amd-b550-motherboards-with-advanced-pci-express-40-performance/"><u>Discover the Best Budget-Friendly AMD B550 Motherboards with Advanced PCI Express 4.0 Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-your-lenovo-mouse-mat-compatibility-with-windows-10-8-and-7-systems/"><u>How to Repair Your Lenovo Mouse Mat Compatibility with Windows 10, 8 & 7 Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-conversions-enable-zooming-on-pages-in-pdfs-made-from-word-documents-with-ease-flipbuilder-guide/"><u>Mastering Conversions: Enable Zooming on Pages in PDFs Made From Word Documents with Ease (FlipBuilder Guide)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/rhythm-and-reel-leveraging-premiere-pro-features-for-time-synchronized-video-editing-for-2024/"><u>Rhythm and Reel Leveraging Premiere Pro Features for Time-Synchronized Video Editing for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-easy-way-to-remove-vocals-from-an-audio-track-in-audacity/"><u>The Easy Way to Remove Vocals From an Audio Track in Audacity</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-premier-list-smartphone-applications-that-revolutionize-vocal-identity-for-2024/"><u>The Premier List Smartphone Applications That Revolutionize Vocal Identity for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/ultimate-guide-to-accessing-copy-free-song-conclusions/"><u>Ultimate Guide to Accessing Copy-Free Song Conclusions</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-6-best-websites-to-download-whoosh-sound-effect-easily-for-2024/"><u>Updated 6 Best Websites to Download Whoosh Sound Effect (Easily) for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-audio-edits-unleashed-navigating-the-tools-of-avidemux-for-professional-results/"><u>Updated Audio Edits Unleashed Navigating the Tools of Avidemux for Professional Results</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-from-song-to-script-simple-strategies-for-transcribing-mp3-audio-files-online-for-2024/"><u>Updated From Song to Script Simple Strategies for Transcribing MP3 Audio Files Online for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-echo-excellence-enhancing-windows-pc-sounds-with-online-acoustic-plugins/"><u>Updated In 2024, Echo Excellence Enhancing Windows PC Sounds with Online Acoustic Plugins</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/yl-computings-serene-floral-nighttime-wallpapers-and-bg-sets-the-perfect-end-of-day-inspiration/"><u>YL Computing's Serene Floral Nighttime Wallpapers & Bg Sets: The Perfect End-of-Day Inspiration</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-elevate-your-content-top-10-must-use-hashtags-on-ig/"><u>[Updated] In 2024, Elevate Your Content Top 10 Must-Use Hashtags on IG</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-6-best-8k-cameras-for-2024/"><u>[Updated] Top 6 Best 8K Cameras for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-event-highlights-exploring-anticipated-features-of-siri-ios-18-at-todays-wwdc-presentation-tech-innovations-blog/"><u>Apple Event Highlights: Exploring Anticipated Features of Siri, iOS 18 at Today's WWDC Presentation | Tech Innovations Blog</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-digital-habitat-steps-to-utilize-the-google-home-app-on-windows-and-mac-computers/"><u>Enhance Your Digital Habitat: Steps to Utilize the Google Home App on Windows & Mac Computers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-next-gen-audio-data-organizer-the-ultimate-tagging-app-for-windows-and-mac-users/"><u>New Next-Gen Audio Data Organizer The Ultimate Tagging App for Windows & Mac Users,</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-speech-to-mp3-conversion-tool-windows-mac-android-and-ios-compatibility-for-2024/"><u>New Speech-to-MP3 Conversion Tool Windows, Mac, Android & iOS Compatibility for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/tips-for-gradual-decrease-of-audio-loudness-in-fl-studio/"><u>Tips for Gradual Decrease of Audio Loudness in FL Studio</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-exploring-free-software-for-high-quality-voice-and-audio-recordings-from-your-pc/"><u>Updated 2024 Approved Exploring Free Software for High-Quality Voice and Audio Recordings From Your PC</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-essential-speech-recognition-software-android-and-ios-comparisons/"><u>Updated Essential Speech Recognition Software Android & iOS Comparisons</u></a></li>
 </ul></div>
 

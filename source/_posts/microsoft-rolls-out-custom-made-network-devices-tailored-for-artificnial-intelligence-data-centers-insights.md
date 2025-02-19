@@ -1,7 +1,7 @@
 ---
 title: Microsoft Rolls Out Custom-Made Network Devices Tailored for Artificnial Intelligence Data Centers - Insights
-date: 2025-02-03T17:02:35.552Z
-updated: 2025-02-09T16:47:29.189Z
+date: 2025-02-13T16:11:14.479Z
+updated: 2025-02-19T16:00:41.788Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,24 +62,15 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ow-to-enable-monetization-on-youtube-for-mobile-devices-a-2024-guide/"><u>[New] How to Enable Monetization on YouTube for Mobile Devices A 2024 Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-this-video-will-get-you-100000-views-on-youtube/"><u>[New] This Video Will Get You 100000 Views on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlock-new-dimensions-of-sound-best-free-valorant-audio-alterer-revealed/"><u>[New] Unlock New Dimensions of Sound Best Free Valorant Audio Alterer Revealed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-budget-friendly-high-definition-action-cams/"><u>2024 Approved Ultimate Budget-Friendly High Definition Action Cams</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-spark-10-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Spark 10 Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dash-and-dancers-wonder-workshop-assessment-a-comprehensive-overview-of-the-innovative-rolling-robotic-toy/"><u>Dash & Dancers Wonder Workshop Assessment: A Comprehensive Overview of the Innovative Rolling Robotic Toy</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-your-perfect-match-latest-hp-deskjet-2-2652-printer-drivers-for-all-windows-versions-1087-and-11/"><u>Find Your Perfect Match: Latest HP Deskjet 2지트 2652 Printer Drivers for All Windows Versions (10,8,7 & 11)</u></a></li>
-<li><a href="https://win-online.techidaily.com/guaranteeing-full-file-safety-during-windows-noraing-updates-a-comprehensive-guide/"><u>Guaranteeing Full File Safety During Windows Noraing Updates: A Comprehensive Guide</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-best-9-ai-voice-generators-that-will-save-your-day/"><u>New 2024 Approved Best 9 AI Voice Generators That Will Save Your Day</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-recognize-songs-on-iphone-withwithout-iphone-music-recognition/"><u>New 2024 Approved How to Recognize Songs on iPhone With/Without iPhone Music Recognition</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-seamless-synergy-merging-soundtracks-with-visual-narratives-in-modern-cinema/"><u>New 2024 Approved Seamless Synergy Merging Soundtracks with Visual Narratives in Modern Cinema</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-speech-recognition-to-mp3-seamless-integration-across-devices-and-oses/"><u>New 2024 Approved Speech Recognition to MP3 Seamless Integration Across Devices and OSes</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-voice-transformation-wizardry-on-a-budget-comprehensive-filmora-edition-for-audio-customization/"><u>New 2024 Approved Voice Transformation Wizardry on a Budget Comprehensive Filmora Edition for Audio Customization</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-cutting-edge-6-internet-audio-divide-and-conquer-software/"><u>New Cutting Edge 6 Internet Audio Divide and Conquer Software</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-cutting-edge-ios-daw-apps-a-guide-to-the-8-best-choices-for-tablets-and-smartphones/"><u>New Cutting-Edge iOS DAW Apps A Guide to the 8 Best Choices for Tablets and Smartphones</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-elite-costless-mp3-collision-system-2023s-recommended-choices/"><u>New In 2024, Elite Costless MP3 Collision System 2023S Recommended Choices</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-exploring-the-best-cinematic-sounds-an-assembled-top-8-collection/"><u>New In 2024, Exploring the Best Cinematic Sounds - An Assembled Top 8 Collection</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-free-online-platforms-for-watching-live-sport-events/"><u>Top 5 Free Online Platforms for Watching Live Sport Events</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-alert-the-rtx-4080-graphics-card-just-dropped-to-270-for-black-friday-dont-miss-out/"><u>Unbeatable Deal Alert: The RTX √ 4080 Graphics Card Just Dropped to $270 for Black Friday - Don't Miss Out!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tiktoks-toptwitter-tweets-amassing-views/"><u>[New] In 2024, TikTok's #TopTwitter Tweets Amassing Views</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-inside-apoyser-detailed-comparison-with-leading-screen-recorder-apps-for-2024/"><u>[New] Inside Apoyser Detailed Comparison with Leading Screen Recorder Apps for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-x8b-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor X8b</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/utube-video-ideas-for-sharing-your-personal-story-for-2024/"><u>10 YouTube Video Ideas for Sharing Your Personal Story for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-time-lapse-with-your-samsung-phone/"><u>2024 Approved Mastering Time Lapse with Your Samsung Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sound-in-windows-10-for-anthem-game-effective-solutions/"><u>Restoring Sound in Windows 10 for Anthem Game: Effective Solutions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/tasteful-harmonies-for-streaming-media-artistry/"><u>Tasteful Harmonies for Streaming Media Artistry</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-master-list-of-speech-processing-software-with-top-8-selection-catering-to-desktop-pcs-macintosh-and-web-interface-usage/"><u>Updated 2024 Approved Master List of Speech Processing Software with Top 8 Selection, Catering to Desktop PCs, Macintosh and Web Interface Usage</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-10plus-free-online-audio-to-text-converters/"><u>Updated In 2024, 10+ Free Online Audio to Text Converters</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-audio-metamorphosis-transforming-mp3-files-into-mp4-with-ease/"><u>Updated In 2024, Audio Metamorphosis Transforming MP3 Files Into MP4 with Ease</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Premiere Pro Simplified Guide to Managing Audio Layers
-date: 2025-02-06T16:59:53.924Z
-updated: 2025-02-09T17:42:57.396Z
+date: 2025-02-15T17:37:41.539Z
+updated: 2025-02-19T17:16:47.447Z
 tags: 
   - audio editing software
   - audio editing
@@ -38,10 +38,6 @@ Mixing tracks is when audio is blended and mixed together in a sequence, and you
 
 ![Audio Track Mixer overview](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-overview.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 With audio track mixer, you can see each track being played in real time, not just on the timeline but also on its own screen. Then you can do a few things to each track such as:
 
 * listen to tracks separately or together
@@ -50,12 +46,16 @@ With audio track mixer, you can see each track being played in real time, not ju
 
 ![Audio Track Mixer details](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-detailes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can even look at meters while the main window is closed, which is helpful if you need to free up some space or organize your sounds while other data is shown.
 
 You can see the sequence in real time as it is being played, see the peaks and valleys of the sound, and ensure that you can control the volume for every track. You’ll have total control over the sound, and the playback.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Audio Track Mixer Settings
@@ -67,16 +67,12 @@ Using mono tracks allows you to alter the sound for left and right settings, whi
 ![ Audio Track Mixer Settings](https://images.wondershare.com/filmora/filmorapro/audio-track-mixer-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The audio files are edited both in the audio interface and in a timeline, where it is either imported or directly recorded. Then their waveforms can be viewed, the volume and sounds can be adjusted, and [larger audio mixes can be divided into sub-mixes](https://www.izotope.com/en/blog/mixing/5-approaches-to-submixes.html).
 
 All your changes will happen on the timeline, and you’ll be able to listen to the new track instantly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Using Audio Track Mixer for Your next Project
 
@@ -87,7 +83,7 @@ Instead of wasting hours staring at the computer screen, using the Audio Track M
 Use the track mixer to manage and customize your sounds, see the volume and base of each individual track in real time, and set when tracks come in and fade out. Using the mixer will allow you to have picture perfect sound quality, every single time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -95,6 +91,10 @@ Use the track mixer to manage and customize your sounds, see the volume and base
 If you want to edit audio in an easier way, here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). It is a video editor designed for people who want to enter a higher level of video editing. You can use FilmoraPro to do automatic audio sync. Equalize the highs and lows of your audio to normalize the volume of your clips and Reduce unwanted background sounds, like crowds or wind with this feature. It is a powerful audio editor for you. Download it now to have a try!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -111,18 +111,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-compre-web-resources-for-effortless-youtube-template-access/"><u>[New] 2024 Approved Compre-Web Resources for Effortless YouTube Template Access</u></a></li>
-<li><a href="https://facebook.techidaily.com/connectivity-coalition-evaluating-the-leading-20-social-networks/"><u>Connectivity Coalition: Evaluating the Leading 20 Social Networks</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-guide-to-downloading-and-updating-creativitys-webcam-software-on-pc/"><u>Easy Guide to Downloading & Updating Creativity's Webcam Software on PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-tecno-spark-20-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Tecno Spark 20</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-is-your-channels-income-regular-via-youtube/"><u>In 2024, Is Your Channel's Income Regular via YouTube?</u></a></li>
-<li><a href="https://article-files.techidaily.com/latest-smartphones-and-their-fit-with-gear-vr-technology-for-2024/"><u>Latest Smartphones and Their Fit With Gear VR Technology for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-aiff-to-mp3-an-experts-methodology-for-audio-conversion/"><u>New 2024 Approved AIFF to MP3 An Experts Methodology for Audio Conversion</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-cybercast-seminar-key-concepts-and-deeper-understanding/"><u>New 2024 Approved Cybercast Seminar Key Concepts and Deeper Understanding</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-acoustic-detox-the-best-programs-for-minimizing-environmental-audio-interference-for-2024/"><u>New Acoustic Detox The Best Programs for Minimizing Environmental Audio Interference for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-add-and-edit-background-music-to-video-with-filmora-for-2024/"><u>New Add & Edit Background Music to Video with Filmora for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-6-best-voice-changers-for-chromebook-deserve-a-try/"><u>New In 2024, 6 Best Voice Changers for Chromebook Deserve a Try</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-mastering-beats-and-melodies-a-compilation-of-top-8-audio-workstations-on-android/"><u>New Mastering Beats and Melodies A Compilation of Top 8 Audio Workstations on Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-complete-handbook-for-capturing-and-organizing-skype-call-data-for-2024/"><u>[Updated] The Complete Handbook for Capturing and Organizing Skype Call Data for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-y55s-5g-2023-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo Y55s 5G (2023) to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-efficient-route-for-vimeo-uploads-from-window-media-tools/"><u>2024 Approved Efficient Route for Vimeo Uploads From Window Media Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-inexpensive-quality-camera-solutions/"><u>2024 Approved Inexpensive Quality Camera Solutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-stealthy-sound-extinction-in-audacity/"><u>2024 Approved Mastering the Art of Stealthy Sound Extinction in Audacity</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-7-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 7</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-14-plus-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 14 Plus Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-vivo-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Vivo FRP</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/lyrx-karaoke-program-version-110-experience-enhanced-singing-with-inbuilt-kill-vocal-feature-available-for-download/"><u>LYRX Karaoke Program Version 1.10: Experience Enhanced Singing with Inbuilt 'Kill Vocal' Feature - Available for Download</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-stunning-sound-editing-tool-exploring-features-advantages-limitations-and-competitors/"><u>New Stunning Sound Editing Tool Exploring Features, Advantages, Limitations, and Competitors</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/resonant-harmony-a-comprehensive-list-of-voice-enhancing-apps-for-all-audiences-and-budgets/"><u>Resonant Harmony A Comprehensive List of Voice-Enhancing Apps for All Audiences and Budgets</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-audio-synchronization-techniques-for-mac-users-bringing-melodies-to-gifs/"><u>Updated 2024 Approved Audio Synchronization Techniques for Mac Users Bringing Melodies to GIFs</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-omegle-exclusion-no-more-strategies-for-removal-from-the-blacklist/"><u>Updated 2024 Approved Omegle Exclusion No More Strategies for Removal From the Blacklist</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-definitive-guide-to-high-quality-audio-edits-on-apples-mobile-devices-this-year/"><u>Updated 2024 Approved The Definitive Guide to High-Quality Audio Edits on Apples Mobile Devices This Year</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-clearing-the-microphone-effective-strategies-for-cutting-out-vocals-using-audacitys-spectrum-analyzer/"><u>Updated Clearing the Microphone Effective Strategies for Cutting Out Vocals Using Audacitys Spectrum Analyzer</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-from-silence-to-symphony-a-practical-approach-to-changing-video-audio-part-1-for-2024/"><u>Updated From Silence to Symphony A Practical Approach to Changing Video Audio (Part 1) for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-harmonize-your-hearings-top-software-to-extract-clean-soundscapes-from-original-recordings/"><u>Updated Harmonize Your Hearings Top Software to Extract Clean Soundscapes From Original Recordings</u></a></li>
 </ul></div>
 

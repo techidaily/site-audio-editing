@@ -1,7 +1,7 @@
 ---
 title: Updated Expert Approach to Extracting and Erasing Drum Tracks From Songs Digitally Hosted Online
-date: 2024-12-07T17:48:40.502Z
-updated: 2024-12-09T21:04:08.371Z
+date: 2025-02-17T19:39:13.832Z
+updated: 2025-02-19T19:11:35.850Z
 tags: 
   - audio editing software
   - audio editing
@@ -25,7 +25,7 @@ Many drummers are interested in getting the best out of audio tracks. With **dru
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 1\. How to Remove Drums From Any Song: 2 Easy Methods**
@@ -57,7 +57,7 @@ This makes it a great choice when removing drums from music on SoundCloud or the
 Although some tracks will not isolate the best with this web app, it gets the work done. Once you download the files, it is easy to bring the songs into DAW to play along. The process makes it simple to create drum covers fast that you can play along with other web mixers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. Extract Drums from a Song Online with VST Plugins**
@@ -65,6 +65,10 @@ Although some tracks will not isolate the best with this web app, it gets the wo
 For those who want to do more of the work, VST plugins for removing drums from music are a great option. These are software modules that take the form of real-time effects or instruments. They may also have MIDI effects, giving more freedom with audio editing, The inability to adjust or customize settings when extracting drums from a soundtrack is one of the major downfalls of a web-based application. With VST plugins, this issue is no longer a concern.
 
 ![vst plugins](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-2.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 With VSTs, you are more flexible and able to deliver better results. They are often used in applications that support VST technology, including Cakewalk Sonar, Steinberg Cubase, Sound Forge Pro, Ableton Live, and many others. Some of the most common ones include:
 
@@ -90,7 +94,7 @@ Removing drums from a song becomes easier with the right tools. In most cases, y
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [**AI Vocal Remover**](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -128,11 +132,7 @@ Drag and drop the files you have imported to Filmora to the timeline so you can 
 ![start ai vocal remover](https://images.wondershare.com/filmora/article-images/2023/remove-drums-from-a-song-easy-tips-and-tricks-6.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -152,24 +152,22 @@ You may want to extract drums from your favorite songs for various reasons. Mayb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-premium-top-8-selection-tripods-for-high-res-cameras/"><u>[New] Premium Top 8 Selection Tripods for High-Res Cameras</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-unparalleled-selection-of-8-android-multiparty-tools-for-2024/"><u>[New] Unparalleled Selection of 8 Android Multiparty Tools for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-secrets-to-free-hd-video-grabs-from-facebook/"><u>[Updated] 2024 Approved Secrets to Free HD Video Grabs From Facebook</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-step-by-step-guide-for-pcmac-movie-recording-for-2024/"><u>[Updated] Step-by-Step Guide for PC/Mac Movie Recording for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-techniques-for-effective-siri-voice-use-in-tiktok/"><u>[Updated] Techniques for Effective Siri Voice Use in TikTok</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/affordable-deskmate-x600-with-integrated-full-sized-gpu-exclusive-to-chinese-market-at-193-price-tag/"><u>Affordable DeskMate X600 with Integrated Full-Sized GPU, Exclusive to Chinese Market at $193 Price Tag</u></a></li>
-<li><a href="https://fox-that.techidaily.com/boosting-browser-speed-enhancing-safaris-velocity-on-your-iphone/"><u>Boosting Browser Speed: Enhancing Safari's Velocity on Your iPhone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/flawless-free-android-snapmaker/"><u>Flawless Free Android SnapMaker</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mirthful-melodies-where-to-find-hilarious-tunes/"><u>Mirthful Melodies Where to Find Hilarious Tunes</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/modest-class-video-gear-an-in-depth-review-of-vixias-hf-r800/"><u>Modest-Class Video Gear: An In-Depth Review of VIXIA’s HF R800</u></a></li>
-<li><a href="https://windows11.techidaily.com/removing-geforce-graphical-overlay-feature/"><u>Removing GeForce Graphical Overlay Feature</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-comprehensive-handbook-for-japanese-language-study/"><u>The Comprehensive Handbook for Japanese Language Study</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-streamlining-sound-integration-a-fast-fix-manual-for-premiere-pro/"><u>Updated In 2024, Streamlining Sound Integration A Fast Fix Manual for Premiere Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-top-8-digital-audio-workstations-your-ultimate-guide-for-producing-high-quality-music/"><u>Updated In 2024, Top 8 Digital Audio Workstations Your Ultimate Guide for Producing High-Quality Music</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-top-picks-of-free-hd-video-backdrops-the-internets-most-reliable-sources-updated/"><u>Updated In 2024, Top Picks of Free HD Video Backdrops The Internets Most Reliable Sources (Updated )</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-art-of-precision-modern-methods-to-automatically-align-sound-and-picture-for-2024/"><u>Updated The Art of Precision Modern Methods to Automatically Align Sound and Picture for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-secret-weapon-of-gamers-vocal-charisma-mastering-morphvox-techniques-for-in-game-broadcasts/"><u>Updated The Secret Weapon of Gamers Vocal Charisma Mastering Morphvox Techniques for In-Game Broadcasts</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-guide-to-spectacular-sound-art-ranking-the-top-5-visualizers/"><u>Updated The Ultimate Guide to Spectacular Sound Art Ranking the Top 5 Visualizers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-voice-recognition-technology-compilation-windows-and-macos-dictation-software-plus-cloud-services-ranked-top-8/"><u>Updated The Ultimate Voice Recognition Technology Compilation Windows & macOS Dictation Software + Cloud Services Ranked (Top 8 )</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-lenovos-screen-recording-an-in-depth-user-manual/"><u>[New] Lenovo’s Screen Recording – An In-Depth User Manual</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-speaker-based-call-tape-recorder-iphone-2024/"><u>[Updated] Speaker-Based Call Tape Recorder iPhone 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-audio-capture-in-windows-11/"><u>2024 Approved Streamlining Audio Capture in Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/enhancing-artistic-photographs-with-illustrators-motion-blur/"><u>Enhancing Artistic Photographs with Illustrator's Motion Blur</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-silent-windows-11-simple-steps-for-restoring-audio/"><u>How to Fix Silent Windows 11: Simple Steps for Restoring Audio</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-mastering-sound-a-comprehensive-guide-to-normalizing-audio-in-multimedia-content/"><u>New Mastering Sound A Comprehensive Guide to Normalizing Audio in Multimedia Content</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-proven-choices-selecting-the-top-6-costless-cloud-based-sound-editors-for-2024/"><u>New Proven Choices Selecting the Top 6 Costless Cloud-Based Sound Editors for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/resolve-your-missing-disk-space-issue-with-windows-11-step-by-step-partition-restoration-tutorial-video/"><u>Resolve Your Missing Disk Space Issue with Windows 11: Step-by-Step Partition Restoration Tutorial Video</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-for-updating-broadcom-netlink-gigabit-ethernet-driver-on-windows-11/"><u>Step-by-Step Instructions for Updating Broadcom NETLink Gigabit Ethernet Driver on Windows 11</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-analyzing-auditory-excellence-the-revised-assessment-of-the-cambridge-cxu-equipment-2023-edition/"><u>Updated 2024 Approved Analyzing Auditory Excellence The Revised Assessment of the Cambridge CXU Equipment, 2023 Edition</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-how-to-fade-in-and-fade-out-audio-in-imovie/"><u>Updated 2024 Approved How to Fade in and Fade Out Audio in iMovie?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-seek-out-wolfs-vocalization-echo/"><u>Updated 2024 Approved Seek Out Wolfs Vocalization Echo</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-5-proven-methods-to-record-quality-sound-on-apple-devices-for-2024/"><u>Updated 5 Proven Methods to Record Quality Sound on Apple Devices for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-audiophiles-handbook-advanced-imovie-audio-editing-mastery/"><u>Updated Audiophiles Handbook Advanced iMovie Audio Editing Mastery</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-audio-fur-phenomenon-sample/"><u>Updated In 2024, Audio Fur Phenomenon Sample</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Fade Music and Audio in iMovie on Mac?
-date: 2024-12-08T18:10:08.438Z
-updated: 2024-12-09T18:32:28.866Z
+date: 2025-02-18T17:49:07.246Z
+updated: 2025-02-19T16:06:20.175Z
 tags: 
   - audio editing software
   - audio editing
@@ -47,9 +47,17 @@ After adding the fade-in and fade-out effects to your video, let's check how to 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Fade Music and Audio in iMovie on Mac
 
 There are two ways available to fade music and audio with iMovie. One is using the fade handles, and the other is using the audio inspector. Before using iMovie audio fade-out effects, please import your video and audio files to iMovie and start a new project.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Use Fade Handles to Add Fade in/Fade out Effect in iMovie
 
@@ -76,14 +84,10 @@ Move the playhead to the beginning part of the clips with fade effects to check 
 ![imovie audio fade out pointer](https://images.wondershare.com/filmora/article-images/imovie-audio-fade-out-pointer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Related:** [How to Remove Background Noise from Video](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Use the Audio Inspector to Apply Fade in/Fade Out Effect in iMovie
 
@@ -94,10 +98,6 @@ To fade audios in and out in iMovie with the audio inspector, you can follow the
 Double-click the video clip, choose "Clip Adjustments" to open the Inspector, and then click the "Audio" tab.
 
 ![resize video](https://images.wondershare.com/topic/video-editing/imovie-audio-fade-effects.jpg "resize video")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If there are two audio tracks, and you want to set the fade in and fade out in iMovie for the background music, you can double-click the background music clip to open the audio inspector. This inspector is a little different. If you don't know how to add background music to iMovie, you can refer to this post: [add background music in iMovie](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -112,6 +112,10 @@ If you manually adjust the effect, you can have a better effect.
 #### Step 3. Save the Audio Fade In and Out Effect
 
 ![imovie fade audio done](https://images.wondershare.com/filmora/article-images/imovie-fade-audio-done.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After the settings, you can preview the effect in the viewing window to make sure all goes well, and you are much satisfied. Then click "Done" to save the audio fade-in and fade-out effects in iMovie.
 
@@ -137,10 +141,6 @@ Place the video onto the timeline. Double-click on it and then choose "Audio". I
 
 ![fade aduio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg "resize video")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 3. Save Your Video
 
 Click the "Export" button to select one of the export methods. You can choose your desired format or mobile devices, burn it to DVD and upload it to YouTube and Vimeo.
@@ -152,7 +152,7 @@ That's all about how to fade music and audio with iMovie and its alternative. If
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -170,18 +170,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-pivotal-point-in-view-count-for-online-earning/"><u>[New] 2024 Approved The Pivotal Point in View Count for Online Earning</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-capture-win10-ranking-the-best-video-grabbers-for-2024/"><u>[New] Capture Win10 Ranking the Best Video Grabbers for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-spark-20c-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/cyberpowerpc-gamer-xtreme-assessed-budget-friendly-and-open-for-upgrades/"><u>CyberPowerPC Gamer Xtreme Assessed – Budget-Friendly and Open for Upgrades</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy A05s? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oppo-reno-10-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Oppo Reno 10 5G Phone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/1723262388179-the-epic-showdown-amds-epyc-processors-vs-nvidias-arm-powered-grace-who-wins-on-performance-double-the-speed-revealed/"><u>The Epic Showdown: AMD's EPYC Processors Vs. Nvidia's ARM-Powered Grace - Who Wins on Performance? Double the Speed Revealed</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-ultimate-guide-to-hardware-solutions-by-toms-hardware/"><u>The Ultimate Guide to Hardware Solutions by Tom's Hardware</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-way-of-the-warrior-game-lineup-mirroring-ghost-of-tsushima-for-2024/"><u>The Way of the Warrior Game Lineup Mirroring Ghost of Tsushima for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-nokia-c110-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Nokia C110 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-omegle-reinstated-guide-to-regaining-profile-approval-status-for-2024/"><u>Updated Omegle Reinstated Guide to Regaining Profile Approval Status for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-revolutionizing-virtual-conferences-the-top-5-voice-altering-apps-for-google-meet-users-for-2024/"><u>Updated Revolutionizing Virtual Conferences The Top 5 Voice Altering Apps for Google Meet Users for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-ultimate-top-pop-tunes-playlist-for-video-production/"><u>Updated Ultimate Top Pop Tunes Playlist for Video Production</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-your-channel-maximizing-adsense-on-youtube-for-2024/"><u>[New] Elevating Your Channel Maximizing AdSense on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-essential-guide-free-youtube-image-saving/"><u>[New] The Essential Guide FREE YouTube Image Saving</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-prime-venues-for-vr-entertainment/"><u>[Updated] Prime Venues for VR Entertainment</u></a></li>
+<li><a href="https://win-best.techidaily.com/beheben-von-windows-11-startfehlern-nach-cloning-schnelllosung/"><u>Beheben Von Windows 11 Startfehlern Nach Cloning - Schnelllösung</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fix-compatibility-errors-with-startech-drivers-on-older-versions-of-windows/"><u>How to Fix Compatibility Errors with StarTech Drivers on Older Versions of Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-8-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 8?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/most-effective-parental-guidance-routers-for-internet-safety/"><u>Most Effective Parental Guidance Routers for Internet Safety</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-top-7-converting-audio-to-text-tools-for-2024/"><u>New Top 7 Converting Audio to Text Tools for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-top-8-animated-audio-tracks-for-creatives-free-downloads/"><u>New Top 8 Animated Audio Tracks for Creatives Free Downloads</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solve-windows-10-sound-problems-reinstall-audio-drivers/"><u>Solve Windows 10 Sound Problems: Reinstall Audio Drivers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-quintessential-list-8-iconic-sound-effects-from-todays-blockbusters-for-2024/"><u>The Quintessential List 8 Iconic Sound Effects From Todays Blockbusters for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcome-the-hurdle-of-error-0x800f0831-using-windows-update-features/"><u>Troubleshooting Tips: Overcome the Hurdle of Error 0X800f0831 Using Windows Update Features</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-audio-time-travel-discovering-leading-audio-reverser-technology/"><u>Updated 2024 Approved Audio Time Travel Discovering Leading Audio Reverser Technology</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-ultimate-selection-8-pinnacle-soundscapes-from-cinema/"><u>Updated 2024 Approved The Ultimate Selection 8 Pinnacle Soundscapes From Cinema</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-how-to-reverse-audio-with-best-audio-reversers/"><u>Updated How to Reverse Audio with Best Audio Reversers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-acoustic-aesthetics-mastering-speed-and-pitch-variations-in-adobe-rush/"><u>Updated In 2024, Acoustic Aesthetics Mastering Speed and Pitch Variations in Adobe Rush</u></a></li>
 </ul></div>
 

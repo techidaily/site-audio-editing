@@ -1,7 +1,7 @@
 ---
 title: Updated Turn Off Sounds & Import Unique Music for Windows Movie Editor for 2024
-date: 2025-02-07T16:58:18.069Z
-updated: 2025-02-09T17:52:43.037Z
+date: 2025-02-16T17:57:38.399Z
+updated: 2025-02-19T18:01:33.061Z
 tags: 
   - audio editing software
   - audio editing
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 * [Part 3: A Better Way to Replace Original Audio on Windows](#part3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Mute Audio in Windows Movie Maker?
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 ![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-interface.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click on the **Open** button in the Add Videos and Photos window and your clip will be imported into the software.
@@ -58,11 +58,11 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 
 ![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/mute-video-audio-windows-movie-maker.jpg)
 
- Drag the slider all the way to the left to mute the audio. Click the **Play button** in the preview window to make sure that video's sound is muted.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Drag the slider all the way to the left to mute the audio. Click the **Play button** in the preview window to make sure that video's sound is muted.
 
 ## Part 2: Adding a New Audio Clip to a Video
 
@@ -72,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 
 ![ Windows Movie Maker Audio Editing]( https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A drop-down menu will appear offering you to select music from an online source or to import an audio file from your computer. Moreover, you can select the starting point of the song you're importing so you don't have to adjust the position of the audio file in your project manually.
 
  In order to do this, you just have to position the playhead at the desired location and select the **Add music at the current point** option from the drop-down menu. You can change the position of the audio file by dragging it to a new location in the storyboard. Using MP3 or WMA audio file is recommended since other audio file formats may not be compatible with Windows Movie maker.
@@ -83,6 +79,14 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
 **Step 2:** The audio file you imported will be automatically added to the video clip on the Storyboard. Click Play in the preview window to check if you like the result. Head over to the **File** menu and click on the **Save Movie** option. Windows Movie Maker will offer you a number of different options and if you'd like to save your video to the computer, you should select the **For Computer** option.
 
 ![ Windows Movie Maker Audio Editing](https://images.wondershare.com/filmora/article-images/windows-movie-maker-save.jpg )
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Wondershare Filmora - A Better Way to Replace Audio Files in Videos on Windows OS
 
@@ -101,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8
  If you want to add a new audio clip to your project and replace the old one, you should select the existing audio file and press the delete button on your keyboard. You can then drag and drop the new audio file to the timeline from the software's Media Bin, or the **Music tab**, in case you decide to use songs featured in Filmora's music library. You can cut, trim or adjust the start and end position of the audio file or use some of the audio effects the software offers. When done, click on the **Export** button and select the output format that is most suitable for the project you're working on.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Conclusion**
 
@@ -127,18 +127,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-epic-retrospect-swiftly-undoing-iphone-videos/"><u>[New] In 2024, Epic Retrospect Swiftly Undoing iPhone Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagrams-visual-spectacle-becoming-a-reel-wizard/"><u>[New] In 2024, Instagram's Visual Spectacle Becoming a Reel Wizard</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-achieving-excellence-in-work-and-online-content/"><u>[Updated] Achieving Excellence in Work and Online Content</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-editorelite-roundup-full-overview-of-androvid/"><u>2024 Approved EditorElite Roundup – Full Overview of AndroVid</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-15-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 15 without Security Questions?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-poco-x6-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Poco X6 Pro Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/lg-smart-tv-tricks-hooking-up-and-watching-espn-plus-with-ease/"><u>LG Smart TV Tricks: Hooking Up and Watching ESPN Plus with Ease</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-by-step-cheatsheet-for-stunning-collage-art/"><u>Step-by-Step Cheatsheet for Stunning Collage Art</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-procedure-for-restoring-icons-on-windows-11s-search-bar/"><u>The Procedure for Restoring Icons on Windows 11'S Search Bar</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-leading-speech-recognition-applications-on-the-market-android-and-iphone-focus/"><u>Updated In 2024, The Leading Speech Recognition Applications on the Market - Android & iPhone Focus</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-three-key-techniques-to-uniform-audio-amplitude/"><u>Updated The Three Key Techniques to Uniform Audio Amplitude</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-virtual-error-sounds-library-2023-complimentary-access-and-downloads/"><u>Updated Virtual Error Sounds Library 2023 – Complimentary Access and Downloads</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/virtual-vigilance-securing-your-cyber-space-while-connecting-online-for-2024/"><u>Virtual Vigilance Securing Your Cyber Space While Connecting Online for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guidelines-to-frame-your-youtube-creation-flow-for-2024/"><u>[New] Guidelines to Frame Your YouTube Creation Flow for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/efficiently-incorporate-and-retract-audacity-into-your-chromebooks-audio-workflow/"><u>Efficiently Incorporate and Retract Audacity Into Your Chromebooks Audio Workflow</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1723808129084-how-to-resolve-windows-update-issues-unstick-and-revive/"><u>How to Resolve Windows Update Issues: Unstick and Revive</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-tecno-camon-20-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Tecno Camon 20 Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/invest-in-quality-the-finest-camera-tripods-reviewed-for-2024/"><u>Invest in Quality The Finest Camera Tripods Reviewed for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/navigate-the-world-of-online-file-management-the-five-leading-mp3-taggers-unveiled/"><u>Navigate the World of Online File Management The Five Leading MP3 Taggers Unveiled</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-step-by-step-creating-fade-inout-sequences-for-dynamic-audio/"><u>New 2024 Approved Step-by-Step Creating Fade In/Out Sequences for Dynamic Audio</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-expert-guide-to-volume-control-in-audiovideo-content/"><u>New Expert Guide to Volume Control in Audio/Video Content</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-audiovisual-integration-incorporating-audio-waveform-and-creative-animation-into-davinci-resolve/"><u>New In 2024, Audiovisual Integration Incorporating Audio Waveform and Creative Animation Into DaVinci Resolve</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-chorussync-uniting-voice-tracks-effortlessly-in-premiere-pros-creative-suite-premium-2023-update/"><u>New In 2024, ChorusSync Uniting Voice Tracks Effortlessly in Premiere Pros Creative Suite Premium 2023 Update</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-leading-audio-modification-programs-a-comprehensive-guide-for-2024/"><u>New Leading Audio-Modification Programs A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/optimizing-igtv-videos-editing-strategies/"><u>Optimizing IGTV Videos Editing Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-disabled-wi-fi-functionality-a-comprehensive-guide/"><u>Resolving Issues with Disabled Wi-Fi Functionality: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/the-os-command-center-steps-to-access/"><u>The OS Command Center: Steps to Access</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-picks-best-hd-cameras-for-professional-twitch-streamers-for-2024/"><u>Top Picks Best HD Cameras for Professional Twitch Streamers for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-expertly-curated-list-of-premier-audio-trimming-software-websites-for-2024/"><u>Updated Expertly Curated List of Premier Audio Trimming Software Websites for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-should-lead-the-way-in-system-improvements/"><u>Which Should Lead the Way in System Improvements?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated The Essential Handbook to Audio Timeline Control Mastering Keyframe Creation and Editing in Adobe Premiere Pro (Mac)
-date: 2025-02-05T18:48:48.400Z
-updated: 2025-02-09T16:58:18.391Z
+date: 2025-02-13T16:36:13.107Z
+updated: 2025-02-19T18:47:22.866Z
 tags: 
   - audio editing software
   - audio editing
@@ -43,10 +43,6 @@ To start with, you can launch Adobe Premiere Pro, go to your Project > Import, a
 
 ![Import Audio Files in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/import-audio-files-adobe-premiere-pro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once the audio track is added to the project, you can further drag and drop it to the sequence section (timelines) at the bottom.
 
 ![Add Audio to Timeline in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/add-audio-to-timeline-adobe-premiere-pro.jpg)
@@ -58,16 +54,12 @@ The application would automatically render different keyframes already present i
 ![Show Audio Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/show-audio-keyframes-adobe-premiere-pro.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you want, you can also click on the “Show Keyframes” button that is depicted by a radio/circle icon on the timeline.
 
 ![Show Keyframes Button in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/show-keyframes-button-adobe-premiere-pro.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Work on Audio Keyframes in Premiere Pro**
 
@@ -75,12 +67,16 @@ Now, you can view either clip or track keyframes for the track. For this, you ca
 
 ![Track Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/track-keyframes-adobe-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once you have enabled the audio keyframe options in Premiere Pro, you can view keyframes in a highlighted color. You can now take the assistance of the Pen tool or press the CMD key on your Mac to select keyframes. This will let you select the starting and ending keyframes in Premiere Pro so that you can easily apply the desired effect to the selected segment.
 
 ![Select Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/select-keyframes-adobe-premiere-pro.gif)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Fade Audio In/Out with Keyframes in Adobe Premiere Pro on Mac?
@@ -94,6 +90,10 @@ Firstly, you can just add any audio track to your Premiere Pro project and drag 
 If you want, you can just right-click the track, go to the **Show Clip Keyframes** \> **Volume** \> **Level** option. This will show the level of the volume for different keyframes, letting you pick the right segments to fade in and out.
 
 ![Show Clip Keyframes in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/show-clip-keyframes-adobe-premiere-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Apply Fade-in or Out options**
 
@@ -111,15 +111,15 @@ For this, you can just go to its **Effects** \> **Audio Transitions** option. To
 
 ![Crossfade Effects in Adobe Premiere Pro](https://images.wondershare.com/filmora/article-images/crossfade-effects-adobe-premiere-pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In the same way, you can also go to **Effects** \> **Audio Transitions** \> **Crossfade** and choose the “Constant Gain” feature. You can drag and drop the Contact Gain effect on any segment to implement the fade-in effect.
 
 That’s a wrap, everyone! I’m sure that after reading this post, you would be able to set up audio keyframes in Adobe Premiere Pro. Since adding keyframes in Premiere can be done automatically, it would save your time in audio editing and post-production. Mostly, the clip audio keyframing is used in Adobe to customize the sound at any desired segment. Apart from fade-in or out, there are tons of other effects that you can apply to your audio tracks with the help of keyframes. Go ahead and try the Adobe Premiere Pro keyframing feature and let us know about your experience in the comments.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -136,17 +136,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-transformative-youtube-title-genesis-tools/"><u>[Updated] 2024 Approved Transformative YouTube Title Genesis Tools</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-preeminent-platforms-twitter-like-experiences-for-2024/"><u>[Updated] Preeminent Platforms Twitter-Like Experiences for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvd2024/"><u>「ダイナミックなDVD画質向上：2024年版問題点とトラブルシューティングのヒント」</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-immersive-storytelling-harnessing-top-10-text-innovations-in-videos/"><u>2024 Approved Immersive Storytelling Harnessing Top 10 Text Innovations in Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-making-your-corsair-virtuoso-microphone-function-again/"><u>Expert Advice on Making Your Corsair Virtuoso Microphone Function Again</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-siri-and-chatgpt-stand-out-key-differences-revealed/"><u>How Siri and ChatGPT Stand Out - Key Differences Revealed</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-x9b-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor X9b Device</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/ultimate-guide-to-live-streaming-fb-on-laptops-macs-and-pcs/"><u>Ultimate Guide to Live Streaming FB on Laptops, Macs, and PCs</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-elevate-your-films-soundtrack-top-imovie-audio-editing-secrets-revealed/"><u>Updated 2024 Approved Elevate Your Films Soundtrack Top iMovie Audio Editing Secrets Revealed</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-symphony-in-reverse-a-guide-to-state-of-the-art-audio-reversal-applications/"><u>Updated 2024 Approved Symphony in Reverse A Guide to State-of-the-Art Audio Reversal Applications</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-essential-guide-incorporating-music-and-effects-into-your-videos/"><u>Updated Essential Guide Incorporating Music and Effects Into Your Videos</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-five-economical-strategies-for-attaching-songs-to-digital-media/"><u>Updated In 2024, Five Economical Strategies for Attaching Songs to Digital Media</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mastering-background-removal-in-figma-step-by-step-tutorial/"><u>[New] 2024 Approved Mastering Background Removal in Figma Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-inside-the-top-10-virtual-reality-smartphone-gaming/"><u>[Updated] Inside the Top 10 Virtual Reality Smartphone Gaming</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-embed-audio-elements-in-avid-media-composer/"><u>2024 Approved Embed Audio Elements in Avid Media Composer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-world-of-premium-banners-for-media/"><u>2024 Approved Unlocking the World of Premium Banners for Media</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/an-ode-to-open-source-audio-selecting-tunes-for-captivating-montage-videos/"><u>An Ode to Open Source Audio Selecting Tunes for Captivating Montage Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-influence-six-revolutionary-ways-it-enhances-smartwatch-capabilities/"><u>ChatGPT's Influence: Six Revolutionary Ways It Enhances Smartwatch Capabilities</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/disabling-youtube-shorts-a-step-by-step-guide/"><u>Disabling YouTube Shorts: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-the-perfect-laptop-at-unbeatable-prices-during-oct-24-prime-day-deals-expert-picks-and-tips/"><u>Find the Perfect Laptop at Unbeatable Prices During Oct '24 Prime Day Deals | Expert Picks and Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-linguistic-adventure-on-duolingo-a-zdnet-insightful-analysis-of-user-friendly-learning/"><u>Free Linguistic Adventure on Duolingo - A ZDNet Insightful Analysis of User-Friendly Learning!</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-in-depth-tutorial-removing-vocals-in-adobe-audition-6-proven-steps/"><u>In 2024, In-Depth Tutorial Removing Vocals In Adobe Audition - 6 Proven Steps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-fast-thumbnail-design-for-valorants-highlighted-screenshots/"><u>In 2024, Mastering Fast Thumbnail Design for Valorant's Highlighted Screenshots</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/longevity-at-a-bargain-stellar-performance-of-this-laptop-charger-over-the-years-now-up-to-50-off/"><u>Longevity at a Bargain: Stellar Performance of This Laptop Charger Over the Years - Now Up to 50% Off!</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-most-reliable-sites-to-stream-legal-background-music-collections/"><u>New 2024 Approved The Most Reliable Sites to Stream Legal Background Music Collections</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-mp3-dissection-and-reassembly-utility-for-online-users/"><u>New In 2024, MP3 Dissection & Reassembly Utility for Online Users</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-ultimate-guide-to-audio-treasures-for-podcast-production/"><u>New In 2024, The Ultimate Guide to Audio Treasures for Podcast Production</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/perfect-pronunciation-prowess-navigating-hard-language-terms/"><u>Perfect Pronunciation Prowess: Navigating Hard Language Terms</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-way-to-reduce-audio-noise-with-the-right-tools-offlineonline-for-2024/"><u>The Way To Reduce Audio Noise With The Right Tools (Offline/Online) for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-mastering-autotune-a-step-by-step-guide-for-audacity-users/"><u>Updated 2024 Approved Mastering Autotune A Step-by-Step Guide for Audacity Users</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-essential-handbook-to-audio-timeline-control-mastering-keyframe-creation-and-editing-in-adobe-premiere-pro-mac-for-2024/"><u>Updated The Essential Handbook to Audio Timeline Control Mastering Keyframe Creation and Editing in Adobe Premiere Pro (Mac) for 2024</u></a></li>
 </ul></div>
 

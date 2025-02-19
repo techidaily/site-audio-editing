@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Silencing Sounds Cutting Audio From iPhones/Mac Videos
-date: 2024-12-11T17:02:38.989Z
-updated: 2024-12-15T17:41:14.522Z
+date: 2025-02-15T16:48:27.312Z
+updated: 2025-02-19T19:28:02.262Z
 tags: 
   - audio editing software
   - audio editing
@@ -50,6 +50,10 @@ Import the video to your Filmora. You can also directly drag the video into the 
 
 ![1index introduction](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/1.index-introduction.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Mute the audio
 
 After dragging the video to the timeline, right-click the stand-alone video, choose "mute".
@@ -62,10 +66,6 @@ Click the "export" button on the interface and select the desired video format
 
 ![export to format mac](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Steps to cut the audio from videos on iPhone
 
 If you want to do the mute on an iPhone, you will need to also follow some steps to get it done on your iMovie.
@@ -73,6 +73,10 @@ If you want to do the mute on an iPhone, you will need to also follow some steps
 ### Step 1: Open the iMovie
 
 Opening the iMovie app goes beyond just clicking it to open, you also have to follow up this process by clicking the continue button that pops up. If the app has opened and you can see an inviting interface, move to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Select a video you want
 
@@ -82,24 +86,16 @@ There are different pages on the interface but your concern is on the project pa
 
 Don't hesitate to select the movie you want to edit. Complete the process by clicking the "create movie" button beneath the gallery of movies.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 3: Mute the audio
 
 Muting the audio becomes straightforward when you have moved it to the interface. In this step, click on the video clip button as seen in the picture then mute it by selecting the mute option (the picture below shows the mute sign at the lower-left corner) from the audio button. When this is done, your video has been silenced.
 
  ![mute audio imovie](https://images.wondershare.com/filmora/Mac-articles/mute-audio-imovie.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Don't forget to save it when you are done editing by clicking on the "done button" that is visible at the left corner positioned at the top of the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Section 2. Requirements to extract the music of the video and save
@@ -109,6 +105,10 @@ There are some times when you just want to extract the audio leaving out the vid
 Step1\. import the video into the Filmora
 
 ![](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/1.index-introduction.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Another way to import a video is to drag and drop the video into the program. Using any of these two steps allows your video to be listed in the media library
 
@@ -122,11 +122,19 @@ Step 3\. Edit the extracted audio by doubling clicking on it. When you do, the a
 
 ![8audio balance](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/8.audio-balance.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4\. If the audio has some sounds you would like to take out, place your cursor at the exact place you want the deletion to start. Next, press the split button. This step can be used to delete any aspect of the music sound you don't like.
 
 Step 5\. Having extracted, edited, and deleted unnecessary sounds from the music, click the export button. You will be provided with different options to save the audio. Click on the one you prefer.
 
  ![export mp3 on filmora](https://images.wondershare.com/filmora/Mac-articles/export-mp3-on-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also customize your audio encoder after extracting and saving the music. Simply click Settings to get started.
 
@@ -140,15 +148,7 @@ Learn More: [How to Add Music/ Audio to a GIF on Mac>>>](https://tools.techidail
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -165,19 +165,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-connecting-with-real-time-tiktoks-practical-guide/"><u>[New] Connecting with Real-Time TikToks Practical Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-mastering-ps4-screens-with-obs-full-steps-for-2024/"><u>[New] Mastering PS4 Screens with OBS Full Steps for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-leading-5-underwater-filters-for-gopro-videos/"><u>[Updated] In 2024, Leading 5 Underwater Filters for Gopro Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-the-in-depth-technique-for-formulating-youtube-playlists/"><u>2024 Approved The In-Depth Technique for Formulating YouTube Playlists</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-oneplus-ace-2-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset OnePlus Ace 2 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-find-x6-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo Find X6 Pro System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-11-pro-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 11 Pro</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-sonic-symphony-compendium-a-thorough-exploration-of-premiere-audio-editing-software-highlighting-advantages-and-shortcomings/"><u>New 2024 Approved Sonic Symphony Compendium A Thorough Exploration of Premiere Audio Editing Software, Highlighting Advantages & Shortcomings</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-diminishing-sound-quality-in-adobe-rush/"><u>New Diminishing Sound Quality in Adobe Rush</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-essential-tips-for-capturing-sound-with-your-samsung-s10s9-for-2024/"><u>New Essential Tips for Capturing Sound with Your Samsung S10/S9 for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-how-to-mute-audio-from-video/"><u>New How to Mute Audio From Video</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-transforming-vocal-landscapes-a-methodical-approach-to-swapping-video-audio-tracks-part-1/"><u>New In 2024, Transforming Vocal Landscapes A Methodical Approach to Swapping Video Audio Tracks (Part 1)</u></a></li>
-<li><a href="https://facebook.techidaily.com/stream-your-favorites-spotify-mini-panel-right-from-facebook/"><u>Stream Your Favorites: Spotify Mini Panel, Right From Facebook</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/understanding-the-causes-of-your-monitors-unsteady-display-solutions-by-yl-software/"><u>Understanding the Causes of Your Monitor’s Unsteady Display - Solutions by YL Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-windows-8-moviemaker-step-by-step-guide/"><u>2024 Approved Mastering Windows 8 Moviemaker Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fix-unwanted-character-inputs-while-typing-on-windows-11-proven-solutions/"><u>Fix Unwanted Character Inputs While Typing on Windows 11: Proven Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-itel-a60-is-unlocked-by-drfone-android/"><u>How To Check if Your Itel A60 Is Unlocked</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-m54-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy M54 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlined-savings-for-cloud-storage-costs-analysis/"><u>In 2024, Streamlined Savings for Cloud Storage Costs Analysis</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-speedy-route-to-flawless-sound-import-in-premiere-pro-updated-for-2024/"><u>New The Speedy Route to Flawless Sound Import in Premiere Pro (Updated ) for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-unconventional-chat-services-excellence-list-security-functionality-and-pleasure-for-2024/"><u>New Unconventional Chat Services Excellence List Security, Functionality, and Pleasure for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/newly-released-ios-177-update-may-offer-enhanced-security-over-upcoming-ios-18-tech-news/"><u>Newly Released IOS 17.7 Update May Offer Enhanced Security Over Upcoming iOS 18 Tech News</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professional-secrets-to-flawless-photo-cropping-online/"><u>Professional Secrets to Flawless Photo Cropping Online</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/resolution-des-problemes-la-reponse-a-lunexplication-de-la-mauvaise-definition-dun-ssd-extern/"><u>Résolution Des Problèmes: La Réponse À L'Unexplication De La Mauvaise Définition D'un SSD Extern]</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-beat-decoding-utilizing-web-resources-for-rhythmic-analysis-of-songs/"><u>Updated Beat Decoding Utilizing Web Resources for Rhythmic Analysis of Songs</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-best-audio-chat-applications-tailored-for-gaming-enthusiasts/"><u>Updated Best Audio Chat Applications Tailored for Gaming Enthusiasts</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-essential-audio-software-for-musicians-a-comprehensive-list-of-best-free-and-paid-options-2023/"><u>Updated Essential Audio Software for Musicians A Comprehensive List of Best Free & Paid Options 2023</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-essential-introduction-audio-tracks-the-top-8-for-digital-creators/"><u>Updated Essential Introduction Audio Tracks The Top 8 for Digital Creators</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-quick-fixes-to-keep-tiktok-sound-off-a-step-by-step-approach/"><u>Updated In 2024, Quick Fixes to Keep TikTok Sound Off A Step-by-Step Approach</u></a></li>
 </ul></div>
 

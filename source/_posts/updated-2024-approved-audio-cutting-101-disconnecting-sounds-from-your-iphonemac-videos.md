@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Audio Cutting 101 Disconnecting Sounds From Your iPhone/Mac Videos
-date: 2024-12-06T19:38:48.298Z
-updated: 2024-12-09T20:08:36.857Z
+date: 2025-02-18T19:48:21.921Z
+updated: 2025-02-19T16:56:55.617Z
 tags: 
   - audio editing software
   - audio editing
@@ -34,15 +34,15 @@ Section2\. [Requirements to extract the music of the video and save](#how-to-ext
 
 ![advanced%20video%20cutter](https://images.wondershare.com/filmora/Mac-articles/advanced%20video%20cutter.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Section 1. How to mute the audio on the video
 
 Part1\. [Steps to cut the audio from videos on Mac](#cut-audi-on-mac)
 
 Part2\. [Steps to cut the audio from videos on iPhone](#cut-audio-on-iphone)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps to cut the audio from videos on Mac
 
@@ -53,6 +53,10 @@ Step 1: Import Video to Filmora
 Import the video to your Filmora. You can also directly drag the video into the Filmora interface.
 
 ![1index introduction](https://images.wondershare.com/filmora/filmoraX/Guide-Mac/1.index-introduction.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Mute the audio
 
@@ -65,10 +69,6 @@ Step 3: Save your edit
 Click the "export" button on the interface and select the desired video format
 
 ![export to format mac](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps to cut the audio from videos on iPhone
 
@@ -85,14 +85,10 @@ There are different pages on the interface but your concern is on the project pa
  ![new project on imovie](https://images.wondershare.com/filmora/Mac-articles/new-project-on-imovie.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Don't hesitate to select the movie you want to edit. Complete the process by clicking the "create movie" button beneath the gallery of movies.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 3: Mute the audio
 
@@ -103,7 +99,7 @@ Muting the audio becomes straightforward when you have moved it to the interface
 Don't forget to save it when you are done editing by clicking on the "done button" that is visible at the left corner positioned at the top of the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Section 2. Requirements to extract the music of the video and save
@@ -120,10 +116,6 @@ Step 2 Next, right-click the video and choose "Audio Detach." After some time, t
 
  ![mac audio detach1](https://images.wondershare.com/filmora/guide/mac-audio-detach1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can choose to delete the video or keep it. If you want to delete it, simply right-click and choose delete. This will remove the video entirely.
 
 Step 3\. Edit the extracted audio by doubling clicking on it. When you do, the audio editing tools would be displayed. You can adjust the music volume, change voice, and do other edits.
@@ -136,6 +128,10 @@ Step 5\. Having extracted, edited, and deleted unnecessary sounds from the music
 
  ![export mp3 on filmora](https://images.wondershare.com/filmora/Mac-articles/export-mp3-on-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can also customize your audio encoder after extracting and saving the music. Simply click Settings to get started.
 
 #### Conclusion
@@ -147,6 +143,10 @@ For iPhone users, a good video editing software that can be used to successfully
 Learn More: [How to Add Music/ Audio to a GIF on Mac>>>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -165,19 +165,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-unraveling-the-mystery-of-premium-free-photography-access/"><u>[New] 2024 Approved Unraveling the Mystery of Premium Free Photography Access</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fb-slideshow-101-a-beginners-guide/"><u>[New] In 2024, FB Slideshow 101 A Beginner's Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-interactive-learning-strategies-in-video-editing-for-2024/"><u>[Updated] Interactive Learning Strategies in Video Editing for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-collecting-classics-copyrights-released/"><u>2024 Approved Collecting Classics Copyrights Released</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-mastery-tips-for-producing-cutting-edge-videos/"><u>2024 Approved YouTube Mastery Tips for Producing Cutting-Edge Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-innovations-2023-exclusive-list-from-how-to-geeks-experts/"><u>Best Innovations 2023: Exclusive List From How-To Geek's Experts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-iphone-11-pro-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass iPhone 11 Pro Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-a54-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy A54 5G FRP Without Computer</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/score-a-deal-secure-your-alienware-aurora-r16-with-top-tier-rtx-graphics-and-core-i9-for-500-off/"><u>Score a Deal! Secure Your Alienware Aurora R16 with Top-Tier RTX Graphics & Core I9 for $500 Off</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-6-appsservices-to-trace-any-apple-iphone-se-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>Top 6 Apps/Services to Trace Any Apple iPhone SE Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-top-rated-audio-editing-software-for-macos-identifying-the-ultimate-mp3-trimmer/"><u>Updated In 2024, Top-Rated Audio Editing Software for macOS Identifying the Ultimate MP3 Trimmer</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-unlocking-the-best-free-tools-for-high-quality-podcast-recording-in-todays-market/"><u>Updated In 2024, Unlocking the Best Free Tools for High-Quality Podcast Recording in Todays Market</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-incorporate-melodies-into-gif-file-on-pc/"><u>Updated Incorporate Melodies Into GIF File on PC</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-ultraspeed-audio-segmentation-breaking-down-mp3s-with-unprecedented-speed-for-2024/"><u>Updated UltraSpeed Audio Segmentation Breaking Down MP3s with Unprecedented Speed for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-10-leading-budget-friendly-quality-webcall-providers/"><u>[New] In 2024, 10 Leading Budget-Friendly, Quality Webcall Providers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-facebook-lite-to-your-device-top-6-downloading-tools-of-2023-revealed/"><u>[New] In 2024, Facebook Lite to Your Device - Top 6 Downloading Tools of 2023 Revealed</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-cultivate-inner-peace-and-physical-strength-with-these-channels/"><u>[Updated] Cultivate Inner Peace & Physical Strength with These Channels</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-the-unprecedented-performance-of-the-2020-apple-macbook-air-with-m1-chip/"><u>Expert Analysis: The Unprecedented Performance of the 2020 Apple MacBook Air with M1 Chip</u></a></li>
+<li><a href="https://extra-information.techidaily.com/explore-the-best-10-vectors-online-archives/"><u>Explore the Best 10 Vectors Online Archives</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-sound-choice-handbook-understanding-and-selecting-superior-audio-formats/"><u>New The Sound Choice Handbook Understanding & Selecting Superior Audio Formats</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/techniques-to-remove-audio-from-updated-avi-software-file-for-2024/"><u>Techniques to Remove Audio From Updated AVI Software File for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-audio-visual-connection-step-by-step-tutorial-for-video-editors/"><u>The Audio-Visual Connection Step-by-Step Tutorial for Video Editors</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-challenges-of-sending-gifts-from-your-iphone-or-ipad-discover-the-top-5-hurdles/"><u>The Challenges of Sending Gifts From Your iPhone or iPad - Discover the Top 5 Hurdles</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-xs-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass Apple iPhone XS Activation Lock</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-compilation-top-10-audio-processing-mobile-apps-ios-and-android-for-2024/"><u>The Ultimate Compilation Top 10 Audio Processing Mobile Apps (iOS and Android) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tips-for-writing-irresistible-podcast-intros/"><u>Tips for Writing Irresistible Podcast Intros</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-from-silence-to-symphony-incorporating-audio-in-video-projects/"><u>Updated 2024 Approved From Silence to Symphony Incorporating Audio in Video Projects</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-to-audio-gold-prime-10-converter-hits/"><u>YouTube to Audio Gold Prime 10 Converter Hits</u></a></li>
 </ul></div>
 
